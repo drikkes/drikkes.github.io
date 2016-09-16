@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 18:30:15 +0000 2016",
+		"id": 776850702094180400,
+		"id_str": "776850702094180354",
+		"text": "RT @VfLBochum1848eV: JETZT IST SCHLUSS @anneCastroper! Was für ein Spiel! #meinVfL schlägt den @1_fc_nuernberg mit 5:4!!! #BOCFCN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "meinVfL",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "BOCFCN",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VfLBochum1848eV",
+					"name": "VfL Bochum 1848 e.V.",
+					"id": 61141639,
+					"id_str": "61141639",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "anneCastroper",
+					"name": "Anne Castroper",
+					"id": 1013682402,
+					"id_str": "1013682402",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "1_fc_nuernberg",
+					"name": "1. FC Nürnberg",
+					"id": 42587256,
+					"id_str": "42587256",
+					"indices": [
+						95,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 157,
+			"listed_count": 86,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3560,
+			"utc_offset": 7200,
+			"time_zone": "Bern",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 16 18:23:51 +0000 2016",
+			"id": 776849091259162600,
+			"id_str": "776849091259162625",
+			"text": "JETZT IST SCHLUSS @anneCastroper! Was für ein Spiel! #meinVfL schlägt den @1_fc_nuernberg mit 5:4!!! #BOCFCN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "meinVfL",
+						"indices": [
+							53,
+							61
+						]
+					},
+					{
+						"text": "BOCFCN",
+						"indices": [
+							101,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "anneCastroper",
+						"name": "Anne Castroper",
+						"id": 1013682402,
+						"id_str": "1013682402",
+						"indices": [
+							18,
+							32
+						]
+					},
+					{
+						"screen_name": "1_fc_nuernberg",
+						"name": "1. FC Nürnberg",
+						"id": 42587256,
+						"id_str": "42587256",
+						"indices": [
+							74,
+							89
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61141639,
+				"id_str": "61141639",
+				"name": "VfL Bochum 1848 e.V.",
+				"screen_name": "VfLBochum1848eV",
+				"location": "Bochum, Germany",
+				"description": "Der offizielle Twitter-Account des VfL Bochum 1848 Fußballgemeinschaft e.V. #meinVfL #DUUNDDEINVfL | Impressum: https://t.co/RpPrCSXR2N",
+				"url": "http://t.co/DnqSI7nVaI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DnqSI7nVaI",
+								"expanded_url": "http://www.vfl-bochum.de",
+								"display_url": "vfl-bochum.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RpPrCSXR2N",
+								"expanded_url": "http://www.vfl-bochum.de/impressum",
+								"display_url": "vfl-bochum.de/impressum",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 69630,
+				"friends_count": 184,
+				"listed_count": 615,
+				"created_at": "Wed Jul 29 07:37:10 +0000 2009",
+				"favourites_count": 126,
+				"utc_offset": 7200,
+				"time_zone": "Berlin",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16359,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "005896",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000032809849/d8eda5afd4892d0497de4153faa79ebf.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000032809849/d8eda5afd4892d0497de4153faa79ebf.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464003987688009728/H-Swqpyw_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464003987688009728/H-Swqpyw_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61141639/1473063756",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "BEBEBE",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de"
+	},
+	{
 		"created_at": "Fri Sep 16 17:39:36 +0000 2016",
 		"id": 776837958427181000,
 		"id_str": "776837958427181056",
