@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 09:33:26 +0000 2016",
+		"id": 779252321951842300,
+		"id_str": "779252321951842304",
+		"text": "/cc @funkbo1 https://t.co/6ZIe0QfBO9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "funkbo1",
+					"name": "funkbo1",
+					"id": 3727260075,
+					"id_str": "3727260075",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6ZIe0QfBO9",
+					"expanded_url": "https://twitter.com/PessimistsArc/status/777173901604483072",
+					"display_url": "twitter.com/PessimistsArc/…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 156,
+			"listed_count": 86,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3572,
+			"utc_offset": 7200,
+			"time_zone": "Bern",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14637,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 777173901604483100,
+		"quoted_status_id_str": "777173901604483072",
+		"quoted_status": {
+			"created_at": "Sat Sep 17 15:54:31 +0000 2016",
+			"id": 777173901604483100,
+			"id_str": "777173901604483072",
+			"text": "Early washing machine users were seen as lazy according to this 1928 article https://t.co/pIMaFuTiy6 https://t.co/o9GOsoFwrO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pIMaFuTiy6",
+						"expanded_url": "https://news.google.com/newspapers?nid=1893&dat=19280616&id=mPQoAAAAIBAJ&sjid=INQEAAAAIBAJ&pg=6316,5800284",
+						"display_url": "news.google.com/newspapers?nid…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 777173736772538400,
+						"id_str": "777173736772538369",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CskTZV0XEAEO5g4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CskTZV0XEAEO5g4.jpg",
+						"url": "https://t.co/o9GOsoFwrO",
+						"display_url": "pic.twitter.com/o9GOsoFwrO",
+						"expanded_url": "https://twitter.com/PessimistsArc/status/777173901604483072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 295,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 688,
+								"h": 298,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 688,
+								"h": 298,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 777173736772538400,
+						"id_str": "777173736772538369",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CskTZV0XEAEO5g4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CskTZV0XEAEO5g4.jpg",
+						"url": "https://t.co/o9GOsoFwrO",
+						"display_url": "pic.twitter.com/o9GOsoFwrO",
+						"expanded_url": "https://twitter.com/PessimistsArc/status/777173901604483072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 295,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 688,
+								"h": 298,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 688,
+								"h": 298,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3942597494,
+				"id_str": "3942597494",
+				"name": "Pessimists Archive",
+				"screen_name": "PessimistsArc",
+				"location": "",
+				"description": "Pessimistic reactions to new technologies throughout history. Highlighting technophobia, luddism, protectionism and puritanism of the past.",
+				"url": "https://t.co/sTZCiGK7eN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sTZCiGK7eN",
+								"expanded_url": "http://podcast.pessimists.co",
+								"display_url": "podcast.pessimists.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15366,
+				"friends_count": 0,
+				"listed_count": 227,
+				"created_at": "Mon Oct 19 03:08:03 +0000 2015",
+				"favourites_count": 631,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 728,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/655990316915380224/l269YHoh_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/655990316915380224/l269YHoh_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3942597494/1454455754",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 74,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Fri Sep 23 09:06:48 +0000 2016",
 		"id": 779245621744132100,
 		"id_str": "779245621744132096",
