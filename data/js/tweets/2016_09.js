@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sun Sep 25 21:27:41 +0000 2016",
+		"id": 780156847760273400,
+		"id_str": "780156847760273408",
+		"text": "RT @victomato: 2016, ya'll. https://t.co/M0AZceVagQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "victomato",
+					"name": "Victor Ng",
+					"id": 112818592,
+					"id_str": "112818592",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 780119648775901200,
+					"id_str": "780119648775901185",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/CtOKr_OXEAExpMh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtOKr_OXEAExpMh.jpg",
+					"url": "https://t.co/M0AZceVagQ",
+					"display_url": "pic.twitter.com/M0AZceVagQ",
+					"expanded_url": "https://twitter.com/victomato/status/780119655423676416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 780119655423676400,
+					"source_status_id_str": "780119655423676416",
+					"source_user_id": 112818592,
+					"source_user_id_str": "112818592"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 780119648775901200,
+					"id_str": "780119648775901185",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/CtOKr_OXEAExpMh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtOKr_OXEAExpMh.jpg",
+					"url": "https://t.co/M0AZceVagQ",
+					"display_url": "pic.twitter.com/M0AZceVagQ",
+					"expanded_url": "https://twitter.com/victomato/status/780119655423676416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 780119655423676400,
+					"source_status_id_str": "780119655423676416",
+					"source_user_id": 112818592,
+					"source_user_id_str": "112818592"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 156,
+			"listed_count": 86,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3575,
+			"utc_offset": 7200,
+			"time_zone": "Bern",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14646,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 25 18:59:54 +0000 2016",
+			"id": 780119655423676400,
+			"id_str": "780119655423676416",
+			"text": "2016, ya'll. https://t.co/M0AZceVagQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 780119648775901200,
+						"id_str": "780119648775901185",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/CtOKr_OXEAExpMh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtOKr_OXEAExpMh.jpg",
+						"url": "https://t.co/M0AZceVagQ",
+						"display_url": "pic.twitter.com/M0AZceVagQ",
+						"expanded_url": "https://twitter.com/victomato/status/780119655423676416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 451,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 795,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 795,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 780119648775901200,
+						"id_str": "780119648775901185",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/CtOKr_OXEAExpMh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtOKr_OXEAExpMh.jpg",
+						"url": "https://t.co/M0AZceVagQ",
+						"display_url": "pic.twitter.com/M0AZceVagQ",
+						"expanded_url": "https://twitter.com/victomato/status/780119655423676416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 451,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 795,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 795,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 112818592,
+				"id_str": "112818592",
+				"name": "Victor Ng",
+				"screen_name": "victomato",
+				"location": "San Francisco → Brooklyn",
+				"description": "Makes pictures and designs things. Currently for @HillaryClinton and previously at Pinterest. (He/Him/His)",
+				"url": "https://t.co/S9Ht0V2XpX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/S9Ht0V2XpX",
+								"expanded_url": "http://victor.ng",
+								"display_url": "victor.ng",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2775,
+				"friends_count": 682,
+				"listed_count": 120,
+				"created_at": "Tue Feb 09 20:22:01 +0000 2010",
+				"favourites_count": 3434,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10081,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752292511859834880/Sq6yo7Mp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752292511859834880/Sq6yo7Mp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/112818592/1457969831",
+				"profile_link_color": "3982D0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8656,
+			"favorite_count": 8582,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8656,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
 		"created_at": "Sun Sep 25 16:55:32 +0000 2016",
 		"id": 780088358190145500,
 		"id_str": "780088358190145537",
