@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 09:47:37 +0000 2016",
+		"id": 781792606720233500,
+		"id_str": "781792606720233472",
+		"text": "Logoleaks https://t.co/Q2xlYeXEpf #funk-y @vivaonline https://t.co/JjPJfLWxEL https://t.co/WcHNpkpJ0H",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "funk",
+					"indices": [
+						34,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vivaonline",
+					"name": "VIVA.tv",
+					"id": 46078180,
+					"id_str": "46078180",
+					"indices": [
+						42,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q2xlYeXEpf",
+					"expanded_url": "http://drikkes.com/?p=11066",
+					"display_url": "drikkes.com/?p=11066",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/JjPJfLWxEL",
+					"expanded_url": "http://flic.kr/p/MBsiWR",
+					"display_url": "flic.kr/p/MBsiWR",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/WcHNpkpJ0H",
+					"expanded_url": "https://twitter.com/einkoenig/status/781561524083052544",
+					"display_url": "twitter.com/einkoenig/stat…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 157,
+			"listed_count": 86,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3590,
+			"utc_offset": 7200,
+			"time_zone": "Bern",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14677,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 781561524083052500,
+		"quoted_status_id_str": "781561524083052544",
+		"quoted_status": {
+			"created_at": "Thu Sep 29 18:29:22 +0000 2016",
+			"id": 781561524083052500,
+			"id_str": "781561524083052544",
+			"text": "🤔 #funk @dots https://t.co/GbAhte0Y4m",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "funk",
+						"indices": [
+							2,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dots",
+						"name": "Dots",
+						"id": 1390195350,
+						"id_str": "1390195350",
+						"indices": [
+							8,
+							13
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 781561513777692700,
+						"id_str": "781561513777692675",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/CtiqDk7WAAM6rgM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtiqDk7WAAM6rgM.jpg",
+						"url": "https://t.co/GbAhte0Y4m",
+						"display_url": "pic.twitter.com/GbAhte0Y4m",
+						"expanded_url": "https://twitter.com/einkoenig/status/781561524083052544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 598,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 598,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 542,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 781561513777692700,
+						"id_str": "781561513777692675",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/CtiqDk7WAAM6rgM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtiqDk7WAAM6rgM.jpg",
+						"url": "https://t.co/GbAhte0Y4m",
+						"display_url": "pic.twitter.com/GbAhte0Y4m",
+						"expanded_url": "https://twitter.com/einkoenig/status/781561524083052544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 598,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 598,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 542,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 781561513781956600,
+						"id_str": "781561513781956608",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/CtiqDk8XEAAC9WW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtiqDk8XEAAC9WW.jpg",
+						"url": "https://t.co/GbAhte0Y4m",
+						"display_url": "pic.twitter.com/GbAhte0Y4m",
+						"expanded_url": "https://twitter.com/einkoenig/status/781561524083052544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 715,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 648,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 715,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42968735,
+				"id_str": "42968735",
+				"name": "Jan König",
+				"screen_name": "einkoenig",
+				"location": "Berlin, Germany",
+				"description": "Co-founder of @hashtagnow_de (German Edition) | @hashtagnow_co (US Edition).\n\nDaily, personal newsletter: https://t.co/VRPSb8fldL",
+				"url": "https://t.co/3JYNYapbZx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3JYNYapbZx",
+								"expanded_url": "http://www.jan-koenig.com/blog",
+								"display_url": "jan-koenig.com/blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VRPSb8fldL",
+								"expanded_url": "http://jan-koenig.com/blog/what-i-learned-today/",
+								"display_url": "jan-koenig.com/blog/what-i-le…",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 690,
+				"friends_count": 334,
+				"listed_count": 78,
+				"created_at": "Wed May 27 21:10:55 +0000 2009",
+				"favourites_count": 2535,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2756,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/614435160352784385/rkjb86N0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/614435160352784385/rkjb86N0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42968735/1403269659",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
 		"created_at": "Thu Sep 29 15:19:42 +0000 2016",
 		"id": 781513790093393900,
 		"id_str": "781513790093393920",
