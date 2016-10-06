@@ -1,6 +1,739 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 12:04:10 +0000 2016",
+		"id": 784001300371480600,
+		"id_str": "784001300371480576",
+		"text": "Punk is dead, Folge 4921: https://t.co/mIT48XyShZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mIT48XyShZ",
+					"expanded_url": "https://twitter.com/DougCoupland/status/783978723485818881",
+					"display_url": "twitter.com/DougCoupland/s…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 901,
+			"friends_count": 158,
+			"listed_count": 86,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3604,
+			"utc_offset": 7200,
+			"time_zone": "Bern",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "010446192b12ed41",
+			"url": "https://api.twitter.com/1.1/geo/id/010446192b12ed41.json",
+			"place_type": "neighborhood",
+			"name": "City Centre",
+			"full_name": "City Centre, Düsseldorf",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.7752641,
+							51.216921
+						],
+						[
+							6.799789,
+							51.216921
+						],
+						[
+							6.799789,
+							51.2301085
+						],
+						[
+							6.7752641,
+							51.2301085
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 783978723485818900,
+		"quoted_status_id_str": "783978723485818881",
+		"quoted_status": {
+			"created_at": "Thu Oct 06 10:34:27 +0000 2016",
+			"id": 783978723485818900,
+			"id_str": "783978723485818881",
+			"text": "Dear Mr. Ramone ...this is just so ...odd.  So.   Odd.  https://t.co/wUFZEASaWL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wUFZEASaWL",
+						"expanded_url": "http://bit.ly/2cUniGT",
+						"display_url": "bit.ly/2cUniGT",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28196433,
+				"id_str": "28196433",
+				"name": "Doug Coupland",
+				"screen_name": "DougCoupland",
+				"location": "Scenic Vancouver",
+				"description": "Never left art school",
+				"url": "http://t.co/5ukQ69AwwH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5ukQ69AwwH",
+								"expanded_url": "http://coupland.com",
+								"display_url": "coupland.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 464559,
+				"friends_count": 60,
+				"listed_count": 4695,
+				"created_at": "Wed Apr 01 21:09:30 +0000 2009",
+				"favourites_count": 39,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2233,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775816876081369092/3zrqXG4q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775816876081369092/3zrqXG4q_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 06 11:57:45 +0000 2016",
+		"id": 783999682745921500,
+		"id_str": "783999682745921536",
+		"text": "@levampyre Ich fand zumindest die Wortwahl “disgusting” etwas zu hoch gegriffen. @MissCharlez @mspro",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "levampyre",
+					"name": "LeV",
+					"id": 14287761,
+					"id_str": "14287761",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MissCharlez",
+					"name": "Charlotte",
+					"id": 1106686508,
+					"id_str": "1106686508",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"screen_name": "mspro",
+					"name": "Michael Seemann",
+					"id": 5751892,
+					"id_str": "5751892",
+					"indices": [
+						94,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 783993522659680300,
+		"in_reply_to_status_id_str": "783993522659680256",
+		"in_reply_to_user_id": 14287761,
+		"in_reply_to_user_id_str": "14287761",
+		"in_reply_to_screen_name": "levampyre",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 901,
+			"friends_count": 158,
+			"listed_count": 86,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3604,
+			"utc_offset": 7200,
+			"time_zone": "Bern",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "010446192b12ed41",
+			"url": "https://api.twitter.com/1.1/geo/id/010446192b12ed41.json",
+			"place_type": "neighborhood",
+			"name": "City Centre",
+			"full_name": "City Centre, Düsseldorf",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.7752641,
+							51.216921
+						],
+						[
+							6.799789,
+							51.216921
+						],
+						[
+							6.799789,
+							51.2301085
+						],
+						[
+							6.7752641,
+							51.2301085
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de"
+	},
+	{
+		"created_at": "Thu Oct 06 11:55:26 +0000 2016",
+		"id": 783999103172808700,
+		"id_str": "783999103172808704",
+		"text": "@levampyre Allerdings hat das Kritisieren von Vorgängen im Ausland, die hier gängige Praxis sind, schon ein Geschmäckle. @MissCharlez @mspro",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "levampyre",
+					"name": "LeV",
+					"id": 14287761,
+					"id_str": "14287761",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MissCharlez",
+					"name": "Charlotte",
+					"id": 1106686508,
+					"id_str": "1106686508",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"screen_name": "mspro",
+					"name": "Michael Seemann",
+					"id": 5751892,
+					"id_str": "5751892",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 783993522659680300,
+		"in_reply_to_status_id_str": "783993522659680256",
+		"in_reply_to_user_id": 14287761,
+		"in_reply_to_user_id_str": "14287761",
+		"in_reply_to_screen_name": "levampyre",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 901,
+			"friends_count": 158,
+			"listed_count": 86,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3604,
+			"utc_offset": 7200,
+			"time_zone": "Bern",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "010446192b12ed41",
+			"url": "https://api.twitter.com/1.1/geo/id/010446192b12ed41.json",
+			"place_type": "neighborhood",
+			"name": "City Centre",
+			"full_name": "City Centre, Düsseldorf",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.7752641,
+							51.216921
+						],
+						[
+							6.799789,
+							51.216921
+						],
+						[
+							6.799789,
+							51.2301085
+						],
+						[
+							6.7752641,
+							51.2301085
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de"
+	},
+	{
+		"created_at": "Thu Oct 06 11:51:57 +0000 2016",
+		"id": 783998225615298600,
+		"id_str": "783998225615298560",
+		"text": "@levampyre Natürlich nicht. Gerade jetzt und als Teil eines größeren Maßnahmenpakets ist das alles ziemlich unschön. @MissCharlez @mspro",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "levampyre",
+					"name": "LeV",
+					"id": 14287761,
+					"id_str": "14287761",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MissCharlez",
+					"name": "Charlotte",
+					"id": 1106686508,
+					"id_str": "1106686508",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"screen_name": "mspro",
+					"name": "Michael Seemann",
+					"id": 5751892,
+					"id_str": "5751892",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 783993522659680300,
+		"in_reply_to_status_id_str": "783993522659680256",
+		"in_reply_to_user_id": 14287761,
+		"in_reply_to_user_id_str": "14287761",
+		"in_reply_to_screen_name": "levampyre",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 901,
+			"friends_count": 158,
+			"listed_count": 86,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3604,
+			"utc_offset": 7200,
+			"time_zone": "Bern",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "010446192b12ed41",
+			"url": "https://api.twitter.com/1.1/geo/id/010446192b12ed41.json",
+			"place_type": "neighborhood",
+			"name": "City Centre",
+			"full_name": "City Centre, Düsseldorf",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.7752641,
+							51.216921
+						],
+						[
+							6.799789,
+							51.216921
+						],
+						[
+							6.799789,
+							51.2301085
+						],
+						[
+							6.7752641,
+							51.2301085
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Thu Oct 06 10:19:22 +0000 2016",
 		"id": 783974926650843100,
 		"id_str": "783974926650843136",
