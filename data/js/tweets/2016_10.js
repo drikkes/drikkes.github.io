@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 17 07:02:03 +0000 2016",
+		"id": 787911537897959400,
+		"id_str": "787911537897959424",
+		"text": "RT @marcelweiss: Land vs. Stadt. So gut: https://t.co/KDxttOjJSw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcelweiss",
+					"name": "Marcel Weiss",
+					"id": 1007251,
+					"id_str": "1007251",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KDxttOjJSw",
+					"expanded_url": "http://www.cracked.com/blog/6-reasons-trumps-rise-that-no-one-talks-about/",
+					"display_url": "cracked.com/blog/6-reasons…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 158,
+			"listed_count": 87,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3632,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14772,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 17 06:00:13 +0000 2016",
+			"id": 787895973305540600,
+			"id_str": "787895973305540608",
+			"text": "Land vs. Stadt. So gut: https://t.co/KDxttOjJSw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KDxttOjJSw",
+						"expanded_url": "http://www.cracked.com/blog/6-reasons-trumps-rise-that-no-one-talks-about/",
+						"display_url": "cracked.com/blog/6-reasons…",
+						"indices": [
+							24,
+							47
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1007251,
+				"id_str": "1007251",
+				"name": "Marcel Weiss",
+				"screen_name": "marcelweiss",
+				"location": "Berlin, Germany",
+				"description": "Ich denke, rede & schreibe über das Internet. Senior Strategy Analyst @excomm - @excearlymoves / Blog: @neunetz, Podcasts: @neunetzfm  (English: @newnetland)",
+				"url": "http://t.co/YKbAw3et7G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YKbAw3et7G",
+								"expanded_url": "http://marcelweiss.de/",
+								"display_url": "marcelweiss.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4648,
+				"friends_count": 1048,
+				"listed_count": 300,
+				"created_at": "Mon Mar 12 12:58:14 +0000 2007",
+				"favourites_count": 9430,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15832,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6699AA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2346621/twitrainbowbgr.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2346621/twitrainbowbgr.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/476701632961343489/-a8I5OrF_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/476701632961343489/-a8I5OrF_normal.jpeg",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
+		"created_at": "Mon Oct 17 06:41:56 +0000 2016",
+		"id": 787906474840326100,
+		"id_str": "787906474840326145",
+		"text": "Der Hausmeister der TH benutzt statt 1 Laubbläser 1 Besen. Lol, voll retro.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 158,
+			"listed_count": 87,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3632,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14772,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Sun Oct 16 14:41:34 +0000 2016",
 		"id": 787664788352622600,
 		"id_str": "787664788352622592",
