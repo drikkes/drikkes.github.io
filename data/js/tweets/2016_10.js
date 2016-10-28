@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 13:42:55 +0000 2016",
+		"id": 791998684464607200,
+		"id_str": "791998684464607233",
+		"text": "RT @rhizome: It's here! Our new online exhibition Net Art Anthology has launched: https://t.co/50KWQ8KSbU https://t.co/V8fY3v18WI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rhizome",
+					"name": "Rhizome",
+					"id": 5281191,
+					"id_str": "5281191",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/50KWQ8KSbU",
+					"expanded_url": "http://anthology.rhizome.org",
+					"display_url": "anthology.rhizome.org",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 791714131606929400,
+					"id_str": "791714131606929408",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Cvy7ztoWgAAnkuS.png",
+					"media_url_https": "https://pbs.twimg.com/media/Cvy7ztoWgAAnkuS.png",
+					"url": "https://t.co/V8fY3v18WI",
+					"display_url": "pic.twitter.com/V8fY3v18WI",
+					"expanded_url": "https://twitter.com/rhizome/status/791714277019291648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1267,
+							"h": 836,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 792,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 791714277019291600,
+					"source_status_id_str": "791714277019291648",
+					"source_user_id": 5281191,
+					"source_user_id_str": "5281191"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 791714131606929400,
+					"id_str": "791714131606929408",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Cvy7ztoWgAAnkuS.png",
+					"media_url_https": "https://pbs.twimg.com/media/Cvy7ztoWgAAnkuS.png",
+					"url": "https://t.co/V8fY3v18WI",
+					"display_url": "pic.twitter.com/V8fY3v18WI",
+					"expanded_url": "https://twitter.com/rhizome/status/791714277019291648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1267,
+							"h": 836,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 792,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 791714277019291600,
+					"source_status_id_str": "791714277019291648",
+					"source_user_id": 5281191,
+					"source_user_id_str": "5281191"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 158,
+			"listed_count": 87,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3657,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14841,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 27 18:52:47 +0000 2016",
+			"id": 791714277019291600,
+			"id_str": "791714277019291648",
+			"text": "It's here! Our new online exhibition Net Art Anthology has launched: https://t.co/50KWQ8KSbU https://t.co/V8fY3v18WI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/50KWQ8KSbU",
+						"expanded_url": "http://anthology.rhizome.org",
+						"display_url": "anthology.rhizome.org",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 791714131606929400,
+						"id_str": "791714131606929408",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/Cvy7ztoWgAAnkuS.png",
+						"media_url_https": "https://pbs.twimg.com/media/Cvy7ztoWgAAnkuS.png",
+						"url": "https://t.co/V8fY3v18WI",
+						"display_url": "pic.twitter.com/V8fY3v18WI",
+						"expanded_url": "https://twitter.com/rhizome/status/791714277019291648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1267,
+								"h": 836,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 449,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 792,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 791714131606929400,
+						"id_str": "791714131606929408",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/Cvy7ztoWgAAnkuS.png",
+						"media_url_https": "https://pbs.twimg.com/media/Cvy7ztoWgAAnkuS.png",
+						"url": "https://t.co/V8fY3v18WI",
+						"display_url": "pic.twitter.com/V8fY3v18WI",
+						"expanded_url": "https://twitter.com/rhizome/status/791714277019291648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1267,
+								"h": 836,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 449,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 792,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5281191,
+				"id_str": "5281191",
+				"name": "Rhizome",
+				"screen_name": "rhizome",
+				"location": "The New Museum | 235 Bowery",
+				"description": "Commissioning, presenting, and preserving digital art. Online since 1996 at https://t.co/qoyoeju32A",
+				"url": "https://t.co/eLGC9i4uc3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eLGC9i4uc3",
+								"expanded_url": "http://eepurl.com/cQfZc",
+								"display_url": "eepurl.com/cQfZc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qoyoeju32A",
+								"expanded_url": "http://rhizome.org",
+								"display_url": "rhizome.org",
+								"indices": [
+									76,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 53012,
+				"friends_count": 1086,
+				"listed_count": 2195,
+				"created_at": "Fri Apr 20 01:27:55 +0000 2007",
+				"favourites_count": 3054,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6674,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1D9F23",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000115294834/8c53e9a0a8b75a094ce58214a7819418.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000115294834/8c53e9a0a8b75a094ce58214a7819418.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/663759042729259008/T5uaPBDi_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/663759042729259008/T5uaPBDi_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5281191/1446647974",
+				"profile_link_color": "00FF09",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 95,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 28 10:15:06 +0000 2016",
 		"id": 791946383833956400,
 		"id_str": "791946383833956352",
