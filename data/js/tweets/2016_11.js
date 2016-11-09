@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 12:58:41 +0000 2016",
+		"id": 796336206237802500,
+		"id_str": "796336206237802496",
+		"text": "Wenn ich die Replies zu solchen Tweets lese, dann wird mit ganz anders. https://t.co/mTAtioP4H7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mTAtioP4H7",
+					"expanded_url": "https://twitter.com/tagesschau/status/796309089299087360",
+					"display_url": "twitter.com/tagesschau/sta…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 158,
+			"listed_count": 88,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3693,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 796309089299087400,
+		"quoted_status_id_str": "796309089299087360",
+		"quoted_status": {
+			"created_at": "Wed Nov 09 11:10:56 +0000 2016",
+			"id": 796309089299087400,
+			"id_str": "796309089299087360",
+			"text": "Merkel gratuliert Trump und bietet Zusammenarbeit auf Basis von \"Demokratie, Freiheit und Respekt\" an #USWahl16 https://t.co/jLatvPk09a",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "USWahl16",
+						"indices": [
+							102,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 796308410115510300,
+						"id_str": "796308410115510272",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/796308410115510272/pu/img/LFD1M7YxNFa-026W.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/796308410115510272/pu/img/LFD1M7YxNFa-026W.jpg",
+						"url": "https://t.co/jLatvPk09a",
+						"display_url": "pic.twitter.com/jLatvPk09a",
+						"expanded_url": "https://twitter.com/tagesschau/status/796309089299087360/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 796308410115510300,
+						"id_str": "796308410115510272",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/796308410115510272/pu/img/LFD1M7YxNFa-026W.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/796308410115510272/pu/img/LFD1M7YxNFa-026W.jpg",
+						"url": "https://t.co/jLatvPk09a",
+						"display_url": "pic.twitter.com/jLatvPk09a",
+						"expanded_url": "https://twitter.com/tagesschau/status/796309089299087360/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 68402,
+							"variants": [
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/796308410115510272/pu/pl/3Ta7B5J27wtPH9fX.mpd"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/796308410115510272/pu/vid/1280x720/_0LSYzd4nSA44x1B.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/796308410115510272/pu/vid/640x360/oPYCSDFqsuCjVI-K.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/796308410115510272/pu/vid/320x180/CPN_XYB2LnC5t6hy.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/796308410115510272/pu/pl/3Ta7B5J27wtPH9fX.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Angela Merkel, Bundeskanzlerin",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5734902,
+				"id_str": "5734902",
+				"name": "tagesschau",
+				"screen_name": "tagesschau",
+				"location": "Hamburg",
+				"description": "Die Nachrichten der ARD",
+				"url": "http://t.co/yDmSELMM93",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yDmSELMM93",
+								"expanded_url": "http://www.tagesschau.de",
+								"display_url": "tagesschau.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1698739,
+				"friends_count": 269,
+				"listed_count": 7274,
+				"created_at": "Thu May 03 08:42:42 +0000 2007",
+				"favourites_count": 3360,
+				"utc_offset": 3600,
+				"time_zone": "Berlin",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 132007,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5985DF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/663561494/77vatey16iwy2tclqmpx.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/663561494/77vatey16iwy2tclqmpx.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/531688614640365568/U84uXoIT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/531688614640365568/U84uXoIT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5734902/1446038751",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E2EBF7",
+				"profile_text_color": "00044B",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 137,
+			"favorite_count": 203,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
+		"created_at": "Wed Nov 09 12:51:56 +0000 2016",
+		"id": 796334507213328400,
+		"id_str": "796334507213328384",
+		"text": "@stbibkoeln Bin ich eigentlich der einzige, bei dem die Links in Euren Mails nicht funktionieren? https://t.co/e7Ryk6rH9X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stbibkoeln",
+					"name": "Stadtbibliothek Köln",
+					"id": 130538657,
+					"id_str": "130538657",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 796334503287550000,
+					"id_str": "796334503287549952",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw0mAvbXcAAKNAi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw0mAvbXcAAKNAi.jpg",
+					"url": "https://t.co/e7Ryk6rH9X",
+					"display_url": "pic.twitter.com/e7Ryk6rH9X",
+					"expanded_url": "https://twitter.com/drikkes/status/796334507213328384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 260,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 260,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 260,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 796334503287550000,
+					"id_str": "796334503287549952",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw0mAvbXcAAKNAi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw0mAvbXcAAKNAi.jpg",
+					"url": "https://t.co/e7Ryk6rH9X",
+					"display_url": "pic.twitter.com/e7Ryk6rH9X",
+					"expanded_url": "https://twitter.com/drikkes/status/796334507213328384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 260,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 260,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 260,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 130538657,
+		"in_reply_to_user_id_str": "130538657",
+		"in_reply_to_screen_name": "stbibkoeln",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 158,
+			"listed_count": 88,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3693,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Wed Nov 09 09:41:31 +0000 2016",
 		"id": 796286588338733000,
 		"id_str": "796286588338733057",
