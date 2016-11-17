@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 11:29:58 +0000 2016",
+		"id": 799212983486386200,
+		"id_str": "799212983486386176",
+		"text": "RT @drikkBot: #death https://t.co/p93qWp2C27",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "death",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drikkBot",
+					"name": "drikkBot",
+					"id": 787924340381720600,
+					"id_str": "787924340381720576",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 799049323333959700,
+					"id_str": "799049323333959680",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/CxbLIENWQAApu3B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxbLIENWQAApu3B.jpg",
+					"url": "https://t.co/p93qWp2C27",
+					"display_url": "pic.twitter.com/p93qWp2C27",
+					"expanded_url": "https://twitter.com/drikkBot/status/799049325892530176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 799049325892530200,
+					"source_status_id_str": "799049325892530176",
+					"source_user_id": 787924340381720600,
+					"source_user_id_str": "787924340381720576"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 799049323333959700,
+					"id_str": "799049323333959680",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/CxbLIENWQAApu3B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxbLIENWQAApu3B.jpg",
+					"url": "https://t.co/p93qWp2C27",
+					"display_url": "pic.twitter.com/p93qWp2C27",
+					"expanded_url": "https://twitter.com/drikkBot/status/799049325892530176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 799049325892530200,
+					"source_status_id_str": "799049325892530176",
+					"source_user_id": 787924340381720600,
+					"source_user_id_str": "787924340381720576"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 158,
+			"listed_count": 88,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3709,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 00:39:39 +0000 2016",
+			"id": 799049325892530200,
+			"id_str": "799049325892530176",
+			"text": "#death https://t.co/p93qWp2C27",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "death",
+						"indices": [
+							0,
+							6
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 799049323333959700,
+						"id_str": "799049323333959680",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/CxbLIENWQAApu3B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxbLIENWQAApu3B.jpg",
+						"url": "https://t.co/p93qWp2C27",
+						"display_url": "pic.twitter.com/p93qWp2C27",
+						"expanded_url": "https://twitter.com/drikkBot/status/799049325892530176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 799049323333959700,
+						"id_str": "799049323333959680",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/CxbLIENWQAApu3B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxbLIENWQAApu3B.jpg",
+						"url": "https://t.co/p93qWp2C27",
+						"display_url": "pic.twitter.com/p93qWp2C27",
+						"expanded_url": "https://twitter.com/drikkBot/status/799049325892530176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://it-was-fun-at-first.net\" rel=\"nofollow\">IWFAF</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 787924340381720600,
+				"id_str": "787924340381720576",
+				"name": "drikkBot",
+				"screen_name": "drikkBot",
+				"location": "Intercourse, PA",
+				"description": "14 bots to the dome.",
+				"url": "https://t.co/pAb0SRWGFm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pAb0SRWGFm",
+								"expanded_url": "http://drikk.es",
+								"display_url": "drikk.es",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6,
+				"friends_count": 37,
+				"listed_count": 4,
+				"created_at": "Mon Oct 17 07:52:56 +0000 2016",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787933200853110784/_ky4BDse_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787933200853110784/_ky4BDse_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/787924340381720576/1476693017",
+				"profile_link_color": "17DB50",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Nov 17 09:09:41 +0000 2016",
 		"id": 799177679845158900,
 		"id_str": "799177679845158913",
