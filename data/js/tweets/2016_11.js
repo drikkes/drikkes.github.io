@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 10:16:33 +0000 2016",
+		"id": 802818386593980400,
+		"id_str": "802818386593980416",
+		"text": "RT @the_maki: .@the_maki presents radical interior redecoration plans to President Putin. https://t.co/qRMXzdt056",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "the_maki",
+					"name": "the maki",
+					"id": 16695188,
+					"id_str": "16695188",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "the_maki",
+					"name": "the maki",
+					"id": 16695188,
+					"id_str": "16695188",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qRMXzdt056",
+					"expanded_url": "https://twitter.com/Reuters/status/802249268916604928",
+					"display_url": "twitter.com/Reuters/status…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 158,
+			"listed_count": 88,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3723,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 25 20:40:59 +0000 2016",
+			"id": 802250755533111300,
+			"id_str": "802250755533111297",
+			"text": ".@the_maki presents radical interior redecoration plans to President Putin. https://t.co/qRMXzdt056",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "the_maki",
+						"name": "the maki",
+						"id": 16695188,
+						"id_str": "16695188",
+						"indices": [
+							1,
+							10
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qRMXzdt056",
+						"expanded_url": "https://twitter.com/Reuters/status/802249268916604928",
+						"display_url": "twitter.com/Reuters/status…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16695188,
+				"id_str": "16695188",
+				"name": "the maki",
+				"screen_name": "the_maki",
+				"location": "Vienna, Austria",
+				"description": "Schreibt über Häuser und Städte. Team Zivilisation.",
+				"url": "http://t.co/WPjWNjZQlX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WPjWNjZQlX",
+								"expanded_url": "http://www.maiknovotny.com",
+								"display_url": "maiknovotny.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3165,
+				"friends_count": 739,
+				"listed_count": 168,
+				"created_at": "Sat Oct 11 11:33:26 +0000 2008",
+				"favourites_count": 15395,
+				"utc_offset": 3600,
+				"time_zone": "Vienna",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5049,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/22487148/shinjukuvertical_inv.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/22487148/shinjukuvertical_inv.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/620678773692846080/0W4i3bAM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/620678773692846080/0W4i3bAM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16695188/1348749827",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 802249268916604900,
+			"quoted_status_id_str": "802249268916604928",
+			"quoted_status": {
+				"created_at": "Fri Nov 25 20:35:05 +0000 2016",
+				"id": 802249268916604900,
+				"id_str": "802249268916604928",
+				"text": "Putin presents Russian passport to Hollywood actor Seagal https://t.co/vy7mdh1mYL https://t.co/6rZSWbnK59",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/vy7mdh1mYL",
+							"expanded_url": "http://reut.rs/2fwKjwc",
+							"display_url": "reut.rs/2fwKjwc",
+							"indices": [
+								58,
+								81
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 802249266538418200,
+							"id_str": "802249266538418176",
+							"indices": [
+								82,
+								105
+							],
+							"media_url": "http://pbs.twimg.com/media/CyIpdRlXEAA_GYT.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CyIpdRlXEAA_GYT.jpg",
+							"url": "https://t.co/6rZSWbnK59",
+							"display_url": "pic.twitter.com/6rZSWbnK59",
+							"expanded_url": "https://twitter.com/Reuters/status/802249268916604928/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 449,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 825,
+									"h": 545,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 825,
+									"h": 545,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 802249266538418200,
+							"id_str": "802249266538418176",
+							"indices": [
+								82,
+								105
+							],
+							"media_url": "http://pbs.twimg.com/media/CyIpdRlXEAA_GYT.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CyIpdRlXEAA_GYT.jpg",
+							"url": "https://t.co/6rZSWbnK59",
+							"display_url": "pic.twitter.com/6rZSWbnK59",
+							"expanded_url": "https://twitter.com/Reuters/status/802249268916604928/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 449,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 825,
+									"h": 545,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 825,
+									"h": 545,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://trueanthem.com/\" rel=\"nofollow\">trueAnthem</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1652541,
+					"id_str": "1652541",
+					"name": "Reuters Top News",
+					"screen_name": "Reuters",
+					"location": "Around the world",
+					"description": "Top and breaking news, pictures, and videos from Reuters.",
+					"url": "http://t.co/BmHxhkm3Mh",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/BmHxhkm3Mh",
+									"expanded_url": "http://www.reuters.com",
+									"display_url": "reuters.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 15515784,
+					"friends_count": 1041,
+					"listed_count": 106099,
+					"created_at": "Tue Mar 20 17:46:05 +0000 2007",
+					"favourites_count": 825,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 167626,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "444444",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/801158889257345024/Bk8xAnrc_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/801158889257345024/Bk8xAnrc_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1473859324",
+					"profile_link_color": "006F97",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "F5F5F5",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 147,
+				"favorite_count": 186,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 802249268916604900,
+		"quoted_status_id_str": "802249268916604928",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 26 14:39:57 +0000 2016",
 		"id": 802522284363759600,
 		"id_str": "802522284363759616",
