@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Mon Dec 05 13:09:51 +0000 2016",
+		"id": 805761099605901300,
+		"id_str": "805761099605901312",
+		"text": "Vordere Absperrung schwarz, hintere Kordeln rot - macht mich jeden Tag fertig. (@ DDB) https://t.co/w88AtmSr0j https://t.co/zM6tO9OjM4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w88AtmSr0j",
+					"expanded_url": "https://www.swarmapp.com/c/9cIcqK6Zx6a",
+					"display_url": "swarmapp.com/c/9cIcqK6Zx6a",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 805761097621966800,
+					"id_str": "805761097621966849",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Cy6jcv2WEAEuQBW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cy6jcv2WEAEuQBW.jpg",
+					"url": "https://t.co/zM6tO9OjM4",
+					"display_url": "pic.twitter.com/zM6tO9OjM4",
+					"expanded_url": "https://twitter.com/drikkes/status/805761099605901312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 805761097621966800,
+					"id_str": "805761097621966849",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Cy6jcv2WEAEuQBW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cy6jcv2WEAEuQBW.jpg",
+					"url": "https://t.co/zM6tO9OjM4",
+					"display_url": "pic.twitter.com/zM6tO9OjM4",
+					"expanded_url": "https://twitter.com/drikkes/status/805761099605901312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 157,
+			"listed_count": 89,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3737,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				51.22048112,
+				6.77686695
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.77686695,
+				51.22048112
+			]
+		},
+		"place": {
+			"id": "b7d3c12268abd20e",
+			"url": "https://api.twitter.com/1.1/geo/id/b7d3c12268abd20e.json",
+			"place_type": "city",
+			"name": "Düsseldorf",
+			"full_name": "Düsseldorf, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.688728,
+							51.124357
+						],
+						[
+							6.939888,
+							51.124357
+						],
+						[
+							6.939888,
+							51.352537
+						],
+						[
+							6.688728,
+							51.352537
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Mon Dec 05 07:30:41 +0000 2016",
 		"id": 805675747239227400,
 		"id_str": "805675747239227392",
