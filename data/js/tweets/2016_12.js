@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 13 12:03:22 +0000 2016",
+		"id": 808643472014082000,
+		"id_str": "808643472014082050",
+		"text": "@nouveaubeton @LaVieVagabonde @welt Haben sie Überschrift in der Zwischenzeit geändert? https://t.co/ecB8s8s4BL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nouveaubeton",
+					"name": "Kawaiibéton",
+					"id": 17894323,
+					"id_str": "17894323",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "LaVieVagabonde",
+					"name": "Jasmin Schreiber",
+					"id": 924122791,
+					"id_str": "924122791",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "welt",
+					"name": "WELT",
+					"id": 8720562,
+					"id_str": "8720562",
+					"indices": [
+						30,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 808643462786641900,
+					"id_str": "808643462786641920",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Czjg8e1W8AAnCEO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Czjg8e1W8AAnCEO.jpg",
+					"url": "https://t.co/ecB8s8s4BL",
+					"display_url": "pic.twitter.com/ecB8s8s4BL",
+					"expanded_url": "https://twitter.com/drikkes/status/808643472014082050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 810,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 430,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 808643462786641900,
+					"id_str": "808643462786641920",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Czjg8e1W8AAnCEO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Czjg8e1W8AAnCEO.jpg",
+					"url": "https://t.co/ecB8s8s4BL",
+					"display_url": "pic.twitter.com/ecB8s8s4BL",
+					"expanded_url": "https://twitter.com/drikkes/status/808643472014082050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 810,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 430,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 808603968876269600,
+		"in_reply_to_status_id_str": "808603968876269572",
+		"in_reply_to_user_id": 17894323,
+		"in_reply_to_user_id_str": "17894323",
+		"in_reply_to_screen_name": "nouveaubeton",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 157,
+			"listed_count": 89,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3749,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Tue Dec 13 10:12:31 +0000 2016",
 		"id": 808615575660466200,
 		"id_str": "808615575660466176",
