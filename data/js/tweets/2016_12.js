@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 16 07:56:03 +0000 2016",
+		"id": 809668398644949000,
+		"id_str": "809668398644948993",
+		"text": "#CreativeMornings #CMDUS (@ Deutsche @OperamRhein in Düsseldorf, NRW) https://t.co/yD5ZNLn3dQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CreativeMornings",
+					"indices": [
+						0,
+						17
+					]
+				},
+				{
+					"text": "CMDUS",
+					"indices": [
+						18,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "operamrhein",
+					"name": "Oper am Rhein",
+					"id": 76151691,
+					"id_str": "76151691",
+					"indices": [
+						37,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yD5ZNLn3dQ",
+					"expanded_url": "https://www.swarmapp.com/c/gjoJiBMk2sz",
+					"display_url": "swarmapp.com/c/gjoJiBMk2sz",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 158,
+			"listed_count": 89,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3755,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				51.22744964,
+				6.77724602
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.77724602,
+				51.22744964
+			]
+		},
+		"place": {
+			"id": "b7d3c12268abd20e",
+			"url": "https://api.twitter.com/1.1/geo/id/b7d3c12268abd20e.json",
+			"place_type": "city",
+			"name": "Düsseldorf",
+			"full_name": "Düsseldorf, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.688728,
+							51.124357
+						],
+						[
+							6.939888,
+							51.124357
+						],
+						[
+							6.939888,
+							51.352537
+						],
+						[
+							6.688728,
+							51.352537
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Thu Dec 15 22:09:22 +0000 2016",
 		"id": 809520754983374800,
 		"id_str": "809520754983374848",
