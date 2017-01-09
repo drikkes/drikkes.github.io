@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Mon Jan 09 12:47:28 +0000 2017",
+		"id": 818439045432934400,
+		"id_str": "818439045432934402",
+		"text": "Aha. (RT fürs Protokoll.) https://t.co/VgYpJzOcS4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VgYpJzOcS4",
+					"expanded_url": "https://twitter.com/manomama/status/818416023212818432",
+					"display_url": "twitter.com/manomama/statu…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 157,
+			"listed_count": 89,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3783,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15171,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 818416023212818400,
+		"quoted_status_id_str": "818416023212818432",
+		"quoted_status": {
+			"created_at": "Mon Jan 09 11:16:00 +0000 2017",
+			"id": 818416023212818400,
+			"id_str": "818416023212818432",
+			"text": "@nrdstdt linksextrem ist keinen Deut besser als rechtsradikal. Nur mal fürs Protokoll!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nrdstdt",
+						"name": "NeonschwarzerBlock",
+						"id": 568575483,
+						"id_str": "568575483",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 818415383644348400,
+			"in_reply_to_status_id_str": "818415383644348416",
+			"in_reply_to_user_id": 568575483,
+			"in_reply_to_user_id_str": "568575483",
+			"in_reply_to_screen_name": "nrdstdt",
+			"user": {
+				"id": 41116723,
+				"id_str": "41116723",
+				"name": "Sina Trinkwalder",
+				"screen_name": "manomama",
+				"location": "Augsburg",
+				"description": "Läuft und lernt. Rätselt, rettet und rennradelt. https://t.co/nAesjvLnuQ",
+				"url": "https://t.co/obrhnDRWMX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/obrhnDRWMX",
+								"expanded_url": "http://www.manomama.de",
+								"display_url": "manomama.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nAesjvLnuQ",
+								"expanded_url": "http://www.droemer-knaur.de/buch/8571940/fairarscht",
+								"display_url": "droemer-knaur.de/buch/8571940/f…",
+								"indices": [
+									49,
+									72
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19949,
+				"friends_count": 1258,
+				"listed_count": 1092,
+				"created_at": "Tue May 19 13:40:06 +0000 2009",
+				"favourites_count": 8584,
+				"utc_offset": 3600,
+				"time_zone": "Berlin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 88733,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "968DC1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/81989773/manomama_bg.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/81989773/manomama_bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814089998463012864/_y2NxZyo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814089998463012864/_y2NxZyo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41116723/1479789334",
+				"profile_link_color": "2E2E2E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "644abf21c4e85b22",
+				"url": "https://api.twitter.com/1.1/geo/id/644abf21c4e85b22.json",
+				"place_type": "city",
+				"name": "Augsburg",
+				"full_name": "Augsburg, Germany",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								10.763533,
+								48.250584
+							],
+							[
+								10.959393,
+								48.250584
+							],
+							[
+								10.959393,
+								48.458623
+							],
+							[
+								10.763533,
+								48.458623
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Mon Jan 09 10:22:12 +0000 2017",
 		"id": 818402487535280100,
 		"id_str": "818402487535280129",
