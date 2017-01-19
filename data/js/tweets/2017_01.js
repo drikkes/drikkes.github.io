@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 19 07:38:32 +0000 2017",
+		"id": 821985176007966700,
+		"id_str": "821985176007966724",
+		"text": "RT @ClipperChip: #LateStageCapitalism https://t.co/VwBZOeQPvn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LateStageCapitalism",
+					"indices": [
+						17,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClipperChip",
+					"name": "Touya Akira 🇦🇶",
+					"id": 225663702,
+					"id_str": "225663702",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 821921604359819300,
+					"id_str": "821921604359819272",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/C2gNWC0WEAgnR2X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2gNWC0WEAgnR2X.jpg",
+					"url": "https://t.co/VwBZOeQPvn",
+					"display_url": "pic.twitter.com/VwBZOeQPvn",
+					"expanded_url": "https://twitter.com/ClipperChip/status/821921617093783552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821921617093783600,
+					"source_status_id_str": "821921617093783552",
+					"source_user_id": 225663702,
+					"source_user_id_str": "225663702"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 821921604359819300,
+					"id_str": "821921604359819272",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/C2gNWC0WEAgnR2X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2gNWC0WEAgnR2X.jpg",
+					"url": "https://t.co/VwBZOeQPvn",
+					"display_url": "pic.twitter.com/VwBZOeQPvn",
+					"expanded_url": "https://twitter.com/ClipperChip/status/821921617093783552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821921617093783600,
+					"source_status_id_str": "821921617093783552",
+					"source_user_id": 225663702,
+					"source_user_id_str": "225663702"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 158,
+			"listed_count": 90,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3768,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 19 03:25:58 +0000 2017",
+			"id": 821921617093783600,
+			"id_str": "821921617093783552",
+			"text": "#LateStageCapitalism https://t.co/VwBZOeQPvn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LateStageCapitalism",
+						"indices": [
+							0,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 821921604359819300,
+						"id_str": "821921604359819272",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/C2gNWC0WEAgnR2X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2gNWC0WEAgnR2X.jpg",
+						"url": "https://t.co/VwBZOeQPvn",
+						"display_url": "pic.twitter.com/VwBZOeQPvn",
+						"expanded_url": "https://twitter.com/ClipperChip/status/821921617093783552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821921604359819300,
+						"id_str": "821921604359819272",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/C2gNWC0WEAgnR2X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2gNWC0WEAgnR2X.jpg",
+						"url": "https://t.co/VwBZOeQPvn",
+						"display_url": "pic.twitter.com/VwBZOeQPvn",
+						"expanded_url": "https://twitter.com/ClipperChip/status/821921617093783552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 225663702,
+				"id_str": "225663702",
+				"name": "Touya Akira 🇦🇶",
+				"screen_name": "ClipperChip",
+				"location": "神の一手 ",
+				"description": "(　ﾟДﾟ)＜この野郎、糞FBI戦艦",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 240790,
+				"friends_count": 975,
+				"listed_count": 4230,
+				"created_at": "Sun Dec 12 04:11:26 +0000 2010",
+				"favourites_count": 24,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26724,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000009409195/8142b108ddad49f3c2d10846eb292b35.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000009409195/8142b108ddad49f3c2d10846eb292b35.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744933052279754752/Wwf_JQVS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744933052279754752/Wwf_JQVS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/225663702/1478379972",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "AAAAAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 561,
+			"favorite_count": 806,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 561,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Jan 18 21:29:39 +0000 2017",
 		"id": 821831947341197300,
 		"id_str": "821831947341197313",
