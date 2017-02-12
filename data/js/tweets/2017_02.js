@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 12 09:11:41 +0000 2017",
+		"id": 830705927514837000,
+		"id_str": "830705927514836992",
+		"text": "RT @GabrielBerlin: Schwierig: Warum die größte amerikanische Bürgerrechts-Organisation die Auftritte von Rechtsradikalen unterstützt https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GabrielBerlin",
+					"name": "Gabriel Yoran",
+					"id": 14233899,
+					"id_str": "14233899",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 158,
+			"listed_count": 88,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3818,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 11 23:43:51 +0000 2017",
+			"id": 830563029108547600,
+			"id_str": "830563029108547584",
+			"text": "Schwierig: Warum die größte amerikanische Bürgerrechts-Organisation die Auftritte von Rechtsradikalen unterstützt https://t.co/v39tAWr59F",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/v39tAWr59F",
+						"expanded_url": "https://www.aclu.org/other/hate-speech-campus",
+						"display_url": "aclu.org/other/hate-spe…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14233899,
+				"id_str": "14233899",
+				"name": "Gabriel Yoran",
+				"screen_name": "GabrielBerlin",
+				"location": "Rhode Island, USA",
+				"description": "Erst lachen, wenn man gemerkt hat, dass es nicht lustig ist.",
+				"url": "https://t.co/Lo2LaQdWy5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Lo2LaQdWy5",
+								"expanded_url": "http://www.yoran.com",
+								"display_url": "yoran.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2826,
+				"friends_count": 754,
+				"listed_count": 144,
+				"created_at": "Thu Mar 27 09:18:55 +0000 2008",
+				"favourites_count": 71405,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 56777,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "875022",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/483228705947275265/2RJsCx-0.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/483228705947275265/2RJsCx-0.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799933679837519872/0OsF3b64_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799933679837519872/0OsF3b64_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14233899/1481752607",
+				"profile_link_color": "FF5A00",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EAD4CD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7b93be1d864cedbb",
+				"url": "https://api.twitter.com/1.1/geo/id/7b93be1d864cedbb.json",
+				"place_type": "city",
+				"name": "Providence",
+				"full_name": "Providence, RI",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-71.4741855,
+								41.772455
+							],
+							[
+								-71.369479,
+								41.772455
+							],
+							[
+								-71.369479,
+								41.861713
+							],
+							[
+								-71.4741855,
+								41.861713
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de"
+	},
+	{
 		"created_at": "Sun Feb 12 08:06:06 +0000 2017",
 		"id": 830689423901782000,
 		"id_str": "830689423901782016",
