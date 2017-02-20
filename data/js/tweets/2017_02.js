@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 20 19:44:01 +0000 2017",
+		"id": 833764163235278800,
+		"id_str": "833764163235278848",
+		"text": "Alles für die Kunst! (via @GabrielBerlin) https://t.co/Sz2OY9RDKb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GabrielBerlin",
+					"name": "Gabriel Yoran",
+					"id": 14233899,
+					"id_str": "14233899",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Sz2OY9RDKb",
+					"expanded_url": "https://twitter.com/nathangoldman/status/833689616033181696",
+					"display_url": "twitter.com/nathangoldman/…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 159,
+			"listed_count": 87,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3835,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15397,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 833689616033181700,
+		"quoted_status_id_str": "833689616033181696",
+		"quoted_status": {
+			"created_at": "Mon Feb 20 14:47:48 +0000 2017",
+			"id": 833689616033181700,
+			"id_str": "833689616033181696",
+			"text": "the writing residency from hell https://t.co/9XS1PWEq8k",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 833689502929477600,
+						"id_str": "833689502929477632",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/C5HcL5MVYAA3QQ-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5HcL5MVYAA3QQ-.jpg",
+						"url": "https://t.co/9XS1PWEq8k",
+						"display_url": "pic.twitter.com/9XS1PWEq8k",
+						"expanded_url": "https://twitter.com/nathangoldman/status/833689616033181696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1192,
+								"h": 342,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 195,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1192,
+								"h": 342,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 833689502929477600,
+						"id_str": "833689502929477632",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/C5HcL5MVYAA3QQ-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5HcL5MVYAA3QQ-.jpg",
+						"url": "https://t.co/9XS1PWEq8k",
+						"display_url": "pic.twitter.com/9XS1PWEq8k",
+						"expanded_url": "https://twitter.com/nathangoldman/status/833689616033181696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1192,
+								"h": 342,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 195,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1192,
+								"h": 342,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48235522,
+				"id_str": "48235522",
+				"name": "Nathan Goldman",
+				"screen_name": "nathangoldman",
+				"location": "Minneapolis, MN",
+				"description": "writer @lithub @kenyonreview @fullstopmag @thescofieldmag @wordriot / freelance Kabbalist",
+				"url": "https://t.co/lKHjsCmVty",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lKHjsCmVty",
+								"expanded_url": "http://nathangoldman.wordpress.com",
+								"display_url": "nathangoldman.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 966,
+				"friends_count": 1020,
+				"listed_count": 34,
+				"created_at": "Thu Jun 18 03:50:53 +0000 2009",
+				"favourites_count": 9995,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5983,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825029203565375488/TC2VAGZR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825029203565375488/TC2VAGZR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48235522/1485957930",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 141,
+			"favorite_count": 268,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Mon Feb 20 18:58:27 +0000 2017",
 		"id": 833752694301016000,
 		"id_str": "833752694301016064",
