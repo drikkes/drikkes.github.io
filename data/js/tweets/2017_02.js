@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 27 21:34:34 +0000 2017",
+		"id": 836328699180036100,
+		"id_str": "836328699180036096",
+		"text": "RT @existentialcoms: Kierkegaard Relates to the Common Man -\nhttps://t.co/n4o3AFrguC https://t.co/oFuW2Wd7Pv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "existentialcoms",
+					"name": "Existential Comics",
+					"id": 2163374389,
+					"id_str": "2163374389",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n4o3AFrguC",
+					"expanded_url": "http://existentialcomics.com/comic/174",
+					"display_url": "existentialcomics.com/comic/174",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 836254366860357600,
+					"id_str": "836254366860357632",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/C5r46n6UsAAvQmu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5r46n6UsAAvQmu.jpg",
+					"url": "https://t.co/oFuW2Wd7Pv",
+					"display_url": "pic.twitter.com/oFuW2Wd7Pv",
+					"expanded_url": "https://twitter.com/existentialcoms/status/836254381754331137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 836254381754331100,
+					"source_status_id_str": "836254381754331137",
+					"source_user_id": 2163374389,
+					"source_user_id_str": "2163374389"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 836254366860357600,
+					"id_str": "836254366860357632",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/C5r46n6UsAAvQmu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5r46n6UsAAvQmu.jpg",
+					"url": "https://t.co/oFuW2Wd7Pv",
+					"display_url": "pic.twitter.com/oFuW2Wd7Pv",
+					"expanded_url": "https://twitter.com/existentialcoms/status/836254381754331137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 836254381754331100,
+					"source_status_id_str": "836254381754331137",
+					"source_user_id": 2163374389,
+					"source_user_id_str": "2163374389"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 159,
+			"listed_count": 87,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3850,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 27 16:39:16 +0000 2017",
+			"id": 836254381754331100,
+			"id_str": "836254381754331137",
+			"text": "Kierkegaard Relates to the Common Man -\nhttps://t.co/n4o3AFrguC https://t.co/oFuW2Wd7Pv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/n4o3AFrguC",
+						"expanded_url": "http://existentialcomics.com/comic/174",
+						"display_url": "existentialcomics.com/comic/174",
+						"indices": [
+							40,
+							63
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 836254366860357600,
+						"id_str": "836254366860357632",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/C5r46n6UsAAvQmu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5r46n6UsAAvQmu.jpg",
+						"url": "https://t.co/oFuW2Wd7Pv",
+						"display_url": "pic.twitter.com/oFuW2Wd7Pv",
+						"expanded_url": "https://twitter.com/existentialcoms/status/836254381754331137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 836254366860357600,
+						"id_str": "836254366860357632",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/C5r46n6UsAAvQmu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5r46n6UsAAvQmu.jpg",
+						"url": "https://t.co/oFuW2Wd7Pv",
+						"display_url": "pic.twitter.com/oFuW2Wd7Pv",
+						"expanded_url": "https://twitter.com/existentialcoms/status/836254381754331137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2163374389,
+				"id_str": "2163374389",
+				"name": "Existential Comics",
+				"screen_name": "existentialcoms",
+				"location": "Portland, OR",
+				"description": "A philosophy webcomic about the inevitable anguish of living a brief life in an absurd world. Also jokes. https://t.co/ngRN9krOEu",
+				"url": "http://t.co/2YD0UU9vYY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2YD0UU9vYY",
+								"expanded_url": "http://existentialcomics.com",
+								"display_url": "existentialcomics.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ngRN9krOEu",
+								"expanded_url": "https://www.patreon.com/ExistentialComics",
+								"display_url": "patreon.com/ExistentialCom…",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 108152,
+				"friends_count": 103,
+				"listed_count": 1619,
+				"created_at": "Tue Oct 29 18:54:34 +0000 2013",
+				"favourites_count": 5400,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3802,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/792916557403795456/d-iEnfPD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/792916557403795456/d-iEnfPD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2163374389/1406441960",
+				"profile_link_color": "489E5F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 323,
+			"favorite_count": 511,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 323,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 27 12:43:14 +0000 2017",
 		"id": 836194981790560300,
 		"id_str": "836194981790560256",
