@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 10 17:02:46 +0000 2017",
+		"id": 840246564778045400,
+		"id_str": "840246564778045440",
+		"text": "Zwei Randbemerkungen zum Text »Knips mich!« von @ideenfreiheit in der @brandeins. https://t.co/xyaxwOXeMp https://t.co/I43ihEv447",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ideenfreiheit",
+					"name": "Wolfgang:Ullrich",
+					"id": 12429082,
+					"id_str": "12429082",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"screen_name": "brandeins",
+					"name": "brand eins",
+					"id": 20421862,
+					"id_str": "20421862",
+					"indices": [
+						70,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xyaxwOXeMp",
+					"expanded_url": "http://drikkes.com/?p=11700",
+					"display_url": "drikkes.com/?p=11700",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/I43ihEv447",
+					"expanded_url": "https://twitter.com/ideenfreiheit/status/832512862694363137",
+					"display_url": "twitter.com/ideenfreiheit/…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 832512862694363100,
+		"in_reply_to_status_id_str": "832512862694363137",
+		"in_reply_to_user_id": 12429082,
+		"in_reply_to_user_id_str": "12429082",
+		"in_reply_to_screen_name": "ideenfreiheit",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 897,
+			"friends_count": 159,
+			"listed_count": 86,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3868,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15484,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 832512862694363100,
+		"quoted_status_id_str": "832512862694363137",
+		"quoted_status": {
+			"created_at": "Fri Feb 17 08:51:48 +0000 2017",
+			"id": 832512862694363100,
+			"id_str": "832512862694363137",
+			"text": "Wie verändert sich Produktdesign durch Influencer-Marketing? Dazu habe ich in @brandeins geschrieben https://t.co/AxZ5vtd9fj @joachimbessing",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brandeins",
+						"name": "brand eins",
+						"id": 20421862,
+						"id_str": "20421862",
+						"indices": [
+							78,
+							88
+						]
+					},
+					{
+						"screen_name": "joachimbessing",
+						"name": "Joachim Bessing",
+						"id": 715426188,
+						"id_str": "715426188",
+						"indices": [
+							125,
+							140
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AxZ5vtd9fj",
+						"expanded_url": "https://ideenfreiheit.wordpress.com/2017/02/17/fotogene-produkte",
+						"display_url": "ideenfreiheit.wordpress.com/2017/02/17/fot…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12429082,
+				"id_str": "12429082",
+				"name": "Wolfgang:Ullrich",
+				"screen_name": "ideenfreiheit",
+				"location": "Leipzig/München",
+				"description": "cogito quia absurdum",
+				"url": "http://t.co/8hwxdVF4Hk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8hwxdVF4Hk",
+								"expanded_url": "http://www.ideenfreiheit.de",
+								"display_url": "ideenfreiheit.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 972,
+				"friends_count": 133,
+				"listed_count": 26,
+				"created_at": "Sat Jan 19 10:57:46 +0000 2008",
+				"favourites_count": 2059,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 518,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/587882771349135360/X4PBFlTH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/587882771349135360/X4PBFlTH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12429082/1429387561",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Fri Mar 10 14:31:24 +0000 2017",
 		"id": 840208472927019000,
 		"id_str": "840208472927019008",
