@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 17 13:29:44 +0000 2017",
+		"id": 842729666570047500,
+		"id_str": "842729666570047491",
+		"text": "Das hier bitte als #Chrome-Erweiterung. Danke! https://t.co/dvqLAqcDzL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Chrome",
+					"indices": [
+						19,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dvqLAqcDzL",
+					"expanded_url": "https://twitter.com/marcelweiss/status/842663311196000256",
+					"display_url": "twitter.com/marcelweiss/st…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 159,
+			"listed_count": 86,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3887,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15511,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 842663311196000300,
+		"quoted_status_id_str": "842663311196000256",
+		"quoted_status": {
+			"created_at": "Fri Mar 17 09:06:03 +0000 2017",
+			"id": 842663311196000300,
+			"id_str": "842663311196000256",
+			"text": "“Vivaldi 1.8 gives a calendar-like interface to browsing history” https://t.co/LetguHzOKQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LetguHzOKQ",
+						"expanded_url": "https://www.cnet.com/news/vivaldi-wants-to-make-your-web-browsing-history-useful/#ftag=COS-05-10aaa0j",
+						"display_url": "cnet.com/news/vivaldi-w…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1007251,
+				"id_str": "1007251",
+				"name": "Marcel Weiss",
+				"screen_name": "marcelweiss",
+				"location": "Berlin, Germany",
+				"description": "Ich denke, rede & schreibe über das Internet. Senior Strategy Analyst @excomm - @excearlymoves / Blog: @neunetz, Podcasts: @neunetzfm  (English: @newnetland)",
+				"url": "http://t.co/YKbAw3et7G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YKbAw3et7G",
+								"expanded_url": "http://marcelweiss.de/",
+								"display_url": "marcelweiss.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4694,
+				"friends_count": 1081,
+				"listed_count": 309,
+				"created_at": "Mon Mar 12 12:58:14 +0000 2007",
+				"favourites_count": 10787,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17085,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6699AA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2346621/twitrainbowbgr.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2346621/twitrainbowbgr.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/476701632961343489/-a8I5OrF_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/476701632961343489/-a8I5OrF_normal.jpeg",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Fri Mar 17 12:02:53 +0000 2017",
 		"id": 842707808751665200,
 		"id_str": "842707808751665153",
