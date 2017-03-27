@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Mon Mar 27 08:44:49 +0000 2017",
+		"id": 846281843855032300,
+		"id_str": "846281843855032320",
+		"text": "RT @ntschk: making averages from videos of people playing grand theft auto on youtube https://t.co/BNkMcopXqU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ntschk",
+					"name": "Claire Hentschker",
+					"id": 2915925929,
+					"id_str": "2915925929",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 846106500007366700,
+					"id_str": "846106500007366658",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/C735YP8WkAISEMz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C735YP8WkAISEMz.jpg",
+					"url": "https://t.co/BNkMcopXqU",
+					"display_url": "pic.twitter.com/BNkMcopXqU",
+					"expanded_url": "https://twitter.com/ntschk/status/846106627539382275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 846106627539382300,
+					"source_status_id_str": "846106627539382275",
+					"source_user_id": 2915925929,
+					"source_user_id_str": "2915925929"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 846106500007366700,
+					"id_str": "846106500007366658",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/C735YP8WkAISEMz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C735YP8WkAISEMz.jpg",
+					"url": "https://t.co/BNkMcopXqU",
+					"display_url": "pic.twitter.com/BNkMcopXqU",
+					"expanded_url": "https://twitter.com/ntschk/status/846106627539382275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 846106627539382300,
+					"source_status_id_str": "846106627539382275",
+					"source_user_id": 2915925929,
+					"source_user_id_str": "2915925929"
+				},
+				{
+					"id": 846106500020015100,
+					"id_str": "846106500020015104",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/C735YP_XkAA3rVn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C735YP_XkAA3rVn.jpg",
+					"url": "https://t.co/BNkMcopXqU",
+					"display_url": "pic.twitter.com/BNkMcopXqU",
+					"expanded_url": "https://twitter.com/ntschk/status/846106627539382275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 846106627539382300,
+					"source_status_id_str": "846106627539382275",
+					"source_user_id": 2915925929,
+					"source_user_id_str": "2915925929"
+				},
+				{
+					"id": 846106500011638800,
+					"id_str": "846106500011638785",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/C735YP9XwAEOLui.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C735YP9XwAEOLui.jpg",
+					"url": "https://t.co/BNkMcopXqU",
+					"display_url": "pic.twitter.com/BNkMcopXqU",
+					"expanded_url": "https://twitter.com/ntschk/status/846106627539382275/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 846106627539382300,
+					"source_status_id_str": "846106627539382275",
+					"source_user_id": 2915925929,
+					"source_user_id_str": "2915925929"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 895,
+			"friends_count": 159,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3899,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15558,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 26 21:08:34 +0000 2017",
+			"id": 846106627539382300,
+			"id_str": "846106627539382275",
+			"text": "making averages from videos of people playing grand theft auto on youtube https://t.co/BNkMcopXqU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 846106500007366700,
+						"id_str": "846106500007366658",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/C735YP8WkAISEMz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C735YP8WkAISEMz.jpg",
+						"url": "https://t.co/BNkMcopXqU",
+						"display_url": "pic.twitter.com/BNkMcopXqU",
+						"expanded_url": "https://twitter.com/ntschk/status/846106627539382275/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 846106500007366700,
+						"id_str": "846106500007366658",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/C735YP8WkAISEMz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C735YP8WkAISEMz.jpg",
+						"url": "https://t.co/BNkMcopXqU",
+						"display_url": "pic.twitter.com/BNkMcopXqU",
+						"expanded_url": "https://twitter.com/ntschk/status/846106627539382275/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 846106500020015100,
+						"id_str": "846106500020015104",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/C735YP_XkAA3rVn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C735YP_XkAA3rVn.jpg",
+						"url": "https://t.co/BNkMcopXqU",
+						"display_url": "pic.twitter.com/BNkMcopXqU",
+						"expanded_url": "https://twitter.com/ntschk/status/846106627539382275/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 846106500011638800,
+						"id_str": "846106500011638785",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/C735YP9XwAEOLui.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C735YP9XwAEOLui.jpg",
+						"url": "https://t.co/BNkMcopXqU",
+						"display_url": "pic.twitter.com/BNkMcopXqU",
+						"expanded_url": "https://twitter.com/ntschk/status/846106627539382275/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2915925929,
+				"id_str": "2915925929",
+				"name": "Claire Hentschker",
+				"screen_name": "ntschk",
+				"location": "Pittsburgh, PA",
+				"description": "🍓🍓🍓",
+				"url": "https://t.co/rdIv8HRzHy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rdIv8HRzHy",
+								"expanded_url": "https://www.instagram.com/ntschk",
+								"display_url": "instagram.com/ntschk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 447,
+				"friends_count": 401,
+				"listed_count": 9,
+				"created_at": "Thu Dec 11 17:56:07 +0000 2014",
+				"favourites_count": 202,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 112,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/842219597545656321/qik5aY_6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842219597545656321/qik5aY_6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2915925929/1481497321",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 570,
+			"favorite_count": 1732,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 570,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 25 23:39:48 +0000 2017",
 		"id": 845782299086131200,
 		"id_str": "845782299086131211",
