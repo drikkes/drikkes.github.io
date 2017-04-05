@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 12:23:02 +0000 2017",
+		"id": 849598249531048000,
+		"id_str": "849598249531047937",
+		"text": "Late for the april fools’ joke? https://t.co/jOKU1XMssP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jOKU1XMssP",
+					"expanded_url": "https://twitter.com/KoelnFormat/status/849564400793116672",
+					"display_url": "twitter.com/KoelnFormat/st…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 158,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3917,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15600,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 849564400793116700,
+		"quoted_status_id_str": "849564400793116672",
+		"quoted_status": {
+			"created_at": "Wed Apr 05 10:08:31 +0000 2017",
+			"id": 849564400793116700,
+			"id_str": "849564400793116672",
+			"text": "Glad,the USA have not lost their humor. But perhaps their mind.\"See how far you can go\" is the new marketing claim.\n\nhttps://t.co/TUTaHrRzx9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TUTaHrRzx9",
+						"expanded_url": "http://www.travelpulse.com/news/destinations/brand-usa-launches-inbound-tourism-campaign.html",
+						"display_url": "travelpulse.com/news/destinati…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 170445782,
+				"id_str": "170445782",
+				"name": "Heike Kaufhold",
+				"screen_name": "KoelnFormat",
+				"location": "Köln, Deutschland",
+				"description": "Travelwriter • Content Creator & Curator • former TV News Journalist 💁🏻 Contact: twitter@koeln-format.de",
+				"url": "https://t.co/eVM8Y9ojcx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eVM8Y9ojcx",
+								"expanded_url": "http://www.koeln-format.de/",
+								"display_url": "koeln-format.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24270,
+				"friends_count": 4034,
+				"listed_count": 271,
+				"created_at": "Sat Jul 24 21:24:53 +0000 2010",
+				"favourites_count": 12208,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16012,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/683033563/c7fbf04fe03a6bcec76df9314d345f1c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/683033563/c7fbf04fe03a6bcec76df9314d345f1c.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836021961671204865/rvR7luPw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836021961671204865/rvR7luPw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/170445782/1488932783",
+				"profile_link_color": "828687",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "611052455b797f10",
+				"url": "https://api.twitter.com/1.1/geo/id/611052455b797f10.json",
+				"place_type": "city",
+				"name": "Au Sable",
+				"full_name": "Au Sable, MI",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-83.360472,
+								44.385429
+							],
+							[
+								-83.3248594,
+								44.385429
+							],
+							[
+								-83.3248594,
+								44.424898
+							],
+							[
+								-83.360472,
+								44.424898
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 05 09:33:33 +0000 2017",
 		"id": 849555601151668200,
 		"id_str": "849555601151668224",
