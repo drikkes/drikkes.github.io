@@ -1,6 +1,516 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 14:43:12 +0000 2017",
+		"id": 849633525896761300,
+		"id_str": "849633525896761344",
+		"text": "RT @KimKardashian: https://t.co/uJ7W1z5pLY https://t.co/Ex9G7ThWkS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KimKardashian",
+					"name": "Kim Kardashian West",
+					"id": 25365536,
+					"id_str": "25365536",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uJ7W1z5pLY",
+					"expanded_url": "http://Kimoji.com",
+					"display_url": "Kimoji.com",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 849629161844916200,
+					"id_str": "849629161844916224",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/849629161844916224/pu/img/uhLOCil4kxTX2g1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/849629161844916224/pu/img/uhLOCil4kxTX2g1k.jpg",
+					"url": "https://t.co/Ex9G7ThWkS",
+					"display_url": "pic.twitter.com/Ex9G7ThWkS",
+					"expanded_url": "https://twitter.com/KimKardashian/status/849629177988775937/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849629177988776000,
+					"source_status_id_str": "849629177988775937",
+					"source_user_id": 25365536,
+					"source_user_id_str": "25365536"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849629161844916200,
+					"id_str": "849629161844916224",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/849629161844916224/pu/img/uhLOCil4kxTX2g1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/849629161844916224/pu/img/uhLOCil4kxTX2g1k.jpg",
+					"url": "https://t.co/Ex9G7ThWkS",
+					"display_url": "pic.twitter.com/Ex9G7ThWkS",
+					"expanded_url": "https://twitter.com/KimKardashian/status/849629177988775937/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849629177988776000,
+					"source_status_id_str": "849629177988775937",
+					"source_user_id": 25365536,
+					"source_user_id_str": "25365536",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 13500,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/849629161844916224/pu/vid/480x480/mWd2vQr7uWi4t3F4.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/849629161844916224/pu/vid/720x720/OtlI2hhshc_0lB2G.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/849629161844916224/pu/vid/240x240/PgBemJaL0QDuCN0F.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/849629161844916224/pu/pl/TAjke4mMBva8fyi0.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 25365536,
+							"id_str": "25365536",
+							"name": "Kim Kardashian West",
+							"screen_name": "KimKardashian",
+							"location": " ",
+							"description": "",
+							"url": "https://t.co/bM4eYwSJCx",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/bM4eYwSJCx",
+											"expanded_url": "http://AppStore.com/KimKardashianWest",
+											"display_url": "AppStore.com/KimKardashianW…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 50785823,
+							"friends_count": 108,
+							"listed_count": 80417,
+							"created_at": "Thu Mar 19 19:21:56 +0000 2009",
+							"favourites_count": 0,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 22853,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/816328762606243840/sCT5hHSV_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/816328762606243840/sCT5hHSV_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/25365536/1483463179",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "EEEEEE",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 158,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3917,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 05 14:25:56 +0000 2017",
+			"id": 849629177988776000,
+			"id_str": "849629177988775937",
+			"text": "https://t.co/uJ7W1z5pLY https://t.co/Ex9G7ThWkS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uJ7W1z5pLY",
+						"expanded_url": "http://Kimoji.com",
+						"display_url": "Kimoji.com",
+						"indices": [
+							0,
+							23
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 849629161844916200,
+						"id_str": "849629161844916224",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/849629161844916224/pu/img/uhLOCil4kxTX2g1k.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/849629161844916224/pu/img/uhLOCil4kxTX2g1k.jpg",
+						"url": "https://t.co/Ex9G7ThWkS",
+						"display_url": "pic.twitter.com/Ex9G7ThWkS",
+						"expanded_url": "https://twitter.com/KimKardashian/status/849629177988775937/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849629161844916200,
+						"id_str": "849629161844916224",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/849629161844916224/pu/img/uhLOCil4kxTX2g1k.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/849629161844916224/pu/img/uhLOCil4kxTX2g1k.jpg",
+						"url": "https://t.co/Ex9G7ThWkS",
+						"display_url": "pic.twitter.com/Ex9G7ThWkS",
+						"expanded_url": "https://twitter.com/KimKardashian/status/849629177988775937/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 13500,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/849629161844916224/pu/vid/480x480/mWd2vQr7uWi4t3F4.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/849629161844916224/pu/vid/720x720/OtlI2hhshc_0lB2G.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/849629161844916224/pu/vid/240x240/PgBemJaL0QDuCN0F.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/849629161844916224/pu/pl/TAjke4mMBva8fyi0.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25365536,
+				"id_str": "25365536",
+				"name": "Kim Kardashian West",
+				"screen_name": "KimKardashian",
+				"location": " ",
+				"description": "",
+				"url": "https://t.co/bM4eYwSJCx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bM4eYwSJCx",
+								"expanded_url": "http://AppStore.com/KimKardashianWest",
+								"display_url": "AppStore.com/KimKardashianW…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50785823,
+				"friends_count": 108,
+				"listed_count": 80417,
+				"created_at": "Thu Mar 19 19:21:56 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22853,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816328762606243840/sCT5hHSV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816328762606243840/sCT5hHSV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25365536/1483463179",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 278,
+			"favorite_count": 1421,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Wed Apr 05 12:23:02 +0000 2017",
 		"id": 849598249531048000,
 		"id_str": "849598249531047937",
