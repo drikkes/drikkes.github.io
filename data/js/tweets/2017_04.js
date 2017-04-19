@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 22:01:54 +0000 2017",
+		"id": 854817356081713200,
+		"id_str": "854817356081713153",
+		"text": "RT @vrorosa: Balenciaga sells £1,705 version of IKEA's blue tote bag worth 40p https://t.co/12dwAZunMu via @dezeen",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vrorosa",
+					"name": "Die Gräfin",
+					"id": 65939164,
+					"id_str": "65939164",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "Dezeen",
+					"name": "Dezeen",
+					"id": 26012202,
+					"id_str": "26012202",
+					"indices": [
+						107,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/12dwAZunMu",
+					"expanded_url": "https://www.dezeen.com/2017/04/19/balenciaga-luxury-version-iconic-blue-ikea-fakta-tote-bag-fashion-design/",
+					"display_url": "dezeen.com/2017/04/19/bal…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 897,
+			"friends_count": 157,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3937,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15648,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 19 20:12:24 +0000 2017",
+			"id": 854789803107332100,
+			"id_str": "854789803107332098",
+			"text": "Balenciaga sells £1,705 version of IKEA's blue tote bag worth 40p https://t.co/12dwAZunMu via @dezeen",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Dezeen",
+						"name": "Dezeen",
+						"id": 26012202,
+						"id_str": "26012202",
+						"indices": [
+							94,
+							101
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/12dwAZunMu",
+						"expanded_url": "https://www.dezeen.com/2017/04/19/balenciaga-luxury-version-iconic-blue-ikea-fakta-tote-bag-fashion-design/",
+						"display_url": "dezeen.com/2017/04/19/bal…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65939164,
+				"id_str": "65939164",
+				"name": "Die Gräfin",
+				"screen_name": "vrorosa",
+				"location": "Düsseldorf, Deutschland",
+				"description": "Digital Creative. From Jena, based in DUS. Speaks DE, EN and IT. Likes social media, fashion, design, art, photography, movies, travelling, food and coffee.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 390,
+				"friends_count": 919,
+				"listed_count": 29,
+				"created_at": "Sat Aug 15 17:37:59 +0000 2009",
+				"favourites_count": 2018,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10173,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/707792778/0e8205501f073438f111aa98e055a49b.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/707792778/0e8205501f073438f111aa98e055a49b.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/833451394015305732/DFhE9AMd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/833451394015305732/DFhE9AMd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65939164/1487545326",
+				"profile_link_color": "E61986",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D98FE0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 19 16:23:23 +0000 2017",
 		"id": 854732168391786500,
 		"id_str": "854732168391786496",
