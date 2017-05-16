@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 16 06:05:20 +0000 2017",
+		"id": 864361100933857300,
+		"id_str": "864361100933857282",
+		"text": "RT @fudgecrumpet: Right click on image\nSave\nRight click on desktop\nGraphics Options\nSet as Wallpaper\nUnplug keyboard/mouse\nGo home https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fudgecrumpet",
+					"name": "Fudgey",
+					"id": 20578883,
+					"id_str": "20578883",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 157,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3904,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15752,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 15 08:03:38 +0000 2017",
+			"id": 864028483936292900,
+			"id_str": "864028483936292866",
+			"text": "Right click on image\nSave\nRight click on desktop\nGraphics Options\nSet as Wallpaper\nUnplug keyboard/mouse\nGo home https://t.co/AZHCz8fHbT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 864028472808796200,
+						"id_str": "864028472808796160",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C_2lUXWXcAAtHGF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_2lUXWXcAAtHGF.jpg",
+						"url": "https://t.co/AZHCz8fHbT",
+						"display_url": "pic.twitter.com/AZHCz8fHbT",
+						"expanded_url": "https://twitter.com/fudgecrumpet/status/864028483936292866/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 814,
+								"h": 616,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 515,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 814,
+								"h": 616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 864028472808796200,
+						"id_str": "864028472808796160",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/C_2lUXWXcAAtHGF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_2lUXWXcAAtHGF.jpg",
+						"url": "https://t.co/AZHCz8fHbT",
+						"display_url": "pic.twitter.com/AZHCz8fHbT",
+						"expanded_url": "https://twitter.com/fudgecrumpet/status/864028483936292866/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 814,
+								"h": 616,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 515,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 814,
+								"h": 616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20578883,
+				"id_str": "20578883",
+				"name": "Fudgey",
+				"screen_name": "fudgecrumpet",
+				"location": "Huddlefuddle, Yorks, UK",
+				"description": "The Unboxable Meat. Good veins. The horse-headed Hotel California of Twitter. Shorter than you expected.",
+				"url": "https://t.co/Z5a4Y8CF2C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z5a4Y8CF2C",
+								"expanded_url": "http://www.fudgecrumpet.com",
+								"display_url": "fudgecrumpet.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7477,
+				"friends_count": 4819,
+				"listed_count": 430,
+				"created_at": "Wed Feb 11 08:39:30 +0000 2009",
+				"favourites_count": 11068,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 319231,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000105",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/744255292/106f3fa63685b6585cb3e7f786df6dce.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/744255292/106f3fa63685b6585cb3e7f786df6dce.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853593311411679233/dYq45yTO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853593311411679233/dYq45yTO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20578883/1483690852",
+				"profile_link_color": "4040EB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "5C258F",
+				"profile_text_color": "000794",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3113,
+			"favorite_count": 3654,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3113,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 15 21:32:08 +0000 2017",
 		"id": 864231951447863300,
 		"id_str": "864231951447863296",
