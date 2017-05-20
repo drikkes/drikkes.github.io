@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 20 11:19:58 +0000 2017",
+		"id": 865889831943110700,
+		"id_str": "865889831943110656",
+		"text": "RT @SunApology: Hey @TheSun. Seems to be a fine line between journalism and being perverts doesn't it? https://t.co/vnK5yWALmF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SunApology",
+					"name": "The Sun Apologies",
+					"id": 3695810837,
+					"id_str": "3695810837",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "TheSun",
+					"name": "The Sun",
+					"id": 34655603,
+					"id_str": "34655603",
+					"indices": [
+						20,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 865689638177996800,
+					"id_str": "865689638177996800",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DAOMI6lWAAAqWkb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAOMI6lWAAAqWkb.jpg",
+					"url": "https://t.co/vnK5yWALmF",
+					"display_url": "pic.twitter.com/vnK5yWALmF",
+					"expanded_url": "https://twitter.com/SunApology/status/865689711867813891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1327,
+							"h": 1665,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 956,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865689711867813900,
+					"source_status_id_str": "865689711867813891",
+					"source_user_id": 3695810837,
+					"source_user_id_str": "3695810837"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 865689638177996800,
+					"id_str": "865689638177996800",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DAOMI6lWAAAqWkb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAOMI6lWAAAqWkb.jpg",
+					"url": "https://t.co/vnK5yWALmF",
+					"display_url": "pic.twitter.com/vnK5yWALmF",
+					"expanded_url": "https://twitter.com/SunApology/status/865689711867813891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1327,
+							"h": 1665,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 956,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865689711867813900,
+					"source_status_id_str": "865689711867813891",
+					"source_user_id": 3695810837,
+					"source_user_id_str": "3695810837"
+				},
+				{
+					"id": 865689690522955800,
+					"id_str": "865689690522955776",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DAOML9lWsAAXRoN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAOML9lWsAAXRoN.jpg",
+					"url": "https://t.co/vnK5yWALmF",
+					"display_url": "pic.twitter.com/vnK5yWALmF",
+					"expanded_url": "https://twitter.com/SunApology/status/865689711867813891/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865689711867813900,
+					"source_status_id_str": "865689711867813891",
+					"source_user_id": 3695810837,
+					"source_user_id_str": "3695810837"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 897,
+			"friends_count": 157,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3912,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15773,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 19 22:04:45 +0000 2017",
+			"id": 865689711867813900,
+			"id_str": "865689711867813891",
+			"text": "Hey @TheSun. Seems to be a fine line between journalism and being perverts doesn't it? https://t.co/vnK5yWALmF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheSun",
+						"name": "The Sun",
+						"id": 34655603,
+						"id_str": "34655603",
+						"indices": [
+							4,
+							11
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 865689638177996800,
+						"id_str": "865689638177996800",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DAOMI6lWAAAqWkb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAOMI6lWAAAqWkb.jpg",
+						"url": "https://t.co/vnK5yWALmF",
+						"display_url": "pic.twitter.com/vnK5yWALmF",
+						"expanded_url": "https://twitter.com/SunApology/status/865689711867813891/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1327,
+								"h": 1665,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 956,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 542,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 865689638177996800,
+						"id_str": "865689638177996800",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DAOMI6lWAAAqWkb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAOMI6lWAAAqWkb.jpg",
+						"url": "https://t.co/vnK5yWALmF",
+						"display_url": "pic.twitter.com/vnK5yWALmF",
+						"expanded_url": "https://twitter.com/SunApology/status/865689711867813891/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1327,
+								"h": 1665,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 956,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 542,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 865689690522955800,
+						"id_str": "865689690522955776",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DAOML9lWsAAXRoN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAOML9lWsAAXRoN.jpg",
+						"url": "https://t.co/vnK5yWALmF",
+						"display_url": "pic.twitter.com/vnK5yWALmF",
+						"expanded_url": "https://twitter.com/SunApology/status/865689711867813891/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3695810837,
+				"id_str": "3695810837",
+				"name": "The Sun Apologies",
+				"screen_name": "SunApology",
+				"location": "United Kingdom",
+				"description": "Making sure The Sun newspaper's apologies are read far and wide. Commentary on other Sun stories to keep ourselves busy in the long, barren periods in between",
+				"url": "https://t.co/kQvdzIDkgg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kQvdzIDkgg",
+								"expanded_url": "http://www.facebook.com/SunApology",
+								"display_url": "facebook.com/SunApology",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39539,
+				"friends_count": 375,
+				"listed_count": 238,
+				"created_at": "Fri Sep 18 11:02:42 +0000 2015",
+				"favourites_count": 9555,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6780,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669314306522095616/p23Xz-P6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669314306522095616/p23Xz-P6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3695810837/1448409769",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4654,
+			"favorite_count": 4682,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4654,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 19 07:24:46 +0000 2017",
 		"id": 865468257490264000,
 		"id_str": "865468257490264064",
