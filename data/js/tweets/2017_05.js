@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 24 10:34:49 +0000 2017",
+		"id": 867328024441749500,
+		"id_str": "867328024441749504",
+		"text": "Meine Prognose: Da sich (Noch-)Mitglied Großbritannien dagegen ausspricht, wird die EU so eine Quote aus Trotz einf… https://t.co/AlGoRsNesS",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AlGoRsNesS",
+					"expanded_url": "https://twitter.com/i/web/status/867328024441749504",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 897,
+			"friends_count": 157,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3917,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 867306567124779000,
+		"quoted_status_id_str": "867306567124779008",
+		"quoted_status": {
+			"created_at": "Wed May 24 09:09:34 +0000 2017",
+			"id": 867306567124779000,
+			"id_str": "867306567124779008",
+			"text": "Mehr europäische Inhalte fordert die EU von On-Demand-Anbietern - und belegt sie mit einer 30-Prozent-Quote. https://t.co/HrZMpCvCBa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HrZMpCvCBa",
+						"expanded_url": "http://qmde.de/93363",
+						"display_url": "qmde.de/93363",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40934492,
+				"id_str": "40934492",
+				"name": "Quotenmeter",
+				"screen_name": "quotenmeter",
+				"location": "Germany",
+				"description": "Die Redaktion des Medienmagazins Quotenmeter versorgt euch mit brandneuen Nachrichten & Aktionen aus unserem Loft!",
+				"url": "http://t.co/SlsgPbko9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SlsgPbko9e",
+								"expanded_url": "http://www.quotenmeter.de",
+								"display_url": "quotenmeter.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24965,
+				"friends_count": 393,
+				"listed_count": 452,
+				"created_at": "Mon May 18 18:34:36 +0000 2009",
+				"favourites_count": 356,
+				"utc_offset": 7200,
+				"time_zone": "Berlin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35000,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FEFEFE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000167943394/3kijAI7y.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000167943394/3kijAI7y.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/631384351561916417/3038bhSt_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/631384351561916417/3038bhSt_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40934492/1472647596",
+				"profile_link_color": "2A64A4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E9E9E9",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Wed May 24 10:05:26 +0000 2017",
 		"id": 867320629804052500,
 		"id_str": "867320629804052480",
