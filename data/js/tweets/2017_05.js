@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Mon May 29 21:11:40 +0000 2017",
+		"id": 869300231162261500,
+		"id_str": "869300231162261506",
+		"text": "RT @FCBayernUS: Today, we honor those who have made the ultimate sacrifice for our country. \n\n#MemorialDay https://t.co/j3oBA8Mkdu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MemorialDay",
+					"indices": [
+						94,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FCBayernUS",
+					"name": "FC Bayern US",
+					"id": 2968303511,
+					"id_str": "2968303511",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 869229420497829900,
+					"id_str": "869229420497829888",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DBAfjXUXgAAaw9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBAfjXUXgAAaw9F.jpg",
+					"url": "https://t.co/j3oBA8Mkdu",
+					"display_url": "pic.twitter.com/j3oBA8Mkdu",
+					"expanded_url": "https://twitter.com/FCBayernUS/status/869229423316389888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 869229423316389900,
+					"source_status_id_str": "869229423316389888",
+					"source_user_id": 2968303511,
+					"source_user_id_str": "2968303511"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 869229420497829900,
+					"id_str": "869229420497829888",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DBAfjXUXgAAaw9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBAfjXUXgAAaw9F.jpg",
+					"url": "https://t.co/j3oBA8Mkdu",
+					"display_url": "pic.twitter.com/j3oBA8Mkdu",
+					"expanded_url": "https://twitter.com/FCBayernUS/status/869229423316389888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 869229423316389900,
+					"source_status_id_str": "869229423316389888",
+					"source_user_id": 2968303511,
+					"source_user_id_str": "2968303511"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 157,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3925,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15810,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 29 16:30:18 +0000 2017",
+			"id": 869229423316389900,
+			"id_str": "869229423316389888",
+			"text": "Today, we honor those who have made the ultimate sacrifice for our country. \n\n#MemorialDay https://t.co/j3oBA8Mkdu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MemorialDay",
+						"indices": [
+							78,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 869229420497829900,
+						"id_str": "869229420497829888",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DBAfjXUXgAAaw9F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBAfjXUXgAAaw9F.jpg",
+						"url": "https://t.co/j3oBA8Mkdu",
+						"display_url": "pic.twitter.com/j3oBA8Mkdu",
+						"expanded_url": "https://twitter.com/FCBayernUS/status/869229423316389888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 869229420497829900,
+						"id_str": "869229420497829888",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DBAfjXUXgAAaw9F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBAfjXUXgAAaw9F.jpg",
+						"url": "https://t.co/j3oBA8Mkdu",
+						"display_url": "pic.twitter.com/j3oBA8Mkdu",
+						"expanded_url": "https://twitter.com/FCBayernUS/status/869229423316389888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2968303511,
+				"id_str": "2968303511",
+				"name": "FC Bayern US",
+				"screen_name": "FCBayernUS",
+				"location": "NYC-USA",
+				"description": "The official home of #FCBayernUS on Twitter. English @FCBayernEN / Español @FCBayernES / Deutsch @FCBayern",
+				"url": "https://t.co/im43vA8LuB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/im43vA8LuB",
+								"expanded_url": "http://www.fcbayern.com",
+								"display_url": "fcbayern.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90504,
+				"friends_count": 1364,
+				"listed_count": 528,
+				"created_at": "Thu Jan 08 18:42:25 +0000 2015",
+				"favourites_count": 14166,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33825,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623224501984215040/1SChNyqz.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623224501984215040/1SChNyqz.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762656829935583232/7wFVbHLi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762656829935583232/7wFVbHLi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2968303511/1495296697",
+				"profile_link_color": "B10A2A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 181,
+			"favorite_count": 617,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 29 18:26:57 +0000 2017",
 		"id": 869258779124215800,
 		"id_str": "869258779124215812",
