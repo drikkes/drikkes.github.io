@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 30 10:59:05 +0000 2017",
+		"id": 869508457606590500,
+		"id_str": "869508457606590464",
+		"text": "@ffalt Nach welcher Methode? Das hier sieht fiel fundierter aus. https://t.co/eUctzLG1I1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ffalt",
+					"name": "faktenwulst 🍳",
+					"id": 224790172,
+					"id_str": "224790172",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eUctzLG1I1",
+					"expanded_url": "https://twitter.com/KurtProedel/status/862562749750095873",
+					"display_url": "twitter.com/KurtProedel/st…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 869494166174269400,
+		"in_reply_to_status_id_str": "869494166174269440",
+		"in_reply_to_user_id": 224790172,
+		"in_reply_to_user_id_str": "224790172",
+		"in_reply_to_screen_name": "ffalt",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 157,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3928,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15813,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 862562749750095900,
+		"quoted_status_id_str": "862562749750095873",
+		"quoted_status": {
+			"created_at": "Thu May 11 06:59:19 +0000 2017",
+			"id": 862562749750095900,
+			"id_str": "862562749750095873",
+			"text": "Hab das gesamte Internet visualisiert &amp; die Erkenntnisse sind erschreckend https://t.co/NzwPC2VaWj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 862562741688651800,
+						"id_str": "862562741688651776",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/C_hwPlbW0AAq7VS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_hwPlbW0AAq7VS.jpg",
+						"url": "https://t.co/NzwPC2VaWj",
+						"display_url": "pic.twitter.com/NzwPC2VaWj",
+						"expanded_url": "https://twitter.com/KurtProedel/status/862562749750095873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862562741688651800,
+						"id_str": "862562741688651776",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/C_hwPlbW0AAq7VS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_hwPlbW0AAq7VS.jpg",
+						"url": "https://t.co/NzwPC2VaWj",
+						"display_url": "pic.twitter.com/NzwPC2VaWj",
+						"expanded_url": "https://twitter.com/KurtProedel/status/862562749750095873/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2970160174,
+				"id_str": "2970160174",
+				"name": "Kurt Prödel",
+				"screen_name": "KurtProedel",
+				"location": "Interwebs",
+				"description": "Musikvideos. Kurt ihm sein Hund. Alle Elfers. Auf den Grill sind alle Tiere Gleich. Internet Detox interwebs interwebs",
+				"url": "https://t.co/yK9be0CYcq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yK9be0CYcq",
+								"expanded_url": "http://www.vimeo.com/proedel",
+								"display_url": "vimeo.com/proedel",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12400,
+				"friends_count": 404,
+				"listed_count": 51,
+				"created_at": "Fri Jan 09 17:56:54 +0000 2015",
+				"favourites_count": 32370,
+				"utc_offset": 7200,
+				"time_zone": "Berlin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5415,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860772931252756480/EHFtPUkc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860772931252756480/EHFtPUkc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2970160174/1493994111",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 538,
+			"favorite_count": 3009,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Tue May 30 09:18:45 +0000 2017",
 		"id": 869483209305837600,
 		"id_str": "869483209305837568",
