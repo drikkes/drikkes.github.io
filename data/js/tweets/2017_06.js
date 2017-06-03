@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sat Jun 03 07:28:23 +0000 2017",
+		"id": 870904984891732000,
+		"id_str": "870904984891731968",
+		"text": "RT @TishaRaquel: Ben &amp; Jerry's has had e-fucking-nough. https://t.co/uTGijgR6a9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TishaRaquel",
+					"name": "Tishnerys Targaryen",
+					"id": 387958578,
+					"id_str": "387958578",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 870732675211972600,
+					"id_str": "870732675211972608",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DBV2wThV0AAWEXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBV2wThV0AAWEXy.jpg",
+					"url": "https://t.co/uTGijgR6a9",
+					"display_url": "pic.twitter.com/uTGijgR6a9",
+					"expanded_url": "https://twitter.com/TishaRaquel/status/870732685588803585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 866,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 896,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 870732685588803600,
+					"source_status_id_str": "870732685588803585",
+					"source_user_id": 387958578,
+					"source_user_id_str": "387958578"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 870732675211972600,
+					"id_str": "870732675211972608",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DBV2wThV0AAWEXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBV2wThV0AAWEXy.jpg",
+					"url": "https://t.co/uTGijgR6a9",
+					"display_url": "pic.twitter.com/uTGijgR6a9",
+					"expanded_url": "https://twitter.com/TishaRaquel/status/870732685588803585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 866,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 896,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 870732685588803600,
+					"source_status_id_str": "870732685588803585",
+					"source_user_id": 387958578,
+					"source_user_id_str": "387958578"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 157,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3942,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15833,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 02 20:03:44 +0000 2017",
+			"id": 870732685588803600,
+			"id_str": "870732685588803585",
+			"text": "Ben &amp; Jerry's has had e-fucking-nough. https://t.co/uTGijgR6a9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 870732675211972600,
+						"id_str": "870732675211972608",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DBV2wThV0AAWEXy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBV2wThV0AAWEXy.jpg",
+						"url": "https://t.co/uTGijgR6a9",
+						"display_url": "pic.twitter.com/uTGijgR6a9",
+						"expanded_url": "https://twitter.com/TishaRaquel/status/870732685588803585/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 491,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 866,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 896,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 870732675211972600,
+						"id_str": "870732675211972608",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/DBV2wThV0AAWEXy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBV2wThV0AAWEXy.jpg",
+						"url": "https://t.co/uTGijgR6a9",
+						"display_url": "pic.twitter.com/uTGijgR6a9",
+						"expanded_url": "https://twitter.com/TishaRaquel/status/870732685588803585/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 491,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 866,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 896,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 387958578,
+				"id_str": "387958578",
+				"name": "Tishnerys Targaryen",
+				"screen_name": "TishaRaquel",
+				"location": "Atlanta",
+				"description": "Artist | Astral - She's strange & she's beautiful. Info@TishaRaquel.com",
+				"url": "https://t.co/fPZDkDERIE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fPZDkDERIE",
+								"expanded_url": "http://vsco.co/tisharaquel",
+								"display_url": "vsco.co/tisharaquel",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5008,
+				"friends_count": 873,
+				"listed_count": 81,
+				"created_at": "Sun Oct 09 23:11:04 +0000 2011",
+				"favourites_count": 6897,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 113314,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164965449/WLPAINHn.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164965449/WLPAINHn.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869661354386481152/fAchQccq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869661354386481152/fAchQccq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/387958578/1484323897",
+				"profile_link_color": "DB587B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "AD8671",
+				"profile_text_color": "F5A6A6",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4285,
+			"favorite_count": 5992,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4285,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 02 19:07:56 +0000 2017",
 		"id": 870718644837380100,
 		"id_str": "870718644837380097",
