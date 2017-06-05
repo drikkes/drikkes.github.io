@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 05 20:12:14 +0000 2017",
+		"id": 871821989677289500,
+		"id_str": "871821989677289473",
+		"text": "RT @axaneco: Das dazu. https://t.co/c9wL1SucWo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "axaneco",
+					"name": "ласточка61",
+					"id": 36346578,
+					"id_str": "36346578",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 871802982446366700,
+					"id_str": "871802982446366722",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DBlEMYrXgAINy8q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBlEMYrXgAINy8q.jpg",
+					"url": "https://t.co/c9wL1SucWo",
+					"display_url": "pic.twitter.com/c9wL1SucWo",
+					"expanded_url": "https://twitter.com/axaneco/status/871803164151992320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 108,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 781,
+							"h": 124,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 781,
+							"h": 124,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 871803164151992300,
+					"source_status_id_str": "871803164151992320",
+					"source_user_id": 36346578,
+					"source_user_id_str": "36346578"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 871802982446366700,
+					"id_str": "871802982446366722",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DBlEMYrXgAINy8q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBlEMYrXgAINy8q.jpg",
+					"url": "https://t.co/c9wL1SucWo",
+					"display_url": "pic.twitter.com/c9wL1SucWo",
+					"expanded_url": "https://twitter.com/axaneco/status/871803164151992320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 108,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 781,
+							"h": 124,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 781,
+							"h": 124,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 871803164151992300,
+					"source_status_id_str": "871803164151992320",
+					"source_user_id": 36346578,
+					"source_user_id_str": "36346578"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 897,
+			"friends_count": 157,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3944,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15842,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 05 18:57:26 +0000 2017",
+			"id": 871803164151992300,
+			"id_str": "871803164151992320",
+			"text": "Das dazu. https://t.co/c9wL1SucWo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 871802982446366700,
+						"id_str": "871802982446366722",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DBlEMYrXgAINy8q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBlEMYrXgAINy8q.jpg",
+						"url": "https://t.co/c9wL1SucWo",
+						"display_url": "pic.twitter.com/c9wL1SucWo",
+						"expanded_url": "https://twitter.com/axaneco/status/871803164151992320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 124,
+								"h": 124,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 108,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 781,
+								"h": 124,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 781,
+								"h": 124,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 871802982446366700,
+						"id_str": "871802982446366722",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DBlEMYrXgAINy8q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBlEMYrXgAINy8q.jpg",
+						"url": "https://t.co/c9wL1SucWo",
+						"display_url": "pic.twitter.com/c9wL1SucWo",
+						"expanded_url": "https://twitter.com/axaneco/status/871803164151992320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 124,
+								"h": 124,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 108,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 781,
+								"h": 124,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 781,
+								"h": 124,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 871685494488387600,
+			"in_reply_to_status_id_str": "871685494488387585",
+			"in_reply_to_user_id": 36346578,
+			"in_reply_to_user_id_str": "36346578",
+			"in_reply_to_screen_name": "axaneco",
+			"user": {
+				"id": 36346578,
+				"id_str": "36346578",
+				"name": "ласточка61",
+				"screen_name": "axaneco",
+				"location": "Hamburg, Bangalore, Internet.",
+				"description": "Im Winter betreibe ich einen gemieteten Kamin. Im Sommer trinke ich Hefeweizen.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 446,
+				"friends_count": 388,
+				"listed_count": 27,
+				"created_at": "Wed Apr 29 12:36:08 +0000 2009",
+				"favourites_count": 22628,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19070,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181673138/ZG5ZApxH.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181673138/ZG5ZApxH.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3671727816/9fcc0cd3a135b575d0670ac884ec6bd7_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3671727816/9fcc0cd3a135b575d0670ac884ec6bd7_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36346578/1393235544",
+				"profile_link_color": "11B00C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "95ECA5",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Mon Jun 05 14:54:32 +0000 2017",
 		"id": 871742036025671700,
 		"id_str": "871742036025671682",
