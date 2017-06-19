@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 19 17:30:33 +0000 2017",
+		"id": 876854731339071500,
+		"id_str": "876854731339071489",
+		"text": "“Der Urknall hat stattgefunden, damit heterosexuelle Männer über die Nerdwitze in The Big Bang Theory lachen können… https://t.co/ldQrP0kH4z",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ldQrP0kH4z",
+					"expanded_url": "https://twitter.com/i/web/status/876854731339071489",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 158,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3964,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15911,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "08a29b217555d700",
+			"url": "https://api.twitter.com/1.1/geo/id/08a29b217555d700.json",
+			"place_type": "neighborhood",
+			"name": "Buchheim",
+			"full_name": "Buchheim, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							7.012067,
+							50.948356
+						],
+						[
+							7.035871,
+							50.948356
+						],
+						[
+							7.035871,
+							50.97397
+						],
+						[
+							7.012067,
+							50.97397
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 876839234782593000,
+		"quoted_status_id_str": "876839234782593024",
+		"quoted_status": {
+			"created_at": "Mon Jun 19 16:28:59 +0000 2017",
+			"id": 876839234782593000,
+			"id_str": "876839234782593024",
+			"text": "„Tiere können nicht sprechen, weil sie nichts mitzuteilen haben, was heterosexuelle Männer nicht bereits wissen.“ https://t.co/t7UbzXrzDx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/t7UbzXrzDx",
+						"expanded_url": "http://sz-magazin.sueddeutsche.de/texte/anzeigen/46123",
+						"display_url": "sz-magazin.sueddeutsche.de/texte/anzeigen…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15426691,
+				"id_str": "15426691",
+				"name": "teresa bücker",
+				"screen_name": "fraeulein_tessa",
+				"location": "",
+				"description": "Chefredakteurin @editionf_com | Femininja | Writer | Lover | Good Enough Mom | Redefining Women*s Media",
+				"url": "https://t.co/sNhOoZ3wnP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sNhOoZ3wnP",
+								"expanded_url": "http://www.editionf.com",
+								"display_url": "editionf.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21367,
+				"friends_count": 1351,
+				"listed_count": 670,
+				"created_at": "Mon Jul 14 14:05:29 +0000 2008",
+				"favourites_count": 16003,
+				"utc_offset": -7200,
+				"time_zone": "Greenland",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34561,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2898723/hers.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2898723/hers.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803938628313448450/g_EtfwWo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803938628313448450/g_EtfwWo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15426691/1490280328",
+				"profile_link_color": "992F76",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5F5959",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Mon Jun 19 14:49:13 +0000 2017",
 		"id": 876814129268490200,
 		"id_str": "876814129268490240",
