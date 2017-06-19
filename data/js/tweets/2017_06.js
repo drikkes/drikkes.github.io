@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 19 08:54:42 +0000 2017",
+		"id": 876724912978890800,
+		"id_str": "876724912978890752",
+		"text": "Bei @hugoboss hatten sie das Wochenende über Zeit, sich eine originelle Antwort für @Mario_Gomez auszudenken.… https://t.co/BTUha0wlsN",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HUGOBOSS",
+					"name": "HUGO BOSS",
+					"id": 155949831,
+					"id_str": "155949831",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"screen_name": "Mario_Gomez",
+					"name": "Mario Gomez",
+					"id": 1614874813,
+					"id_str": "1614874813",
+					"indices": [
+						84,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BTUha0wlsN",
+					"expanded_url": "https://twitter.com/i/web/status/876724912978890752",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 158,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 3963,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 875590487452786700,
+		"quoted_status_id_str": "875590487452786691",
+		"quoted_status": {
+			"created_at": "Fri Jun 16 05:46:54 +0000 2017",
+			"id": 875590487452786700,
+			"id_str": "875590487452786691",
+			"text": "Wenn im Gomez-Interview noch eine Antwort fehlt. Fantastisch. \"Slim Fit Anzug angeben\". https://t.co/98clEZkK3B",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 875590478929866800,
+						"id_str": "875590478929866752",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DCa45slUMAAikmi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCa45slUMAAikmi.jpg",
+						"url": "https://t.co/98clEZkK3B",
+						"display_url": "pic.twitter.com/98clEZkK3B",
+						"expanded_url": "https://twitter.com/Dagobert95/status/875590487452786691/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 457,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 806,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1123,
+								"h": 1672,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 875590478929866800,
+						"id_str": "875590478929866752",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DCa45slUMAAikmi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCa45slUMAAikmi.jpg",
+						"url": "https://t.co/98clEZkK3B",
+						"display_url": "pic.twitter.com/98clEZkK3B",
+						"expanded_url": "https://twitter.com/Dagobert95/status/875590487452786691/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 457,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 806,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1123,
+								"h": 1672,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 305786647,
+				"id_str": "305786647",
+				"name": "Thomas Nowag",
+				"screen_name": "Dagobert95",
+				"location": "",
+				"description": "Sportjournalist. Tweets enthalten Wortspiele jeglicher Qualität. Mein Patronus wäre Axel Bellinghausen.",
+				"url": "https://t.co/a8lB57EZcd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a8lB57EZcd",
+								"expanded_url": "http://www.sid.de",
+								"display_url": "sid.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7757,
+				"friends_count": 1845,
+				"listed_count": 167,
+				"created_at": "Thu May 26 19:59:08 +0000 2011",
+				"favourites_count": 201922,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40657,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860605475078975492/qbhy_5eJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860605475078975492/qbhy_5eJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/305786647/1377149320",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 349,
+			"favorite_count": 1359,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Mon Jun 19 06:16:19 +0000 2017",
 		"id": 876685052444368900,
 		"id_str": "876685052444368896",
