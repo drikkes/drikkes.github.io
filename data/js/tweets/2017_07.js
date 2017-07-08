@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sat Jul 08 07:53:25 +0000 2017",
+		"id": 883594858379849700,
+		"id_str": "883594858379849728",
+		"text": "RT @WaldoKanto: Caravans not Côte d'Azur: faded French holiday resorts – in pictures https://t.co/jEFbrXF6TR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WaldoKanto",
+					"name": "Valery Levacher",
+					"id": 22512281,
+					"id_str": "22512281",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jEFbrXF6TR",
+					"expanded_url": "https://www.theguardian.com/artanddesign/gallery/2016/apr/04/caravans-not-cote-dazur-faded-french-holiday-resorts-in-pictures?CMP=share_btn_tw&page=with:img-1#img-1",
+					"display_url": "theguardian.com/artanddesign/g…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 901,
+			"friends_count": 159,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4010,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15993,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 07 22:57:06 +0000 2017",
+			"id": 883459892778082300,
+			"id_str": "883459892778082305",
+			"text": "Caravans not Côte d'Azur: faded French holiday resorts – in pictures https://t.co/jEFbrXF6TR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jEFbrXF6TR",
+						"expanded_url": "https://www.theguardian.com/artanddesign/gallery/2016/apr/04/caravans-not-cote-dazur-faded-french-holiday-resorts-in-pictures?CMP=share_btn_tw&page=with:img-1#img-1",
+						"display_url": "theguardian.com/artanddesign/g…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22512281,
+				"id_str": "22512281",
+				"name": "Valery Levacher",
+				"screen_name": "WaldoKanto",
+				"location": "Paris",
+				"description": "New Topographic - Psychogeography",
+				"url": "http://t.co/IAR5Qm1MCT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IAR5Qm1MCT",
+								"expanded_url": "http://waldoscope.blogspot.fr/",
+								"display_url": "waldoscope.blogspot.fr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3577,
+				"friends_count": 4391,
+				"listed_count": 478,
+				"created_at": "Mon Mar 02 18:01:49 +0000 2009",
+				"favourites_count": 39287,
+				"utc_offset": 7200,
+				"time_zone": "Paris",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 80103,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/88934867/mars1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/88934867/mars1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3695281795/f6f80edacbb88d95ae68bd608a169b2f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3695281795/f6f80edacbb88d95ae68bd608a169b2f_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22512281/1410534309",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5BD78",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
 		"created_at": "Fri Jul 07 23:14:45 +0000 2017",
 		"id": 883464331727450100,
 		"id_str": "883464331727450113",
