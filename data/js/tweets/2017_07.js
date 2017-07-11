@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 11 17:54:16 +0000 2017",
+		"id": 884833232340082700,
+		"id_str": "884833232340082693",
+		"text": "RT @kosmar: #thread https://t.co/8BormjXE7x",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thread",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kosmar",
+					"name": "kosmar 🇪🇺",
+					"id": 1487011,
+					"id_str": "1487011",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8BormjXE7x",
+					"expanded_url": "http://notes.computernotizen.de/2017/07/10/bloggt-wieder/",
+					"display_url": "notes.computernotizen.de/2017/07/10/blo…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 901,
+			"friends_count": 158,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4016,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 11 09:01:07 +0000 2017",
+			"id": 884699060938186800,
+			"id_str": "884699060938186752",
+			"text": "#thread https://t.co/8BormjXE7x",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "thread",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8BormjXE7x",
+						"expanded_url": "http://notes.computernotizen.de/2017/07/10/bloggt-wieder/",
+						"display_url": "notes.computernotizen.de/2017/07/10/blo…",
+						"indices": [
+							8,
+							31
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1487011,
+				"id_str": "1487011",
+				"name": "kosmar 🇪🇺",
+				"screen_name": "kosmar",
+				"location": "Berlin, Germany",
+				"description": "Markus Angermeier · prolific in digital since 1998 // design·frontend·ui·ux·prototypes·logos·lettering // RT≠ack · opinions are yours · parody account",
+				"url": "https://t.co/IBUVQZep0M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IBUVQZep0M",
+								"expanded_url": "http://kosmar.de/",
+								"display_url": "kosmar.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8482,
+				"friends_count": 5142,
+				"listed_count": 536,
+				"created_at": "Mon Mar 19 10:00:56 +0000 2007",
+				"favourites_count": 11180,
+				"utc_offset": 7200,
+				"time_zone": "Europe/Berlin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 54832,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EEEEEE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/1166542/twitter_ritz_orange.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/1166542/twitter_ritz_orange.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2228570189/kosmar_150_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2228570189/kosmar_150_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1487011/1348087304",
+				"profile_link_color": "F83E00",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "555555",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Jul 11 12:14:57 +0000 2017",
 		"id": 884747838105804800,
 		"id_str": "884747838105804800",
