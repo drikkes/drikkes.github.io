@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Mon Jul 24 11:35:03 +0000 2017",
+		"id": 889448839735902200,
+		"id_str": "889448839735902209",
+		"text": "RT @wirresnet: [artikel] blogfoster, werbung und ghostwriting https://t.co/UHGK3pRPWa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wirresnet",
+					"name": "wirres.net",
+					"id": 180106309,
+					"id_str": "180106309",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UHGK3pRPWa",
+					"expanded_url": "http://ift.tt/2vAnMrg",
+					"display_url": "ift.tt/2vAnMrg",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 902,
+			"friends_count": 158,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4037,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 24 08:54:35 +0000 2017",
+			"id": 889408459044683800,
+			"id_str": "889408459044683777",
+			"text": "[artikel] blogfoster, werbung und ghostwriting https://t.co/UHGK3pRPWa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UHGK3pRPWa",
+						"expanded_url": "http://ift.tt/2vAnMrg",
+						"display_url": "ift.tt/2vAnMrg",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 180106309,
+				"id_str": "180106309",
+				"name": "wirres.net",
+				"screen_name": "wirresnet",
+				"location": "",
+				"description": "automatisch gefüllt mit http://t.co/REj6syIb und schwenzel-links",
+				"url": "http://t.co/uDR8WvON1V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/uDR8WvON1V",
+								"expanded_url": "http://wirres.net",
+								"display_url": "wirres.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/REj6syIb",
+								"expanded_url": "http://wirres.net",
+								"display_url": "wirres.net",
+								"indices": [
+									24,
+									44
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 730,
+				"friends_count": 4,
+				"listed_count": 33,
+				"created_at": "Wed Aug 18 21:17:11 +0000 2010",
+				"favourites_count": 52,
+				"utc_offset": 7200,
+				"time_zone": "Berlin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8323,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1105961223/wirres_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105961223/wirres_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180106309/1355484119",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Mon Jul 24 09:19:08 +0000 2017",
 		"id": 889414634427621400,
 		"id_str": "889414634427621377",
