@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 08 22:34:23 +0000 2017",
+		"id": 895050584222576600,
+		"id_str": "895050584222576645",
+		"text": "RT @jr_carpenter: The threat of GPS hacking is pushing nations to return to radio for ship navigation https://t.co/8lkUE6va0g https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jr_carpenter",
+					"name": "J.R. Carpenter",
+					"id": 20463666,
+					"id_str": "20463666",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8lkUE6va0g",
+					"expanded_url": "http://reut.rs/2vx9Ocx",
+					"display_url": "reut.rs/2vx9Ocx",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 904,
+			"friends_count": 160,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4069,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16105,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 08 17:48:41 +0000 2017",
+			"id": 894978686969159700,
+			"id_str": "894978686969159680",
+			"text": "The threat of GPS hacking is pushing nations to return to radio for ship navigation https://t.co/8lkUE6va0g https://t.co/jxgpTaLHod",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8lkUE6va0g",
+						"expanded_url": "http://reut.rs/2vx9Ocx",
+						"display_url": "reut.rs/2vx9Ocx",
+						"indices": [
+							84,
+							107
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 894563573770354700,
+						"id_str": "894563573770354688",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DGog1KuWAAAQqVY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGog1KuWAAAQqVY.jpg",
+						"url": "https://t.co/jxgpTaLHod",
+						"display_url": "pic.twitter.com/jxgpTaLHod",
+						"expanded_url": "https://twitter.com/ReutersWorld/status/894563575653707776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 894563575653707800,
+						"source_status_id_str": "894563575653707776",
+						"source_user_id": 335455570,
+						"source_user_id_str": "335455570"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 894563573770354700,
+						"id_str": "894563573770354688",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DGog1KuWAAAQqVY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGog1KuWAAAQqVY.jpg",
+						"url": "https://t.co/jxgpTaLHod",
+						"display_url": "pic.twitter.com/jxgpTaLHod",
+						"expanded_url": "https://twitter.com/ReutersWorld/status/894563575653707776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 894563575653707800,
+						"source_status_id_str": "894563575653707776",
+						"source_user_id": 335455570,
+						"source_user_id_str": "335455570"
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20463666,
+				"id_str": "20463666",
+				"name": "J.R. Carpenter",
+				"screen_name": "jr_carpenter",
+				"location": "Plymouth, UK",
+				"description": "artist, writer, researcher, foreigner, performer & maker of zines, poetry, fiction, non-fiction, & non-linear web-based narratives",
+				"url": "https://t.co/oAepZyc7zv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oAepZyc7zv",
+								"expanded_url": "http://luckysoap.com",
+								"display_url": "luckysoap.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3229,
+				"friends_count": 298,
+				"listed_count": 231,
+				"created_at": "Mon Feb 09 20:24:22 +0000 2009",
+				"favourites_count": 1510,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23093,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/520504620594896896/UEPTKjZW.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/520504620594896896/UEPTKjZW.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849377076536909828/NSz2Vn6B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849377076536909828/NSz2Vn6B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20463666/1478684896",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D3D7E3",
+				"profile_text_color": "2A1B41",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 08 18:28:41 +0000 2017",
 		"id": 894988754900983800,
 		"id_str": "894988754900983808",
