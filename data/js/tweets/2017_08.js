@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 16 07:41:05 +0000 2017",
+		"id": 897724882045239300,
+		"id_str": "897724882045239297",
+		"text": "RT @mattlanza: lol https://t.co/BkRzwC7xiM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattlanza",
+					"name": "Matt Lanza",
+					"id": 16752675,
+					"id_str": "16752675",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BkRzwC7xiM",
+					"expanded_url": "https://twitter.com/Twitter/status/897519878084608000",
+					"display_url": "twitter.com/Twitter/status…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "-drik S.",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 904,
+			"friends_count": 160,
+			"listed_count": 85,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4077,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16139,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 21:52:55 +0000 2017",
+			"id": 897576864801226800,
+			"id_str": "897576864801226753",
+			"text": "lol https://t.co/BkRzwC7xiM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BkRzwC7xiM",
+						"expanded_url": "https://twitter.com/Twitter/status/897519878084608000",
+						"display_url": "twitter.com/Twitter/status…",
+						"indices": [
+							4,
+							27
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16752675,
+				"id_str": "16752675",
+				"name": "Matt Lanza",
+				"screen_name": "mattlanza",
+				"location": "Houston, TX",
+				"description": "Meteorologist @SpaceCityWx & energy, occnl weather @FiveThirtyEight, Inner Looper, baseball fan, history buff, @RutgersU alum. S. Jersey grown. Thoughts mine.",
+				"url": "https://t.co/DpkCmrOqw1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DpkCmrOqw1",
+								"expanded_url": "http://fivethirtyeight.com/contributors/matt-lanza/",
+								"display_url": "fivethirtyeight.com/contributors/m…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10285,
+				"friends_count": 4133,
+				"listed_count": 408,
+				"created_at": "Wed Oct 15 02:25:36 +0000 2008",
+				"favourites_count": 51236,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 53107,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "146190",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/892905946137018369/FzH0PnmO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/892905946137018369/FzH0PnmO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16752675/1454467796",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "0A090B",
+				"profile_sidebar_fill_color": "0EA088",
+				"profile_text_color": "080707",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 897519878084608000,
+			"quoted_status_id_str": "897519878084608000",
+			"quoted_status": {
+				"created_at": "Tue Aug 15 18:06:28 +0000 2017",
+				"id": 897519878084608000,
+				"id_str": "897519878084608000",
+				"text": "How are you spending #NationalRelaxationDay?",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "NationalRelaxationDay",
+							"indices": [
+								21,
+								43
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 783214,
+					"id_str": "783214",
+					"name": "Twitter",
+					"screen_name": "Twitter",
+					"location": "San Francisco, CA",
+					"description": "Your official source for what’s happening.\n\nNeed a hand? Visit https://t.co/jTMg7YsLw5",
+					"url": "https://t.co/gN5JJwhQy7",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gN5JJwhQy7",
+									"expanded_url": "https://blog.twitter.com/",
+									"display_url": "blog.twitter.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/jTMg7YsLw5",
+									"expanded_url": "https://support.twitter.com",
+									"display_url": "support.twitter.com",
+									"indices": [
+										63,
+										86
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 61627241,
+					"friends_count": 166,
+					"listed_count": 90503,
+					"created_at": "Tue Feb 20 14:35:54 +0000 2007",
+					"favourites_count": 5075,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 5828,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "ACDED6",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/875087697177567232/Qfy0kRIP_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/875087697177567232/Qfy0kRIP_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1500307683",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F6F6F6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 957,
+				"favorite_count": 2939,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 55,
+			"favorite_count": 148,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 897519878084608000,
+		"quoted_status_id_str": "897519878084608000",
+		"retweet_count": 55,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Aug 15 17:54:44 +0000 2017",
 		"id": 897516923491147800,
 		"id_str": "897516923491147776",
