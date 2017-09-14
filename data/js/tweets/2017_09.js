@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 14 09:34:57 +0000 2017",
+		"id": 908262784542154800,
+		"id_str": "908262784542154752",
+		"text": "RT @arambartholl: #dummgelaufen ... https://t.co/61qn3Ma3U1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dummgelaufen",
+					"indices": [
+						18,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arambartholl",
+					"name": "Ar@m B@rtholl",
+					"id": 5375902,
+					"id_str": "5375902",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 908255925391298600,
+					"id_str": "908255925391298565",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
+					"url": "https://t.co/61qn3Ma3U1",
+					"display_url": "pic.twitter.com/61qn3Ma3U1",
+					"expanded_url": "https://twitter.com/arambartholl/status/908256410542145536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908256410542145500,
+					"source_status_id_str": "908256410542145536",
+					"source_user_id": 5375902,
+					"source_user_id_str": "5375902"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 908255925391298600,
+					"id_str": "908255925391298565",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
+					"url": "https://t.co/61qn3Ma3U1",
+					"display_url": "pic.twitter.com/61qn3Ma3U1",
+					"expanded_url": "https://twitter.com/arambartholl/status/908256410542145536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908256410542145500,
+					"source_status_id_str": "908256410542145536",
+					"source_user_id": 5375902,
+					"source_user_id_str": "5375902"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 903,
+			"friends_count": 160,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4120,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 14 09:09:37 +0000 2017",
+			"id": 908256410542145500,
+			"id_str": "908256410542145536",
+			"text": "#dummgelaufen ... https://t.co/61qn3Ma3U1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dummgelaufen",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 908255925391298600,
+						"id_str": "908255925391298565",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
+						"url": "https://t.co/61qn3Ma3U1",
+						"display_url": "pic.twitter.com/61qn3Ma3U1",
+						"expanded_url": "https://twitter.com/arambartholl/status/908256410542145536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 908255925391298600,
+						"id_str": "908255925391298565",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
+						"url": "https://t.co/61qn3Ma3U1",
+						"display_url": "pic.twitter.com/61qn3Ma3U1",
+						"expanded_url": "https://twitter.com/arambartholl/status/908256410542145536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://github.com/mariotaku/twidere/\" rel=\"nofollow\">Twidere for Android #7</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5375902,
+				"id_str": "5375902",
+				"name": "Ar@m B@rtholl",
+				"screen_name": "arambartholl",
+				"location": "Berlin",
+				"description": "offline art",
+				"url": "https://t.co/kdXi844hCc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kdXi844hCc",
+								"expanded_url": "http://www.datenform.de/indexeng.html",
+								"display_url": "datenform.de/indexeng.html",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7476,
+				"friends_count": 1835,
+				"listed_count": 328,
+				"created_at": "Sat Apr 21 09:05:45 +0000 2007",
+				"favourites_count": 3187,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16747,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705696793/14a1821bf1269f2a849d45cedc43f8ce.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705696793/14a1821bf1269f2a849d45cedc43f8ce.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/946607353/gmaps-avatar_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946607353/gmaps-avatar_normal.jpeg",
+				"profile_link_color": "787878",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4DBEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Sep 14 08:32:09 +0000 2017",
 		"id": 908246981465833500,
 		"id_str": "908246981465833474",
