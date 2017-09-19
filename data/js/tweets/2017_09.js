@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 19 10:04:22 +0000 2017",
+		"id": 910082129488437200,
+		"id_str": "910082129488437248",
+		"text": "RT @m_boesch: Björk + Gucci https://t.co/WuIU5kcMQl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "m_boesch",
+					"name": "Marcus Bösch",
+					"id": 14287222,
+					"id_str": "14287222",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WuIU5kcMQl",
+					"expanded_url": "https://www.youtube.com/watch?v=AHabDT6pt5I",
+					"display_url": "youtube.com/watch?v=AHabDT…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 903,
+			"friends_count": 158,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4124,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 19 09:00:09 +0000 2017",
+			"id": 910065968965177300,
+			"id_str": "910065968965177345",
+			"text": "Björk + Gucci https://t.co/WuIU5kcMQl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WuIU5kcMQl",
+						"expanded_url": "https://www.youtube.com/watch?v=AHabDT6pt5I",
+						"display_url": "youtube.com/watch?v=AHabDT…",
+						"indices": [
+							14,
+							37
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14287222,
+				"id_str": "14287222",
+				"name": "Marcus Bösch",
+				"screen_name": "m_boesch",
+				"location": "Berlin, Deutschland",
+				"description": "Co-Founder https://t.co/fOgBFCXeXv and https://t.co/bxr23QIZPa Man at arms https://t.co/6YdGHc0N4I ⚔️",
+				"url": "https://t.co/r1OUBoOM2J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r1OUBoOM2J",
+								"expanded_url": "http://www.marcus-boesch.de",
+								"display_url": "marcus-boesch.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fOgBFCXeXv",
+								"expanded_url": "http://vragments.com",
+								"display_url": "vragments.com",
+								"indices": [
+									11,
+									34
+								]
+							},
+							{
+								"url": "https://t.co/bxr23QIZPa",
+								"expanded_url": "http://thegoodevil.com",
+								"display_url": "thegoodevil.com",
+								"indices": [
+									39,
+									62
+								]
+							},
+							{
+								"url": "https://t.co/6YdGHc0N4I",
+								"expanded_url": "http://mobile-journalism.com",
+								"display_url": "mobile-journalism.com",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4175,
+				"friends_count": 1532,
+				"listed_count": 353,
+				"created_at": "Wed Apr 02 20:31:01 +0000 2008",
+				"favourites_count": 7425,
+				"utc_offset": 7200,
+				"time_zone": "Ljubljana",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8150,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662925753/u2403j1ugg7g6s223c2z.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662925753/u2403j1ugg7g6s223c2z.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711306528792432640/osGzV78D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711306528792432640/osGzV78D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14287222/1441447879",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "0E120A",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "504141",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "4267d6645adb29a6",
+				"url": "https://api.twitter.com/1.1/geo/id/4267d6645adb29a6.json",
+				"place_type": "city",
+				"name": "Leverkusen",
+				"full_name": "Leverkusen, Germany",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								6.899146,
+								51.011133
+							],
+							[
+								7.116138,
+								51.011133
+							],
+							[
+								7.116138,
+								51.097149
+							],
+							[
+								6.899146,
+								51.097149
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "sv"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "sv"
+	},
+	{
+		"created_at": "Tue Sep 19 09:28:28 +0000 2017",
+		"id": 910073095251218400,
+		"id_str": "910073095251218432",
+		"text": "@mspro Kommt darauf an, wer den Begriff \"Revolution\" definiert. https://t.co/jMM64t4z00",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mspro",
+					"name": "Michael Seemann",
+					"id": 5751892,
+					"id_str": "5751892",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jMM64t4z00",
+					"expanded_url": "https://www.diigo.com/item/image/ylgo/0s3v",
+					"display_url": "diigo.com/item/image/ylg…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": 910042391482179600,
+		"in_reply_to_status_id_str": "910042391482179585",
+		"in_reply_to_user_id": 5751892,
+		"in_reply_to_user_id_str": "5751892",
+		"in_reply_to_screen_name": "mspro",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 903,
+			"friends_count": 158,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4124,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Mon Sep 18 15:58:35 +0000 2017",
 		"id": 909808882972856300,
 		"id_str": "909808882972856320",
