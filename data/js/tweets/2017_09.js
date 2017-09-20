@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 20 10:58:11 +0000 2017",
+		"id": 910458058068852700,
+		"id_str": "910458058068852737",
+		"text": "@meneramandarin @jwildeboer @peterbihr @mspro @qz Know this project? https://t.co/zbZoUWrdBL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meneramandarin",
+					"name": "Marlene Ronstedt",
+					"id": 481411008,
+					"id_str": "481411008",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "jwildeboer",
+					"name": "Jan Wildeboer",
+					"id": 16185413,
+					"id_str": "16185413",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "peterbihr",
+					"name": "Peter Bihr 🚀",
+					"id": 823310,
+					"id_str": "823310",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "mspro",
+					"name": "Michael Seemann",
+					"id": 5751892,
+					"id_str": "5751892",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"screen_name": "qz",
+					"name": "Quartz",
+					"id": 573918122,
+					"id_str": "573918122",
+					"indices": [
+						46,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zbZoUWrdBL",
+					"expanded_url": "https://twitter.com/CECHR_UoD/status/910219696942850048",
+					"display_url": "twitter.com/CECHR_UoD/stat…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 910435023769219100,
+		"in_reply_to_status_id_str": "910435023769219072",
+		"in_reply_to_user_id": 481411008,
+		"in_reply_to_user_id_str": "481411008",
+		"in_reply_to_screen_name": "meneramandarin",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 903,
+			"friends_count": 158,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4127,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 910219696942850000,
+		"quoted_status_id_str": "910219696942850048",
+		"quoted_status": {
+			"created_at": "Tue Sep 19 19:11:01 +0000 2017",
+			"id": 910219696942850000,
+			"id_str": "910219696942850048",
+			"text": "Wind power, cryptocurrency in a combo that funds climate change research\n@julian0liver\nhttps://t.co/xEXP2udriB… https://t.co/FjJ77FjWNh",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "julian0liver",
+						"name": "Julian Oliver",
+						"id": 219152305,
+						"id_str": "219152305",
+						"indices": [
+							73,
+							86
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xEXP2udriB",
+						"expanded_url": "http://technology.inquirer.net/67031/wind-power-cryptocurrency-in-a-combo-that-funds-climate-change-research",
+						"display_url": "technology.inquirer.net/67031/wind-pow…",
+						"indices": [
+							87,
+							110
+						]
+					},
+					{
+						"url": "https://t.co/FjJ77FjWNh",
+						"expanded_url": "https://twitter.com/i/web/status/910219696942850048",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 881355501073686500,
+			"in_reply_to_status_id_str": "881355501073686528",
+			"in_reply_to_user_id": 482133423,
+			"in_reply_to_user_id_str": "482133423",
+			"in_reply_to_screen_name": "CECHR_UoD",
+			"user": {
+				"id": 482133423,
+				"id_str": "482133423",
+				"name": "CECHR",
+				"screen_name": "CECHR_UoD",
+				"location": "University of Dundee",
+				"description": "Centre for Environmental Change & Human Resilience: \r\nMain themes: Food Water Energy Health  Sustainability Ecology Environmental Economic & Social Well-being",
+				"url": "http://t.co/AJDpZAGAcw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AJDpZAGAcw",
+								"expanded_url": "http://www.dundee.ac.uk/cechr",
+								"display_url": "dundee.ac.uk/cechr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 143181,
+				"friends_count": 92612,
+				"listed_count": 3581,
+				"created_at": "Fri Feb 03 15:24:19 +0000 2012",
+				"favourites_count": 35939,
+				"utc_offset": 3600,
+				"time_zone": "Edinburgh",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50492,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7FFF2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670598631/97b8437239591ea5e99eb9a2ef911081.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670598631/97b8437239591ea5e99eb9a2ef911081.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/460738918497787904/KrpfiJYt_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/460738918497787904/KrpfiJYt_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/482133423/1398683714",
+				"profile_link_color": "00640F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 20 06:10:36 +0000 2017",
 		"id": 910385686146175000,
 		"id_str": "910385686146174976",
