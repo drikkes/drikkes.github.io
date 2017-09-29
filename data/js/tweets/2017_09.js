@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 29 18:45:57 +0000 2017",
+		"id": 913837266329653200,
+		"id_str": "913837266329653248",
+		"text": "RT @assbach: attention please:.... ! https://t.co/aQBltRkec8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "assbach",
+					"name": "sascha assbach",
+					"id": 1004051,
+					"id_str": "1004051",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aQBltRkec8",
+					"expanded_url": "https://twitter.com/sensibleworld/status/913198085110665216",
+					"display_url": "twitter.com/sensibleworld/…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 904,
+			"friends_count": 158,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4135,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 29 17:47:26 +0000 2017",
+			"id": 913822541092982800,
+			"id_str": "913822541092982784",
+			"text": "attention please:.... ! https://t.co/aQBltRkec8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aQBltRkec8",
+						"expanded_url": "https://twitter.com/sensibleworld/status/913198085110665216",
+						"display_url": "twitter.com/sensibleworld/…",
+						"indices": [
+							24,
+							47
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1004051,
+				"id_str": "1004051",
+				"name": "sascha assbach",
+				"screen_name": "assbach",
+				"location": "cologne, germany",
+				"description": "creative mind #design #ui #ux #web #logos // vocalist @fallofcarthage (#metal) // online marketing manager",
+				"url": "https://t.co/OqwdbcuNxC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OqwdbcuNxC",
+								"expanded_url": "https://assbach.de",
+								"display_url": "assbach.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1758,
+				"friends_count": 621,
+				"listed_count": 137,
+				"created_at": "Mon Mar 12 12:03:34 +0000 2007",
+				"favourites_count": 8668,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21023,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "161616",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/430111153/black-Linen.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/430111153/black-Linen.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/430052588256780289/2SAaFhpd_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/430052588256780289/2SAaFhpd_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1004051/1476947856",
+				"profile_link_color": "226EBF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "333333",
+				"profile_text_color": "999999",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 913198085110665200,
+			"quoted_status_id_str": "913198085110665216",
+			"quoted_status": {
+				"created_at": "Thu Sep 28 00:26:04 +0000 2017",
+				"id": 913198085110665200,
+				"id_str": "913198085110665216",
+				"text": "It's rare, but every once in a while I get to work on icons that will change the course of history. https://t.co/dRq3eyo2B7",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 913197987307941900,
+							"id_str": "913197987307941888",
+							"indices": [
+								100,
+								123
+							],
+							"media_url": "http://pbs.twimg.com/media/DKxUuysXcAAx6Sg.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DKxUuysXcAAx6Sg.jpg",
+							"url": "https://t.co/dRq3eyo2B7",
+							"display_url": "pic.twitter.com/dRq3eyo2B7",
+							"expanded_url": "https://twitter.com/sensibleworld/status/913198085110665216/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1274,
+									"h": 644,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 607,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 344,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 913197987307941900,
+							"id_str": "913197987307941888",
+							"indices": [
+								100,
+								123
+							],
+							"media_url": "http://pbs.twimg.com/media/DKxUuysXcAAx6Sg.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DKxUuysXcAAx6Sg.jpg",
+							"url": "https://t.co/dRq3eyo2B7",
+							"display_url": "pic.twitter.com/dRq3eyo2B7",
+							"expanded_url": "https://twitter.com/sensibleworld/status/913198085110665216/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1274,
+									"h": 644,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 607,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 344,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 85306808,
+					"id_str": "85306808",
+					"name": "Jory Raphael",
+					"screen_name": "sensibleworld",
+					"location": "Vermont, USA",
+					"description": "Freelancer designer + illustrator. Co-Founder of @Notabli. Feverishly working on @Symbolicons Pro.",
+					"url": "https://t.co/IJqT2k1qoz",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/IJqT2k1qoz",
+									"expanded_url": "http://symbolicons.com/kickstarter",
+									"display_url": "symbolicons.com/kickstarter",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3015,
+					"friends_count": 1365,
+					"listed_count": 188,
+					"created_at": "Mon Oct 26 12:49:18 +0000 2009",
+					"favourites_count": 3540,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 10867,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EDEFF0",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/500374023729975298/_A7JoGPj_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/500374023729975298/_A7JoGPj_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/85306808/1442432280",
+					"profile_link_color": "0035C8",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6154,
+				"favorite_count": 21524,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 913198085110665200,
+		"quoted_status_id_str": "913198085110665216",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 29 16:02:08 +0000 2017",
 		"id": 913796041207681000,
 		"id_str": "913796041207681031",
