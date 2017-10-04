@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 04 16:51:47 +0000 2017",
+		"id": 915620477510529000,
+		"id_str": "915620477510529024",
+		"text": "Take a look at the video to get a glimpse of what the new @DropboxDesign could‘ve looked like. https://t.co/n9CgS80My3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DropboxDesign",
+					"name": "Dropbox Design",
+					"id": 1584968156,
+					"id_str": "1584968156",
+					"indices": [
+						58,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n9CgS80My3",
+					"expanded_url": "https://twitter.com/Spex/status/915532319280246784",
+					"display_url": "twitter.com/Spex/status/91…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 902,
+			"friends_count": 158,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4130,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16318,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 915532319280246800,
+		"quoted_status_id_str": "915532319280246784",
+		"quoted_status": {
+			"created_at": "Wed Oct 04 11:01:29 +0000 2017",
+			"id": 915532319280246800,
+			"id_str": "915532319280246784",
+			"text": "#Comeback des Tages: #TheBreeders kündigen neues Album mit erster Single und Deutschlandkonzert an… https://t.co/xlmHKjBl1H",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Comeback",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "TheBreeders",
+						"indices": [
+							21,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xlmHKjBl1H",
+						"expanded_url": "https://twitter.com/i/web/status/915532319280246784",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14315894,
+				"id_str": "14315894",
+				"name": "SPEX Magazin",
+				"screen_name": "Spex",
+				"location": "Berlin, Germany",
+				"description": "http://t.co/cO5rpZgBVg ist eine Dépendance von Spex - Magazin für Popkultur.     Siehe auch: http://t.co/DwFC0wuzNv",
+				"url": "http://t.co/G3HXQfNBIu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/G3HXQfNBIu",
+								"expanded_url": "http://www.spex.de",
+								"display_url": "spex.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/cO5rpZgBVg",
+								"expanded_url": "https://Twitter.com/Spex",
+								"display_url": "Twitter.com/Spex",
+								"indices": [
+									0,
+									22
+								]
+							},
+							{
+								"url": "http://t.co/DwFC0wuzNv",
+								"expanded_url": "https://Twitter.com/SpexLive",
+								"display_url": "Twitter.com/SpexLive",
+								"indices": [
+									93,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 28832,
+				"friends_count": 1455,
+				"listed_count": 838,
+				"created_at": "Sun Apr 06 15:21:40 +0000 2008",
+				"favourites_count": 2957,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14782,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/306723972/Spex334_Twapete.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/306723972/Spex334_Twapete.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/898119986140631042/Ho3xC7lO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/898119986140631042/Ho3xC7lO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14315894/1502964028",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "262824",
+				"profile_sidebar_fill_color": "FAD400",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 04 15:34:07 +0000 2017",
 		"id": 915600930237816800,
 		"id_str": "915600930237816834",
