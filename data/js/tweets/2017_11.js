@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 05 17:40:24 +0000 2017",
+		"id": 927229120941101000,
+		"id_str": "927229120941101057",
+		"text": "/cc @the_maki https://t.co/hKCPX38bYu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "the_maki",
+					"name": "maki",
+					"id": 16695188,
+					"id_str": "16695188",
+					"indices": [
+						4,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hKCPX38bYu",
+					"expanded_url": "https://twitter.com/GabrielBerlin/status/927160024627056640",
+					"display_url": "twitter.com/GabrielBerlin/…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 906,
+			"friends_count": 158,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4159,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16432,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 927160024627056600,
+		"quoted_status_id_str": "927160024627056640",
+		"quoted_status": {
+			"created_at": "Sun Nov 05 13:05:50 +0000 2017",
+			"id": 927160024627056600,
+			"id_str": "927160024627056640",
+			"text": "Nein. https://t.co/U3l3z5PmOY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 927160020130844700,
+						"id_str": "927160020130844672",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/media/DN3vIEHX0AA_gGA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DN3vIEHX0AA_gGA.jpg",
+						"url": "https://t.co/U3l3z5PmOY",
+						"display_url": "pic.twitter.com/U3l3z5PmOY",
+						"expanded_url": "https://twitter.com/GabrielBerlin/status/927160024627056640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 455,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 258,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1334,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 927160020130844700,
+						"id_str": "927160020130844672",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/media/DN3vIEHX0AA_gGA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DN3vIEHX0AA_gGA.jpg",
+						"url": "https://t.co/U3l3z5PmOY",
+						"display_url": "pic.twitter.com/U3l3z5PmOY",
+						"expanded_url": "https://twitter.com/GabrielBerlin/status/927160024627056640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 455,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 258,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1334,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14233899,
+				"id_str": "14233899",
+				"name": "Gabriel Yoran",
+				"screen_name": "GabrielBerlin",
+				"location": "Rhode Island & Berlin",
+				"description": "Co-Founder @JoinSteady, @Steganos, @akaaki. Ph.D. @EuroGradSchool.",
+				"url": "https://t.co/Lo2LaQdWy5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Lo2LaQdWy5",
+								"expanded_url": "http://www.yoran.com",
+								"display_url": "yoran.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3246,
+				"friends_count": 881,
+				"listed_count": 238,
+				"created_at": "Thu Mar 27 09:18:55 +0000 2008",
+				"favourites_count": 98664,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 74361,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "875022",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/483228705947275265/2RJsCx-0.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/483228705947275265/2RJsCx-0.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903524030195621888/WAAejb85_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903524030195621888/WAAejb85_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14233899/1481752607",
+				"profile_link_color": "FF5A00",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EAD4CD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Nov 05 15:29:39 +0000 2017",
 		"id": 927196216835870700,
 		"id_str": "927196216835870720",
