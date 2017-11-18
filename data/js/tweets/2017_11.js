@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 18 09:06:34 +0000 2017",
+		"id": 931810855854985200,
+		"id_str": "931810855854985216",
+		"text": "RT @drikkBot: #future https://t.co/szuRfAbSPG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "future",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drikkBot",
+					"name": "drikkBot",
+					"id": 787924340381720600,
+					"id_str": "787924340381720576",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 931684249798893600,
+					"id_str": "931684249798893568",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DO4B45AW4AAHJUy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO4B45AW4AAHJUy.jpg",
+					"url": "https://t.co/szuRfAbSPG",
+					"display_url": "pic.twitter.com/szuRfAbSPG",
+					"expanded_url": "https://twitter.com/drikkBot/status/931684253464776704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931684253464776700,
+					"source_status_id_str": "931684253464776704",
+					"source_user_id": 787924340381720600,
+					"source_user_id_str": "787924340381720576"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 931684249798893600,
+					"id_str": "931684249798893568",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DO4B45AW4AAHJUy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DO4B45AW4AAHJUy.jpg",
+					"url": "https://t.co/szuRfAbSPG",
+					"display_url": "pic.twitter.com/szuRfAbSPG",
+					"expanded_url": "https://twitter.com/drikkBot/status/931684253464776704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 931684253464776700,
+					"source_status_id_str": "931684253464776704",
+					"source_user_id": 787924340381720600,
+					"source_user_id_str": "787924340381720576"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 161,
+			"listed_count": 0,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4184,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16490,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 18 00:43:30 +0000 2017",
+			"id": 931684253464776700,
+			"id_str": "931684253464776704",
+			"text": "#future https://t.co/szuRfAbSPG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "future",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 931684249798893600,
+						"id_str": "931684249798893568",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DO4B45AW4AAHJUy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DO4B45AW4AAHJUy.jpg",
+						"url": "https://t.co/szuRfAbSPG",
+						"display_url": "pic.twitter.com/szuRfAbSPG",
+						"expanded_url": "https://twitter.com/drikkBot/status/931684253464776704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 931684249798893600,
+						"id_str": "931684249798893568",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DO4B45AW4AAHJUy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DO4B45AW4AAHJUy.jpg",
+						"url": "https://t.co/szuRfAbSPG",
+						"display_url": "pic.twitter.com/szuRfAbSPG",
+						"expanded_url": "https://twitter.com/drikkBot/status/931684253464776704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://it-was-fun-at-first.net/\" rel=\"nofollow\">ItWasFunAtFirst2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 787924340381720600,
+				"id_str": "787924340381720576",
+				"name": "drikkBot",
+				"screen_name": "drikkBot",
+				"location": "Intercourse, PA",
+				"description": "14 bots to the dome.",
+				"url": "https://t.co/pAb0SRWGFm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pAb0SRWGFm",
+								"expanded_url": "http://drikk.es",
+								"display_url": "drikk.es",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9,
+				"friends_count": 55,
+				"listed_count": 3,
+				"created_at": "Mon Oct 17 07:52:56 +0000 2016",
+				"favourites_count": 21,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2326,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787933200853110784/_ky4BDse_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787933200853110784/_ky4BDse_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/787924340381720576/1476693017",
+				"profile_link_color": "17DB50",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Nov 18 08:52:55 +0000 2017",
+		"id": 931807419881140200,
+		"id_str": "931807419881140224",
+		"text": "Die Frau hatte recht, als sie vor Monaten das verdammte Cowboystiefel-Revival voraussagte.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 161,
+			"listed_count": 0,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4184,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16490,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Fri Nov 17 13:35:27 +0000 2017",
 		"id": 931516134918107100,
 		"id_str": "931516134918107136",
