@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 21 18:42:07 +0000 2017",
+		"id": 933042858721935400,
+		"id_str": "933042858721935367",
+		"text": "RT @vmagazine: Collette closes its doors with a final @SaintLaurent pop-up shop. https://t.co/Ygb8uzgJAR https://t.co/sUMLDAwYMb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vmagazine",
+					"name": "V Magazine",
+					"id": 25326324,
+					"id_str": "25326324",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "saintlaurent",
+					"name": "Laurent Rains",
+					"id": 8029722,
+					"id_str": "8029722",
+					"indices": [
+						54,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ygb8uzgJAR",
+					"expanded_url": "https://trib.al/kTARsys",
+					"display_url": "trib.al/kTARsys",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 933033740208455700,
+					"id_str": "933033740208455680",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DPLNPkiUQAATeaA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPLNPkiUQAATeaA.jpg",
+					"url": "https://t.co/sUMLDAwYMb",
+					"display_url": "pic.twitter.com/sUMLDAwYMb",
+					"expanded_url": "https://twitter.com/vmagazine/status/933033744604323840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 742,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1266,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933033744604323800,
+					"source_status_id_str": "933033744604323840",
+					"source_user_id": 25326324,
+					"source_user_id_str": "25326324"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 933033740208455700,
+					"id_str": "933033740208455680",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DPLNPkiUQAATeaA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPLNPkiUQAATeaA.jpg",
+					"url": "https://t.co/sUMLDAwYMb",
+					"display_url": "pic.twitter.com/sUMLDAwYMb",
+					"expanded_url": "https://twitter.com/vmagazine/status/933033744604323840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 742,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1266,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 933033744604323800,
+					"source_status_id_str": "933033744604323840",
+					"source_user_id": 25326324,
+					"source_user_id_str": "25326324"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 160,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4197,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16513,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 21 18:05:54 +0000 2017",
+			"id": 933033744604323800,
+			"id_str": "933033744604323840",
+			"text": "Collette closes its doors with a final @SaintLaurent pop-up shop. https://t.co/Ygb8uzgJAR https://t.co/sUMLDAwYMb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "saintlaurent",
+						"name": "Laurent Rains",
+						"id": 8029722,
+						"id_str": "8029722",
+						"indices": [
+							39,
+							52
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ygb8uzgJAR",
+						"expanded_url": "https://trib.al/kTARsys",
+						"display_url": "trib.al/kTARsys",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 933033740208455700,
+						"id_str": "933033740208455680",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DPLNPkiUQAATeaA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPLNPkiUQAATeaA.jpg",
+						"url": "https://t.co/sUMLDAwYMb",
+						"display_url": "pic.twitter.com/sUMLDAwYMb",
+						"expanded_url": "https://twitter.com/vmagazine/status/933033744604323840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 742,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 420,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1266,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 933033740208455700,
+						"id_str": "933033740208455680",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DPLNPkiUQAATeaA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPLNPkiUQAATeaA.jpg",
+						"url": "https://t.co/sUMLDAwYMb",
+						"display_url": "pic.twitter.com/sUMLDAwYMb",
+						"expanded_url": "https://twitter.com/vmagazine/status/933033744604323840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 742,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 420,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1266,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25326324,
+				"id_str": "25326324",
+				"name": "V Magazine",
+				"screen_name": "vmagazine",
+				"location": "New York, NY",
+				"description": "Where pop culture meets fashion.",
+				"url": "https://t.co/rSKYUcPnVP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rSKYUcPnVP",
+								"expanded_url": "http://www.vmagazine.com",
+								"display_url": "vmagazine.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 964378,
+				"friends_count": 676,
+				"listed_count": 6531,
+				"created_at": "Thu Mar 19 16:07:54 +0000 2009",
+				"favourites_count": 1716,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16085,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614186845669212160/JSq1Vk9Z.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614186845669212160/JSq1Vk9Z.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902184967228284929/Kmlvr2Dg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902184967228284929/Kmlvr2Dg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25326324/1503932653",
+				"profile_link_color": "F5C0C8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 21 17:36:39 +0000 2017",
 		"id": 933026386465509400,
 		"id_str": "933026386465509377",
