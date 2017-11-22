@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 22 15:59:44 +0000 2017",
+		"id": 933364380762243100,
+		"id_str": "933364380762243073",
+		"text": "An mir lag es nicht, daß der Kunde diese Chance auf ein Product Placement verpasst hat. #Taft https://t.co/jXJ56gQrZX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Taft",
+					"indices": [
+						88,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 933363423332663300,
+					"id_str": "933363423332663296",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DPP5Fp4WAAAbtf3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPP5Fp4WAAAbtf3.jpg",
+					"url": "https://t.co/jXJ56gQrZX",
+					"display_url": "pic.twitter.com/jXJ56gQrZX",
+					"expanded_url": "https://twitter.com/drikkes/status/933364380762243073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1318,
+							"h": 738,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 933363423332663300,
+					"id_str": "933363423332663296",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DPP5Fp4WAAAbtf3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPP5Fp4WAAAbtf3.jpg",
+					"url": "https://t.co/jXJ56gQrZX",
+					"display_url": "pic.twitter.com/jXJ56gQrZX",
+					"expanded_url": "https://twitter.com/drikkes/status/933364380762243073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1318,
+							"h": 738,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 933363473333018600,
+					"id_str": "933363473333018624",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DPP5IkJW4AAZi-k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPP5IkJW4AAZi-k.jpg",
+					"url": "https://t.co/jXJ56gQrZX",
+					"display_url": "pic.twitter.com/jXJ56gQrZX",
+					"expanded_url": "https://twitter.com/drikkes/status/933364380762243073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1318,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 637,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 160,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4199,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "b7d3c12268abd20e",
+			"url": "https://api.twitter.com/1.1/geo/id/b7d3c12268abd20e.json",
+			"place_type": "city",
+			"name": "Düsseldorf",
+			"full_name": "Düsseldorf, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.688728,
+							51.124357
+						],
+						[
+							6.939888,
+							51.124357
+						],
+						[
+							6.939888,
+							51.352537
+						],
+						[
+							6.688728,
+							51.352537
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Wed Nov 22 12:59:49 +0000 2017",
 		"id": 933319106740346900,
 		"id_str": "933319106740346880",
