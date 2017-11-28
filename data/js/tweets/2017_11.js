@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 28 16:26:20 +0000 2017",
+		"id": 935545405756067800,
+		"id_str": "935545405756067842",
+		"text": "RT @Liuiu: there are fashionblogs, and there is @FinancialTimes - can't wait for #jwanderson 's take on updating #luxury. https://t.co/AOvp…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "jwanderson",
+					"indices": [
+						81,
+						92
+					]
+				},
+				{
+					"text": "luxury",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Liuiu",
+					"name": "Lvy",
+					"id": 352984827,
+					"id_str": "352984827",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "FinancialTimes",
+					"name": "Financial Times",
+					"id": 4898091,
+					"id_str": "4898091",
+					"indices": [
+						48,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 160,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4207,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16547,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 08:29:54 +0000 2017",
+			"id": 874181954740117500,
+			"id_str": "874181954740117504",
+			"text": "there are fashionblogs, and there is @FinancialTimes - can't wait for #jwanderson 's take on updating #luxury. https://t.co/AOvpDvGlLk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "jwanderson",
+						"indices": [
+							70,
+							81
+						]
+					},
+					{
+						"text": "luxury",
+						"indices": [
+							102,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FinancialTimes",
+						"name": "Financial Times",
+						"id": 4898091,
+						"id_str": "4898091",
+						"indices": [
+							37,
+							52
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 874181951346835500,
+						"id_str": "874181951346835456",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DCG32mcWAAAGtTB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCG32mcWAAAGtTB.jpg",
+						"url": "https://t.co/AOvpDvGlLk",
+						"display_url": "pic.twitter.com/AOvpDvGlLk",
+						"expanded_url": "https://twitter.com/Liuiu/status/874181954740117504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874181951346835500,
+						"id_str": "874181951346835456",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DCG32mcWAAAGtTB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCG32mcWAAAGtTB.jpg",
+						"url": "https://t.co/AOvpDvGlLk",
+						"display_url": "pic.twitter.com/AOvpDvGlLk",
+						"expanded_url": "https://twitter.com/Liuiu/status/874181954740117504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 352984827,
+				"id_str": "352984827",
+				"name": "Lvy",
+				"screen_name": "Liuiu",
+				"location": "Berlin ",
+				"description": "Creative Planner at ANDREAS MURKUDIS. I'm interested in everything that is ungoogleable and mostly don't have a fix plan about anything.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 877,
+				"friends_count": 442,
+				"listed_count": 30,
+				"created_at": "Thu Aug 11 11:17:40 +0000 2011",
+				"favourites_count": 9767,
+				"utc_offset": -10800,
+				"time_zone": "Greenland",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8084,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925444481897451520/651HK4rs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925444481897451520/651HK4rs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/352984827/1504801900",
+				"profile_link_color": "0C0D0D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 28 14:51:40 +0000 2017",
 		"id": 935521581593325600,
 		"id_str": "935521581593325569",
