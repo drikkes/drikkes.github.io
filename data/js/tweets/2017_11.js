@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 29 08:50:02 +0000 2017",
+		"id": 935792957906616300,
+		"id_str": "935792957906616320",
+		"text": "Als nächstes wollen sie dann, daß ich ein Photo Deiner Mudda mache. https://t.co/cWraKiAzfv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cWraKiAzfv",
+					"expanded_url": "https://twitter.com/Pinboard/status/935694838183485440",
+					"display_url": "twitter.com/Pinboard/statu…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 160,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4207,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16550,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "010446192b12ed41",
+			"url": "https://api.twitter.com/1.1/geo/id/010446192b12ed41.json",
+			"place_type": "neighborhood",
+			"name": "City Centre",
+			"full_name": "City Centre, Düsseldorf",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.7752641,
+							51.216921
+						],
+						[
+							6.799789,
+							51.216921
+						],
+						[
+							6.799789,
+							51.2301085
+						],
+						[
+							6.7752641,
+							51.2301085
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 935694838183485400,
+		"quoted_status_id_str": "935694838183485440",
+		"quoted_status": {
+			"created_at": "Wed Nov 29 02:20:08 +0000 2017",
+			"id": 935694838183485400,
+			"id_str": "935694838183485440",
+			"text": "This is a recurring problem with Facebook security. Is this run by @alexstamos (who I trust) or Facebook marketing? https://t.co/OKm4BjNj1V",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "alexstamos",
+						"name": "Alex Stamos",
+						"id": 41603960,
+						"id_str": "41603960",
+						"indices": [
+							67,
+							78
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OKm4BjNj1V",
+						"expanded_url": "https://www.wired.com/story/facebooks-new-captcha-test-upload-a-clear-photo-of-your-face/",
+						"display_url": "wired.com/story/facebook…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://sites.google.com/site/yorufukurou/\" rel=\"nofollow\">YoruFukurou</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55525953,
+				"id_str": "55525953",
+				"name": "Pinboard",
+				"screen_name": "Pinboard",
+				"location": "San Francisco",
+				"description": "INFORMATION GLADLY GIVEN BUT SAFETY REQUIRES AVOIDING UNNECESSARY CONVERSATION",
+				"url": "http://t.co/qOHjNexLMt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qOHjNexLMt",
+								"expanded_url": "http://pinboard.in",
+								"display_url": "pinboard.in",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43502,
+				"friends_count": 37,
+				"listed_count": 2143,
+				"created_at": "Fri Jul 10 10:24:12 +0000 2009",
+				"favourites_count": 142,
+				"utc_offset": 7200,
+				"time_zone": "Bucharest",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45074,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/494414965/logo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/494414965/logo_normal.png",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
+		"created_at": "Wed Nov 29 08:45:40 +0000 2017",
+		"id": 935791860395716600,
+		"id_str": "935791860395716608",
+		"text": "@Frau_Elise Gefunden? https://t.co/uWlJH5WAVZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Frau_Elise",
+					"name": "Daniela Warndorf",
+					"id": 21445012,
+					"id_str": "21445012",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 935791845350756400,
+					"id_str": "935791845350756352",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DPyZua3W0AA6nt9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPyZua3W0AA6nt9.jpg",
+					"url": "https://t.co/uWlJH5WAVZ",
+					"display_url": "pic.twitter.com/uWlJH5WAVZ",
+					"expanded_url": "https://twitter.com/drikkes/status/935791860395716608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 576,
+							"h": 191,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 191,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 935791845350756400,
+					"id_str": "935791845350756352",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DPyZua3W0AA6nt9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPyZua3W0AA6nt9.jpg",
+					"url": "https://t.co/uWlJH5WAVZ",
+					"display_url": "pic.twitter.com/uWlJH5WAVZ",
+					"expanded_url": "https://twitter.com/drikkes/status/935791860395716608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 576,
+							"h": 191,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 576,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 191,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 935791846537814000,
+					"id_str": "935791846537814016",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/DPyZufSX4AAPZ7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPyZufSX4AAPZ7C.jpg",
+					"url": "https://t.co/uWlJH5WAVZ",
+					"display_url": "pic.twitter.com/uWlJH5WAVZ",
+					"expanded_url": "https://twitter.com/drikkes/status/935791860395716608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 605,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 605,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 935783629699067900,
+		"in_reply_to_status_id_str": "935783629699067904",
+		"in_reply_to_user_id": 21445012,
+		"in_reply_to_user_id_str": "21445012",
+		"in_reply_to_screen_name": "Frau_Elise",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 160,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4207,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16550,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Wed Nov 29 07:08:14 +0000 2017",
 		"id": 935767339152396300,
 		"id_str": "935767339152396288",
