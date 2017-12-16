@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 16 10:26:12 +0000 2017",
+		"id": 941977754446286800,
+		"id_str": "941977754446286848",
+		"text": "RT @diplix: ist „event-location gästehaus der polizei“ ein euphemismus für knast? https://t.co/DohyZn2Jdq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "diplix",
+					"name": "felix schwenzel",
+					"id": 5101971,
+					"id_str": "5101971",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 941974516313473000,
+					"id_str": "941974516313473027",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DRKQ1PBVwAMy50S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRKQ1PBVwAMy50S.jpg",
+					"url": "https://t.co/DohyZn2Jdq",
+					"display_url": "pic.twitter.com/DohyZn2Jdq",
+					"expanded_url": "https://twitter.com/diplix/status/941974518825996289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 941974518825996300,
+					"source_status_id_str": "941974518825996289",
+					"source_user_id": 5101971,
+					"source_user_id_str": "5101971"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 941974516313473000,
+					"id_str": "941974516313473027",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DRKQ1PBVwAMy50S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DRKQ1PBVwAMy50S.jpg",
+					"url": "https://t.co/DohyZn2Jdq",
+					"display_url": "pic.twitter.com/DohyZn2Jdq",
+					"expanded_url": "https://twitter.com/diplix/status/941974518825996289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 941974518825996300,
+					"source_status_id_str": "941974518825996289",
+					"source_user_id": 5101971,
+					"source_user_id_str": "5101971"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 901,
+			"friends_count": 160,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4230,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16634,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 16 10:13:20 +0000 2017",
+			"id": 941974518825996300,
+			"id_str": "941974518825996289",
+			"text": "ist „event-location gästehaus der polizei“ ein euphemismus für knast? https://t.co/DohyZn2Jdq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 941974516313473000,
+						"id_str": "941974516313473027",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DRKQ1PBVwAMy50S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRKQ1PBVwAMy50S.jpg",
+						"url": "https://t.co/DohyZn2Jdq",
+						"display_url": "pic.twitter.com/DohyZn2Jdq",
+						"expanded_url": "https://twitter.com/diplix/status/941974518825996289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 941974516313473000,
+						"id_str": "941974516313473027",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DRKQ1PBVwAMy50S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DRKQ1PBVwAMy50S.jpg",
+						"url": "https://t.co/DohyZn2Jdq",
+						"display_url": "pic.twitter.com/DohyZn2Jdq",
+						"expanded_url": "https://twitter.com/diplix/status/941974518825996289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5101971,
+				"id_str": "5101971",
+				"name": "felix schwenzel",
+				"screen_name": "diplix",
+				"location": "berlin",
+				"description": "ix schreibe gerne ins internet.",
+				"url": "https://t.co/KAy8etO3Q8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KAy8etO3Q8",
+								"expanded_url": "https://wirres.net",
+								"display_url": "wirres.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6732,
+				"friends_count": 1597,
+				"listed_count": 268,
+				"created_at": "Wed Apr 18 10:10:16 +0000 2007",
+				"favourites_count": 5767,
+				"utc_offset": 3600,
+				"time_zone": "Berlin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8270,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/15688422/03022687630_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/15688422/03022687630_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5101971/1398331273",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "0000FF",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Sat Dec 16 10:04:14 +0000 2017",
 		"id": 941972228106842100,
 		"id_str": "941972228106842112",
