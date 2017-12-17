@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 17 20:31:36 +0000 2017",
+		"id": 942492498064281600,
+		"id_str": "942492498064281605",
+		"text": "RT @janboehm: das eigentlich schlimme an der ausbeutung der kurierfahrer (dhl/dpd/hermes etc) ist ja, dass wir das LEIDER SEHEN MÜSSEN an d…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janboehm",
+					"name": "Dr. Jan Böhmermann 🤨",
+					"id": 19072286,
+					"id_str": "19072286",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 160,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4231,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16638,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 17 17:18:25 +0000 2017",
+			"id": 942443881693663200,
+			"id_str": "942443881693663232",
+			"text": "das eigentlich schlimme an der ausbeutung der kurierfahrer (dhl/dpd/hermes etc) ist ja, dass wir das LEIDER SEHEN M… https://t.co/Da92fKwqfC",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Da92fKwqfC",
+						"expanded_url": "https://twitter.com/i/web/status/942443881693663232",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19072286,
+				"id_str": "19072286",
+				"name": "Dr. Jan Böhmermann 🤨",
+				"screen_name": "janboehm",
+				"location": "Deutschland",
+				"description": "from the motherland of fun / kundendienst 0221-97581870",
+				"url": "https://t.co/9SEGzQ4VRn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9SEGzQ4VRn",
+								"expanded_url": "http://www.neomagazinroyale.de",
+								"display_url": "neomagazinroyale.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1911324,
+				"friends_count": 837,
+				"listed_count": 2355,
+				"created_at": "Fri Jan 16 15:55:55 +0000 2009",
+				"favourites_count": 8885,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15380,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900645444363186176/gyZ0Xzin_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900645444363186176/gyZ0Xzin_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19072286/1513195756",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 100,
+			"favorite_count": 1051,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de"
+	},
+	{
 		"created_at": "Sun Dec 17 15:56:22 +0000 2017",
 		"id": 942423232560484400,
 		"id_str": "942423232560484357",
