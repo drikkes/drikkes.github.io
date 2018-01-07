@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 07 11:04:16 +0000 2018",
+		"id": 949959867711750100,
+		"id_str": "949959867711750145",
+		"text": "RT @szechuan: I went looking for more details on Otto the badass Octopus and I was not disappointed. https://t.co/TypOm14qS6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "szechuan",
+					"name": "Sacha Judd",
+					"id": 1835701,
+					"id_str": "1835701",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TypOm14qS6",
+					"expanded_url": "http://www.telegraph.co.uk/news/newstopics/howaboutthat/3328480/Otto-the-octopus-wrecks-havoc.html",
+					"display_url": "telegraph.co.uk/news/newstopic…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 905,
+			"friends_count": 159,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4290,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16737,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 07 09:20:51 +0000 2018",
+			"id": 949933842495766500,
+			"id_str": "949933842495766528",
+			"text": "I went looking for more details on Otto the badass Octopus and I was not disappointed. https://t.co/TypOm14qS6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TypOm14qS6",
+						"expanded_url": "http://www.telegraph.co.uk/news/newstopics/howaboutthat/3328480/Otto-the-octopus-wrecks-havoc.html",
+						"display_url": "telegraph.co.uk/news/newstopic…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1835701,
+				"id_str": "1835701",
+				"name": "Sacha Judd",
+				"screen_name": "szechuan",
+				"location": "New Zealand",
+				"description": "MD, https://t.co/bcX8PFiPZe. Host of @refactornz & @floundersclub. Talks about fans & tech https://t.co/KMqJlmr3hy.",
+				"url": "http://t.co/ao43ctlZe3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ao43ctlZe3",
+								"expanded_url": "http://sachajudd.com",
+								"display_url": "sachajudd.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/bcX8PFiPZe",
+								"expanded_url": "http://hoku.nz",
+								"display_url": "hoku.nz",
+								"indices": [
+									4,
+									27
+								]
+							},
+							{
+								"url": "https://t.co/KMqJlmr3hy",
+								"expanded_url": "http://www.sachajudd.com/one-direction",
+								"display_url": "sachajudd.com/one-direction",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4240,
+				"friends_count": 203,
+				"listed_count": 105,
+				"created_at": "Thu Mar 22 04:38:53 +0000 2007",
+				"favourites_count": 15137,
+				"utc_offset": 46800,
+				"time_zone": "Wellington",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17248,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847340315312668673/lwwVo3Bv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847340315312668673/lwwVo3Bv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1835701/1432535640",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 07 06:37:05 +0000 2018",
 		"id": 949892629537476600,
 		"id_str": "949892629537476609",
