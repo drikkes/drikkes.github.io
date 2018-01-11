@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 11 09:39:46 +0000 2018",
+		"id": 951388152828235800,
+		"id_str": "951388152828235776",
+		"text": "RT @matt_levine: have sex using smart contracts on the blockchain https://t.co/O6TGPhOzko https://t.co/KAvCKwC6Xb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "matt_levine",
+					"name": "Matt Levine",
+					"id": 14230772,
+					"id_str": "14230772",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O6TGPhOzko",
+					"expanded_url": "https://legalfling.io/",
+					"display_url": "legalfling.io",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 951147727404044300,
+					"id_str": "951147727404044288",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DTMn0ZTWkAAY3xl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTMn0ZTWkAAY3xl.jpg",
+					"url": "https://t.co/KAvCKwC6Xb",
+					"display_url": "pic.twitter.com/KAvCKwC6Xb",
+					"expanded_url": "https://twitter.com/matt_levine/status/951147744772743168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 588,
+							"h": 274,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 588,
+							"h": 274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 274,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951147744772743200,
+					"source_status_id_str": "951147744772743168",
+					"source_user_id": 14230772,
+					"source_user_id_str": "14230772"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 951147727404044300,
+					"id_str": "951147727404044288",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DTMn0ZTWkAAY3xl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTMn0ZTWkAAY3xl.jpg",
+					"url": "https://t.co/KAvCKwC6Xb",
+					"display_url": "pic.twitter.com/KAvCKwC6Xb",
+					"expanded_url": "https://twitter.com/matt_levine/status/951147744772743168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 588,
+							"h": 274,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 588,
+							"h": 274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 274,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 951147744772743200,
+					"source_status_id_str": "951147744772743168",
+					"source_user_id": 14230772,
+					"source_user_id_str": "14230772"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 902,
+			"friends_count": 158,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4307,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16763,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 10 17:44:28 +0000 2018",
+			"id": 951147744772743200,
+			"id_str": "951147744772743168",
+			"text": "have sex using smart contracts on the blockchain https://t.co/O6TGPhOzko https://t.co/KAvCKwC6Xb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/O6TGPhOzko",
+						"expanded_url": "https://legalfling.io/",
+						"display_url": "legalfling.io",
+						"indices": [
+							49,
+							72
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 951147727404044300,
+						"id_str": "951147727404044288",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DTMn0ZTWkAAY3xl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTMn0ZTWkAAY3xl.jpg",
+						"url": "https://t.co/KAvCKwC6Xb",
+						"display_url": "pic.twitter.com/KAvCKwC6Xb",
+						"expanded_url": "https://twitter.com/matt_levine/status/951147744772743168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 588,
+								"h": 274,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 588,
+								"h": 274,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 588,
+								"h": 274,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 951147727404044300,
+						"id_str": "951147727404044288",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DTMn0ZTWkAAY3xl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTMn0ZTWkAAY3xl.jpg",
+						"url": "https://t.co/KAvCKwC6Xb",
+						"display_url": "pic.twitter.com/KAvCKwC6Xb",
+						"expanded_url": "https://twitter.com/matt_levine/status/951147744772743168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 588,
+								"h": 274,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 588,
+								"h": 274,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 588,
+								"h": 274,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14230772,
+				"id_str": "14230772",
+				"name": "Matt Levine",
+				"screen_name": "matt_levine",
+				"location": "New York",
+				"description": "da, wo Menschen arbeiten, wird es immer Fehler geben",
+				"url": "https://t.co/vdjRJ7WaE3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vdjRJ7WaE3",
+								"expanded_url": "https://www.bloomberg.com/view/contributors/matt-levine",
+								"display_url": "bloomberg.com/view/contribut…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61752,
+				"friends_count": 994,
+				"listed_count": 1333,
+				"created_at": "Wed Mar 26 23:08:52 +0000 2008",
+				"favourites_count": 16110,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13731,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827563076861952002/aoo1vUGJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827563076861952002/aoo1vUGJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14230772/1466458791",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 368,
+			"favorite_count": 699,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 368,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 11 08:22:04 +0000 2018",
 		"id": 951368601684136000,
 		"id_str": "951368601684135936",
