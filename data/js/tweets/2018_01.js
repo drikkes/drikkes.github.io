@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 12 08:07:04 +0000 2018",
+		"id": 951727214831292400,
+		"id_str": "951727214831292417",
+		"text": "Der neue Sisyphos steht übrigens Venloer Ecke Heliosstraße auf einer Leiter und kratzt die Sticker an der Rückseite eines Stoppschilds ab.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 902,
+			"friends_count": 158,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4308,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16769,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de"
+	},
+	{
+		"created_at": "Fri Jan 12 07:14:32 +0000 2018",
+		"id": 951713992766050300,
+		"id_str": "951713992766050305",
+		"text": "RT @CleverTitleTK: So Dan. Let's say Victor Scavino arrives from Canelli, Italy in 1904, then brother Hector in 1905, brother Gildo in 1912…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CleverTitleTK",
+					"name": "Jennifer Mendelsohn",
+					"id": 30451813,
+					"id_str": "30451813",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 902,
+			"friends_count": 158,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4308,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16769,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 11 16:06:55 +0000 2018",
+			"id": 951485584090034200,
+			"id_str": "951485584090034176",
+			"text": "So Dan. Let's say Victor Scavino arrives from Canelli, Italy in 1904, then brother Hector in 1905, brother Gildo in… https://t.co/7GbpM088mu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7GbpM088mu",
+						"expanded_url": "https://twitter.com/i/web/status/951485584090034176",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30451813,
+				"id_str": "30451813",
+				"name": "Jennifer Mendelsohn",
+				"screen_name": "CleverTitleTK",
+				"location": "Charm City",
+				"description": "{{{Bestselling author of The Hunger Games. Wait, that's not me. Mom. Old school journo. #resistancegenealogy/DNA geek; outer of fakers; creator @fixedittrump }}",
+				"url": "https://t.co/jO2y3HaGut",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jO2y3HaGut",
+								"expanded_url": "http://www.jenmen.com/p/about-jennifer-mendelsohn.html",
+								"display_url": "jenmen.com/p/about-jennif…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12447,
+				"friends_count": 2838,
+				"listed_count": 375,
+				"created_at": "Sat Apr 11 14:03:51 +0000 2009",
+				"favourites_count": 10005,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 68585,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAE2AC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/63466972/mqparceldeath.br.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/63466972/mqparceldeath.br.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/907629931684823041/hzyRBFK2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/907629931684823041/hzyRBFK2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30451813/1507553571",
+				"profile_link_color": "757575",
+				"profile_sidebar_border_color": "FAE2AC",
+				"profile_sidebar_fill_color": "FF0010",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 950909774023020500,
+			"quoted_status_id_str": "950909774023020545",
+			"quoted_status": {
+				"created_at": "Wed Jan 10 01:58:51 +0000 2018",
+				"id": 950909774023020500,
+				"id_str": "950909774023020545",
+				"text": "It’s time to end #ChainMigration!\nRead more via @WhiteHouse⤵️\nhttps://t.co/02PxKLZdXk",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "ChainMigration",
+							"indices": [
+								17,
+								32
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "WhiteHouse",
+							"name": "The White House",
+							"id": 822215673812119600,
+							"id_str": "822215673812119553",
+							"indices": [
+								48,
+								59
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/02PxKLZdXk",
+							"expanded_url": "https://www.whitehouse.gov/articles/time-end-chain-migration/",
+							"display_url": "whitehouse.gov/articles/time-…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 823367015830323200,
+					"id_str": "823367015830323201",
+					"name": "Dan Scavino Jr.",
+					"screen_name": "Scavino45",
+					"location": "Washington, DC",
+					"description": "AP | Director of Social Media | White House",
+					"url": "https://t.co/wyOVgSLgBV",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/wyOVgSLgBV",
+									"expanded_url": "http://www.WhiteHouse.gov",
+									"display_url": "WhiteHouse.gov",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 211339,
+					"friends_count": 522,
+					"listed_count": 1586,
+					"created_at": "Mon Jan 23 03:09:28 +0000 2017",
+					"favourites_count": 829,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 2521,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/942069259944984576/DVdPnxZY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/942069259944984576/DVdPnxZY_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/823367015830323201/1514322801",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1158,
+				"favorite_count": 3560,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 11346,
+			"favorite_count": 29101,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 950909774023020500,
+		"quoted_status_id_str": "950909774023020545",
+		"retweet_count": 11346,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 11 17:14:16 +0000 2018",
 		"id": 951502533553479700,
 		"id_str": "951502533553479685",
