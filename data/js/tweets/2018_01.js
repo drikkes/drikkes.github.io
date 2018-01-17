@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 17 10:54:11 +0000 2018",
+		"id": 953581210034475000,
+		"id_str": "953581210034475009",
+		"text": "Skittles ))) Super Important Super Bowl News -  https://t.co/XeFpHBvgZn Skittles nails it again.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XeFpHBvgZn",
+					"expanded_url": "http://xing.com/r/WMPny",
+					"display_url": "xing.com/r/WMPny",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.xing.com/\" rel=\"nofollow\">XING</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 904,
+			"friends_count": 159,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4318,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16802,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 17 10:27:40 +0000 2018",
+		"id": 953574533964943400,
+		"id_str": "953574533964943362",
+		"text": "RT @axaneco: TIL: Das \"Forum elektronische Rechnung Deutschland\" hat ein Format namens \"Zentraler User Guide\" entwickelt und deshalb heißt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "axaneco",
+					"name": "ласточка61",
+					"id": 36346578,
+					"id_str": "36346578",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 904,
+			"friends_count": 159,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4318,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16802,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 17 08:41:58 +0000 2018",
+			"id": 953547935769354200,
+			"id_str": "953547935769354240",
+			"text": "TIL: Das \"Forum elektronische Rechnung Deutschland\" hat ein Format namens \"Zentraler User Guide\" entwickelt und des… https://t.co/P39Booxqth",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/P39Booxqth",
+						"expanded_url": "https://twitter.com/i/web/status/953547935769354240",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36346578,
+				"id_str": "36346578",
+				"name": "ласточка61",
+				"screen_name": "axaneco",
+				"location": "Hamburg, Bangalore, Internet.",
+				"description": "Im Winter betreibe ich einen gemieteten Kamin. Im Sommer trinke ich Hefeweizen.",
+				"url": "https://t.co/aKHrv1taUY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aKHrv1taUY",
+								"expanded_url": "https://axanecoblog.wordpress.com/",
+								"display_url": "axanecoblog.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 462,
+				"friends_count": 397,
+				"listed_count": 26,
+				"created_at": "Wed Apr 29 12:36:08 +0000 2009",
+				"favourites_count": 25785,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20420,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181673138/ZG5ZApxH.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181673138/ZG5ZApxH.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/915847293345177600/7NfLO1Lb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/915847293345177600/7NfLO1Lb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36346578/1393235544",
+				"profile_link_color": "11B00C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "95ECA5",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de"
+	},
+	{
 		"created_at": "Wed Jan 17 10:04:36 +0000 2018",
 		"id": 953568731850002400,
 		"id_str": "953568731850002432",
