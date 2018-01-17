@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 17 02:58:42 +0000 2018",
+		"id": 953461550869893100,
+		"id_str": "953461550869893122",
+		"text": "RT @Marx2018: Karl Marx erzählt Friedrich Engels #OnThisDay 1858 über seinen Arbeitsrhythmus der vergangenen Wochen: https://t.co/PZ5XPsdXSl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnThisDay",
+					"indices": [
+						49,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Marx2018",
+					"name": "Karl-Marx-Haus Trier",
+					"id": 707507439730597900,
+					"id_str": "707507439730597888",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 950039948190801900,
+					"id_str": "950039948190801920",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DS84TKJX4AAw9bV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DS84TKJX4AAw9bV.jpg",
+					"url": "https://t.co/PZ5XPsdXSl",
+					"display_url": "pic.twitter.com/PZ5XPsdXSl",
+					"expanded_url": "https://twitter.com/Marx2018/status/953166177899110400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 953166177899110400,
+					"source_status_id_str": "953166177899110400",
+					"source_user_id": 707507439730597900,
+					"source_user_id_str": "707507439730597888"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 950039948190801900,
+					"id_str": "950039948190801920",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DS84TKJX4AAw9bV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DS84TKJX4AAw9bV.jpg",
+					"url": "https://t.co/PZ5XPsdXSl",
+					"display_url": "pic.twitter.com/PZ5XPsdXSl",
+					"expanded_url": "https://twitter.com/Marx2018/status/953166177899110400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 953166177899110400,
+					"source_status_id_str": "953166177899110400",
+					"source_user_id": 707507439730597900,
+					"source_user_id_str": "707507439730597888"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 904,
+			"friends_count": 159,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4316,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 16 07:25:00 +0000 2018",
+			"id": 953166177899110400,
+			"id_str": "953166177899110400",
+			"text": "Karl Marx erzählt Friedrich Engels #OnThisDay 1858 über seinen Arbeitsrhythmus der vergangenen Wochen: https://t.co/PZ5XPsdXSl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OnThisDay",
+						"indices": [
+							35,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 950039948190801900,
+						"id_str": "950039948190801920",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DS84TKJX4AAw9bV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS84TKJX4AAw9bV.jpg",
+						"url": "https://t.co/PZ5XPsdXSl",
+						"display_url": "pic.twitter.com/PZ5XPsdXSl",
+						"expanded_url": "https://twitter.com/Marx2018/status/953166177899110400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950039948190801900,
+						"id_str": "950039948190801920",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DS84TKJX4AAw9bV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS84TKJX4AAw9bV.jpg",
+						"url": "https://t.co/PZ5XPsdXSl",
+						"display_url": "pic.twitter.com/PZ5XPsdXSl",
+						"expanded_url": "https://twitter.com/Marx2018/status/953166177899110400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 707507439730597900,
+				"id_str": "707507439730597888",
+				"name": "Karl-Marx-Haus Trier",
+				"screen_name": "Marx2018",
+				"location": "Trier, Deutschland",
+				"description": "Hier twittert das Karl-Marx-Haus in Trier. Impressum: https://t.co/RZAoHbVXwS",
+				"url": "https://t.co/myiFlClkZh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/myiFlClkZh",
+								"expanded_url": "https://www.fes.de/marx/index_gr.html",
+								"display_url": "fes.de/marx/index_gr.…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RZAoHbVXwS",
+								"expanded_url": "http://www.fes.de/lnk/impressum",
+								"display_url": "fes.de/lnk/impressum",
+								"indices": [
+									54,
+									77
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 764,
+				"friends_count": 542,
+				"listed_count": 15,
+				"created_at": "Wed Mar 09 10:04:53 +0000 2016",
+				"favourites_count": 260,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 907,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/707508977119174656/PptEWlQu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/707508977119174656/PptEWlQu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/707507439730597888/1457519857",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 80,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Tue Jan 16 18:04:25 +0000 2018",
 		"id": 953327092510462000,
 		"id_str": "953327092510461953",
