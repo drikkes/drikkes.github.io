@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sat Jan 20 10:51:00 +0000 2018",
+		"id": 954667569142739000,
+		"id_str": "954667569142738944",
+		"text": "RT @presentcorrect: Apple Mac mouse tutorial. 1989. https://t.co/VW4VcRWNPe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "presentcorrect",
+					"name": "Present & Correct",
+					"id": 20228975,
+					"id_str": "20228975",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 954339088806576100,
+					"id_str": "954339088806576128",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DT5-WE-WAAA6Z_j.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DT5-WE-WAAA6Z_j.jpg",
+					"url": "https://t.co/VW4VcRWNPe",
+					"display_url": "pic.twitter.com/VW4VcRWNPe",
+					"expanded_url": "https://twitter.com/presentcorrect/status/954339125443915777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 518,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 518,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 518,
+							"h": 350,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954339125443915800,
+					"source_status_id_str": "954339125443915777",
+					"source_user_id": 20228975,
+					"source_user_id_str": "20228975"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 954339088806576100,
+					"id_str": "954339088806576128",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DT5-WE-WAAA6Z_j.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DT5-WE-WAAA6Z_j.jpg",
+					"url": "https://t.co/VW4VcRWNPe",
+					"display_url": "pic.twitter.com/VW4VcRWNPe",
+					"expanded_url": "https://twitter.com/presentcorrect/status/954339125443915777/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 518,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 518,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 518,
+							"h": 350,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954339125443915800,
+					"source_status_id_str": "954339125443915777",
+					"source_user_id": 20228975,
+					"source_user_id_str": "20228975",
+					"video_info": {
+						"aspect_ratio": [
+							37,
+							25
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DT5-WE-WAAA6Z_j.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 905,
+			"friends_count": 159,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4323,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16819,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 19 13:05:52 +0000 2018",
+			"id": 954339125443915800,
+			"id_str": "954339125443915777",
+			"text": "Apple Mac mouse tutorial. 1989. https://t.co/VW4VcRWNPe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 954339088806576100,
+						"id_str": "954339088806576128",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DT5-WE-WAAA6Z_j.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DT5-WE-WAAA6Z_j.jpg",
+						"url": "https://t.co/VW4VcRWNPe",
+						"display_url": "pic.twitter.com/VW4VcRWNPe",
+						"expanded_url": "https://twitter.com/presentcorrect/status/954339125443915777/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 518,
+								"h": 350,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 518,
+								"h": 350,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 518,
+								"h": 350,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 954339088806576100,
+						"id_str": "954339088806576128",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DT5-WE-WAAA6Z_j.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DT5-WE-WAAA6Z_j.jpg",
+						"url": "https://t.co/VW4VcRWNPe",
+						"display_url": "pic.twitter.com/VW4VcRWNPe",
+						"expanded_url": "https://twitter.com/presentcorrect/status/954339125443915777/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 518,
+								"h": 350,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 518,
+								"h": 350,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 518,
+								"h": 350,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								37,
+								25
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DT5-WE-WAAA6Z_j.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20228975,
+				"id_str": "20228975",
+				"name": "Present & Correct",
+				"screen_name": "presentcorrect",
+				"location": "London, England",
+				"description": "Office sundries for the modern workspace. Open 12-6:30 from Tuesday to Saturday. 23 Arlington Way, London EC1R https://t.co/GJEpCvONvl",
+				"url": "https://t.co/GJEpCvONvl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GJEpCvONvl",
+								"expanded_url": "http://www.presentandcorrect.com",
+								"display_url": "presentandcorrect.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GJEpCvONvl",
+								"expanded_url": "http://www.presentandcorrect.com",
+								"display_url": "presentandcorrect.com",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 42776,
+				"friends_count": 882,
+				"listed_count": 934,
+				"created_at": "Fri Feb 06 10:49:40 +0000 2009",
+				"favourites_count": 2590,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39599,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDEDED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/192717054/twitter5.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/192717054/twitter5.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875381488539361280/S20DH0Zr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875381488539361280/S20DH0Zr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20228975/1427463162",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 716,
+			"favorite_count": 1956,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 716,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
 		"created_at": "Sat Jan 20 09:27:52 +0000 2018",
 		"id": 954646650563252200,
 		"id_str": "954646650563252225",
