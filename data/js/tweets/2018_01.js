@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 28 18:09:17 +0000 2018",
+		"id": 957676972586491900,
+		"id_str": "957676972586491904",
+		"text": "Eine kurze Geschichte des Lasters https://t.co/28eYWKxXsU https://t.co/ZFzMA9l3Rw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/28eYWKxXsU",
+					"expanded_url": "https://www.republik.ch/2018/01/18/eine-kurze-geschichte-des-lasters",
+					"display_url": "republik.ch/2018/01/18/ein…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 957676964097265700,
+					"id_str": "957676964097265665",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DUpaH_aXkAEZNaM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUpaH_aXkAEZNaM.jpg",
+					"url": "https://t.co/ZFzMA9l3Rw",
+					"display_url": "pic.twitter.com/ZFzMA9l3Rw",
+					"expanded_url": "https://twitter.com/drikkes/status/957676972586491904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 735,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1254,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 957676964097265700,
+					"id_str": "957676964097265665",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/DUpaH_aXkAEZNaM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUpaH_aXkAEZNaM.jpg",
+					"url": "https://t.co/ZFzMA9l3Rw",
+					"display_url": "pic.twitter.com/ZFzMA9l3Rw",
+					"expanded_url": "https://twitter.com/drikkes/status/957676972586491904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 735,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1254,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 903,
+			"friends_count": 157,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4340,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16854,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91696099,
+				6.96596981
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96596981,
+				50.91696099
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Sun Jan 28 15:30:02 +0000 2018",
 		"id": 957636896775172100,
 		"id_str": "957636896775172097",
