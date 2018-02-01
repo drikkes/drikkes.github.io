@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 01 11:47:22 +0000 2018",
+		"id": 959030410423537700,
+		"id_str": "959030410423537664",
+		"text": "RT @iamsosorry: Oh... oh god https://t.co/69plSkrFwy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamsosorry",
+					"name": "Andrew Spena",
+					"id": 16555006,
+					"id_str": "16555006",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 958839231589199900,
+					"id_str": "958839231589199873",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DU57M3OVMAETvM4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DU57M3OVMAETvM4.jpg",
+					"url": "https://t.co/69plSkrFwy",
+					"display_url": "pic.twitter.com/69plSkrFwy",
+					"expanded_url": "https://twitter.com/iamsosorry/status/958839243475996672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 993,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1694,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 562,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 958839243475996700,
+					"source_status_id_str": "958839243475996672",
+					"source_user_id": 16555006,
+					"source_user_id_str": "16555006"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 958839231589199900,
+					"id_str": "958839231589199873",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DU57M3OVMAETvM4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DU57M3OVMAETvM4.jpg",
+					"url": "https://t.co/69plSkrFwy",
+					"display_url": "pic.twitter.com/69plSkrFwy",
+					"expanded_url": "https://twitter.com/iamsosorry/status/958839243475996672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 993,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1694,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 562,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 958839243475996700,
+					"source_status_id_str": "958839243475996672",
+					"source_user_id": 16555006,
+					"source_user_id_str": "16555006"
+				},
+				{
+					"id": 958839231601717200,
+					"id_str": "958839231601717248",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DU57M3RUMAAsgEx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DU57M3RUMAAsgEx.jpg",
+					"url": "https://t.co/69plSkrFwy",
+					"display_url": "pic.twitter.com/69plSkrFwy",
+					"expanded_url": "https://twitter.com/iamsosorry/status/958839243475996672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 993,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 562,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1694,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 958839243475996700,
+					"source_status_id_str": "958839243475996672",
+					"source_user_id": 16555006,
+					"source_user_id_str": "16555006"
+				},
+				{
+					"id": 958839231585042400,
+					"id_str": "958839231585042432",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DU57M3NVwAAWaZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DU57M3NVwAAWaZq.jpg",
+					"url": "https://t.co/69plSkrFwy",
+					"display_url": "pic.twitter.com/69plSkrFwy",
+					"expanded_url": "https://twitter.com/iamsosorry/status/958839243475996672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 993,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1059,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 958839243475996700,
+					"source_status_id_str": "958839243475996672",
+					"source_user_id": 16555006,
+					"source_user_id_str": "16555006"
+				},
+				{
+					"id": 958839231589244900,
+					"id_str": "958839231589244928",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DU57M3OV4AAQDsr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DU57M3OV4AAQDsr.jpg",
+					"url": "https://t.co/69plSkrFwy",
+					"display_url": "pic.twitter.com/69plSkrFwy",
+					"expanded_url": "https://twitter.com/iamsosorry/status/958839243475996672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 729,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 729,
+							"h": 854,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 958839243475996700,
+					"source_status_id_str": "958839243475996672",
+					"source_user_id": 16555006,
+					"source_user_id_str": "16555006"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 903,
+			"friends_count": 157,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4348,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 31 23:07:44 +0000 2018",
+			"id": 958839243475996700,
+			"id_str": "958839243475996672",
+			"text": "Oh... oh god https://t.co/69plSkrFwy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 958839231589199900,
+						"id_str": "958839231589199873",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DU57M3OVMAETvM4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DU57M3OVMAETvM4.jpg",
+						"url": "https://t.co/69plSkrFwy",
+						"display_url": "pic.twitter.com/69plSkrFwy",
+						"expanded_url": "https://twitter.com/iamsosorry/status/958839243475996672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 993,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1694,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 562,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 958839231589199900,
+						"id_str": "958839231589199873",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DU57M3OVMAETvM4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DU57M3OVMAETvM4.jpg",
+						"url": "https://t.co/69plSkrFwy",
+						"display_url": "pic.twitter.com/69plSkrFwy",
+						"expanded_url": "https://twitter.com/iamsosorry/status/958839243475996672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 993,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1694,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 562,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 958839231601717200,
+						"id_str": "958839231601717248",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DU57M3RUMAAsgEx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DU57M3RUMAAsgEx.jpg",
+						"url": "https://t.co/69plSkrFwy",
+						"display_url": "pic.twitter.com/69plSkrFwy",
+						"expanded_url": "https://twitter.com/iamsosorry/status/958839243475996672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 993,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 562,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1694,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 958839231585042400,
+						"id_str": "958839231585042432",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DU57M3NVwAAWaZq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DU57M3NVwAAWaZq.jpg",
+						"url": "https://t.co/69plSkrFwy",
+						"display_url": "pic.twitter.com/69plSkrFwy",
+						"expanded_url": "https://twitter.com/iamsosorry/status/958839243475996672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 993,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1059,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 563,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 958839231589244900,
+						"id_str": "958839231589244928",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/DU57M3OV4AAQDsr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DU57M3OV4AAQDsr.jpg",
+						"url": "https://t.co/69plSkrFwy",
+						"display_url": "pic.twitter.com/69plSkrFwy",
+						"expanded_url": "https://twitter.com/iamsosorry/status/958839243475996672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 729,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 580,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 729,
+								"h": 854,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16555006,
+				"id_str": "16555006",
+				"name": "Andrew Spena",
+				"screen_name": "iamsosorry",
+				"location": "Brooklyn, NY",
+				"description": "12 Time Book-It Personal Pan Pizza Winner",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2914,
+				"friends_count": 923,
+				"listed_count": 33,
+				"created_at": "Thu Oct 02 03:39:24 +0000 2008",
+				"favourites_count": 60001,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11614,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCC675",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/89701686/group.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/89701686/group.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910263705455202304/Zd8IgXR6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910263705455202304/Zd8IgXR6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16555006/1487630833",
+				"profile_link_color": "417372",
+				"profile_sidebar_border_color": "9EAD7D",
+				"profile_sidebar_fill_color": "9EAD7D",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 836,
+			"favorite_count": 2792,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 836,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 01 11:06:29 +0000 2018",
 		"id": 959020124064936000,
 		"id_str": "959020124064935937",
