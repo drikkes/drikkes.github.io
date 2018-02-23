@@ -1,6 +1,505 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 23 16:35:34 +0000 2018",
+		"id": 967075469597270000,
+		"id_str": "967075469597270016",
+		"text": "GCDS SS18 CAMPAIGN | BUMFUCK NOWHERE By Nadia Lee Cohen (Explicit Contents) https://t.co/AcfOIDBTXS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AcfOIDBTXS",
+					"expanded_url": "https://tmblr.co/ZgWPay2VSU_rj",
+					"display_url": "tmblr.co/ZgWPay2VSU_rj",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4369,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 23 16:23:55 +0000 2018",
+		"id": 967072539498504200,
+		"id_str": "967072539498504192",
+		"text": "RT @copyranter: A reminder that the best ideas are visual and simple as fck. Agency: Mother London. Via @itspeteski https://t.co/35BLempA66",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "copyranter",
+					"name": "Mark Duffy",
+					"id": 21574612,
+					"id_str": "21574612",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "itspeteski",
+					"name": "Peteski",
+					"id": 90698449,
+					"id_str": "90698449",
+					"indices": [
+						104,
+						115
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 967060527275917300,
+					"id_str": "967060527275917312",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DWuwbQSVQAAJohB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWuwbQSVQAAJohB.jpg",
+					"url": "https://t.co/35BLempA66",
+					"display_url": "pic.twitter.com/35BLempA66",
+					"expanded_url": "https://twitter.com/copyranter/status/967060580711333888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 742,
+							"h": 938,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 938,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 967060580711333900,
+					"source_status_id_str": "967060580711333888",
+					"source_user_id": 21574612,
+					"source_user_id_str": "21574612"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 967060527275917300,
+					"id_str": "967060527275917312",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DWuwbQSVQAAJohB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWuwbQSVQAAJohB.jpg",
+					"url": "https://t.co/35BLempA66",
+					"display_url": "pic.twitter.com/35BLempA66",
+					"expanded_url": "https://twitter.com/copyranter/status/967060580711333888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 742,
+							"h": 938,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 938,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 967060580711333900,
+					"source_status_id_str": "967060580711333888",
+					"source_user_id": 21574612,
+					"source_user_id_str": "21574612"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4369,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 23 15:36:24 +0000 2018",
+			"id": 967060580711333900,
+			"id_str": "967060580711333888",
+			"text": "A reminder that the best ideas are visual and simple as fck. Agency: Mother London. Via @itspeteski https://t.co/35BLempA66",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "itspeteski",
+						"name": "Peteski",
+						"id": 90698449,
+						"id_str": "90698449",
+						"indices": [
+							88,
+							99
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 967060527275917300,
+						"id_str": "967060527275917312",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DWuwbQSVQAAJohB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWuwbQSVQAAJohB.jpg",
+						"url": "https://t.co/35BLempA66",
+						"display_url": "pic.twitter.com/35BLempA66",
+						"expanded_url": "https://twitter.com/copyranter/status/967060580711333888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 742,
+								"h": 938,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 538,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 742,
+								"h": 938,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 967060527275917300,
+						"id_str": "967060527275917312",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DWuwbQSVQAAJohB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWuwbQSVQAAJohB.jpg",
+						"url": "https://t.co/35BLempA66",
+						"display_url": "pic.twitter.com/35BLempA66",
+						"expanded_url": "https://twitter.com/copyranter/status/967060580711333888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 742,
+								"h": 938,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 538,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 742,
+								"h": 938,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21574612,
+				"id_str": "21574612",
+				"name": "Mark Duffy",
+				"screen_name": "copyranter",
+				"location": "New York City",
+				"description": "VERIFIED Best Ad Critic In The World™. CLIO, One Show, Bobcat Pin. My wrist shot is better than yours, average slapshot, sublime passer. Tips: copyranter@gmail",
+				"url": "https://t.co/qPs0PRj7Y1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qPs0PRj7Y1",
+								"expanded_url": "http://copyranter.blogspot.com/",
+								"display_url": "copyranter.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24486,
+				"friends_count": 0,
+				"listed_count": 1266,
+				"created_at": "Sun Feb 22 16:11:04 +0000 2009",
+				"favourites_count": 197,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8010,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050505",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/466946898775916544/RmQ94Krm.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/466946898775916544/RmQ94Krm.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/718156299205214209/boWz9GXH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/718156299205214209/boWz9GXH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21574612/1398339554",
+				"profile_link_color": "41B7D1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5F0F0",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 23 14:33:21 +0000 2018",
 		"id": 967044714775138300,
 		"id_str": "967044714775138304",
