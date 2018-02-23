@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 23 11:01:49 +0000 2018",
+		"id": 966991479687217200,
+		"id_str": "966991479687217152",
+		"text": "RT @hex2: Ich, morgens beim Anziehen... https://t.co/hXUYmPTscl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hex2",
+					"name": "Sinep Eztof van Anigav der I. 🤴🏻",
+					"id": 21085402,
+					"id_str": "21085402",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 966946159674576900,
+					"id_str": "966946159674576896",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/966946159674576896/pu/img/NK5ipNeWunefGksQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/966946159674576896/pu/img/NK5ipNeWunefGksQ.jpg",
+					"url": "https://t.co/hXUYmPTscl",
+					"display_url": "pic.twitter.com/hXUYmPTscl",
+					"expanded_url": "https://twitter.com/hex2/status/966946285092855814/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966946285092855800,
+					"source_status_id_str": "966946285092855814",
+					"source_user_id": 21085402,
+					"source_user_id_str": "21085402"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 966946159674576900,
+					"id_str": "966946159674576896",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/966946159674576896/pu/img/NK5ipNeWunefGksQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/966946159674576896/pu/img/NK5ipNeWunefGksQ.jpg",
+					"url": "https://t.co/hXUYmPTscl",
+					"display_url": "pic.twitter.com/hXUYmPTscl",
+					"expanded_url": "https://twitter.com/hex2/status/966946285092855814/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966946285092855800,
+					"source_status_id_str": "966946285092855814",
+					"source_user_id": 21085402,
+					"source_user_id_str": "21085402",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 114115,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/966946159674576896/pu/vid/180x320/lks6fFOLhKtmj6HE.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/966946159674576896/pu/vid/720x1280/XIl3Ho0a2uaQkSO2.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/966946159674576896/pu/pl/CI2tfIYxYn4o4s7a.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/966946159674576896/pu/vid/360x640/aoNxUlAr_gAwdCig.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 21085402,
+							"id_str": "21085402",
+							"name": "Sinep Eztof van Anigav der I. 🤴🏻",
+							"screen_name": "hex2",
+							"location": "Nienburg",
+							"description": "Es tut uns leid. Dieser Penis ist in Ihrer Vagina leider nicht verfügbar.",
+							"url": "https://t.co/6HkdAHq1LK",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/6HkdAHq1LK",
+											"expanded_url": "http://drunkenfish.de/card/",
+											"display_url": "drunkenfish.de/card/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 4968,
+							"friends_count": 371,
+							"listed_count": 294,
+							"created_at": "Tue Feb 17 12:44:00 +0000 2009",
+							"favourites_count": 237537,
+							"utc_offset": 3600,
+							"time_zone": "Paris",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 404007,
+							"lang": "de",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/479808036/fear1.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/479808036/fear1.jpg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/898489850197880832/cGAB3O_6_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/898489850197880832/cGAB3O_6_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/21085402/1503050430",
+							"profile_link_color": "981CEB",
+							"profile_sidebar_border_color": "B0BEC7",
+							"profile_sidebar_fill_color": "E9EEF1",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 899,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4370,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16988,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 23 08:02:14 +0000 2018",
+			"id": 966946285092855800,
+			"id_str": "966946285092855814",
+			"text": "Ich, morgens beim Anziehen... https://t.co/hXUYmPTscl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 966946159674576900,
+						"id_str": "966946159674576896",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/966946159674576896/pu/img/NK5ipNeWunefGksQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/966946159674576896/pu/img/NK5ipNeWunefGksQ.jpg",
+						"url": "https://t.co/hXUYmPTscl",
+						"display_url": "pic.twitter.com/hXUYmPTscl",
+						"expanded_url": "https://twitter.com/hex2/status/966946285092855814/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966946159674576900,
+						"id_str": "966946159674576896",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/966946159674576896/pu/img/NK5ipNeWunefGksQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/966946159674576896/pu/img/NK5ipNeWunefGksQ.jpg",
+						"url": "https://t.co/hXUYmPTscl",
+						"display_url": "pic.twitter.com/hXUYmPTscl",
+						"expanded_url": "https://twitter.com/hex2/status/966946285092855814/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 114115,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/966946159674576896/pu/vid/180x320/lks6fFOLhKtmj6HE.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/966946159674576896/pu/vid/720x1280/XIl3Ho0a2uaQkSO2.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/966946159674576896/pu/pl/CI2tfIYxYn4o4s7a.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/966946159674576896/pu/vid/360x640/aoNxUlAr_gAwdCig.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21085402,
+				"id_str": "21085402",
+				"name": "Sinep Eztof van Anigav der I. 🤴🏻",
+				"screen_name": "hex2",
+				"location": "Nienburg",
+				"description": "Es tut uns leid. Dieser Penis ist in Ihrer Vagina leider nicht verfügbar.",
+				"url": "https://t.co/6HkdAHq1LK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6HkdAHq1LK",
+								"expanded_url": "http://drunkenfish.de/card/",
+								"display_url": "drunkenfish.de/card/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4968,
+				"friends_count": 371,
+				"listed_count": 294,
+				"created_at": "Tue Feb 17 12:44:00 +0000 2009",
+				"favourites_count": 237537,
+				"utc_offset": 3600,
+				"time_zone": "Paris",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 404007,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/479808036/fear1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/479808036/fear1.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/898489850197880832/cGAB3O_6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/898489850197880832/cGAB3O_6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21085402/1503050430",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "B0BEC7",
+				"profile_sidebar_fill_color": "E9EEF1",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Fri Feb 23 09:09:11 +0000 2018",
 		"id": 966963137076441100,
 		"id_str": "966963137076441088",
