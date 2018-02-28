@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 28 15:33:32 +0000 2018",
+		"id": 968871798082277400,
+		"id_str": "968871798082277378",
+		"text": "Könnt Ihr Euch noch dran erinnern, wie @EditionF_com sich über gestellte Stockphotos und das mißglückte Coral-Influ… https://t.co/vU6O4MKgTW",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EditionF_com",
+					"name": "EDITION F",
+					"id": 1734940808,
+					"id_str": "1734940808",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vU6O4MKgTW",
+					"expanded_url": "https://twitter.com/i/web/status/968871798082277378",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 157,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4356,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 968824604989980700,
+		"quoted_status_id_str": "968824604989980672",
+		"quoted_status": {
+			"created_at": "Wed Feb 28 12:26:00 +0000 2018",
+			"id": 968824604989980700,
+			"id_str": "968824604989980672",
+			"text": "Morgan Diguerher: „Ich übersetze die Bedürfnisse von Frauen in Design“ https://t.co/JiGCe0dvHV #Anzeige https://t.co/8x1jfXSE3n",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Anzeige",
+						"indices": [
+							95,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JiGCe0dvHV",
+						"expanded_url": "https://editionf.com/Liebeskind-Berlin-Side-by-Side-Interview-mit-Morgan-Diguerher",
+						"display_url": "editionf.com/Liebeskind-Ber…",
+						"indices": [
+							71,
+							94
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 968819811328364500,
+						"id_str": "968819811328364544",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DXHwfEGWkAAFvHI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXHwfEGWkAAFvHI.jpg",
+						"url": "https://t.co/8x1jfXSE3n",
+						"display_url": "pic.twitter.com/8x1jfXSE3n",
+						"expanded_url": "https://twitter.com/EditionF_com/status/968824604989980672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 968819811328364500,
+						"id_str": "968819811328364544",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DXHwfEGWkAAFvHI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXHwfEGWkAAFvHI.jpg",
+						"url": "https://t.co/8x1jfXSE3n",
+						"display_url": "pic.twitter.com/8x1jfXSE3n",
+						"expanded_url": "https://twitter.com/EditionF_com/status/968824604989980672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1734940808,
+				"id_str": "1734940808",
+				"name": "EDITION F",
+				"screen_name": "EditionF_com",
+				"location": "Berlin",
+				"description": "EDITION F ist das digitale Zuhause für Menschen, die mehr wollen – im Job und im Leben.",
+				"url": "https://t.co/sNhOoZ3wnP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sNhOoZ3wnP",
+								"expanded_url": "http://www.editionf.com",
+								"display_url": "editionf.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17858,
+				"friends_count": 2764,
+				"listed_count": 373,
+				"created_at": "Fri Sep 06 12:12:38 +0000 2013",
+				"favourites_count": 5489,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22926,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880716537711210497/jcPjftEi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880716537711210497/jcPjftEi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1734940808/1498814092",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Wed Feb 28 13:31:11 +0000 2018",
 		"id": 968841008262926300,
 		"id_str": "968841008262926338",
