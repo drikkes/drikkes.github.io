@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 12 21:48:49 +0000 2018",
+		"id": 973314895889469400,
+		"id_str": "973314895889469440",
+		"text": "GEZ noch? https://t.co/YOK2tBdSqr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YOK2tBdSqr",
+					"expanded_url": "https://twitter.com/KonstantinNotz/status/973266172341899264",
+					"display_url": "twitter.com/KonstantinNotz…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 157,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4365,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17058,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 973266172341899300,
+		"quoted_status_id_str": "973266172341899264",
+		"quoted_status": {
+			"created_at": "Mon Mar 12 18:35:12 +0000 2018",
+			"id": 973266172341899300,
+			"id_str": "973266172341899264",
+			"text": "Leider schlecht: die #ARD, die sich mal für #Netzneutralität aussprach https://t.co/MknOvJjxod  prüft nun #StreamOn… https://t.co/Xn4IIyEJPW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ARD",
+						"indices": [
+							21,
+							25
+						]
+					},
+					{
+						"text": "Netzneutralität",
+						"indices": [
+							44,
+							60
+						]
+					},
+					{
+						"text": "StreamOn",
+						"indices": [
+							106,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MknOvJjxod",
+						"expanded_url": "http://www.ard.de/download/397992/ARD_und_ZDF_zur_Sicherung_von_Netzneutralitaet_durch_ein_offenes_Internet.pdf",
+						"display_url": "ard.de/download/39799…",
+						"indices": [
+							71,
+							94
+						]
+					},
+					{
+						"url": "https://t.co/Xn4IIyEJPW",
+						"expanded_url": "https://twitter.com/i/web/status/973266172341899264",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17752770,
+				"id_str": "17752770",
+				"name": "Konstantin v. Notz",
+				"screen_name": "KonstantinNotz",
+				"location": "Schleswig-Holstein und Berlin",
+				"description": "- Grüner Bundestagsabgeordneter\n- Stellv. Fraktionsvorsitzender\r\n- Mitglied des Innenausschusses\n- Stellv. Vors. des Parl. Kontrollgremiums\r\n- SNAPCHAT kv-notz",
+				"url": "https://t.co/rRDvVIKYV5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rRDvVIKYV5",
+								"expanded_url": "http://www.von-notz.de",
+								"display_url": "von-notz.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47062,
+				"friends_count": 2410,
+				"listed_count": 1045,
+				"created_at": "Sun Nov 30 11:20:58 +0000 2008",
+				"favourites_count": 4018,
+				"utc_offset": -10800,
+				"time_zone": "Greenland",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20497,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/919535467783127041/l23xeBdL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/919535467783127041/l23xeBdL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17752770/1498681633",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Mon Mar 12 20:58:07 +0000 2018",
 		"id": 973302139538821100,
 		"id_str": "973302139538821121",
