@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 23 10:45:13 +0000 2018",
+		"id": 977134165249396700,
+		"id_str": "977134165249396736",
+		"text": "Wetten, @hm gefällt das? https://t.co/xrzMpS6MHv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hm",
+					"name": "H&M",
+					"id": 14399483,
+					"id_str": "14399483",
+					"indices": [
+						8,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xrzMpS6MHv",
+					"expanded_url": "https://twitter.com/byEmilyAndrews/status/977123322981961728",
+					"display_url": "twitter.com/byEmilyAndrews…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 895,
+			"friends_count": 158,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4375,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17100,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2f15ff9b13763239",
+			"url": "https://api.twitter.com/1.1/geo/id/2f15ff9b13763239.json",
+			"place_type": "neighborhood",
+			"name": "Ehrenfeld",
+			"full_name": "Ehrenfeld, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.889366,
+							50.939159
+						],
+						[
+							6.932356,
+							50.939159
+						],
+						[
+							6.932356,
+							50.962094
+						],
+						[
+							6.889366,
+							50.962094
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 977123322981961700,
+		"quoted_status_id_str": "977123322981961728",
+		"quoted_status": {
+			"created_at": "Fri Mar 23 10:02:08 +0000 2018",
+			"id": 977123322981961700,
+			"id_str": "977123322981961728",
+			"text": "Exciting #royalwedding souvenir collectors’ news... @RCT have announced today that the official commemorative china… https://t.co/YQp2uniU1m",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "royalwedding",
+						"indices": [
+							9,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RCT",
+						"name": "RoyalCollectionTrust",
+						"id": 705747834486833200,
+						"id_str": "705747834486833154",
+						"indices": [
+							52,
+							56
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YQp2uniU1m",
+						"expanded_url": "https://twitter.com/i/web/status/977123322981961728",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2242373414,
+				"id_str": "2242373414",
+				"name": "Emily Andrews",
+				"screen_name": "byEmilyAndrews",
+				"location": "London",
+				"description": "Royal Correspondent for The Sun newspaper in London; all views are my own. Got a story for the paper? Contact me on emily.andrews@thesun.co.uk",
+				"url": "https://t.co/0mGfF0ECEo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0mGfF0ECEo",
+								"expanded_url": "http://www.thesun.co.uk",
+								"display_url": "thesun.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11585,
+				"friends_count": 308,
+				"listed_count": 214,
+				"created_at": "Thu Dec 12 13:30:33 +0000 2013",
+				"favourites_count": 3121,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6502,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000173314731/e_nXLNeD.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000173314731/e_nXLNeD.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/426401713935745024/UV6XkSLy_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/426401713935745024/UV6XkSLy_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2242373414/1491991116",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Fri Mar 23 09:58:13 +0000 2018",
 		"id": 977122337555435500,
 		"id_str": "977122337555435521",
