@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 03 19:45:19 +0000 2018",
+		"id": 981256349052035100,
+		"id_str": "981256349052035073",
+		"text": "RT @vmagazine: Comme des Garçons to launch online brand. https://t.co/sLnjmdhzyw https://t.co/b5EVZz24gg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vmagazine",
+					"name": "V Magazine",
+					"id": 25326324,
+					"id_str": "25326324",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sLnjmdhzyw",
+					"expanded_url": "https://vmagazine.com/article/comme-des-garcons-to-launch-online-brand/",
+					"display_url": "vmagazine.com/article/comme-…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 981250482290208800,
+					"id_str": "981250482290208769",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ4aHWCWsAEpCKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ4aHWCWsAEpCKP.jpg",
+					"url": "https://t.co/b5EVZz24gg",
+					"display_url": "pic.twitter.com/b5EVZz24gg",
+					"expanded_url": "https://twitter.com/vmagazine/status/981250569959550976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 606,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981250569959551000,
+					"source_status_id_str": "981250569959550976",
+					"source_user_id": 25326324,
+					"source_user_id_str": "25326324"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 981250482290208800,
+					"id_str": "981250482290208769",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/DZ4aHWCWsAEpCKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DZ4aHWCWsAEpCKP.jpg",
+					"url": "https://t.co/b5EVZz24gg",
+					"display_url": "pic.twitter.com/b5EVZz24gg",
+					"expanded_url": "https://twitter.com/vmagazine/status/981250569959550976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 606,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 981250569959551000,
+					"source_status_id_str": "981250569959550976",
+					"source_user_id": 25326324,
+					"source_user_id_str": "25326324"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 892,
+			"friends_count": 157,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4389,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 03 19:22:21 +0000 2018",
+			"id": 981250569959551000,
+			"id_str": "981250569959550976",
+			"text": "Comme des Garçons to launch online brand. https://t.co/sLnjmdhzyw https://t.co/b5EVZz24gg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sLnjmdhzyw",
+						"expanded_url": "https://vmagazine.com/article/comme-des-garcons-to-launch-online-brand/",
+						"display_url": "vmagazine.com/article/comme-…",
+						"indices": [
+							42,
+							65
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 981250482290208800,
+						"id_str": "981250482290208769",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ4aHWCWsAEpCKP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ4aHWCWsAEpCKP.jpg",
+						"url": "https://t.co/b5EVZz24gg",
+						"display_url": "pic.twitter.com/b5EVZz24gg",
+						"expanded_url": "https://twitter.com/vmagazine/status/981250569959550976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 606,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 606,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 402,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 981250482290208800,
+						"id_str": "981250482290208769",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DZ4aHWCWsAEpCKP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DZ4aHWCWsAEpCKP.jpg",
+						"url": "https://t.co/b5EVZz24gg",
+						"display_url": "pic.twitter.com/b5EVZz24gg",
+						"expanded_url": "https://twitter.com/vmagazine/status/981250569959550976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 606,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 606,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 402,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25326324,
+				"id_str": "25326324",
+				"name": "V Magazine",
+				"screen_name": "vmagazine",
+				"location": "New York, NY",
+				"description": "Where pop culture meets fashion.",
+				"url": "https://t.co/rSKYUcPnVP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rSKYUcPnVP",
+								"expanded_url": "http://www.vmagazine.com",
+								"display_url": "vmagazine.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 964320,
+				"friends_count": 681,
+				"listed_count": 6548,
+				"created_at": "Thu Mar 19 16:07:54 +0000 2009",
+				"favourites_count": 1740,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17060,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614186845669212160/JSq1Vk9Z.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614186845669212160/JSq1Vk9Z.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971859905475948545/Zs0cn4jx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971859905475948545/Zs0cn4jx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25326324/1520544491",
+				"profile_link_color": "F5C0C8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
 		"created_at": "Tue Apr 03 17:56:15 +0000 2018",
 		"id": 981228901170122800,
 		"id_str": "981228901170122755",
