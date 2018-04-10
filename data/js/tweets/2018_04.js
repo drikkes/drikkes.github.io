@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 10 06:32:41 +0000 2018",
+		"id": 983593594379530200,
+		"id_str": "983593594379530240",
+		"text": "RT @ddr_1990: 10. April 1990 #ddr1990 https://t.co/z7T0hWxvyc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ddr1990",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ddr_1990",
+					"name": "Die DDR 1990 ohne die Wende",
+					"id": 947490538831441900,
+					"id_str": "947490538831441922",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 983585518997901300,
+					"id_str": "983585518997901312",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DaZl0XoWkAAB47_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaZl0XoWkAAB47_.jpg",
+					"url": "https://t.co/z7T0hWxvyc",
+					"display_url": "pic.twitter.com/z7T0hWxvyc",
+					"expanded_url": "https://twitter.com/ddr_1990/status/983585522080800768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 568,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1078,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983585522080800800,
+					"source_status_id_str": "983585522080800768",
+					"source_user_id": 947490538831441900,
+					"source_user_id_str": "947490538831441922"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 983585518997901300,
+					"id_str": "983585518997901312",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DaZl0XoWkAAB47_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaZl0XoWkAAB47_.jpg",
+					"url": "https://t.co/z7T0hWxvyc",
+					"display_url": "pic.twitter.com/z7T0hWxvyc",
+					"expanded_url": "https://twitter.com/ddr_1990/status/983585522080800768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 568,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1078,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983585522080800800,
+					"source_status_id_str": "983585522080800768",
+					"source_user_id": 947490538831441900,
+					"source_user_id_str": "947490538831441922"
+				},
+				{
+					"id": 983585518817546200,
+					"id_str": "983585518817546240",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DaZl0W9WkAAuJqO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaZl0W9WkAAuJqO.jpg",
+					"url": "https://t.co/z7T0hWxvyc",
+					"display_url": "pic.twitter.com/z7T0hWxvyc",
+					"expanded_url": "https://twitter.com/ddr_1990/status/983585522080800768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 599,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1022,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1022,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 983585522080800800,
+					"source_status_id_str": "983585522080800768",
+					"source_user_id": 947490538831441900,
+					"source_user_id_str": "947490538831441922"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 891,
+			"friends_count": 157,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4396,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 10 06:00:37 +0000 2018",
+			"id": 983585522080800800,
+			"id_str": "983585522080800768",
+			"text": "10. April 1990 #ddr1990 https://t.co/z7T0hWxvyc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ddr1990",
+						"indices": [
+							15,
+							23
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 983585518997901300,
+						"id_str": "983585518997901312",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DaZl0XoWkAAB47_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaZl0XoWkAAB47_.jpg",
+						"url": "https://t.co/z7T0hWxvyc",
+						"display_url": "pic.twitter.com/z7T0hWxvyc",
+						"expanded_url": "https://twitter.com/ddr_1990/status/983585522080800768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 568,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1078,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 983585518997901300,
+						"id_str": "983585518997901312",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DaZl0XoWkAAB47_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaZl0XoWkAAB47_.jpg",
+						"url": "https://t.co/z7T0hWxvyc",
+						"display_url": "pic.twitter.com/z7T0hWxvyc",
+						"expanded_url": "https://twitter.com/ddr_1990/status/983585522080800768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 568,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1078,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 983585518817546200,
+						"id_str": "983585518817546240",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DaZl0W9WkAAuJqO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaZl0W9WkAAuJqO.jpg",
+						"url": "https://t.co/z7T0hWxvyc",
+						"display_url": "pic.twitter.com/z7T0hWxvyc",
+						"expanded_url": "https://twitter.com/ddr_1990/status/983585522080800768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 599,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 1022,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1022,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 947490538831441900,
+				"id_str": "947490538831441922",
+				"name": "Die DDR 1990 ohne die Wende",
+				"screen_name": "ddr_1990",
+				"location": "Berlin, Deutschland",
+				"description": "Dieser Abreisskalender zeigt, wie das Jahr 1990 in der DDR ausgesehen hätte, wäre die Wende 89 nicht dazwischen gekommen. Kontakt: @saumselig",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8767,
+				"friends_count": 6,
+				"listed_count": 63,
+				"created_at": "Sun Dec 31 15:32:02 +0000 2017",
+				"favourites_count": 37,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 113,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947495769237532672/6hlTPdAv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947495769237532672/6hlTPdAv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/947490538831441922/1514737655",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es"
+	},
+	{
 		"created_at": "Mon Apr 09 15:40:15 +0000 2018",
 		"id": 983369006093602800,
 		"id_str": "983369006093602816",
