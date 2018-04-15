@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 15 13:54:53 +0000 2018",
+		"id": 985516816989671400,
+		"id_str": "985516816989671425",
+		"text": "RT @annalist: \"Apple, Amazon, Google, Facebook and Domino’s privacy policies collectively total 76,069 words. At an average reading speed o…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annalist",
+					"name": "Anne Roth",
+					"id": 15520241,
+					"id_str": "15520241",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 158,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4402,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17205,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 09:28:33 +0000 2018",
+			"id": 985449791835590700,
+			"id_str": "985449791835590657",
+			"text": "\"Apple, Amazon, Google, Facebook and Domino’s privacy policies collectively total 76,069 words. At an average readi… https://t.co/cZIdaKOBes",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cZIdaKOBes",
+						"expanded_url": "https://twitter.com/i/web/status/985449791835590657",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15520241,
+				"id_str": "15520241",
+				"name": "Anne Roth",
+				"screen_name": "annalist",
+				"location": "Berlin",
+				"description": "Überwachung, Innenpolitik, Netzpolitik, Medien & Feminismus / Schreibt ins Netz seit 1999 / Im Büro von @AnkeD / vorher im #NSAUA / English Tweets @Anne_Roth",
+				"url": "https://t.co/kK9O7mOPBH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kK9O7mOPBH",
+								"expanded_url": "http://about.me/annalist",
+								"display_url": "about.me/annalist",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28765,
+				"friends_count": 2041,
+				"listed_count": 1017,
+				"created_at": "Mon Jul 21 20:31:59 +0000 2008",
+				"favourites_count": 9244,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 73505,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1F3707",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/840145478/d15c76f7e3c5fbf8abbe6f74e94dfafa.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/840145478/d15c76f7e3c5fbf8abbe6f74e94dfafa.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/429378805564575744/4A8rkGV__normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/429378805564575744/4A8rkGV__normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15520241/1401658169",
+				"profile_link_color": "216712",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F8FDD2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 985387744968040400,
+			"quoted_status_id_str": "985387744968040449",
+			"quoted_status": {
+				"created_at": "Sun Apr 15 05:22:00 +0000 2018",
+				"id": 985387744968040400,
+				"id_str": "985387744968040449",
+				"text": "What data is collected by several services on just one pizza night? @WSJ found a good story format here. https://t.co/EMO17hRFPY",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "WSJ",
+							"name": "The Wall Street Journal",
+							"id": 3108351,
+							"id_str": "3108351",
+							"indices": [
+								68,
+								72
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/EMO17hRFPY",
+							"expanded_url": "http://www.wsj.com/graphics/how-pizza-night-can-cost-more-in-data-than-dollars/",
+							"display_url": "wsj.com/graphics/how-p…",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 42221155,
+					"id_str": "42221155",
+					"name": "Mirko Lorenz",
+					"screen_name": "mirkolorenz",
+					"location": "Germany",
+					"description": "We decide based on experience. Others, much bigger, decide with data. We should at least see the data. How would we judge then? #ddj @datawrapper @dw_innovation",
+					"url": "https://t.co/0KXAmLNKyx",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/0KXAmLNKyx",
+									"expanded_url": "http://www.datawrapper.de",
+									"display_url": "datawrapper.de",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3629,
+					"friends_count": 704,
+					"listed_count": 496,
+					"created_at": "Sun May 24 14:43:15 +0000 2009",
+					"favourites_count": 3966,
+					"utc_offset": 7200,
+					"time_zone": "Berlin",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 7434,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/433545306135732224/7PtvVIOs_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/433545306135732224/7PtvVIOs_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/42221155/1496158723",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "A8C7F7",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 5,
+				"favorite_count": 14,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 12,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 985387744968040400,
+		"quoted_status_id_str": "985387744968040449",
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 15 11:26:31 +0000 2018",
 		"id": 985479476225171500,
 		"id_str": "985479476225171456",
