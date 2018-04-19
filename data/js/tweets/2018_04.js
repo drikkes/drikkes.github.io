@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 19 13:20:47 +0000 2018",
+		"id": 986957784053841900,
+		"id_str": "986957784053841920",
+		"text": "Postman's \"overnewsed but underinformed\"-Zitat Chomsky zu- und dabei dessen Namen noch falschschreiben. 🤦‍♂️ Und da… https://t.co/vKm9RXKdbt",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vKm9RXKdbt",
+					"expanded_url": "https://twitter.com/i/web/status/986957784053841920",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 892,
+			"friends_count": 158,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4409,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17223,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 986519495568232400,
+		"quoted_status_id_str": "986519495568232448",
+		"quoted_status": {
+			"created_at": "Wed Apr 18 08:19:11 +0000 2018",
+			"id": 986519495568232400,
+			"id_str": "986519495568232448",
+			"text": "Sie sind Teil von Batch 6 des @NMA_vc und wollen mit smarten Feeds den Nachrichtenkonsum qualitativ verbessern. Wir… https://t.co/GewKCWNhEs",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NMA_vc",
+						"name": "NextMediaAccelerator",
+						"id": 2894451016,
+						"id_str": "2894451016",
+						"indices": [
+							30,
+							37
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GewKCWNhEs",
+						"expanded_url": "https://twitter.com/i/web/status/986519495568232448",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 903940260,
+				"id_str": "903940260",
+				"name": "nextMedia.Hamburg",
+				"screen_name": "NextMediaHH",
+				"location": "Hamburg",
+				"description": "Die Standortinitiative für die Medien- & Digitalwirtschaft. Hier twittert das Team @FAKTOR_3. #dasmitmedien",
+				"url": "https://t.co/9C6sZXWQf0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9C6sZXWQf0",
+								"expanded_url": "http://www.nextmedia-hamburg.de/impressum/",
+								"display_url": "nextmedia-hamburg.de/impressum/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7191,
+				"friends_count": 2086,
+				"listed_count": 441,
+				"created_at": "Thu Oct 25 13:50:00 +0000 2012",
+				"favourites_count": 4385,
+				"utc_offset": 10800,
+				"time_zone": "Athens",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7890,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445544719200681986/nQ3ndV6t.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445544719200681986/nQ3ndV6t.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/438256605193187328/85beI7de_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/438256605193187328/85beI7de_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/903940260/1402568140",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "5bcd72da50f0ee77",
+				"url": "https://api.twitter.com/1.1/geo/id/5bcd72da50f0ee77.json",
+				"place_type": "city",
+				"name": "Hamburg",
+				"full_name": "Hamburg, Germany",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								8.4201604,
+								53.395118
+							],
+							[
+								10.325199,
+								53.395118
+							],
+							[
+								10.325199,
+								53.9646546
+							],
+							[
+								8.4201604,
+								53.9646546
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Thu Apr 19 12:21:16 +0000 2018",
 		"id": 986942808442523600,
 		"id_str": "986942808442523648",
