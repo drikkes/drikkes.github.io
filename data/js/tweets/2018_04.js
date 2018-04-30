@@ -1,6 +1,499 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 30 11:53:00 +0000 2018",
+		"id": 990921959037980700,
+		"id_str": "990921959037980672",
+		"text": "RT @jamesrbuk: This is funny when you think it’s a tweet, then just gets grimmer as you realised it’s a thread. Then downright bleak when y…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jamesrbuk",
+					"name": "James Ball",
+					"id": 40713876,
+					"id_str": "40713876",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 890,
+			"friends_count": 157,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4423,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 30 08:52:16 +0000 2018",
+			"id": 990876476961632300,
+			"id_str": "990876476961632257",
+			"text": "This is funny when you think it’s a tweet, then just gets grimmer as you realised it’s a thread. Then downright ble… https://t.co/5tffV5fsG1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5tffV5fsG1",
+						"expanded_url": "https://twitter.com/i/web/status/990876476961632257",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40713876,
+				"id_str": "40713876",
+				"name": "James Ball",
+				"screen_name": "jamesrbuk",
+				"location": "London",
+				"description": "Writer and reporter. Formerly: @BuzzFeedUK, @Guardian, @wikileaks, @TBIJ. Latest book: \"Post-Truth\". “The centre’s leading intellectual light” – HUCK.",
+				"url": "https://t.co/00Ol2TArqZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/00Ol2TArqZ",
+								"expanded_url": "http://www.jamesrball.com",
+								"display_url": "jamesrball.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54135,
+				"friends_count": 3542,
+				"listed_count": 1949,
+				"created_at": "Sun May 17 18:56:58 +0000 2009",
+				"favourites_count": 66866,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29383,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/958377055984513024/YkCidpdt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/958377055984513024/YkCidpdt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40713876/1521750856",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 990570131238473700,
+			"quoted_status_id_str": "990570131238473728",
+			"quoted_status": {
+				"created_at": "Sun Apr 29 12:34:57 +0000 2018",
+				"id": 990570131238473700,
+				"id_str": "990570131238473728",
+				"text": "we already live in a boring dystopia https://t.co/4feoT4DWSC",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 990569952649273300,
+							"id_str": "990569952649273345",
+							"indices": [
+								37,
+								60
+							],
+							"media_url": "http://pbs.twimg.com/media/Db82H6jV4AELsCZ.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Db82H6jV4AELsCZ.jpg",
+							"url": "https://t.co/4feoT4DWSC",
+							"display_url": "pic.twitter.com/4feoT4DWSC",
+							"expanded_url": "https://twitter.com/visakanv/status/990570131238473728/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 401,
+									"h": 513,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 401,
+									"h": 513,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 401,
+									"h": 513,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 990569952649273300,
+							"id_str": "990569952649273345",
+							"indices": [
+								37,
+								60
+							],
+							"media_url": "http://pbs.twimg.com/media/Db82H6jV4AELsCZ.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Db82H6jV4AELsCZ.jpg",
+							"url": "https://t.co/4feoT4DWSC",
+							"display_url": "pic.twitter.com/4feoT4DWSC",
+							"expanded_url": "https://twitter.com/visakanv/status/990570131238473728/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 401,
+									"h": 513,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 401,
+									"h": 513,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 401,
+									"h": 513,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 990569976057684000,
+							"id_str": "990569976057683969",
+							"indices": [
+								37,
+								60
+							],
+							"media_url": "http://pbs.twimg.com/media/Db82JRwV4AEyXHz.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Db82JRwV4AEyXHz.jpg",
+							"url": "https://t.co/4feoT4DWSC",
+							"display_url": "pic.twitter.com/4feoT4DWSC",
+							"expanded_url": "https://twitter.com/visakanv/status/990570131238473728/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 340,
+									"h": 532,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 340,
+									"h": 532,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 340,
+									"h": 532,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 990570015211470800,
+							"id_str": "990570015211470848",
+							"indices": [
+								37,
+								60
+							],
+							"media_url": "http://pbs.twimg.com/media/Db82LjnVQAALwy_.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Db82LjnVQAALwy_.jpg",
+							"url": "https://t.co/4feoT4DWSC",
+							"display_url": "pic.twitter.com/4feoT4DWSC",
+							"expanded_url": "https://twitter.com/visakanv/status/990570131238473728/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 444,
+									"h": 379,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 444,
+									"h": 379,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 444,
+									"h": 379,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 990570105640697900,
+							"id_str": "990570105640697857",
+							"indices": [
+								37,
+								60
+							],
+							"media_url": "http://pbs.twimg.com/media/Db82Q0fVwAEeX4K.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Db82Q0fVwAEeX4K.jpg",
+							"url": "https://t.co/4feoT4DWSC",
+							"display_url": "pic.twitter.com/4feoT4DWSC",
+							"expanded_url": "https://twitter.com/visakanv/status/990570131238473728/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 542,
+									"h": 736,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 542,
+									"h": 736,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 501,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 16884623,
+					"id_str": "16884623",
+					"name": "Visakan Veerasamy",
+					"screen_name": "visakanv",
+					"location": "🇸🇬, 🌏",
+					"description": "One must imagine Sisyphus LOL-ing. work @referralcandy & @hellocandybar. founded @statement_sg. write @1000wordvomits. polytribal weirdheart.",
+					"url": "https://t.co/PGORApdGrG",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/PGORApdGrG",
+									"expanded_url": "http://t.me/hellovisa",
+									"display_url": "t.me/hellovisa",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3424,
+					"friends_count": 271,
+					"listed_count": 132,
+					"created_at": "Tue Oct 21 12:01:00 +0000 2008",
+					"favourites_count": 23519,
+					"utc_offset": 28800,
+					"time_zone": "Singapore",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 42299,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/968794308580028416/00BfQMRj_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/968794308580028416/00BfQMRj_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/16884623/1522595898",
+					"profile_link_color": "333333",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 23977,
+				"favorite_count": 60047,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 84,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 990570131238473700,
+		"quoted_status_id_str": "990570131238473728",
+		"retweet_count": 84,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 28 14:21:03 +0000 2018",
 		"id": 990234443469283300,
 		"id_str": "990234443469283328",
