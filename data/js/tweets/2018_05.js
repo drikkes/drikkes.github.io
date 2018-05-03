@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 03 19:54:51 +0000 2018",
+		"id": 992130386791682000,
+		"id_str": "992130386791682048",
+		"text": "RT @AnnNat: Homöopathie-Endgegner! https://t.co/dDSEhn9Ujv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnnNat",
+					"name": "nat ann",
+					"id": 3816180273,
+					"id_str": "3816180273",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 991973032934723600,
+					"id_str": "991973032934723584",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/DcQyN77XUAAyYvQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcQyN77XUAAyYvQ.jpg",
+					"url": "https://t.co/dDSEhn9Ujv",
+					"display_url": "pic.twitter.com/dDSEhn9Ujv",
+					"expanded_url": "https://twitter.com/AnnNat/status/991973043969953792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 733,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 733,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 991973043969953800,
+					"source_status_id_str": "991973043969953792",
+					"source_user_id": 3816180273,
+					"source_user_id_str": "3816180273"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 991973032934723600,
+					"id_str": "991973032934723584",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/DcQyN77XUAAyYvQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcQyN77XUAAyYvQ.jpg",
+					"url": "https://t.co/dDSEhn9Ujv",
+					"display_url": "pic.twitter.com/dDSEhn9Ujv",
+					"expanded_url": "https://twitter.com/AnnNat/status/991973043969953792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 733,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 733,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 991973043969953800,
+					"source_status_id_str": "991973043969953792",
+					"source_user_id": 3816180273,
+					"source_user_id_str": "3816180273"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 888,
+			"friends_count": 157,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4432,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17276,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 03 09:29:38 +0000 2018",
+			"id": 991973043969953800,
+			"id_str": "991973043969953792",
+			"text": "Homöopathie-Endgegner! https://t.co/dDSEhn9Ujv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 991973032934723600,
+						"id_str": "991973032934723584",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DcQyN77XUAAyYvQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcQyN77XUAAyYvQ.jpg",
+						"url": "https://t.co/dDSEhn9Ujv",
+						"display_url": "pic.twitter.com/dDSEhn9Ujv",
+						"expanded_url": "https://twitter.com/AnnNat/status/991973043969953792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 733,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 733,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 991973032934723600,
+						"id_str": "991973032934723584",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DcQyN77XUAAyYvQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcQyN77XUAAyYvQ.jpg",
+						"url": "https://t.co/dDSEhn9Ujv",
+						"display_url": "pic.twitter.com/dDSEhn9Ujv",
+						"expanded_url": "https://twitter.com/AnnNat/status/991973043969953792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 733,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 733,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3816180273,
+				"id_str": "3816180273",
+				"name": "nat ann",
+				"screen_name": "AnnNat",
+				"location": "München, Bayern",
+				"description": "Nerd Anthropologist. Sexual Scientist. Feminist. Ph.D. Candidate Passionate World Explorer & Lover. Maybe Future Digital-Nomad. CP.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 126,
+				"friends_count": 217,
+				"listed_count": 9,
+				"created_at": "Tue Sep 29 16:26:19 +0000 2015",
+				"favourites_count": 2299,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 541,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/662978705795317760/8Bnx8oEA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/662978705795317760/8Bnx8oEA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3816180273/1446901891",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 229,
+			"favorite_count": 720,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 229,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Thu May 03 09:51:03 +0000 2018",
 		"id": 991978432639709200,
 		"id_str": "991978432639709184",
