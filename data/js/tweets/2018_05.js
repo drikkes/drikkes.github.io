@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 05 13:21:23 +0000 2018",
+		"id": 992756142118973400,
+		"id_str": "992756142118973442",
+		"text": "RT @SPRORGNSM: 💥🐋🦄WE PLAYED A TINY DESK CONCERT FOR @nprmusic WHILST WE WERE IN THE USA🇺🇸🇺🇸NOW LIVE ON THE WEB SO CHECK IT OUT BELOW⬇⬇⬇\nhtt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SPRORGNSM",
+					"name": "SUPERORGANISM",
+					"id": 824640460874547200,
+					"id_str": "824640460874547200",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "nprmusic",
+					"name": "nprmusic",
+					"id": 13784592,
+					"id_str": "13784592",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 887,
+			"friends_count": 157,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4437,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17284,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 25 14:56:17 +0000 2018",
+			"id": 989156145855189000,
+			"id_str": "989156145855188992",
+			"text": "💥🐋🦄WE PLAYED A TINY DESK CONCERT FOR @nprmusic WHILST WE WERE IN THE USA🇺🇸🇺🇸NOW LIVE ON THE WEB SO CHECK IT OUT BEL… https://t.co/2fmqwbKK3A",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nprmusic",
+						"name": "nprmusic",
+						"id": 13784592,
+						"id_str": "13784592",
+						"indices": [
+							37,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2fmqwbKK3A",
+						"expanded_url": "https://twitter.com/i/web/status/989156145855188992",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 824640460874547200,
+				"id_str": "824640460874547200",
+				"name": "SUPERORGANISM",
+				"screen_name": "SPRORGNSM",
+				"location": "EVERYWHERE",
+				"description": "GET OUR DEBUT RECORD ⬇️⬇️⬇️ https://t.co/soniTDJh4T",
+				"url": "https://t.co/cmNRue9w5d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cmNRue9w5d",
+								"expanded_url": "http://wearesuperorganism.com",
+								"display_url": "wearesuperorganism.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/soniTDJh4T",
+								"expanded_url": "http://smarturl.it/Superorganism",
+								"display_url": "smarturl.it/Superorganism",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11802,
+				"friends_count": 110,
+				"listed_count": 87,
+				"created_at": "Thu Jan 26 15:29:41 +0000 2017",
+				"favourites_count": 1589,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 583,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905365386090119169/vmzWhl7z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905365386090119169/vmzWhl7z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/824640460874547200/1514991219",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 321,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 05 12:54:58 +0000 2018",
 		"id": 992749496273653800,
 		"id_str": "992749496273653762",
