@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 13 12:29:37 +0000 2018",
+		"id": 995642219771187200,
+		"id_str": "995642219771187201",
+		"text": "RT @randal_olson: The population of #Manhattan, hour-by-hour. #NYC #dataviz\n\nhttps://t.co/KATB4uq9va https://t.co/ov3xTQlVm0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Manhattan",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"text": "NYC",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "dataviz",
+					"indices": [
+						67,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "randal_olson",
+					"name": "Randy Olson",
+					"id": 49413866,
+					"id_str": "49413866",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KATB4uq9va",
+					"expanded_url": "https://www.reddit.com/r/dataisbeautiful/comments/8hys9k/the_city_is_alive_the_population_of_manhattan/",
+					"display_url": "reddit.com/r/dataisbeauti…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 994319515751145500,
+					"id_str": "994319515751145472",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DcyIVNmV4AAtIp2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DcyIVNmV4AAtIp2.jpg",
+					"url": "https://t.co/ov3xTQlVm0",
+					"display_url": "pic.twitter.com/ov3xTQlVm0",
+					"expanded_url": "https://twitter.com/randal_olson/status/994319644944052224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 662,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 756,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 994319644944052200,
+					"source_status_id_str": "994319644944052224",
+					"source_user_id": 49413866,
+					"source_user_id_str": "49413866"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 994319515751145500,
+					"id_str": "994319515751145472",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DcyIVNmV4AAtIp2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DcyIVNmV4AAtIp2.jpg",
+					"url": "https://t.co/ov3xTQlVm0",
+					"display_url": "pic.twitter.com/ov3xTQlVm0",
+					"expanded_url": "https://twitter.com/randal_olson/status/994319644944052224/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 662,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 756,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 994319644944052200,
+					"source_status_id_str": "994319644944052224",
+					"source_user_id": 49413866,
+					"source_user_id_str": "49413866",
+					"video_info": {
+						"aspect_ratio": [
+							184,
+							189
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DcyIVNmV4AAtIp2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 889,
+			"friends_count": 158,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4353,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17302,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 09 20:54:11 +0000 2018",
+			"id": 994319644944052200,
+			"id_str": "994319644944052224",
+			"text": "The population of #Manhattan, hour-by-hour. #NYC #dataviz\n\nhttps://t.co/KATB4uq9va https://t.co/ov3xTQlVm0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Manhattan",
+						"indices": [
+							18,
+							28
+						]
+					},
+					{
+						"text": "NYC",
+						"indices": [
+							44,
+							48
+						]
+					},
+					{
+						"text": "dataviz",
+						"indices": [
+							49,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KATB4uq9va",
+						"expanded_url": "https://www.reddit.com/r/dataisbeautiful/comments/8hys9k/the_city_is_alive_the_population_of_manhattan/",
+						"display_url": "reddit.com/r/dataisbeauti…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 994319515751145500,
+						"id_str": "994319515751145472",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DcyIVNmV4AAtIp2.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DcyIVNmV4AAtIp2.jpg",
+						"url": "https://t.co/ov3xTQlVm0",
+						"display_url": "pic.twitter.com/ov3xTQlVm0",
+						"expanded_url": "https://twitter.com/randal_olson/status/994319644944052224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 736,
+								"h": 756,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 662,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 756,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 994319515751145500,
+						"id_str": "994319515751145472",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DcyIVNmV4AAtIp2.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DcyIVNmV4AAtIp2.jpg",
+						"url": "https://t.co/ov3xTQlVm0",
+						"display_url": "pic.twitter.com/ov3xTQlVm0",
+						"expanded_url": "https://twitter.com/randal_olson/status/994319644944052224/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 736,
+								"h": 756,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 662,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 756,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								184,
+								189
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DcyIVNmV4AAtIp2.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49413866,
+				"id_str": "49413866",
+				"name": "Randy Olson",
+				"screen_name": "randal_olson",
+				"location": "Portland, OR",
+				"description": "Lead Data Scientist, @LifeEpigenetics. #MachineLearning, #AI, and #DataViz. Community leader for @DataIsBeautiful. #OpenScience advocate.",
+				"url": "https://t.co/tpzAYxx9cq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tpzAYxx9cq",
+								"expanded_url": "http://www.randalolson.com",
+								"display_url": "randalolson.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 120275,
+				"friends_count": 132069,
+				"listed_count": 3674,
+				"created_at": "Sun Jun 21 20:13:18 +0000 2009",
+				"favourites_count": 39798,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18039,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457629516702035968/lKWBWYYG.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457629516702035968/lKWBWYYG.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/977666344496676864/IEZlOHYw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/977666344496676864/IEZlOHYw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49413866/1439914461",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3183,
+			"favorite_count": 8060,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3183,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 12 12:43:16 +0000 2018",
 		"id": 995283265530597400,
 		"id_str": "995283265530597377",
