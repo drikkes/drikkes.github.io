@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 16 16:45:41 +0000 2018",
+		"id": 996793823048163300,
+		"id_str": "996793823048163330",
+		"text": "„Exodus“ https://t.co/ImS3dGQjk9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ImS3dGQjk9",
+					"expanded_url": "https://twitter.com/backlon/status/996466899163668480",
+					"display_url": "twitter.com/backlon/status…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 158,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4358,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17312,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.82309596,
+				6.97984922
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.97984922,
+				50.82309596
+			]
+		},
+		"place": {
+			"id": "218cddc447e551a4",
+			"url": "https://api.twitter.com/1.1/geo/id/218cddc447e551a4.json",
+			"place_type": "city",
+			"name": "Wesseling",
+			"full_name": "Wesseling, Deutschland",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.928828,
+							50.792669
+						],
+						[
+							7.031211,
+							50.792669
+						],
+						[
+							7.031211,
+							50.845427
+						],
+						[
+							6.928828,
+							50.845427
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 996466899163668500,
+		"quoted_status_id_str": "996466899163668480",
+		"quoted_status": {
+			"created_at": "Tue May 15 19:06:36 +0000 2018",
+			"id": 996466899163668500,
+			"id_str": "996466899163668480",
+			"text": "Us: more battery life\n\nPhone companies: second camera lens\n\nUs: okay but battery life\n\nPhone companies: face scanni… https://t.co/0EijpglBGq",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0EijpglBGq",
+						"expanded_url": "https://twitter.com/i/web/status/996466899163668480",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1090141,
+				"id_str": "1090141",
+				"name": "Dieter Bohn",
+				"screen_name": "backlon",
+				"location": "San Francisco, CA",
+				"description": "Executive Editor, The Verge. Tech commentary. Typos are intentional jokes I mean obviously.",
+				"url": "https://t.co/DY1lI9NeaC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DY1lI9NeaC",
+								"expanded_url": "http://theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89853,
+				"friends_count": 983,
+				"listed_count": 2648,
+				"created_at": "Tue Mar 13 14:29:47 +0000 2007",
+				"favourites_count": 17680,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39274,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6425433/backlon.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6425433/backlon.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965308053498286085/R2nNtO5h_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965308053498286085/R2nNtO5h_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090141/1461611018",
+				"profile_link_color": "0A3057",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 698,
+			"favorite_count": 1715,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 15 08:53:44 +0000 2018",
 		"id": 996312662551261200,
 		"id_str": "996312662551261184",
