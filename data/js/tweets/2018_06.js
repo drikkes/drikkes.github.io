@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 07 09:18:08 +0000 2018",
+		"id": 1004653726244786200,
+		"id_str": "1004653726244786182",
+		"text": "RT @hannahkuchler: Calm, the meditation app, has a GDPR reading for you to fall asleep to. This is for real. https://t.co/MnVeBO2VjY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hannahkuchler",
+					"name": "Hannah Kuchler",
+					"id": 18944486,
+					"id_str": "18944486",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1001877894296039400,
+					"id_str": "1001877894296039424",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Dediov3U8AABqMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dediov3U8AABqMv.jpg",
+					"url": "https://t.co/MnVeBO2VjY",
+					"display_url": "pic.twitter.com/MnVeBO2VjY",
+					"expanded_url": "https://twitter.com/hannahkuchler/status/1001877895873159168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1001877895873159200,
+					"source_status_id_str": "1001877895873159168",
+					"source_user_id": 18944486,
+					"source_user_id_str": "18944486"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1001877894296039400,
+					"id_str": "1001877894296039424",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Dediov3U8AABqMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dediov3U8AABqMv.jpg",
+					"url": "https://t.co/MnVeBO2VjY",
+					"display_url": "pic.twitter.com/MnVeBO2VjY",
+					"expanded_url": "https://twitter.com/hannahkuchler/status/1001877895873159168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1001877895873159200,
+					"source_status_id_str": "1001877895873159168",
+					"source_user_id": 18944486,
+					"source_user_id_str": "18944486"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 884,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17408,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 30 17:27:59 +0000 2018",
+			"id": 1001877895873159200,
+			"id_str": "1001877895873159168",
+			"text": "Calm, the meditation app, has a GDPR reading for you to fall asleep to. This is for real. https://t.co/MnVeBO2VjY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1001877894296039400,
+						"id_str": "1001877894296039424",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/Dediov3U8AABqMv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dediov3U8AABqMv.jpg",
+						"url": "https://t.co/MnVeBO2VjY",
+						"display_url": "pic.twitter.com/MnVeBO2VjY",
+						"expanded_url": "https://twitter.com/hannahkuchler/status/1001877895873159168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1001877894296039400,
+						"id_str": "1001877894296039424",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/Dediov3U8AABqMv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dediov3U8AABqMv.jpg",
+						"url": "https://t.co/MnVeBO2VjY",
+						"display_url": "pic.twitter.com/MnVeBO2VjY",
+						"expanded_url": "https://twitter.com/hannahkuchler/status/1001877895873159168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18944486,
+				"id_str": "18944486",
+				"name": "Hannah Kuchler",
+				"screen_name": "hannahkuchler",
+				"location": "San Francisco",
+				"description": "FT reporter covering Facebook, social media, disinformation, cyber security, trouble online. Signal: 4153740969. PGP:F6F7278275DA8AFDB6066143A1BB618F5E27451D",
+				"url": "http://t.co/AmFhV7S4NK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AmFhV7S4NK",
+								"expanded_url": "http://www.ft.com",
+								"display_url": "ft.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13932,
+				"friends_count": 4208,
+				"listed_count": 771,
+				"created_at": "Tue Jan 13 17:13:49 +0000 2009",
+				"favourites_count": 2354,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15460,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/477441173368225792/5e5G5HLO_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/477441173368225792/5e5G5HLO_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18944486/1378763729",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1636,
+			"favorite_count": 3266,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1636,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 07 08:40:16 +0000 2018",
 		"id": 1004644194630099000,
 		"id_str": "1004644194630098944",
