@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 09 16:11:06 +0000 2018",
+		"id": 1005482430113943600,
+		"id_str": "1005482430113943553",
+		"text": "RT @nsuwatch: Wir erinnern: Vor 14 Jahren, am 9. Juni 2004 verübte der #NSU ein Nagelbombenattentat auf die #Keupstraße in Köln. 32 Mensche…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NSU",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "Keupstraße",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nsuwatch",
+					"name": "NSU Watch",
+					"id": 418567354,
+					"id_str": "418567354",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 883,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17427,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 09 10:56:43 +0000 2018",
+			"id": 1005403312928280600,
+			"id_str": "1005403312928280576",
+			"text": "Wir erinnern: Vor 14 Jahren, am 9. Juni 2004 verübte der #NSU ein Nagelbombenattentat auf die #Keupstraße in Köln.… https://t.co/7nY2lMXKdo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NSU",
+						"indices": [
+							57,
+							61
+						]
+					},
+					{
+						"text": "Keupstraße",
+						"indices": [
+							94,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7nY2lMXKdo",
+						"expanded_url": "https://twitter.com/i/web/status/1005403312928280576",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 418567354,
+				"id_str": "418567354",
+				"name": "NSU Watch",
+				"screen_name": "nsuwatch",
+				"location": "",
+				"description": "Unabhängige Beobachtung des Prozesses, Protokolle, Artikel und Informationen rund um den Nationalsozialistischen Untergrund (#NSU)",
+				"url": "http://t.co/yjUqWrOU7v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yjUqWrOU7v",
+								"expanded_url": "http://www.nsu-watch.info",
+								"display_url": "nsu-watch.info",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18168,
+				"friends_count": 35,
+				"listed_count": 259,
+				"created_at": "Tue Nov 22 09:58:27 +0000 2011",
+				"favourites_count": 764,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11805,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAF9DE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/451825290986012672/8DUBYDfj_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/451825290986012672/8DUBYDfj_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/418567354/1470316341",
+				"profile_link_color": "E01B50",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 86,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de"
+	},
+	{
 		"created_at": "Sat Jun 09 14:29:37 +0000 2018",
 		"id": 1005456888274800600,
 		"id_str": "1005456888274800640",
