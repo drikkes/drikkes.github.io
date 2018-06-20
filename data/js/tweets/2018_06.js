@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 20 09:55:25 +0000 2018",
+		"id": 1009374149972766700,
+		"id_str": "1009374149972766720",
+		"text": "RT @quotenmeter: Heiterer Talk mit @sigmargabriel: Was wissen wir jetzt? Seine Frau und Kinder schauen \"Let's Dance\" und \"Shopping Queen\" @…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "quotenmeter",
+					"name": "Quotenmeter",
+					"id": 40934492,
+					"id_str": "40934492",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "sigmargabriel",
+					"name": "Sigmar Gabriel",
+					"id": 569832889,
+					"id_str": "569832889",
+					"indices": [
+						35,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 882,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17473,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 20 09:06:11 +0000 2018",
+			"id": 1009361759835230200,
+			"id_str": "1009361759835230208",
+			"text": "Heiterer Talk mit @sigmargabriel: Was wissen wir jetzt? Seine Frau und Kinder schauen \"Let's Dance\" und \"Shopping Q… https://t.co/jRbneISMTV",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sigmargabriel",
+						"name": "Sigmar Gabriel",
+						"id": 569832889,
+						"id_str": "569832889",
+						"indices": [
+							18,
+							32
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jRbneISMTV",
+						"expanded_url": "https://twitter.com/i/web/status/1009361759835230208",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40934492,
+				"id_str": "40934492",
+				"name": "Quotenmeter",
+				"screen_name": "quotenmeter",
+				"location": "Germany",
+				"description": "Die Redaktion des Medienmagazins Quotenmeter versorgt euch mit brandneuen Nachrichten & Aktionen aus unserem Loft!",
+				"url": "http://t.co/SlsgPbko9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SlsgPbko9e",
+								"expanded_url": "http://www.quotenmeter.de",
+								"display_url": "quotenmeter.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25601,
+				"friends_count": 189,
+				"listed_count": 449,
+				"created_at": "Mon May 18 18:34:36 +0000 2009",
+				"favourites_count": 552,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43832,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FEFEFE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/631384351561916417/3038bhSt_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/631384351561916417/3038bhSt_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40934492/1472647596",
+				"profile_link_color": "2A64A4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E9E9E9",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de"
+	},
+	{
 		"created_at": "Wed Jun 20 08:20:05 +0000 2018",
 		"id": 1009350158189023200,
 		"id_str": "1009350158189023233",
