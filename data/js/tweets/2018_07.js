@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 04 08:38:58 +0000 2018",
+		"id": 1014428340189651000,
+		"id_str": "1014428340189650945",
+		"text": "RT @kwi_essen: #FunFact: 50, männlich und sein Name ist Peter - der durchschnittliche dtsch Literaturpreisträger. Schöne Infografik @SZ #Bü…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FunFact",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kwi_essen",
+					"name": "KWI",
+					"id": 123218031,
+					"id_str": "123218031",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "SZ",
+					"name": "Süddeutsche Zeitung",
+					"id": 114508061,
+					"id_str": "114508061",
+					"indices": [
+						132,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 878,
+			"friends_count": 155,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17548,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 04 07:01:04 +0000 2018",
+			"id": 1014403702663368700,
+			"id_str": "1014403702663368704",
+			"text": "#FunFact: 50, männlich und sein Name ist Peter - der durchschnittliche dtsch Literaturpreisträger. Schöne Infografi… https://t.co/QWRUZ00MKo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FunFact",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QWRUZ00MKo",
+						"expanded_url": "https://twitter.com/i/web/status/1014403702663368704",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 123218031,
+				"id_str": "123218031",
+				"name": "KWI",
+				"screen_name": "kwi_essen",
+				"location": "Essen, Nordrhein-Westfalen",
+				"description": "Wir forschen zu \n#Wissenschaftskommunikation, Kultur- und #Literatursoziologie, #Kommunikationskultur u.a.m. Es twittert die KWI-Presse.",
+				"url": "https://t.co/nmEk0FVnvp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nmEk0FVnvp",
+								"expanded_url": "http://www.kulturwissenschaften.de",
+								"display_url": "kulturwissenschaften.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1324,
+				"friends_count": 875,
+				"listed_count": 63,
+				"created_at": "Mon Mar 15 11:17:00 +0000 2010",
+				"favourites_count": 1707,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3052,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E8FFBF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/519781381233074176/fhzlnFb-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/519781381233074176/fhzlnFb-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/123218031/1527855279",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de"
+	},
+	{
 		"created_at": "Wed Jul 04 07:30:30 +0000 2018",
 		"id": 1014411111960105000,
 		"id_str": "1014411111960104960",
