@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 12 13:52:14 +0000 2018",
+		"id": 1017406279415763000,
+		"id_str": "1017406279415762945",
+		"text": "RT @beateuhse_de: Wir suchen Dich – als unseren neuen CHIEF DILDO OFFICER! #beyou #beateuhse #chiefdildoofficer #cdo #hiring #job #köln htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "beyou",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "beateuhse",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "chiefdildoofficer",
+					"indices": [
+						93,
+						111
+					]
+				},
+				{
+					"text": "cdo",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "hiring",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "job",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "köln",
+					"indices": [
+						130,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beateuhse_de",
+					"name": "Beate Uhse",
+					"id": 86797328,
+					"id_str": "86797328",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 879,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 10 11:34:00 +0000 2018",
+			"id": 1016646716156768300,
+			"id_str": "1016646716156768256",
+			"text": "Wir suchen Dich – als unseren neuen CHIEF DILDO OFFICER! #beyou #beateuhse #chiefdildoofficer #cdo #hiring #job… https://t.co/3pxaHXGMGt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "beyou",
+						"indices": [
+							57,
+							63
+						]
+					},
+					{
+						"text": "beateuhse",
+						"indices": [
+							64,
+							74
+						]
+					},
+					{
+						"text": "chiefdildoofficer",
+						"indices": [
+							75,
+							93
+						]
+					},
+					{
+						"text": "cdo",
+						"indices": [
+							94,
+							98
+						]
+					},
+					{
+						"text": "hiring",
+						"indices": [
+							99,
+							106
+						]
+					},
+					{
+						"text": "job",
+						"indices": [
+							107,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3pxaHXGMGt",
+						"expanded_url": "https://twitter.com/i/web/status/1016646716156768256",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 86797328,
+				"id_str": "86797328",
+				"name": "Beate Uhse",
+				"screen_name": "beateuhse_de",
+				"location": "Flensburg, Germany",
+				"description": "Self-conscious, adventurous, courageous. Since 1946. Der offizielle Twitteraccount von Beate Uhse.",
+				"url": "http://t.co/JkOqZQkU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/JkOqZQkU",
+								"expanded_url": "http://beate-uhse.com",
+								"display_url": "beate-uhse.com",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1276,
+				"friends_count": 54,
+				"listed_count": 14,
+				"created_at": "Sun Nov 01 20:38:54 +0000 2009",
+				"favourites_count": 55,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 521,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883967525666607104/J4MJ7XHG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883967525666607104/J4MJ7XHG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/86797328/1499589273",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de"
+	},
+	{
 		"created_at": "Thu Jul 12 12:44:57 +0000 2018",
 		"id": 1017389346876481500,
 		"id_str": "1017389346876481537",
