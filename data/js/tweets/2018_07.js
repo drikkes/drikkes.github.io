@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 17 06:29:47 +0000 2018",
+		"id": 1019106872257929200,
+		"id_str": "1019106872257929216",
+		"text": "#primeday https://t.co/SY4PttyAXq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "primeday",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SY4PttyAXq",
+					"expanded_url": "https://twitter.com/onachtwey/status/1018957272939188224",
+					"display_url": "twitter.com/onachtwey/stat…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 879,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17597,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.73184632,
+				7.10647606
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				7.10647606,
+				50.73184632
+			]
+		},
+		"place": {
+			"id": "e99b714fe65be4fb",
+			"url": "https://api.twitter.com/1.1/geo/id/e99b714fe65be4fb.json",
+			"place_type": "city",
+			"name": "Bonn",
+			"full_name": "Bonn, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							7.022472,
+							50.632531
+						],
+						[
+							7.2107005,
+							50.632531
+						],
+						[
+							7.2107005,
+							50.774412
+						],
+						[
+							7.022472,
+							50.774412
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1018957272939188200,
+		"quoted_status_id_str": "1018957272939188224",
+		"quoted_status": {
+			"created_at": "Mon Jul 16 20:35:19 +0000 2018",
+			"id": 1018957272939188200,
+			"id_str": "1018957272939188224",
+			"text": "Transnational Strike https://t.co/9jUG607f1T",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9jUG607f1T",
+						"expanded_url": "https://www.reuters.com/article/us-amazon-com-germany-strike/amazon-workers-strike-in-germany-joining-action-in-spain-and-poland-idUSKBN1K61OY",
+						"display_url": "reuters.com/article/us-ama…",
+						"indices": [
+							21,
+							44
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45557114,
+				"id_str": "45557114",
+				"name": "Oliver Nachtwey",
+				"screen_name": "onachtwey",
+				"location": "",
+				"description": "Soziologe & Ökonom: Arbeit, Ungleichheit, Konflikt. Autor von \"Die Abstiegsgesellschaft. Über das Aufbegehren in der regressiven Moderne\" (Suhrkamp 2016)",
+				"url": "https://t.co/55gplOvDHI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/55gplOvDHI",
+								"expanded_url": "https://soziologie.philhist.unibas.ch/de/professuren/professur-oliver-nachtwey/",
+								"display_url": "soziologie.philhist.unibas.ch/de/professuren…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3272,
+				"friends_count": 338,
+				"listed_count": 67,
+				"created_at": "Mon Jun 08 12:47:42 +0000 2009",
+				"favourites_count": 1034,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1640,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/863838763138633728/a190y2Nh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/863838763138633728/a190y2Nh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45557114/1495993439",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "da"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Mon Jul 16 17:42:08 +0000 2018",
 		"id": 1018913686566686700,
 		"id_str": "1018913686566686720",
