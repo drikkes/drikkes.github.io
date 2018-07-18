@@ -1,6 +1,545 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 18 17:07:14 +0000 2018",
+		"id": 1019629682193518600,
+		"id_str": "1019629682193518594",
+		"text": "RT @VMAN: .@DapperDanHarlem and @gucci debut latest collaboration. https://t.co/lqDAEw4CDZ https://t.co/C5368wCE0u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VMAN",
+					"name": "VMAN Magazine",
+					"id": 25587445,
+					"id_str": "25587445",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"screen_name": "DapperDanHarlem",
+					"name": "Dapper Dan",
+					"id": 582305979,
+					"id_str": "582305979",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "gucci",
+					"name": "gucci",
+					"id": 16913418,
+					"id_str": "16913418",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lqDAEw4CDZ",
+					"expanded_url": "https://vman.com/article/dapper-dan-and-gucci-premiere-latest-collaboration/",
+					"display_url": "vman.com/article/dapper…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1019339866297909200,
+					"id_str": "1019339866297909248",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DiVsNSwUwAAxSUG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DiVsNSwUwAAxSUG.jpg",
+					"url": "https://t.co/C5368wCE0u",
+					"display_url": "pic.twitter.com/C5368wCE0u",
+					"expanded_url": "https://twitter.com/VMAN/status/1019340122578272256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 916,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1019340122578272300,
+					"source_status_id_str": "1019340122578272256",
+					"source_user_id": 25587445,
+					"source_user_id_str": "25587445"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1019339866297909200,
+					"id_str": "1019339866297909248",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DiVsNSwUwAAxSUG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DiVsNSwUwAAxSUG.jpg",
+					"url": "https://t.co/C5368wCE0u",
+					"display_url": "pic.twitter.com/C5368wCE0u",
+					"expanded_url": "https://twitter.com/VMAN/status/1019340122578272256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 916,
+							"h": 602,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1019340122578272300,
+					"source_status_id_str": "1019340122578272256",
+					"source_user_id": 25587445,
+					"source_user_id_str": "25587445"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 878,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 17 21:56:38 +0000 2018",
+			"id": 1019340122578272300,
+			"id_str": "1019340122578272256",
+			"text": ".@DapperDanHarlem and @gucci debut latest collaboration. https://t.co/lqDAEw4CDZ https://t.co/C5368wCE0u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DapperDanHarlem",
+						"name": "Dapper Dan",
+						"id": 582305979,
+						"id_str": "582305979",
+						"indices": [
+							1,
+							17
+						]
+					},
+					{
+						"screen_name": "gucci",
+						"name": "gucci",
+						"id": 16913418,
+						"id_str": "16913418",
+						"indices": [
+							22,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/lqDAEw4CDZ",
+						"expanded_url": "https://vman.com/article/dapper-dan-and-gucci-premiere-latest-collaboration/",
+						"display_url": "vman.com/article/dapper…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1019339866297909200,
+						"id_str": "1019339866297909248",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DiVsNSwUwAAxSUG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiVsNSwUwAAxSUG.jpg",
+						"url": "https://t.co/C5368wCE0u",
+						"display_url": "pic.twitter.com/C5368wCE0u",
+						"expanded_url": "https://twitter.com/VMAN/status/1019340122578272256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 916,
+								"h": 602,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 916,
+								"h": 602,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 447,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1019339866297909200,
+						"id_str": "1019339866297909248",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DiVsNSwUwAAxSUG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiVsNSwUwAAxSUG.jpg",
+						"url": "https://t.co/C5368wCE0u",
+						"display_url": "pic.twitter.com/C5368wCE0u",
+						"expanded_url": "https://twitter.com/VMAN/status/1019340122578272256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 916,
+								"h": 602,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 916,
+								"h": 602,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 447,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25587445,
+				"id_str": "25587445",
+				"name": "VMAN Magazine",
+				"screen_name": "VMAN",
+				"location": "New York, NY",
+				"description": "The better you look, the more you see.",
+				"url": "http://t.co/L0vmwFL04B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/L0vmwFL04B",
+								"expanded_url": "http://www.vman.com",
+								"display_url": "vman.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52337,
+				"friends_count": 740,
+				"listed_count": 877,
+				"created_at": "Fri Mar 20 22:15:49 +0000 2009",
+				"favourites_count": 193,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4440,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050404",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960889112583704577/3HAt8YNJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960889112583704577/3HAt8YNJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25587445/1517928872",
+				"profile_link_color": "80BEE3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "9E9E9E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 18 16:15:16 +0000 2018",
+		"id": 1019616602608762900,
+		"id_str": "1019616602608762880",
+		"text": "gedichtet https://t.co/OeovR1pbL5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OeovR1pbL5",
+					"expanded_url": "https://itty.bitty.site/#/XQAAAAJTAwAAAAAAAAAeHMqHyTY4PyKmqfkwr6ooCXSIMxPQ7ojYR153HqZD3W+keVdvwyoyd+luwncAksxol4DHD3zKMvXiXE0XIl1k/zjgkJFgXlgOjG++obFmFRwoR+bhIEDbMZSdcOKUFAPQ8yrhFaRriJKI3qahD2O/LZMdYh4NliOovVyLIgn8/NXcjnRIGFDxGoe26reggD3244Y5twJQa2omypQWjaPoaaAMFzHbcYW+MStSeTzHcxgtkxj4BIsYWw4zgupYIvSORcXm5RPYJcCJxtkq2yCrlhT/8vMWNA==",
+					"display_url": "itty.bitty.site/#/XQAAAAJTAwAA…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 878,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Wed Jul 18 09:18:00 +0000 2018",
 		"id": 1019511595561517000,
 		"id_str": "1019511595561517056",
