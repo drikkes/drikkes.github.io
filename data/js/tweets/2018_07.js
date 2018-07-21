@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 21 16:46:03 +0000 2018",
+		"id": 1020711513324171300,
+		"id_str": "1020711513324171264",
+		"text": "Team CujaMara Split https://t.co/cQRsSZ1DF8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cQRsSZ1DF8",
+					"expanded_url": "https://twitter.com/Nilzenburger/status/1020694132640055296",
+					"display_url": "twitter.com/Nilzenburger/s…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 878,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.917345,
+				6.96665998
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96665998,
+				50.917345
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1020694132640055300,
+		"quoted_status_id_str": "1020694132640055296",
+		"quoted_status": {
+			"created_at": "Sat Jul 21 15:36:59 +0000 2018",
+			"id": 1020694132640055300,
+			"id_str": "1020694132640055296",
+			"text": "Team Bottermelk Fresh https://t.co/koCd6mOBrX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/koCd6mOBrX",
+						"expanded_url": "https://twitter.com/tapioliller/status/1020693722252574720",
+						"display_url": "twitter.com/tapioliller/st…",
+						"indices": [
+							22,
+							45
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5977982,
+				"id_str": "5977982",
+				"name": "Nilz Bokelberg",
+				"screen_name": "Nilzenburger",
+				"location": "Germany",
+				"description": "Nur weil wir keine Ausbildung haben, machen wir den ganzen Scheiss. (Lassie Singers)",
+				"url": "https://t.co/ZzVizsWgAM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZzVizsWgAM",
+								"expanded_url": "http://www.gaestelistegeisterbahn.de",
+								"display_url": "gaestelistegeisterbahn.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39437,
+				"friends_count": 5941,
+				"listed_count": 494,
+				"created_at": "Sat May 12 01:26:34 +0000 2007",
+				"favourites_count": 22585,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15461,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583383484762361856/a87-ymHM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583383484762361856/a87-ymHM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5977982/1479569884",
+				"profile_link_color": "3F8032",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EBBEA8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1020693722252574700,
+			"quoted_status_id_str": "1020693722252574720",
+			"retweet_count": 0,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt"
+	},
+	{
 		"created_at": "Sat Jul 21 09:59:18 +0000 2018",
 		"id": 1020609151431577600,
 		"id_str": "1020609151431577600",
