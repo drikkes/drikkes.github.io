@@ -1,6 +1,582 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 27 07:02:29 +0000 2018",
+		"id": 1022738979827929100,
+		"id_str": "1022738979827929089",
+		"text": "Sei auch Du bedingt durch territoriale und wirtschaftliche Möglichkeiten. https://t.co/zpukUk3ntf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zpukUk3ntf",
+					"expanded_url": "https://twitter.com/ddr_1990/status/1022723445908545536",
+					"display_url": "twitter.com/ddr_1990/statu…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 876,
+			"friends_count": 155,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17637,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.70265679,
+				7.13578676
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				7.13578676,
+				50.70265679
+			]
+		},
+		"place": {
+			"id": "e99b714fe65be4fb",
+			"url": "https://api.twitter.com/1.1/geo/id/e99b714fe65be4fb.json",
+			"place_type": "city",
+			"name": "Bonn",
+			"full_name": "Bonn, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							7.022472,
+							50.632531
+						],
+						[
+							7.2107005,
+							50.632531
+						],
+						[
+							7.2107005,
+							50.774412
+						],
+						[
+							7.022472,
+							50.774412
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1022723445908545500,
+		"quoted_status_id_str": "1022723445908545536",
+		"quoted_status": {
+			"created_at": "Fri Jul 27 06:00:45 +0000 2018",
+			"id": 1022723445908545500,
+			"id_str": "1022723445908545536",
+			"text": "27. Juli 1990 #ddr1990 https://t.co/WyVvvRVrD8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ddr1990",
+						"indices": [
+							14,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1022723443836375000,
+						"id_str": "1022723443836375042",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DjFxjbVU0AIKe4d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjFxjbVU0AIKe4d.jpg",
+						"url": "https://t.co/WyVvvRVrD8",
+						"display_url": "pic.twitter.com/WyVvvRVrD8",
+						"expanded_url": "https://twitter.com/ddr_1990/status/1022723445908545536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 568,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1022723443836375000,
+						"id_str": "1022723443836375042",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DjFxjbVU0AIKe4d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjFxjbVU0AIKe4d.jpg",
+						"url": "https://t.co/WyVvvRVrD8",
+						"display_url": "pic.twitter.com/WyVvvRVrD8",
+						"expanded_url": "https://twitter.com/ddr_1990/status/1022723445908545536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 568,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1022723444222222300,
+						"id_str": "1022723444222222336",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DjFxjcxUYAA98q5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjFxjcxUYAA98q5.jpg",
+						"url": "https://t.co/WyVvvRVrD8",
+						"display_url": "pic.twitter.com/WyVvvRVrD8",
+						"expanded_url": "https://twitter.com/ddr_1990/status/1022723445908545536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 568,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 1078,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 947490538831441900,
+				"id_str": "947490538831441922",
+				"name": "Die DDR 1990 ohne die Wende",
+				"screen_name": "ddr_1990",
+				"location": "Berlin, Deutschland",
+				"description": "Dieser Abreisskalender zeigt, wie das Jahr 1990 in der DDR ausgesehen hätte, wäre die Wende 89 nicht dazwischen gekommen. Kontakt: @saumselig",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8752,
+				"friends_count": 6,
+				"listed_count": 66,
+				"created_at": "Sun Dec 31 15:32:02 +0000 2017",
+				"favourites_count": 44,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 225,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947495769237532672/6hlTPdAv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947495769237532672/6hlTPdAv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/947490538831441922/1514737655",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
+		"created_at": "Fri Jul 27 06:55:02 +0000 2018",
+		"id": 1022737105888399400,
+		"id_str": "1022737105888399360",
+		"text": "RT @Claudiusseidl: Smokinghose mit Gürtel. Zeichen krassester Nichtintegriertheit. #joachimsauer #Lohengrin",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "joachimsauer",
+					"indices": [
+						83,
+						96
+					]
+				},
+				{
+					"text": "Lohengrin",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Claudiusseidl",
+					"name": "Claudius Seidl",
+					"id": 392295746,
+					"id_str": "392295746",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 876,
+			"friends_count": 155,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17637,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 26 22:12:05 +0000 2018",
+			"id": 1022605503246086100,
+			"id_str": "1022605503246086145",
+			"text": "Smokinghose mit Gürtel. Zeichen krassester Nichtintegriertheit. #joachimsauer #Lohengrin",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "joachimsauer",
+						"indices": [
+							64,
+							77
+						]
+					},
+					{
+						"text": "Lohengrin",
+						"indices": [
+							78,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 392295746,
+				"id_str": "392295746",
+				"name": "Claudius Seidl",
+				"screen_name": "Claudiusseidl",
+				"location": "",
+				"description": "\"Eine Meinung kann jeder haben. Ein guter Mann kann zwei bis drei Meinungen haben. Einer ist keiner, und über weniger als 200 brauchen wir nicht zu sprechen\"",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6814,
+				"friends_count": 1369,
+				"listed_count": 107,
+				"created_at": "Sun Oct 16 20:30:38 +0000 2011",
+				"favourites_count": 5382,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2598,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3363323025/fd70a817b393af86d95ededd11557d57_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3363323025/fd70a817b393af86d95ededd11557d57_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/392295746/1398344548",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de"
+	},
+	{
 		"created_at": "Thu Jul 26 19:13:04 +0000 2018",
 		"id": 1022560452717568000,
 		"id_str": "1022560452717568005",
