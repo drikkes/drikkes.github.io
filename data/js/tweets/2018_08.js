@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 05 09:43:59 +0000 2018",
+		"id": 1026041116913750000,
+		"id_str": "1026041116913750016",
+		"text": "RT @titanic: Hausgeburt Hitler – Stefan Gärtner am Sonntag: https://t.co/nHQrTZyO1r https://t.co/VSUD8mSPsj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "titanic",
+					"name": "TITANIC",
+					"id": 12509262,
+					"id_str": "12509262",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nHQrTZyO1r",
+					"expanded_url": "http://www.titanic-magazin.de/news/gaertners-kritisches-sonntagsfruehstueck-hausgeburt-hitler-9859/",
+					"display_url": "titanic-magazin.de/news/gaertners…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1026037210557153300,
+					"id_str": "1026037210557153280",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Dj03aCWXgAAE41A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dj03aCWXgAAE41A.jpg",
+					"url": "https://t.co/VSUD8mSPsj",
+					"display_url": "pic.twitter.com/VSUD8mSPsj",
+					"expanded_url": "https://twitter.com/titanic/status/1026037438479781888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 825,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1026037438479781900,
+					"source_status_id_str": "1026037438479781888",
+					"source_user_id": 12509262,
+					"source_user_id_str": "12509262"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1026037210557153300,
+					"id_str": "1026037210557153280",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Dj03aCWXgAAE41A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dj03aCWXgAAE41A.jpg",
+					"url": "https://t.co/VSUD8mSPsj",
+					"display_url": "pic.twitter.com/VSUD8mSPsj",
+					"expanded_url": "https://twitter.com/titanic/status/1026037438479781888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 825,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1026037438479781900,
+					"source_status_id_str": "1026037438479781888",
+					"source_user_id": 12509262,
+					"source_user_id_str": "12509262"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 876,
+			"friends_count": 155,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17679,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 05 09:29:22 +0000 2018",
+			"id": 1026037438479781900,
+			"id_str": "1026037438479781888",
+			"text": "Hausgeburt Hitler – Stefan Gärtner am Sonntag: https://t.co/nHQrTZyO1r https://t.co/VSUD8mSPsj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nHQrTZyO1r",
+						"expanded_url": "http://www.titanic-magazin.de/news/gaertners-kritisches-sonntagsfruehstueck-hausgeburt-hitler-9859/",
+						"display_url": "titanic-magazin.de/news/gaertners…",
+						"indices": [
+							47,
+							70
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1026037210557153300,
+						"id_str": "1026037210557153280",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/Dj03aCWXgAAE41A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dj03aCWXgAAE41A.jpg",
+						"url": "https://t.co/VSUD8mSPsj",
+						"display_url": "pic.twitter.com/VSUD8mSPsj",
+						"expanded_url": "https://twitter.com/titanic/status/1026037438479781888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 825,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 468,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1026037210557153300,
+						"id_str": "1026037210557153280",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/Dj03aCWXgAAE41A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dj03aCWXgAAE41A.jpg",
+						"url": "https://t.co/VSUD8mSPsj",
+						"display_url": "pic.twitter.com/VSUD8mSPsj",
+						"expanded_url": "https://twitter.com/titanic/status/1026037438479781888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 825,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 468,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12509262,
+				"id_str": "12509262",
+				"name": "TITANIC",
+				"screen_name": "titanic",
+				"location": "Germany",
+				"description": "Das endgültige Satiremagazin. Endgültige Satire lesen: https://t.co/BTRPVc9qZH",
+				"url": "https://t.co/LSRmhdazhJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LSRmhdazhJ",
+								"expanded_url": "http://www.titanic-magazin.de/",
+								"display_url": "titanic-magazin.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BTRPVc9qZH",
+								"expanded_url": "http://www.titanic-magazin.de/abo",
+								"display_url": "titanic-magazin.de/abo",
+								"indices": [
+									55,
+									78
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 468933,
+				"friends_count": 9,
+				"listed_count": 2931,
+				"created_at": "Mon Jan 21 21:00:57 +0000 2008",
+				"favourites_count": 21,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16353,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D50000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1010452440171282433/tltFQKVJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010452440171282433/tltFQKVJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12509262/1532675471",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "EBEBEB",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Sun Aug 05 08:12:47 +0000 2018",
 		"id": 1026018163954253800,
 		"id_str": "1026018163954253826",
