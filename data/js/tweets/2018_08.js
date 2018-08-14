@@ -1,6 +1,479 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 14 14:10:47 +0000 2018",
+		"id": 1029369748314841100,
+		"id_str": "1029369748314841088",
+		"text": "RT @nypost: On newsstands now... #Supreme #ad https://t.co/oGMbEva16v",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Supreme",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "ad",
+					"indices": [
+						42,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nypost",
+					"name": "New York Post",
+					"id": 17469289,
+					"id_str": "17469289",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1029014370519580700,
+					"id_str": "1029014370519580672",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DkfLHjeXgAA8J1C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkfLHjeXgAA8J1C.jpg",
+					"url": "https://t.co/oGMbEva16v",
+					"display_url": "pic.twitter.com/oGMbEva16v",
+					"expanded_url": "https://twitter.com/nypost/status/1029014378337787905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 681,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 908,
+							"h": 681,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029014378337787900,
+					"source_status_id_str": "1029014378337787905",
+					"source_user_id": 17469289,
+					"source_user_id_str": "17469289"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1029014370519580700,
+					"id_str": "1029014370519580672",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DkfLHjeXgAA8J1C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkfLHjeXgAA8J1C.jpg",
+					"url": "https://t.co/oGMbEva16v",
+					"display_url": "pic.twitter.com/oGMbEva16v",
+					"expanded_url": "https://twitter.com/nypost/status/1029014378337787905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 681,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 908,
+							"h": 681,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029014378337787900,
+					"source_status_id_str": "1029014378337787905",
+					"source_user_id": 17469289,
+					"source_user_id_str": "17469289"
+				},
+				{
+					"id": 1029014375003304000,
+					"id_str": "1029014375003303937",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DkfLH0LXsAEnddF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkfLH0LXsAEnddF.jpg",
+					"url": "https://t.co/oGMbEva16v",
+					"display_url": "pic.twitter.com/oGMbEva16v",
+					"expanded_url": "https://twitter.com/nypost/status/1029014378337787905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029014378337787900,
+					"source_status_id_str": "1029014378337787905",
+					"source_user_id": 17469289,
+					"source_user_id_str": "17469289"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 876,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17718,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 13 14:38:40 +0000 2018",
+			"id": 1029014378337787900,
+			"id_str": "1029014378337787905",
+			"text": "On newsstands now... #Supreme #ad https://t.co/oGMbEva16v",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Supreme",
+						"indices": [
+							21,
+							29
+						]
+					},
+					{
+						"text": "ad",
+						"indices": [
+							30,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1029014370519580700,
+						"id_str": "1029014370519580672",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DkfLHjeXgAA8J1C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkfLHjeXgAA8J1C.jpg",
+						"url": "https://t.co/oGMbEva16v",
+						"display_url": "pic.twitter.com/oGMbEva16v",
+						"expanded_url": "https://twitter.com/nypost/status/1029014378337787905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 908,
+								"h": 681,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 908,
+								"h": 681,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1029014370519580700,
+						"id_str": "1029014370519580672",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DkfLHjeXgAA8J1C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkfLHjeXgAA8J1C.jpg",
+						"url": "https://t.co/oGMbEva16v",
+						"display_url": "pic.twitter.com/oGMbEva16v",
+						"expanded_url": "https://twitter.com/nypost/status/1029014378337787905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 908,
+								"h": 681,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 908,
+								"h": 681,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1029014375003304000,
+						"id_str": "1029014375003303937",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/DkfLH0LXsAEnddF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkfLH0LXsAEnddF.jpg",
+						"url": "https://t.co/oGMbEva16v",
+						"display_url": "pic.twitter.com/oGMbEva16v",
+						"expanded_url": "https://twitter.com/nypost/status/1029014378337787905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17469289,
+				"id_str": "17469289",
+				"name": "New York Post",
+				"screen_name": "nypost",
+				"location": "New York, NY",
+				"description": "Breaking news & features from The New York Post. Follow your favorite sections: @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion",
+				"url": "https://t.co/MwyanWdKnl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MwyanWdKnl",
+								"expanded_url": "http://www.nypost.com",
+								"display_url": "nypost.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1380361,
+				"friends_count": 11934,
+				"listed_count": 17886,
+				"created_at": "Tue Nov 18 19:46:36 +0000 2008",
+				"favourites_count": 2146,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 172519,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17469289/1444326181",
+				"profile_link_color": "CC3333",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1315,
+			"favorite_count": 3778,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1315,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 14 11:56:17 +0000 2018",
 		"id": 1029335902508724200,
 		"id_str": "1029335902508724224",
