@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 14 06:31:31 +0000 2018",
+		"id": 1029254169213984800,
+		"id_str": "1029254169213984768",
+		"text": "RT @vmagazine: What do @elonmusk and Azealia Banks have in common?  https://t.co/NcvYbHoyhQ https://t.co/BdJFA7JjKf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vmagazine",
+					"name": "V Magazine",
+					"id": 25326324,
+					"id_str": "25326324",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "elonmusk",
+					"name": "Elon Musk",
+					"id": 44196397,
+					"id_str": "44196397",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NcvYbHoyhQ",
+					"expanded_url": "https://vmagazine.com/article/what-do-elon-musk-and-azealia-banks-have-in-common/",
+					"display_url": "vmagazine.com/article/what-d…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1029145192572448800,
+					"id_str": "1029145192572448769",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DkhCGZmU8AEUOpR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkhCGZmU8AEUOpR.jpg",
+					"url": "https://t.co/BdJFA7JjKf",
+					"display_url": "pic.twitter.com/BdJFA7JjKf",
+					"expanded_url": "https://twitter.com/vmagazine/status/1029145199593709568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 497,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 497,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 497,
+							"h": 296,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029145199593709600,
+					"source_status_id_str": "1029145199593709568",
+					"source_user_id": 25326324,
+					"source_user_id_str": "25326324"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1029145192572448800,
+					"id_str": "1029145192572448769",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DkhCGZmU8AEUOpR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkhCGZmU8AEUOpR.jpg",
+					"url": "https://t.co/BdJFA7JjKf",
+					"display_url": "pic.twitter.com/BdJFA7JjKf",
+					"expanded_url": "https://twitter.com/vmagazine/status/1029145199593709568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 497,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 497,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 497,
+							"h": 296,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029145199593709600,
+					"source_status_id_str": "1029145199593709568",
+					"source_user_id": 25326324,
+					"source_user_id_str": "25326324"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 876,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 13 23:18:30 +0000 2018",
+			"id": 1029145199593709600,
+			"id_str": "1029145199593709568",
+			"text": "What do @elonmusk and Azealia Banks have in common?  https://t.co/NcvYbHoyhQ https://t.co/BdJFA7JjKf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "elonmusk",
+						"name": "Elon Musk",
+						"id": 44196397,
+						"id_str": "44196397",
+						"indices": [
+							8,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NcvYbHoyhQ",
+						"expanded_url": "https://vmagazine.com/article/what-do-elon-musk-and-azealia-banks-have-in-common/",
+						"display_url": "vmagazine.com/article/what-d…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1029145192572448800,
+						"id_str": "1029145192572448769",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DkhCGZmU8AEUOpR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkhCGZmU8AEUOpR.jpg",
+						"url": "https://t.co/BdJFA7JjKf",
+						"display_url": "pic.twitter.com/BdJFA7JjKf",
+						"expanded_url": "https://twitter.com/vmagazine/status/1029145199593709568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 497,
+								"h": 296,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 497,
+								"h": 296,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 497,
+								"h": 296,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1029145192572448800,
+						"id_str": "1029145192572448769",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DkhCGZmU8AEUOpR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkhCGZmU8AEUOpR.jpg",
+						"url": "https://t.co/BdJFA7JjKf",
+						"display_url": "pic.twitter.com/BdJFA7JjKf",
+						"expanded_url": "https://twitter.com/vmagazine/status/1029145199593709568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 497,
+								"h": 296,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 497,
+								"h": 296,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 497,
+								"h": 296,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25326324,
+				"id_str": "25326324",
+				"name": "V Magazine",
+				"screen_name": "vmagazine",
+				"location": "New York, NY",
+				"description": "Where pop culture meets fashion.",
+				"url": "https://t.co/rSKYUcPnVP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rSKYUcPnVP",
+								"expanded_url": "http://www.vmagazine.com",
+								"display_url": "vmagazine.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 938992,
+				"friends_count": 711,
+				"listed_count": 6617,
+				"created_at": "Thu Mar 19 16:07:54 +0000 2009",
+				"favourites_count": 1783,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17870,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1016388618989039617/Ycu0y-ge_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016388618989039617/Ycu0y-ge_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25326324/1531160949",
+				"profile_link_color": "F5C0C8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 13 16:16:00 +0000 2018",
 		"id": 1029038874583097300,
 		"id_str": "1029038874583097344",
