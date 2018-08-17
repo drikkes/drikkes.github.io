@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 17 12:01:03 +0000 2018",
+		"id": 1030424264225316900,
+		"id_str": "1030424264225316864",
+		"text": "@GabrielBerlin Wo soll dieses Geldau denn liegen, in dem die gesündeste Tomat’ wächst? https://t.co/Fou8SOFa1g",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GabrielBerlin",
+					"name": "Gabriel Yoran",
+					"id": 14233899,
+					"id_str": "14233899",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1030424259435343900,
+					"id_str": "1030424259435343873",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DkzNZ4-WsAEDENP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkzNZ4-WsAEDENP.jpg",
+					"url": "https://t.co/Fou8SOFa1g",
+					"display_url": "pic.twitter.com/Fou8SOFa1g",
+					"expanded_url": "https://twitter.com/drikkes/status/1030424264225316864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 402,
+							"h": 205,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 402,
+							"h": 205,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 402,
+							"h": 205,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1030424259435343900,
+					"id_str": "1030424259435343873",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DkzNZ4-WsAEDENP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkzNZ4-WsAEDENP.jpg",
+					"url": "https://t.co/Fou8SOFa1g",
+					"display_url": "pic.twitter.com/Fou8SOFa1g",
+					"expanded_url": "https://twitter.com/drikkes/status/1030424264225316864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 402,
+							"h": 205,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 402,
+							"h": 205,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 402,
+							"h": 205,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1030419670258593800,
+		"in_reply_to_status_id_str": "1030419670258593792",
+		"in_reply_to_user_id": 14233899,
+		"in_reply_to_user_id_str": "14233899",
+		"in_reply_to_screen_name": "GabrielBerlin",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 854,
+			"friends_count": 156,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4402,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17733,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Fri Aug 17 10:58:38 +0000 2018",
 		"id": 1030408556246392800,
 		"id_str": "1030408556246392832",
