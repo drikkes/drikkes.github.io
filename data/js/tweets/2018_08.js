@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 23 20:02:08 +0000 2018",
+		"id": 1032719660242882600,
+		"id_str": "1032719660242882564",
+		"text": "Hier, wenn man kickert, ohne sich vorher in der WhatsApp-Gruppe „Kickern?“ dazu verabredet zu haben...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 854,
+			"friends_count": 157,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de"
+	},
+	{
+		"created_at": "Thu Aug 23 19:48:37 +0000 2018",
+		"id": 1032716256393224200,
+		"id_str": "1032716256393224192",
+		"text": "RT @vmagazine: .@LOrealUSA and @facebook announce partnership. https://t.co/wVxY6OKqXI https://t.co/O4vGGCF8IB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vmagazine",
+					"name": "V Magazine",
+					"id": 25326324,
+					"id_str": "25326324",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "LOrealUSA",
+					"name": "L'Oréal USA",
+					"id": 58602756,
+					"id_str": "58602756",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "facebook",
+					"name": "Facebook",
+					"id": 2425151,
+					"id_str": "2425151",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wVxY6OKqXI",
+					"expanded_url": "https://vmagazine.com/article/loreal-and-facebook-announce-ar-partnership/",
+					"display_url": "vmagazine.com/article/loreal…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1032679374753910800,
+					"id_str": "1032679374753910784",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DlTQa4MUUAAOEFy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlTQa4MUUAAOEFy.jpg",
+					"url": "https://t.co/O4vGGCF8IB",
+					"display_url": "pic.twitter.com/O4vGGCF8IB",
+					"expanded_url": "https://twitter.com/vmagazine/status/1032679396056985600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 518,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 518,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 518,
+							"h": 328,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1032679396056985600,
+					"source_status_id_str": "1032679396056985600",
+					"source_user_id": 25326324,
+					"source_user_id_str": "25326324"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1032679374753910800,
+					"id_str": "1032679374753910784",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DlTQa4MUUAAOEFy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlTQa4MUUAAOEFy.jpg",
+					"url": "https://t.co/O4vGGCF8IB",
+					"display_url": "pic.twitter.com/O4vGGCF8IB",
+					"expanded_url": "https://twitter.com/vmagazine/status/1032679396056985600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 518,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 518,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 518,
+							"h": 328,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1032679396056985600,
+					"source_status_id_str": "1032679396056985600",
+					"source_user_id": 25326324,
+					"source_user_id_str": "25326324"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 854,
+			"friends_count": 157,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 23 17:22:08 +0000 2018",
+			"id": 1032679396056985600,
+			"id_str": "1032679396056985600",
+			"text": ".@LOrealUSA and @facebook announce partnership. https://t.co/wVxY6OKqXI https://t.co/O4vGGCF8IB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LOrealUSA",
+						"name": "L'Oréal USA",
+						"id": 58602756,
+						"id_str": "58602756",
+						"indices": [
+							1,
+							11
+						]
+					},
+					{
+						"screen_name": "facebook",
+						"name": "Facebook",
+						"id": 2425151,
+						"id_str": "2425151",
+						"indices": [
+							16,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wVxY6OKqXI",
+						"expanded_url": "https://vmagazine.com/article/loreal-and-facebook-announce-ar-partnership/",
+						"display_url": "vmagazine.com/article/loreal…",
+						"indices": [
+							48,
+							71
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1032679374753910800,
+						"id_str": "1032679374753910784",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/DlTQa4MUUAAOEFy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlTQa4MUUAAOEFy.jpg",
+						"url": "https://t.co/O4vGGCF8IB",
+						"display_url": "pic.twitter.com/O4vGGCF8IB",
+						"expanded_url": "https://twitter.com/vmagazine/status/1032679396056985600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 518,
+								"h": 328,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 518,
+								"h": 328,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 518,
+								"h": 328,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1032679374753910800,
+						"id_str": "1032679374753910784",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/DlTQa4MUUAAOEFy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlTQa4MUUAAOEFy.jpg",
+						"url": "https://t.co/O4vGGCF8IB",
+						"display_url": "pic.twitter.com/O4vGGCF8IB",
+						"expanded_url": "https://twitter.com/vmagazine/status/1032679396056985600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 518,
+								"h": 328,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 518,
+								"h": 328,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 518,
+								"h": 328,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25326324,
+				"id_str": "25326324",
+				"name": "V Magazine",
+				"screen_name": "vmagazine",
+				"location": "New York, NY",
+				"description": "Where pop culture meets fashion.",
+				"url": "https://t.co/rSKYUcPnVP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rSKYUcPnVP",
+								"expanded_url": "http://www.vmagazine.com",
+								"display_url": "vmagazine.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 938833,
+				"friends_count": 712,
+				"listed_count": 6635,
+				"created_at": "Thu Mar 19 16:07:54 +0000 2009",
+				"favourites_count": 1787,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17934,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1016388618989039617/Ycu0y-ge_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016388618989039617/Ycu0y-ge_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25326324/1531160949",
+				"profile_link_color": "F5C0C8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 23 14:43:51 +0000 2018",
 		"id": 1032639559497080800,
 		"id_str": "1032639559497080832",
