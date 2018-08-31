@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 31 06:57:46 +0000 2018",
+		"id": 1035421371063566300,
+		"id_str": "1035421371063566336",
+		"text": "RT @Die_Reklame: Kölner Jüdisch-liberale Zeitung, 9.11.1928. https://t.co/ee0mdmx6Ap",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Die_Reklame",
+					"name": "Die Reklame",
+					"id": 966765831140139000,
+					"id_str": "966765831140139009",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1027933941741838300,
+					"id_str": "1027933941741838336",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DkP0eUoW4AA5YaK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkP0eUoW4AA5YaK.jpg",
+					"url": "https://t.co/ee0mdmx6Ap",
+					"display_url": "pic.twitter.com/ee0mdmx6Ap",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1035406831818964992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1392,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1035406831818965000,
+					"source_status_id_str": "1035406831818964992",
+					"source_user_id": 966765831140139000,
+					"source_user_id_str": "966765831140139009"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027933941741838300,
+					"id_str": "1027933941741838336",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DkP0eUoW4AA5YaK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkP0eUoW4AA5YaK.jpg",
+					"url": "https://t.co/ee0mdmx6Ap",
+					"display_url": "pic.twitter.com/ee0mdmx6Ap",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1035406831818964992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1392,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1035406831818965000,
+					"source_status_id_str": "1035406831818964992",
+					"source_user_id": 966765831140139000,
+					"source_user_id_str": "966765831140139009"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 855,
+			"friends_count": 157,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 31 06:00:00 +0000 2018",
+			"id": 1035406831818965000,
+			"id_str": "1035406831818964992",
+			"text": "Kölner Jüdisch-liberale Zeitung, 9.11.1928. https://t.co/ee0mdmx6Ap",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1027933941741838300,
+						"id_str": "1027933941741838336",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DkP0eUoW4AA5YaK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkP0eUoW4AA5YaK.jpg",
+						"url": "https://t.co/ee0mdmx6Ap",
+						"display_url": "pic.twitter.com/ee0mdmx6Ap",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1035406831818964992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 462,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 816,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1392,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1027933941741838300,
+						"id_str": "1027933941741838336",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DkP0eUoW4AA5YaK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkP0eUoW4AA5YaK.jpg",
+						"url": "https://t.co/ee0mdmx6Ap",
+						"display_url": "pic.twitter.com/ee0mdmx6Ap",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1035406831818964992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 462,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 816,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1392,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 966765831140139000,
+				"id_str": "966765831140139009",
+				"name": "Die Reklame",
+				"screen_name": "Die_Reklame",
+				"location": "",
+				"description": "Und jetzt: Werbung. Von @CJahnz, @mschfr und @moritz_hoffmann.",
+				"url": "https://t.co/3Yb5ujzitv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3Yb5ujzitv",
+								"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+								"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1286,
+				"friends_count": 55,
+				"listed_count": 8,
+				"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+				"favourites_count": 101,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 571,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+				"profile_link_color": "1A1A1A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Thu Aug 30 21:58:36 +0000 2018",
 		"id": 1035285682535710700,
 		"id_str": "1035285682535710723",
@@ -166,7 +533,7 @@ Grailbird.data.tweets_2018_08 =
 			"user_mentions": [
 				{
 					"screen_name": "covrter",
-					"name": "Andrew ℅‎",
+					"name": "Andrew ℅",
 					"id": 19754193,
 					"id_str": "19754193",
 					"indices": [
