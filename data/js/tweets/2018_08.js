@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 31 14:54:46 +0000 2018",
+		"id": 1035541412253716500,
+		"id_str": "1035541412253716480",
+		"text": "RT @FJ_Murau: plot twist. (aus: SZ) https://t.co/tebwzo5XvL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FJ_Murau",
+					"name": "Nils Markwardt",
+					"id": 1662224046,
+					"id_str": "1662224046",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1035497853123211300,
+					"id_str": "1035497853123211264",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Dl7Tz6UWsAAZj1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dl7Tz6UWsAAZj1Z.jpg",
+					"url": "https://t.co/tebwzo5XvL",
+					"display_url": "pic.twitter.com/tebwzo5XvL",
+					"expanded_url": "https://twitter.com/FJ_Murau/status/1035497863789404160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1035497863789404200,
+					"source_status_id_str": "1035497863789404160",
+					"source_user_id": 1662224046,
+					"source_user_id_str": "1662224046"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1035497853123211300,
+					"id_str": "1035497853123211264",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Dl7Tz6UWsAAZj1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dl7Tz6UWsAAZj1Z.jpg",
+					"url": "https://t.co/tebwzo5XvL",
+					"display_url": "pic.twitter.com/tebwzo5XvL",
+					"expanded_url": "https://twitter.com/FJ_Murau/status/1035497863789404160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1035497863789404200,
+					"source_status_id_str": "1035497863789404160",
+					"source_user_id": 1662224046,
+					"source_user_id_str": "1662224046"
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 855,
+			"friends_count": 157,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17784,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 31 12:01:44 +0000 2018",
+			"id": 1035497863789404200,
+			"id_str": "1035497863789404160",
+			"text": "plot twist. (aus: SZ) https://t.co/tebwzo5XvL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1035497853123211300,
+						"id_str": "1035497853123211264",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/Dl7Tz6UWsAAZj1Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dl7Tz6UWsAAZj1Z.jpg",
+						"url": "https://t.co/tebwzo5XvL",
+						"display_url": "pic.twitter.com/tebwzo5XvL",
+						"expanded_url": "https://twitter.com/FJ_Murau/status/1035497863789404160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1440,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 478,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 844,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1035497853123211300,
+						"id_str": "1035497853123211264",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/Dl7Tz6UWsAAZj1Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dl7Tz6UWsAAZj1Z.jpg",
+						"url": "https://t.co/tebwzo5XvL",
+						"display_url": "pic.twitter.com/tebwzo5XvL",
+						"expanded_url": "https://twitter.com/FJ_Murau/status/1035497863789404160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1440,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 478,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 844,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1662224046,
+				"id_str": "1662224046",
+				"name": "Nils Markwardt",
+				"screen_name": "FJ_Murau",
+				"location": "Berlin",
+				"description": "(Redakteur beim Philosophie Magazin, Autor für Zeit Online, Deutschlandfunk Kultur u.a.)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8508,
+				"friends_count": 598,
+				"listed_count": 180,
+				"created_at": "Sun Aug 11 10:46:55 +0000 2013",
+				"favourites_count": 42758,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15848,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998335945584689153/4Su00DTw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998335945584689153/4Su00DTw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1662224046/1405693197",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "hu"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "hu"
+	},
+	{
 		"created_at": "Fri Aug 31 09:10:59 +0000 2018",
 		"id": 1035454895590137900,
 		"id_str": "1035454895590137857",
