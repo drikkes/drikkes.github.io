@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 03 08:55:12 +0000 2018",
+		"id": 1036538088368091100,
+		"id_str": "1036538088368091136",
+		"text": "Rezensionen statt \"Scrolleton\" – sehr gut! (Plus: \"Glanz &amp; Elend der Kurtisanen\" als Aufhänger.) https://t.co/J1mCH1RjU8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J1mCH1RjU8",
+					"expanded_url": "https://twitter.com/RepublikMagazin/status/1036318912558891009",
+					"display_url": "twitter.com/RepublikMagazi…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 855,
+			"friends_count": 157,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1036318912558891000,
+		"quoted_status_id_str": "1036318912558891009",
+		"quoted_status": {
+			"created_at": "Sun Sep 02 18:24:17 +0000 2018",
+			"id": 1036318912558891000,
+			"id_str": "1036318912558891009",
+			"text": "Mehr Debatte. Mehr Kritik. Unser Feuilleton ist da. @Barbaravil erklärt, was wir vorhaben. https://t.co/YzqePSvdLH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Barbaravil",
+						"name": "Barbara Villiger H",
+						"id": 261691646,
+						"id_str": "261691646",
+						"indices": [
+							52,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YzqePSvdLH",
+						"expanded_url": "https://www.republik.ch/2018/09/02/fuer-eine-kultur-der-kritik",
+						"display_url": "republik.ch/2018/09/02/fue…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 786282996223598600,
+				"id_str": "786282996223598592",
+				"name": "Republik",
+				"screen_name": "RepublikMagazin",
+				"location": "Zürich, Schweiz",
+				"description": "Digitales Magazin. Seit 2018. Neu mit Feuilleton.",
+				"url": "https://t.co/EzWW6Pz2JT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EzWW6Pz2JT",
+								"expanded_url": "http://www.republik.ch",
+								"display_url": "republik.ch",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12216,
+				"friends_count": 69,
+				"listed_count": 170,
+				"created_at": "Wed Oct 12 19:10:49 +0000 2016",
+				"favourites_count": 218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 733,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/946926085152952323/QoqcM5v9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946926085152952323/QoqcM5v9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/786282996223598592/1519657461",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Mon Sep 03 07:01:56 +0000 2018",
 		"id": 1036509582963761200,
 		"id_str": "1036509582963761152",
