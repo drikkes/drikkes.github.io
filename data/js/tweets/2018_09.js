@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 14 06:22:41 +0000 2018",
+		"id": 1040485972146835500,
+		"id_str": "1040485972146835457",
+		"text": "RT @mpeer: This is really disturbing: India has about 18 percent of the world's population, but represents 36.6 percent of global female su…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mpeer",
+					"name": "Mathias Peer",
+					"id": 11003812,
+					"id_str": "11003812",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 857,
+			"friends_count": 157,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17833,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 14 03:43:08 +0000 2018",
+			"id": 1040445820032544800,
+			"id_str": "1040445820032544769",
+			"text": "This is really disturbing: India has about 18 percent of the world's population, but represents 36.6 percent of glo… https://t.co/7VYUbphpze",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7VYUbphpze",
+						"expanded_url": "https://twitter.com/i/web/status/1040445820032544769",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11003812,
+				"id_str": "11003812",
+				"name": "Mathias Peer",
+				"screen_name": "mpeer",
+				"location": "Bangkok",
+				"description": "Correspondent for Southeast Asia and India @handelsblatt - peer@weltreporter.net - Tweets in English and German",
+				"url": "https://t.co/hhhsFJJLdq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hhhsFJJLdq",
+								"expanded_url": "https://www.handelsblatt.com/autoren/mathias-peer/8740902.html",
+								"display_url": "handelsblatt.com/autoren/mathia…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1430,
+				"friends_count": 1617,
+				"listed_count": 73,
+				"created_at": "Sun Dec 09 22:46:10 +0000 2007",
+				"favourites_count": 2947,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3239,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929188509675433985/lGIh8_ZX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929188509675433985/lGIh8_ZX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11003812/1416543787",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 14 06:19:39 +0000 2018",
+		"id": 1040485209085562900,
+		"id_str": "1040485209085562882",
+		"text": "RT @gadievron: https://t.co/cRhyl3x43n",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gadievron",
+					"name": "Gadi Evron",
+					"id": 15615663,
+					"id_str": "15615663",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1040378490988703700,
+					"id_str": "1040378490988703744",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DnAqubNWsAAJtpB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DnAqubNWsAAJtpB.jpg",
+					"url": "https://t.co/cRhyl3x43n",
+					"display_url": "pic.twitter.com/cRhyl3x43n",
+					"expanded_url": "https://twitter.com/gadievron/status/1040378501843615745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 654,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 673,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1040378501843615700,
+					"source_status_id_str": "1040378501843615745",
+					"source_user_id": 15615663,
+					"source_user_id_str": "15615663"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1040378490988703700,
+					"id_str": "1040378490988703744",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DnAqubNWsAAJtpB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DnAqubNWsAAJtpB.jpg",
+					"url": "https://t.co/cRhyl3x43n",
+					"display_url": "pic.twitter.com/cRhyl3x43n",
+					"expanded_url": "https://twitter.com/gadievron/status/1040378501843615745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 654,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 673,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 673,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1040378501843615700,
+					"source_status_id_str": "1040378501843615745",
+					"source_user_id": 15615663,
+					"source_user_id_str": "15615663"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 857,
+			"friends_count": 157,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17833,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 13 23:15:38 +0000 2018",
+			"id": 1040378501843615700,
+			"id_str": "1040378501843615745",
+			"text": "https://t.co/cRhyl3x43n",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1040378490988703700,
+						"id_str": "1040378490988703744",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DnAqubNWsAAJtpB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DnAqubNWsAAJtpB.jpg",
+						"url": "https://t.co/cRhyl3x43n",
+						"display_url": "pic.twitter.com/cRhyl3x43n",
+						"expanded_url": "https://twitter.com/gadievron/status/1040378501843615745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 654,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 673,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 673,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1040378490988703700,
+						"id_str": "1040378490988703744",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DnAqubNWsAAJtpB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DnAqubNWsAAJtpB.jpg",
+						"url": "https://t.co/cRhyl3x43n",
+						"display_url": "pic.twitter.com/cRhyl3x43n",
+						"expanded_url": "https://twitter.com/gadievron/status/1040378501843615745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 654,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 673,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 673,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15615663,
+				"id_str": "15615663",
+				"name": "Gadi Evron",
+				"screen_name": "gadievron",
+				"location": "30,000 feet",
+				"description": "Founder and CEO at Cymmetria. Chairing global task forces, miscreant puncher/threat hunter, scifi geek, dance teacher.",
+				"url": "https://t.co/kKbWggaCtv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kKbWggaCtv",
+								"expanded_url": "https://medium.com/@gevron",
+								"display_url": "medium.com/@gevron",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4129,
+				"friends_count": 1769,
+				"listed_count": 205,
+				"created_at": "Sun Jul 27 00:10:47 +0000 2008",
+				"favourites_count": 3131,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9173,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000446483560/766fbc5958bdf41784b281b06b15d9f2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000446483560/766fbc5958bdf41784b281b06b15d9f2_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15615663/1530029965",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 359,
+			"favorite_count": 845,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 359,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Sep 13 19:39:39 +0000 2018",
 		"id": 1040324146251673600,
 		"id_str": "1040324146251673605",
