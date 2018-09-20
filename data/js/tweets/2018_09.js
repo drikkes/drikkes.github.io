@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 20 15:13:54 +0000 2018",
+		"id": 1042793982630285300,
+		"id_str": "1042793982630285312",
+		"text": "Zur Klar(namens)stellung, wegen meines verkleideten Profilphotos:  Ich wohne weder im Erzgebirge, noch arbeite ich… https://t.co/dRop77AabI",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dRop77AabI",
+					"expanded_url": "https://twitter.com/i/web/status/1042793982630285312",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 856,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17858,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "277c77bca4e7339b",
+			"url": "https://api.twitter.com/1.1/geo/id/277c77bca4e7339b.json",
+			"place_type": "neighborhood",
+			"name": "Alt-Godesberg",
+			"full_name": "Alt-Godesberg, Bonn",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							7.136989,
+							50.670342
+						],
+						[
+							7.1662343,
+							50.670342
+						],
+						[
+							7.1662343,
+							50.6904435
+						],
+						[
+							7.136989,
+							50.6904435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1042717606854189000,
+		"quoted_status_id_str": "1042717606854189056",
+		"quoted_status": {
+			"created_at": "Thu Sep 20 10:10:24 +0000 2018",
+			"id": 1042717606854189000,
+			"id_str": "1042717606854189056",
+			"text": "Der sächsische Verfassungsschützer Hendrik S. demonstriert als #AfD-Funktionär in #Chemnitz und hält Aktionsformen… https://t.co/85cBNwfo1E",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AfD",
+						"indices": [
+							63,
+							67
+						]
+					},
+					{
+						"text": "Chemnitz",
+						"indices": [
+							82,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/85cBNwfo1E",
+						"expanded_url": "https://twitter.com/i/web/status/1042717606854189056",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1530242948,
+				"id_str": "1530242948",
+				"name": "NDR Recherche",
+				"screen_name": "NDRrecherche",
+				"location": "Hamburg",
+				"description": "Hier twittern Reporter des @NDR zu Recherchen von #PanoramaARD #Panorama3 https://t.co/s5iMSCUDCM #NDRWDRSZ #NDRInfo | Impressum: https://t.co/uuRQxVnFeP",
+				"url": "https://t.co/N296k3WcK1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N296k3WcK1",
+								"expanded_url": "http://NDR.de/recherche",
+								"display_url": "NDR.de/recherche",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/s5iMSCUDCM",
+								"expanded_url": "http://www.panorama.de",
+								"display_url": "panorama.de",
+								"indices": [
+									74,
+									97
+								]
+							},
+							{
+								"url": "https://t.co/uuRQxVnFeP",
+								"expanded_url": "http://ndr.de/impressum",
+								"display_url": "ndr.de/impressum",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18868,
+				"friends_count": 94,
+				"listed_count": 475,
+				"created_at": "Wed Jun 19 08:53:49 +0000 2013",
+				"favourites_count": 1209,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3076,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877180259258519554/GIUX32I6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877180259258519554/GIUX32I6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1530242948/1478525240",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 404,
+			"favorite_count": 303,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Thu Sep 20 14:23:35 +0000 2018",
 		"id": 1042781320722694100,
 		"id_str": "1042781320722694145",
