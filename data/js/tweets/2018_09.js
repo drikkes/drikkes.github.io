@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 27 15:23:54 +0000 2018",
+		"id": 1045333215941218300,
+		"id_str": "1045333215941218307",
+		"text": "Was wird denn dann aus Bobby&amp;Carl? :-( https://t.co/4pQQviLH32",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4pQQviLH32",
+					"expanded_url": "https://twitter.com/janboehm/status/1045319996346441729",
+					"display_url": "twitter.com/janboehm/statu…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 853,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17878,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "277c77bca4e7339b",
+			"url": "https://api.twitter.com/1.1/geo/id/277c77bca4e7339b.json",
+			"place_type": "neighborhood",
+			"name": "Alt-Godesberg",
+			"full_name": "Alt-Godesberg, Bonn",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							7.136989,
+							50.670342
+						],
+						[
+							7.1662343,
+							50.670342
+						],
+						[
+							7.1662343,
+							50.6904435
+						],
+						[
+							7.136989,
+							50.6904435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1045319996346441700,
+		"quoted_status_id_str": "1045319996346441729",
+		"quoted_status": {
+			"created_at": "Thu Sep 27 14:31:22 +0000 2018",
+			"id": 1045319996346441700,
+			"id_str": "1045319996346441729",
+			"text": "Thy GmbH &amp; Ssenkrupp AG https://t.co/LTKtc1E5qa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LTKtc1E5qa",
+						"expanded_url": "https://twitter.com/zeitonline/status/1045319564056297472",
+						"display_url": "twitter.com/zeitonline/sta…",
+						"indices": [
+							28,
+							51
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19072286,
+				"id_str": "19072286",
+				"name": "Jan Böhmermann 🤨🇪🇺",
+				"screen_name": "janboehm",
+				"location": "Berlin, Deutschland",
+				"description": "🇪🇺 / from the motherland of fun / customer service line +49 221 97581870 / https://t.co/U7UMQIGoXS",
+				"url": "https://t.co/9SEGzQ4VRn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9SEGzQ4VRn",
+								"expanded_url": "http://www.neomagazinroyale.de",
+								"display_url": "neomagazinroyale.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/U7UMQIGoXS",
+								"expanded_url": "http://www.boehmermann.de",
+								"display_url": "boehmermann.de",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2033056,
+				"friends_count": 1098,
+				"listed_count": 2487,
+				"created_at": "Fri Jan 16 15:55:55 +0000 2009",
+				"favourites_count": 15177,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18781,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1032508148219817984/n8WhrO0U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032508148219817984/n8WhrO0U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19072286/1538029988",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1045319564056297500,
+			"quoted_status_id_str": "1045319564056297472",
+			"retweet_count": 14,
+			"favorite_count": 241,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Thu Sep 27 13:07:15 +0000 2018",
 		"id": 1045298824422543400,
 		"id_str": "1045298824422543360",
