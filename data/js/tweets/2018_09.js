@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 28 17:55:11 +0000 2018",
+		"id": 1045733673843281900,
+		"id_str": "1045733673843281920",
+		"text": "RT @heyitschili: https://t.co/lZDRtMTD2Z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heyitschili",
+					"name": "C H I L I",
+					"id": 19590012,
+					"id_str": "19590012",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1045718326968815600,
+					"id_str": "1045718326968815619",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1045718326968815619/pu/img/Gpq_aqzKZSiTUl-1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1045718326968815619/pu/img/Gpq_aqzKZSiTUl-1.jpg",
+					"url": "https://t.co/lZDRtMTD2Z",
+					"display_url": "pic.twitter.com/lZDRtMTD2Z",
+					"expanded_url": "https://twitter.com/heyitschili/status/1045718359713681408/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1045718359713681400,
+					"source_status_id_str": "1045718359713681408",
+					"source_user_id": 19590012,
+					"source_user_id_str": "19590012"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1045718326968815600,
+					"id_str": "1045718326968815619",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1045718326968815619/pu/img/Gpq_aqzKZSiTUl-1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1045718326968815619/pu/img/Gpq_aqzKZSiTUl-1.jpg",
+					"url": "https://t.co/lZDRtMTD2Z",
+					"display_url": "pic.twitter.com/lZDRtMTD2Z",
+					"expanded_url": "https://twitter.com/heyitschili/status/1045718359713681408/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1045718359713681400,
+					"source_status_id_str": "1045718359713681408",
+					"source_user_id": 19590012,
+					"source_user_id_str": "19590012",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59367,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1045718326968815619/pu/pl/iTwzl6TBruYdlhGP.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1045718326968815619/pu/vid/240x240/cu_VzsqKp0ZrUMYb.mp4?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1045718326968815619/pu/vid/640x640/Im4vTn_3wcbn8VUY.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1045718326968815619/pu/vid/480x480/6mXjkIxfmpEYuT0q.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 19590012,
+							"id_str": "19590012",
+							"name": "C H I L I",
+							"screen_name": "heyitschili",
+							"location": "Atlanta, GA",
+							"description": "I'm William and I used to do standup all around Asia. Now I do it in Atlanta.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3528,
+							"friends_count": 1607,
+							"listed_count": 154,
+							"created_at": "Tue Jan 27 12:50:59 +0000 2009",
+							"favourites_count": 11421,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 58077,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FF6300",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1045068810393399296/KYvYEWGY_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045068810393399296/KYvYEWGY_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/19590012/1458619815",
+							"profile_link_color": "FF6300",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "330066",
+							"profile_text_color": "7A7A7A",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 854,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17885,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 28 16:54:20 +0000 2018",
+			"id": 1045718359713681400,
+			"id_str": "1045718359713681408",
+			"text": "https://t.co/lZDRtMTD2Z",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1045718326968815600,
+						"id_str": "1045718326968815619",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1045718326968815619/pu/img/Gpq_aqzKZSiTUl-1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1045718326968815619/pu/img/Gpq_aqzKZSiTUl-1.jpg",
+						"url": "https://t.co/lZDRtMTD2Z",
+						"display_url": "pic.twitter.com/lZDRtMTD2Z",
+						"expanded_url": "https://twitter.com/heyitschili/status/1045718359713681408/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1045718326968815600,
+						"id_str": "1045718326968815619",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1045718326968815619/pu/img/Gpq_aqzKZSiTUl-1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1045718326968815619/pu/img/Gpq_aqzKZSiTUl-1.jpg",
+						"url": "https://t.co/lZDRtMTD2Z",
+						"display_url": "pic.twitter.com/lZDRtMTD2Z",
+						"expanded_url": "https://twitter.com/heyitschili/status/1045718359713681408/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 59367,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1045718326968815619/pu/pl/iTwzl6TBruYdlhGP.m3u8?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1045718326968815619/pu/vid/240x240/cu_VzsqKp0ZrUMYb.mp4?tag=5"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1045718326968815619/pu/vid/640x640/Im4vTn_3wcbn8VUY.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1045718326968815619/pu/vid/480x480/6mXjkIxfmpEYuT0q.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19590012,
+				"id_str": "19590012",
+				"name": "C H I L I",
+				"screen_name": "heyitschili",
+				"location": "Atlanta, GA",
+				"description": "I'm William and I used to do standup all around Asia. Now I do it in Atlanta.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3528,
+				"friends_count": 1607,
+				"listed_count": 154,
+				"created_at": "Tue Jan 27 12:50:59 +0000 2009",
+				"favourites_count": 11421,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 58077,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6300",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1045068810393399296/KYvYEWGY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045068810393399296/KYvYEWGY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19590012/1458619815",
+				"profile_link_color": "FF6300",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "330066",
+				"profile_text_color": "7A7A7A",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8973,
+			"favorite_count": 17793,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8973,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Fri Sep 28 14:00:20 +0000 2018",
 		"id": 1045674572165582800,
 		"id_str": "1045674572165582848",
