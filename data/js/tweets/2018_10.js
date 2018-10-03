@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 03 12:03:40 +0000 2018",
+		"id": 1047457151873110000,
+		"id_str": "1047457151873110016",
+		"text": "14:00 Uhr – der Asbach ist leer. https://t.co/bgolb2yxhS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1047457142851215400,
+					"id_str": "1047457142851215360",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DolQuMUXoAA0M6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DolQuMUXoAA0M6J.jpg",
+					"url": "https://t.co/bgolb2yxhS",
+					"display_url": "pic.twitter.com/bgolb2yxhS",
+					"expanded_url": "https://twitter.com/drikkes/status/1047457151873110016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1047457142851215400,
+					"id_str": "1047457142851215360",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DolQuMUXoAA0M6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DolQuMUXoAA0M6J.jpg",
+					"url": "https://t.co/bgolb2yxhS",
+					"display_url": "pic.twitter.com/bgolb2yxhS",
+					"expanded_url": "https://twitter.com/drikkes/status/1047457151873110016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1047423749484695600,
+		"in_reply_to_status_id_str": "1047423749484695552",
+		"in_reply_to_user_id": 15378060,
+		"in_reply_to_user_id_str": "15378060",
+		"in_reply_to_screen_name": "drikkes",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 854,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17897,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.57638098,
+				7.26036092
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				7.26036092,
+				50.57638098
+			]
+		},
+		"place": {
+			"id": "199f383f2cff2e3f",
+			"url": "https://api.twitter.com/1.1/geo/id/199f383f2cff2e3f.json",
+			"place_type": "city",
+			"name": "Kasbach-Ohlenberg",
+			"full_name": "Kasbach-Ohlenberg, Deutschland",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							7.248418,
+							50.574376
+						],
+						[
+							7.297504,
+							50.574376
+						],
+						[
+							7.297504,
+							50.59887
+						],
+						[
+							7.248418,
+							50.59887
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Wed Oct 03 09:50:56 +0000 2018",
 		"id": 1047423749484695600,
 		"id_str": "1047423749484695552",
