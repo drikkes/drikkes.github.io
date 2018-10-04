@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 04 11:57:27 +0000 2018",
+		"id": 1047817976685244400,
+		"id_str": "1047817976685244422",
+		"text": "»The hotel says the room is particularly popular with swingers and couples having risque affairs.« https://t.co/PAkDCWTs4N",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PAkDCWTs4N",
+					"expanded_url": "https://twitter.com/mpeer/status/1047778714056970242",
+					"display_url": "twitter.com/mpeer/status/1…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 854,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "277c77bca4e7339b",
+			"url": "https://api.twitter.com/1.1/geo/id/277c77bca4e7339b.json",
+			"place_type": "neighborhood",
+			"name": "Alt-Godesberg",
+			"full_name": "Alt-Godesberg, Bonn",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							7.136989,
+							50.670342
+						],
+						[
+							7.1662343,
+							50.670342
+						],
+						[
+							7.1662343,
+							50.6904435
+						],
+						[
+							7.136989,
+							50.6904435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1047778714056970200,
+		"quoted_status_id_str": "1047778714056970242",
+		"quoted_status": {
+			"created_at": "Thu Oct 04 09:21:26 +0000 2018",
+			"id": 1047778714056970200,
+			"id_str": "1047778714056970242",
+			"text": "Thailand is in the news again: \"Thai sex hotel sparks outrage with bizarre Nazi-themed room decorated with swastika… https://t.co/wS7FLHbGLF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wS7FLHbGLF",
+						"expanded_url": "https://twitter.com/i/web/status/1047778714056970242",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11003812,
+				"id_str": "11003812",
+				"name": "Mathias Peer",
+				"screen_name": "mpeer",
+				"location": "Bangkok",
+				"description": "Correspondent for Southeast Asia and India @handelsblatt - peer@weltreporter.net - Tweets in English and German",
+				"url": "https://t.co/hhhsFJJLdq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hhhsFJJLdq",
+								"expanded_url": "https://www.handelsblatt.com/autoren/mathias-peer/8740902.html",
+								"display_url": "handelsblatt.com/autoren/mathia…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1442,
+				"friends_count": 1649,
+				"listed_count": 73,
+				"created_at": "Sun Dec 09 22:46:10 +0000 2007",
+				"favourites_count": 3066,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3300,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929188509675433985/lGIh8_ZX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929188509675433985/lGIh8_ZX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11003812/1416543787",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0122f4330dd7c68d",
+				"url": "https://api.twitter.com/1.1/geo/id/0122f4330dd7c68d.json",
+				"place_type": "admin",
+				"name": "Vadhana",
+				"full_name": "Vadhana, Bangkok",
+				"country_code": "TH",
+				"country": "Thailand",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								100.5500698,
+								13.7046284
+							],
+							[
+								100.6067271,
+								13.7046284
+							],
+							[
+								100.6067271,
+								13.7484203
+							],
+							[
+								100.5500698,
+								13.7484203
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 04 08:40:51 +0000 2018",
 		"id": 1047768498137714700,
 		"id_str": "1047768498137714690",
