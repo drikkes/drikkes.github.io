@@ -1,6 +1,649 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 06 11:39:14 +0000 2018",
+		"id": 1048538168650321900,
+		"id_str": "1048538168650321920",
+		"text": "Das ist wirklich witzig. https://t.co/Sbue8v3f2e https://t.co/iGTbAQeGM6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sbue8v3f2e",
+					"expanded_url": "https://www.bbc.com/news/uk-england-bristol-45770028",
+					"display_url": "bbc.com/news/uk-englan…",
+					"indices": [
+						25,
+						48
+					]
+				},
+				{
+					"url": "https://t.co/iGTbAQeGM6",
+					"expanded_url": "https://twitter.com/DanFleyshman/status/1048401293713137665",
+					"display_url": "twitter.com/DanFleyshman/s…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 854,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17923,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91711426,
+				6.96569975
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96569975,
+				50.91711426
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1048401293713137700,
+		"quoted_status_id_str": "1048401293713137665",
+		"quoted_status": {
+			"created_at": "Sat Oct 06 02:35:21 +0000 2018",
+			"id": 1048401293713137700,
+			"id_str": "1048401293713137665",
+			"text": "$1,300,000 BANKSY artwork piece just “self-destructed” right after it was sold at Sotheby’s auction!🤯😳\n\n(An alarm s… https://t.co/EdWwJq7wln",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EdWwJq7wln",
+						"expanded_url": "https://twitter.com/i/web/status/1048401293713137665",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18824972,
+				"id_str": "18824972",
+				"name": "Dan Fleyshman",
+				"screen_name": "DanFleyshman",
+				"location": "Los Angeles, CA",
+				"description": "Youngest owner of public company at 23. Angel Investor in 24 companies. Author of https://t.co/4Wc9s0l3Tz my charity for homeless:https://t.co/1HM66l3K9U",
+				"url": "https://t.co/h5gA1nPiR6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h5gA1nPiR6",
+								"expanded_url": "http://www.victoryceo.com",
+								"display_url": "victoryceo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4Wc9s0l3Tz",
+								"expanded_url": "http://www.buythisbook.com",
+								"display_url": "buythisbook.com",
+								"indices": [
+									82,
+									105
+								]
+							},
+							{
+								"url": "https://t.co/1HM66l3K9U",
+								"expanded_url": "http://modelcitizenfund.org",
+								"display_url": "modelcitizenfund.org",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 24687,
+				"friends_count": 959,
+				"listed_count": 352,
+				"created_at": "Sat Jan 10 03:02:31 +0000 2009",
+				"favourites_count": 4916,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19142,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2734777303/8cde9f0515cb1256b768c2d632421d6e_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2734777303/8cde9f0515cb1256b768c2d632421d6e_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18824972/1355175616",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23900,
+			"favorite_count": 55997,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
+		"created_at": "Sat Oct 06 11:28:11 +0000 2018",
+		"id": 1048535385406627800,
+		"id_str": "1048535385406627840",
+		"text": "Classy. https://t.co/LRNWM1uViL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LRNWM1uViL",
+					"expanded_url": "https://twitter.com/Slatefr/status/1048513355005276160",
+					"display_url": "twitter.com/Slatefr/status…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 854,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17923,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91714478,
+				6.96623921
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96623921,
+				50.91714478
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1048513355005276200,
+		"quoted_status_id_str": "1048513355005276160",
+		"quoted_status": {
+			"created_at": "Sat Oct 06 10:00:38 +0000 2018",
+			"id": 1048513355005276200,
+			"id_str": "1048513355005276160",
+			"text": "Quand Melania Trump parade en Afrique avec un casque colonial https://t.co/Vqki0KxZLp https://t.co/EJepZ2qEYB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Vqki0KxZLp",
+						"expanded_url": "http://www.slate.fr/story/168227/quand-melania-trump-parade-en-afrique-avec-un-casque-colonial?utm_medium=Social&utm_source=Twitter#Echobox=1538820036",
+						"display_url": "slate.fr/story/168227/q…",
+						"indices": [
+							62,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1048513352115347500,
+						"id_str": "1048513352115347456",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/Do0RVqcW4AA0O24.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Do0RVqcW4AA0O24.jpg",
+						"url": "https://t.co/EJepZ2qEYB",
+						"display_url": "pic.twitter.com/EJepZ2qEYB",
+						"expanded_url": "https://twitter.com/Slatefr/status/1048513355005276160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1048513352115347500,
+						"id_str": "1048513352115347456",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/Do0RVqcW4AA0O24.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Do0RVqcW4AA0O24.jpg",
+						"url": "https://t.co/EJepZ2qEYB",
+						"display_url": "pic.twitter.com/EJepZ2qEYB",
+						"expanded_url": "https://twitter.com/Slatefr/status/1048513355005276160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20224969,
+				"id_str": "20224969",
+				"name": "Slate.fr",
+				"screen_name": "Slatefr",
+				"location": "Paris, France",
+				"description": "Magazine, podcasts & grands formats\nSuivez-nous aussi sur Facebook: https://t.co/pcyUftd8ai et sur Instagram: https://t.co/SvTBw6k96k",
+				"url": "https://t.co/O3eAC7jYJW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O3eAC7jYJW",
+								"expanded_url": "http://www.slate.fr",
+								"display_url": "slate.fr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pcyUftd8ai",
+								"expanded_url": "http://www.facebook.com/SlateFrance/",
+								"display_url": "facebook.com/SlateFrance/",
+								"indices": [
+									68,
+									91
+								]
+							},
+							{
+								"url": "https://t.co/SvTBw6k96k",
+								"expanded_url": "https://www.instagram.com/slatefrance/",
+								"display_url": "instagram.com/slatefrance/",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 721408,
+				"friends_count": 1955,
+				"listed_count": 6716,
+				"created_at": "Fri Feb 06 09:19:21 +0000 2009",
+				"favourites_count": 802,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 90631,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "670132",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875381485372571649/naEBX4Cv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875381485372571649/naEBX4Cv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20224969/1531297086",
+				"profile_link_color": "670132",
+				"profile_sidebar_border_color": "1A1A1A",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 05 20:52:45 +0000 2018",
 		"id": 1048315075906474000,
 		"id_str": "1048315075906473984",
