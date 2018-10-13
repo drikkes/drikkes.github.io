@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 13 11:03:18 +0000 2018",
+		"id": 1051065837044535300,
+		"id_str": "1051065837044535296",
+		"full_text": "Bin wohl einer der wenigen mit „höflichem Paparazzi“-Account, der kein Buch veröffentlicht. https://t.co/aMtTxSsD3o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aMtTxSsD3o",
+					"expanded_url": "https://twitter.com/the_maki/status/1050995661695533056",
+					"display_url": "twitter.com/the_maki/statu…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 860,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17945,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "24004c73af19aca3",
+			"url": "https://api.twitter.com/1.1/geo/id/24004c73af19aca3.json",
+			"place_type": "neighborhood",
+			"name": "Altstadt-Süd",
+			"full_name": "Altstadt-Süd, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.939605,
+							50.9216186
+						],
+						[
+							6.970044,
+							50.9216186
+						],
+						[
+							6.970044,
+							50.936904
+						],
+						[
+							6.939605,
+							50.936904
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050995661695533000,
+		"quoted_status_id_str": "1050995661695533056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aMtTxSsD3o",
+			"expanded": "https://twitter.com/the_maki/status/1050995661695533056",
+			"display": "twitter.com/the_maki/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 13 06:24:26 +0000 2018",
+			"id": 1050995661695533000,
+			"id_str": "1050995661695533056",
+			"full_text": "Über Wolfgang. https://t.co/rLOKlCSQCH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rLOKlCSQCH",
+						"expanded_url": "https://derstandard.at/2000089201330/Wolfgang-Herrndorf-Die-geheimnisvolle-Kraft-des-Schwarms?ref=article",
+						"display_url": "derstandard.at/2000089201330/…",
+						"indices": [
+							15,
+							38
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16695188,
+				"id_str": "16695188",
+				"name": "maki",
+				"screen_name": "the_maki",
+				"location": "Vienna & London",
+				"description": "I want the future now.",
+				"url": "http://t.co/WPjWNjZQlX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WPjWNjZQlX",
+								"expanded_url": "http://www.maiknovotny.com",
+								"display_url": "maiknovotny.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3207,
+				"friends_count": 797,
+				"listed_count": 158,
+				"created_at": "Sat Oct 11 11:33:26 +0000 2008",
+				"favourites_count": 22593,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6740,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859359116980105216/mfrgQPVK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859359116980105216/mfrgQPVK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16695188/1506418184",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Bin wohl einer der wenigen mit „höflichem Paparazzi“-Account, der kein Buch veröffentlicht. https://t.co/aMtTxSsD3o"
+	},
+	{
 		"created_at": "Fri Oct 12 21:30:43 +0000 2018",
 		"id": 1050861344210264000,
 		"id_str": "1050861344210264069",
