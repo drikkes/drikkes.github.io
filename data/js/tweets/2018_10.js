@@ -129,6 +129,293 @@ Grailbird.data.tweets_2018_10 =
 			"protected": false,
 			"followers_count": 1430,
 			"friends_count": 58,
+			"listed_count": 15,
+			"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 805,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+			"profile_link_color": "1A1A1A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Madame, März 1988. https://t.co/9ed858ZWyX"
+	},
+	{
+		"created_at": "Mon Oct 15 08:04:00 +0000 2018",
+		"id": 1051745494203023400,
+		"id_str": "1051745494203023360",
+		"full_text": "I can't help wonder how many of the older people out there were shouting and dancing frantically to \"No Future\" in their flashy pants, ending up having a future consuming mindlessly, while leaving us kids of the 90s and after, with none.\n\n#ClimateChange",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ClimateChange",
+					"indices": [
+						239,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 798831640281612300,
+			"id_str": "798831640281612288",
+			"name": "Crystelle Vu",
+			"screen_name": "pestregards",
+			"location": "Berlin x Paris",
+			"description": "Artist mainly focused on the greatest environmental & social challenges of our time | co-organises https://t.co/9XlLrTlRlC | Earthling in Laniakea",
+			"url": "https://t.co/tjSYCcL9AJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tjSYCcL9AJ",
+							"expanded_url": "http://crystellevu.com",
+							"display_url": "crystellevu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9XlLrTlRlC",
+							"expanded_url": "http://blackl.st",
+							"display_url": "blackl.st",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 438,
+			"friends_count": 355,
+			"listed_count": 15,
+			"created_at": "Wed Nov 16 10:14:39 +0000 2016",
+			"favourites_count": 2922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1804,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050686890154881024/ZhgErpmX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050686890154881024/ZhgErpmX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/798831640281612288/1539425133",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I can't help wonder how many of the older people out there were shouting and dancing frantically to \"No Future\" in their flashy pants, ending up having a future consuming mindlessly, while leaving us kids of the 90s and after, with none.\n\n#ClimateChange"
+	},
+	{
+		"created_at": "Mon Oct 15 09:00:00 +0000 2018",
+		"id": 1051759585537785900,
+		"id_str": "1051759585537785856",
+		"full_text": "Madame, März 1988. https://t.co/9ed858ZWyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1047950306489897000,
+					"id_str": "1047950306489896960",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DosRQGCXkAA9of0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DosRQGCXkAA9of0.jpg",
+					"url": "https://t.co/9ed858ZWyX",
+					"display_url": "pic.twitter.com/9ed858ZWyX",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1051759585537785856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 898,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1318,
+							"h": 1762,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1047950306489897000,
+					"id_str": "1047950306489896960",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DosRQGCXkAA9of0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DosRQGCXkAA9of0.jpg",
+					"url": "https://t.co/9ed858ZWyX",
+					"display_url": "pic.twitter.com/9ed858ZWyX",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1051759585537785856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 898,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1318,
+							"h": 1762,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966765831140139000,
+			"id_str": "966765831140139009",
+			"name": "Die Reklame",
+			"screen_name": "Die_Reklame",
+			"location": "",
+			"description": "Und jetzt: Werbung. Von @CJahnz, @mschfr und @moritz_hoffmann.",
+			"url": "https://t.co/3Yb5ujzitv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Yb5ujzitv",
+							"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+							"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1430,
+			"friends_count": 58,
 			"listed_count": 17,
 			"created_at": "Thu Feb 22 20:05:10 +0000 2018",
 			"favourites_count": 130,
