@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 16 15:31:19 +0000 2018",
+		"id": 1052220453023043600,
+		"id_str": "1052220453023043584",
+		"full_text": "»Netflix … accounting for a whopping 15 percent market share of the internet we engage with.« https://t.co/OWy2swv4eT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OWy2swv4eT",
+					"expanded_url": "https://theoutline.com/post/6404/netflix-now-accounts-for-15-percent-of-all-internet-traffic-you-need-to-go-outside-more",
+					"display_url": "theoutline.com/post/6404/netf…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 860,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17949,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "»Netflix … accounting for a whopping 15 percent market share of the internet we engage with.« https://t.co/OWy2swv4eT"
+	},
+	{
+		"created_at": "Mon Oct 15 09:00:00 +0000 2018",
+		"id": 1051759585537785900,
+		"id_str": "1051759585537785856",
+		"full_text": "Madame, März 1988. https://t.co/9ed858ZWyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1047950306489897000,
+					"id_str": "1047950306489896960",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DosRQGCXkAA9of0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DosRQGCXkAA9of0.jpg",
+					"url": "https://t.co/9ed858ZWyX",
+					"display_url": "pic.twitter.com/9ed858ZWyX",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1051759585537785856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 898,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1318,
+							"h": 1762,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1047950306489897000,
+					"id_str": "1047950306489896960",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DosRQGCXkAA9of0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DosRQGCXkAA9of0.jpg",
+					"url": "https://t.co/9ed858ZWyX",
+					"display_url": "pic.twitter.com/9ed858ZWyX",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1051759585537785856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 898,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1318,
+							"h": 1762,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966765831140139000,
+			"id_str": "966765831140139009",
+			"name": "Die Reklame",
+			"screen_name": "Die_Reklame",
+			"location": "",
+			"description": "Und jetzt: Werbung. Von @CJahnz, @mschfr und @moritz_hoffmann.",
+			"url": "https://t.co/3Yb5ujzitv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Yb5ujzitv",
+							"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+							"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1432,
+			"friends_count": 58,
+			"listed_count": 15,
+			"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 811,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+			"profile_link_color": "1A1A1A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Madame, März 1988. https://t.co/9ed858ZWyX"
+	},
+	{
+		"created_at": "Mon Oct 15 08:04:00 +0000 2018",
+		"id": 1051745494203023400,
+		"id_str": "1051745494203023360",
+		"full_text": "I can't help wonder how many of the older people out there were shouting and dancing frantically to \"No Future\" in their flashy pants, ending up having a future consuming mindlessly, while leaving us kids of the 90s and after, with none.\n\n#ClimateChange",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ClimateChange",
+					"indices": [
+						239,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 798831640281612300,
+			"id_str": "798831640281612288",
+			"name": "Crystelle Vu",
+			"screen_name": "pestregards",
+			"location": "Berlin x Paris",
+			"description": "Artist mainly focused on the greatest environmental & social challenges of our time | co-organises https://t.co/9XlLrTlRlC | Earthling in Laniakea",
+			"url": "https://t.co/tjSYCcL9AJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tjSYCcL9AJ",
+							"expanded_url": "http://crystellevu.com",
+							"display_url": "crystellevu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9XlLrTlRlC",
+							"expanded_url": "http://blackl.st",
+							"display_url": "blackl.st",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 441,
+			"friends_count": 355,
+			"listed_count": 15,
+			"created_at": "Wed Nov 16 10:14:39 +0000 2016",
+			"favourites_count": 2925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1807,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050686890154881024/ZhgErpmX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050686890154881024/ZhgErpmX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/798831640281612288/1539425133",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I can't help wonder how many of the older people out there were shouting and dancing frantically to \"No Future\" in their flashy pants, ending up having a future consuming mindlessly, while leaving us kids of the 90s and after, with none.\n\n#ClimateChange"
+	},
+	{
 		"created_at": "Mon Oct 15 09:00:00 +0000 2018",
 		"id": 1051759585537785900,
 		"id_str": "1051759585537785856",
