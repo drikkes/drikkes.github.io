@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 16 15:04:00 +0000 2018",
+		"id": 1052213577313062900,
+		"id_str": "1052213577313062912",
+		"full_text": "Laut vieler Medien sind die @Gruene_Bayern stärkste Kraft in Großstädten. In Wirklichkeit aber verteidigte die @CSU ihren 1. Platz. Eine @ZDF-Grafik+Prognose, die sich als unzutreffend erwies, sorgte für fehlerhafte Berichterstattung, so @Andrejnalin77:\nhttps://t.co/mLExJNXCKu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gruene_Bayern",
+					"name": "GRÜNE Bayern",
+					"id": 15980032,
+					"id_str": "15980032",
+					"indices": [
+						28,
+						42
+					]
+				},
+				{
+					"screen_name": "CSU",
+					"name": "CSU",
+					"id": 21107582,
+					"id_str": "21107582",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"screen_name": "ZDF",
+					"name": "ZDF",
+					"id": 57350105,
+					"id_str": "57350105",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"screen_name": "Andrejnalin77",
+					"name": "Andrej Reisin",
+					"id": 19744088,
+					"id_str": "19744088",
+					"indices": [
+						238,
+						252
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mLExJNXCKu",
+					"expanded_url": "https://www.ndr.de/fernsehen/sendungen/zapp/Bayern-Wahl-Gruene-nicht-fuehrend-in-Grossstaedten,bayernwahl150.html",
+					"display_url": "ndr.de/fernsehen/send…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71277496,
+			"id_str": "71277496",
+			"name": "ZAPP Medienmagazin",
+			"screen_name": "ZappMM",
+			"location": "Hamburg",
+			"description": "Das Medienmagazin, mittwochs, 23.20 Uhr, NDR | http://t.co/oYsNv3uJ",
+			"url": "http://t.co/6GDIRqsHVR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6GDIRqsHVR",
+							"expanded_url": "http://www.ndr.de/zapp",
+							"display_url": "ndr.de/zapp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/oYsNv3uJ",
+							"expanded_url": "http://www.ndr.de/impressum",
+							"display_url": "ndr.de/impressum",
+							"indices": [
+								47,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 75775,
+			"friends_count": 538,
+			"listed_count": 966,
+			"created_at": "Thu Sep 03 15:15:53 +0000 2009",
+			"favourites_count": 2214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5745,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E7A545",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466919870471213057/d3Yz83BN_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466919870471213057/d3Yz83BN_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71277496/1400157318",
+			"profile_link_color": "C25806",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "050505",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Laut vieler Medien sind die @Gruene_Bayern stärkste Kraft in Großstädten. In Wirklichkeit aber verteidigte die @CSU ihren 1. Platz. Eine @ZDF-Grafik+Prognose, die sich als unzutreffend erwies, sorgte für fehlerhafte Berichterstattung, so @Andrejnalin77:\nhttps://t.co/mLExJNXCKu"
+	},
+	{
 		"created_at": "Tue Oct 16 16:33:56 +0000 2018",
 		"id": 1052236207759867900,
 		"id_str": "1052236207759867904",
