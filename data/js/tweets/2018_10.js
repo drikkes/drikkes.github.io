@@ -110,6 +110,395 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
+			"followers_count": 75779,
+			"friends_count": 538,
+			"listed_count": 966,
+			"created_at": "Thu Sep 03 15:15:53 +0000 2009",
+			"favourites_count": 2214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5745,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E7A545",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466919870471213057/d3Yz83BN_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466919870471213057/d3Yz83BN_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71277496/1400157318",
+			"profile_link_color": "C25806",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "595959",
+			"profile_text_color": "050505",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Laut vieler Medien sind die @Gruene_Bayern stärkste Kraft in Großstädten. In Wirklichkeit aber verteidigte die @CSU ihren 1. Platz. Eine @ZDF-Grafik+Prognose, die sich als unzutreffend erwies, sorgte für fehlerhafte Berichterstattung, so @Andrejnalin77:\nhttps://t.co/mLExJNXCKu"
+	},
+	{
+		"created_at": "Tue Oct 16 16:33:56 +0000 2018",
+		"id": 1052236207759867900,
+		"id_str": "1052236207759867904",
+		"full_text": "Missing https://t.co/5Oa3IoWjxt a bit.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Oa3IoWjxt",
+					"expanded_url": "https://www.thisismyjam.com/drikkes",
+					"display_url": "thisismyjam.com/drikkes",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Missing https://t.co/5Oa3IoWjxt a bit."
+	},
+	{
+		"created_at": "Tue Oct 16 15:31:19 +0000 2018",
+		"id": 1052220453023043600,
+		"id_str": "1052220453023043584",
+		"full_text": "»Netflix … accounting for a whopping 15 percent market share of the internet we engage with.« https://t.co/OWy2swv4eT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OWy2swv4eT",
+					"expanded_url": "https://theoutline.com/post/6404/netflix-now-accounts-for-15-percent-of-all-internet-traffic-you-need-to-go-outside-more",
+					"display_url": "theoutline.com/post/6404/netf…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17951,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "»Netflix … accounting for a whopping 15 percent market share of the internet we engage with.« https://t.co/OWy2swv4eT"
+	},
+	{
+		"created_at": "Tue Oct 16 15:04:00 +0000 2018",
+		"id": 1052213577313062900,
+		"id_str": "1052213577313062912",
+		"full_text": "Laut vieler Medien sind die @Gruene_Bayern stärkste Kraft in Großstädten. In Wirklichkeit aber verteidigte die @CSU ihren 1. Platz. Eine @ZDF-Grafik+Prognose, die sich als unzutreffend erwies, sorgte für fehlerhafte Berichterstattung, so @Andrejnalin77:\nhttps://t.co/mLExJNXCKu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gruene_Bayern",
+					"name": "GRÜNE Bayern",
+					"id": 15980032,
+					"id_str": "15980032",
+					"indices": [
+						28,
+						42
+					]
+				},
+				{
+					"screen_name": "CSU",
+					"name": "CSU",
+					"id": 21107582,
+					"id_str": "21107582",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"screen_name": "ZDF",
+					"name": "ZDF",
+					"id": 57350105,
+					"id_str": "57350105",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"screen_name": "Andrejnalin77",
+					"name": "Andrej Reisin",
+					"id": 19744088,
+					"id_str": "19744088",
+					"indices": [
+						238,
+						252
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mLExJNXCKu",
+					"expanded_url": "https://www.ndr.de/fernsehen/sendungen/zapp/Bayern-Wahl-Gruene-nicht-fuehrend-in-Grossstaedten,bayernwahl150.html",
+					"display_url": "ndr.de/fernsehen/send…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71277496,
+			"id_str": "71277496",
+			"name": "ZAPP Medienmagazin",
+			"screen_name": "ZappMM",
+			"location": "Hamburg",
+			"description": "Das Medienmagazin, mittwochs, 23.20 Uhr, NDR | http://t.co/oYsNv3uJ",
+			"url": "http://t.co/6GDIRqsHVR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6GDIRqsHVR",
+							"expanded_url": "http://www.ndr.de/zapp",
+							"display_url": "ndr.de/zapp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/oYsNv3uJ",
+							"expanded_url": "http://www.ndr.de/impressum",
+							"display_url": "ndr.de/impressum",
+							"indices": [
+								47,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 75775,
 			"friends_count": 538,
 			"listed_count": 966,
