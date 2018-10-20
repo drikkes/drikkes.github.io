@@ -394,6 +394,451 @@ Grailbird.data.tweets_2018_10 =
 				"protected": false,
 				"followers_count": 29172,
 				"friends_count": 1092,
+				"listed_count": 797,
+				"created_at": "Fri Aug 19 22:29:33 +0000 2011",
+				"favourites_count": 55638,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8464,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/989842057568182273/fuNwONVU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/989842057568182273/fuNwONVU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/358428263/1433864332",
+				"profile_link_color": "FC0536",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68,
+			"favorite_count": 486,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@horsthundbrodt @feinesahne https://t.co/MtBxStTxg2"
+	},
+	{
+		"created_at": "Sat Oct 20 15:00:02 +0000 2018",
+		"id": 1053662127804710900,
+		"id_str": "1053662127804710912",
+		"full_text": "Die Frau und Mutter, Nr. 4, 1926. https://t.co/xacqnbshQv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1048676521270022100,
+					"id_str": "1048676521270022144",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Do2lvW6XkAACV5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Do2lvW6XkAACV5u.jpg",
+					"url": "https://t.co/xacqnbshQv",
+					"display_url": "pic.twitter.com/xacqnbshQv",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1053662127804710912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1144,
+							"h": 696,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1144,
+							"h": 696,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1048676521270022100,
+					"id_str": "1048676521270022144",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/Do2lvW6XkAACV5u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Do2lvW6XkAACV5u.jpg",
+					"url": "https://t.co/xacqnbshQv",
+					"display_url": "pic.twitter.com/xacqnbshQv",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1053662127804710912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1144,
+							"h": 696,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1144,
+							"h": 696,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966765831140139000,
+			"id_str": "966765831140139009",
+			"name": "Die Reklame",
+			"screen_name": "Die_Reklame",
+			"location": "",
+			"description": "Und jetzt: Werbung. Von @CJahnz, @mschfr und @moritz_hoffmann.",
+			"url": "https://t.co/3Yb5ujzitv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Yb5ujzitv",
+							"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+							"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1490,
+			"friends_count": 58,
+			"listed_count": 15,
+			"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 835,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+			"profile_link_color": "1A1A1A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Die Frau und Mutter, Nr. 4, 1926. https://t.co/xacqnbshQv"
+	},
+	{
+		"created_at": "Sat Oct 20 17:11:45 +0000 2018",
+		"id": 1053695276077277200,
+		"id_str": "1053695276077277184",
+		"full_text": "@horsthundbrodt @feinesahne https://t.co/MtBxStTxg2",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "horsthundbrodt",
+					"name": "horst, hund & brodt",
+					"id": 395201270,
+					"id_str": "395201270",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "feinesahne",
+					"name": "feinesahnefischfilet",
+					"id": 168560244,
+					"id_str": "168560244",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MtBxStTxg2",
+					"expanded_url": "https://twitter.com/peterbreuer/status/1053002335776112642",
+					"display_url": "twitter.com/peterbreuer/st…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1053639057656479700,
+		"in_reply_to_status_id_str": "1053639057656479744",
+		"in_reply_to_user_id": 395201270,
+		"in_reply_to_user_id_str": "395201270",
+		"in_reply_to_screen_name": "horsthundbrodt",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17967,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1053002335776112600,
+		"quoted_status_id_str": "1053002335776112642",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MtBxStTxg2",
+			"expanded": "https://twitter.com/peterbreuer/status/1053002335776112642",
+			"display": "twitter.com/peterbreuer/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 18 19:18:15 +0000 2018",
+			"id": 1053002335776112600,
+			"id_str": "1053002335776112642",
+			"full_text": "Wäre ich im Marketing von Hornbach, ich würde Feine Sahne Fischfilet einladen.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 358428263,
+				"id_str": "358428263",
+				"name": "Peter Breuer",
+				"screen_name": "peterbreuer",
+				"location": "Hamburg, Deutschland",
+				"description": "Ohne Text singt kein Mensch mit",
+				"url": "https://t.co/1Qnsqjro9K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1Qnsqjro9K",
+								"expanded_url": "http://www.peterbreuer.de",
+								"display_url": "peterbreuer.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29172,
+				"friends_count": 1092,
 				"listed_count": 796,
 				"created_at": "Fri Aug 19 22:29:33 +0000 2011",
 				"favourites_count": 55634,
