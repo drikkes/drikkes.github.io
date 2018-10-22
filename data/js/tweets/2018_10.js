@@ -146,7 +146,7 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 475898,
+			"followers_count": 475894,
 			"friends_count": 10,
 			"listed_count": 2931,
 			"created_at": "Mon Jan 21 21:00:57 +0000 2008",
