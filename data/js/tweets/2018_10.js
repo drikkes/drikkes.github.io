@@ -186,7 +186,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 36,
-		"favorite_count": 174,
+		"favorite_count": 175,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
