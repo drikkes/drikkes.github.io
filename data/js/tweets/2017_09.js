@@ -4,8 +4,12 @@ Grailbird.data.tweets_2017_09 =
 		"created_at": "Sat Sep 30 15:24:04 +0000 2017",
 		"id": 914148850327269400,
 		"id_str": "914148850327269376",
-		"text": "What? https://t.co/nQjr70Um2T",
+		"full_text": "What? https://t.co/nQjr70Um2T",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -31,15 +35,15 @@ Grailbird.data.tweets_2017_09 =
 							"h": 680,
 							"resize": "fit"
 						},
-						"large": {
-							"w": 1758,
-							"h": 1878,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
+						},
+						"large": {
+							"w": 1758,
+							"h": 1878,
+							"resize": "fit"
 						},
 						"medium": {
 							"w": 1123,
@@ -71,15 +75,15 @@ Grailbird.data.tweets_2017_09 =
 							"h": 680,
 							"resize": "fit"
 						},
-						"large": {
-							"w": 1758,
-							"h": 1878,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
+						},
+						"large": {
+							"w": 1758,
+							"h": 1878,
+							"resize": "fit"
 						},
 						"medium": {
 							"w": 1123,
@@ -133,23 +137,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4135,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16304,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -177,14 +181,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "What? https://t.co/nQjr70Um2T"
 	},
 	{
 		"created_at": "Sat Sep 30 14:40:11 +0000 2017",
 		"id": 914137804464099300,
 		"id_str": "914137804464099328",
-		"text": "Wisdom of the Klaus",
+		"full_text": "Wisdom of the Klaus",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -234,23 +243,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4135,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16303,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -277,14 +286,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Wisdom of the Klaus"
 	},
 	{
 		"created_at": "Sat Sep 30 11:46:11 +0000 2017",
 		"id": 914094016572088300,
 		"id_str": "914094016572088320",
-		"text": "Ye Olde Wellnesse Blogge https://t.co/PZ52Whv8Iy",
+		"full_text": "Ye Olde Wellnesse Blogge https://t.co/PZ52Whv8Iy",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -344,23 +358,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4135,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16302,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -388,14 +402,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Ye Olde Wellnesse Blogge https://t.co/PZ52Whv8Iy"
 	},
 	{
 		"created_at": "Sat Sep 30 10:49:13 +0000 2017",
 		"id": 914079683037335600,
 		"id_str": "914079683037335552",
-		"text": "In allen Marketingtexten den Begriff „Authentizität“ durch „Anbiederung“ ersetzen.",
+		"full_text": "In allen Marketingtexten den Begriff „Authentizität“ durch „Anbiederung“ ersetzen.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -445,23 +464,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4135,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16301,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -488,14 +507,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "In allen Marketingtexten den Begriff „Authentizität“ durch „Anbiederung“ ersetzen."
 	},
 	{
 		"created_at": "Sat Sep 30 08:05:12 +0000 2017",
 		"id": 914038405629190100,
 		"id_str": "914038405629190144",
-		"text": "Gespannt wie ein Flitzebourgeois.",
+		"full_text": "Gespannt wie ein Flitzebourgeois.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -545,23 +569,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4135,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16300,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -585,65 +609,59 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Gespannt wie ein Flitzebourgeois."
 	},
 	{
-		"created_at": "Fri Sep 29 18:45:57 +0000 2017",
-		"id": 913837266329653200,
-		"id_str": "913837266329653248",
-		"text": "RT @assbach: attention please:.... ! https://t.co/aQBltRkec8",
+		"created_at": "Fri Sep 29 17:47:26 +0000 2017",
+		"id": 913822541092982800,
+		"id_str": "913822541092982784",
+		"full_text": "attention please:.... ! https://t.co/aQBltRkec8",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "assbach",
-					"name": "sascha assbach",
-					"id": 1004051,
-					"id_str": "1004051",
-					"indices": [
-						3,
-						11
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [
 				{
 					"url": "https://t.co/aQBltRkec8",
 					"expanded_url": "https://twitter.com/sensibleworld/status/913198085110665216",
 					"display_url": "twitter.com/sensibleworld/…",
 					"indices": [
-						37,
-						60
+						24,
+						47
 					]
 				}
 			]
 		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 15378060,
-			"id_str": "15378060",
-			"name": "Hendrik Spree",
-			"screen_name": "drikkes",
-			"location": "Cologne, Germany",
-			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
-			"url": "https://t.co/7ynPrqkpaM",
+			"id": 1004051,
+			"id_str": "1004051",
+			"name": "sascha aßbach",
+			"screen_name": "assbach",
+			"location": "Troisdorf",
+			"description": "Designer, Project Manager & Overthinker. Also vocalist @fallofcarthage // #ux #logodesign #webdesign #metal #logocore #metaldesign",
+			"url": "https://t.co/OqwdbcuNxC",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/7ynPrqkpaM",
-							"expanded_url": "http://drikkes.com",
-							"display_url": "drikkes.com",
+							"url": "https://t.co/OqwdbcuNxC",
+							"expanded_url": "https://assbach.de",
+							"display_url": "assbach.de",
 							"indices": [
 								0,
 								23
@@ -652,50 +670,40 @@ Grailbird.data.tweets_2017_09 =
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/pAb0SRWGFm",
-							"expanded_url": "http://drikk.es",
-							"display_url": "drikk.es",
-							"indices": [
-								46,
-								69
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 158,
-			"listed_count": 80,
-			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4135,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"followers_count": 1665,
+			"friends_count": 498,
+			"listed_count": 123,
+			"created_at": "Mon Mar 12 12:03:34 +0000 2007",
+			"favourites_count": 10577,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16299,
-			"lang": "en",
+			"statuses_count": 22306,
+			"lang": "de",
 			"contributors_enabled": false,
 			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
-			"profile_link_color": "17B1DB",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "FFFFFF",
-			"profile_text_color": "000000",
+			"is_translation_enabled": true,
+			"profile_background_color": "161616",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979492363390382080/noMOIx9W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979492363390382080/noMOIx9W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1004051/1476947856",
+			"profile_link_color": "226EBF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "333333",
+			"profile_text_color": "999999",
 			"profile_use_background_image": true,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -704,49 +712,129 @@ Grailbird.data.tweets_2017_09 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Sep 29 17:47:26 +0000 2017",
-			"id": 913822541092982800,
-			"id_str": "913822541092982784",
-			"text": "attention please:.... ! https://t.co/aQBltRkec8",
+		"is_quote_status": true,
+		"quoted_status_id": 913198085110665200,
+		"quoted_status_id_str": "913198085110665216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aQBltRkec8",
+			"expanded": "https://twitter.com/sensibleworld/status/913198085110665216",
+			"display": "twitter.com/sensibleworld/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 28 00:26:04 +0000 2017",
+			"id": 913198085110665200,
+			"id_str": "913198085110665216",
+			"full_text": "It's rare, but every once in a while I get to work on icons that will change the course of history. https://t.co/dRq3eyo2B7",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
 				"user_mentions": [],
-				"urls": [
+				"urls": [],
+				"media": [
 					{
-						"url": "https://t.co/aQBltRkec8",
-						"expanded_url": "https://twitter.com/sensibleworld/status/913198085110665216",
-						"display_url": "twitter.com/sensibleworld/…",
+						"id": 913197987307941900,
+						"id_str": "913197987307941888",
 						"indices": [
-							24,
-							47
-						]
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DKxUuysXcAAx6Sg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKxUuysXcAAx6Sg.jpg",
+						"url": "https://t.co/dRq3eyo2B7",
+						"display_url": "pic.twitter.com/dRq3eyo2B7",
+						"expanded_url": "https://twitter.com/sensibleworld/status/913198085110665216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 344,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 607,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1274,
+								"h": 644,
+								"resize": "fit"
+							}
+						}
 					}
 				]
 			},
-			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"extended_entities": {
+				"media": [
+					{
+						"id": 913197987307941900,
+						"id_str": "913197987307941888",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DKxUuysXcAAx6Sg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKxUuysXcAAx6Sg.jpg",
+						"url": "https://t.co/dRq3eyo2B7",
+						"display_url": "pic.twitter.com/dRq3eyo2B7",
+						"expanded_url": "https://twitter.com/sensibleworld/status/913198085110665216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 344,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 607,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1274,
+								"h": 644,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 			"in_reply_to_status_id": null,
 			"in_reply_to_status_id_str": null,
 			"in_reply_to_user_id": null,
 			"in_reply_to_user_id_str": null,
 			"in_reply_to_screen_name": null,
 			"user": {
-				"id": 1004051,
-				"id_str": "1004051",
-				"name": "sascha assbach",
-				"screen_name": "assbach",
-				"location": "cologne, germany",
-				"description": "creative mind #design #ui #ux #web #logos // vocalist @fallofcarthage (#metal) // online marketing manager",
-				"url": "https://t.co/OqwdbcuNxC",
+				"id": 85306808,
+				"id_str": "85306808",
+				"name": "Jory Raphael",
+				"screen_name": "sensibleworld",
+				"location": "Vermont, USA",
+				"description": "Making icons at @FontAwesome. Co-Founder of @Notabli. Creator of @Symbolicons.",
+				"url": "https://t.co/9wGhJFXfCD",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "https://t.co/OqwdbcuNxC",
-								"expanded_url": "https://assbach.de",
-								"display_url": "assbach.de",
+								"url": "https://t.co/9wGhJFXfCD",
+								"expanded_url": "http://symbolicons.com",
+								"display_url": "symbolicons.com",
 								"indices": [
 									0,
 									23
@@ -759,599 +847,36 @@ Grailbird.data.tweets_2017_09 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1758,
-				"friends_count": 621,
-				"listed_count": 137,
-				"created_at": "Mon Mar 12 12:03:34 +0000 2007",
-				"favourites_count": 8668,
-				"utc_offset": 7200,
-				"time_zone": "Bern",
+				"followers_count": 3264,
+				"friends_count": 1359,
+				"listed_count": 193,
+				"created_at": "Mon Oct 26 12:49:18 +0000 2009",
+				"favourites_count": 3930,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 21023,
-				"lang": "de",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": true,
-				"profile_background_color": "161616",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/430111153/black-Linen.png",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/430111153/black-Linen.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/430052588256780289/2SAaFhpd_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/430052588256780289/2SAaFhpd_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1004051/1476947856",
-				"profile_link_color": "226EBF",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "333333",
-				"profile_text_color": "999999",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": true,
-			"quoted_status_id": 913198085110665200,
-			"quoted_status_id_str": "913198085110665216",
-			"quoted_status": {
-				"created_at": "Thu Sep 28 00:26:04 +0000 2017",
-				"id": 913198085110665200,
-				"id_str": "913198085110665216",
-				"text": "It's rare, but every once in a while I get to work on icons that will change the course of history. https://t.co/dRq3eyo2B7",
-				"truncated": false,
-				"entities": {
-					"hashtags": [],
-					"symbols": [],
-					"user_mentions": [],
-					"urls": [],
-					"media": [
-						{
-							"id": 913197987307941900,
-							"id_str": "913197987307941888",
-							"indices": [
-								100,
-								123
-							],
-							"media_url": "http://pbs.twimg.com/media/DKxUuysXcAAx6Sg.jpg",
-							"media_url_https": "https://pbs.twimg.com/media/DKxUuysXcAAx6Sg.jpg",
-							"url": "https://t.co/dRq3eyo2B7",
-							"display_url": "pic.twitter.com/dRq3eyo2B7",
-							"expanded_url": "https://twitter.com/sensibleworld/status/913198085110665216/photo/1",
-							"type": "photo",
-							"sizes": {
-								"large": {
-									"w": 1274,
-									"h": 644,
-									"resize": "fit"
-								},
-								"thumb": {
-									"w": 150,
-									"h": 150,
-									"resize": "crop"
-								},
-								"medium": {
-									"w": 1200,
-									"h": 607,
-									"resize": "fit"
-								},
-								"small": {
-									"w": 680,
-									"h": 344,
-									"resize": "fit"
-								}
-							}
-						}
-					]
-				},
-				"extended_entities": {
-					"media": [
-						{
-							"id": 913197987307941900,
-							"id_str": "913197987307941888",
-							"indices": [
-								100,
-								123
-							],
-							"media_url": "http://pbs.twimg.com/media/DKxUuysXcAAx6Sg.jpg",
-							"media_url_https": "https://pbs.twimg.com/media/DKxUuysXcAAx6Sg.jpg",
-							"url": "https://t.co/dRq3eyo2B7",
-							"display_url": "pic.twitter.com/dRq3eyo2B7",
-							"expanded_url": "https://twitter.com/sensibleworld/status/913198085110665216/photo/1",
-							"type": "photo",
-							"sizes": {
-								"large": {
-									"w": 1274,
-									"h": 644,
-									"resize": "fit"
-								},
-								"thumb": {
-									"w": 150,
-									"h": 150,
-									"resize": "crop"
-								},
-								"medium": {
-									"w": 1200,
-									"h": 607,
-									"resize": "fit"
-								},
-								"small": {
-									"w": 680,
-									"h": 344,
-									"resize": "fit"
-								}
-							}
-						}
-					]
-				},
-				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-				"in_reply_to_status_id": null,
-				"in_reply_to_status_id_str": null,
-				"in_reply_to_user_id": null,
-				"in_reply_to_user_id_str": null,
-				"in_reply_to_screen_name": null,
-				"user": {
-					"id": 85306808,
-					"id_str": "85306808",
-					"name": "Jory Raphael",
-					"screen_name": "sensibleworld",
-					"location": "Vermont, USA",
-					"description": "Freelancer designer + illustrator. Co-Founder of @Notabli. Feverishly working on @Symbolicons Pro.",
-					"url": "https://t.co/IJqT2k1qoz",
-					"entities": {
-						"url": {
-							"urls": [
-								{
-									"url": "https://t.co/IJqT2k1qoz",
-									"expanded_url": "http://symbolicons.com/kickstarter",
-									"display_url": "symbolicons.com/kickstarter",
-									"indices": [
-										0,
-										23
-									]
-								}
-							]
-						},
-						"description": {
-							"urls": []
-						}
-					},
-					"protected": false,
-					"followers_count": 3015,
-					"friends_count": 1365,
-					"listed_count": 188,
-					"created_at": "Mon Oct 26 12:49:18 +0000 2009",
-					"favourites_count": 3540,
-					"utc_offset": -14400,
-					"time_zone": "Eastern Time (US & Canada)",
-					"geo_enabled": true,
-					"verified": false,
-					"statuses_count": 10867,
-					"lang": "en",
-					"contributors_enabled": false,
-					"is_translator": false,
-					"is_translation_enabled": false,
-					"profile_background_color": "EDEFF0",
-					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-					"profile_background_tile": true,
-					"profile_image_url": "http://pbs.twimg.com/profile_images/500374023729975298/_A7JoGPj_normal.jpeg",
-					"profile_image_url_https": "https://pbs.twimg.com/profile_images/500374023729975298/_A7JoGPj_normal.jpeg",
-					"profile_banner_url": "https://pbs.twimg.com/profile_banners/85306808/1442432280",
-					"profile_link_color": "0035C8",
-					"profile_sidebar_border_color": "EEEEEE",
-					"profile_sidebar_fill_color": "EFEFEF",
-					"profile_text_color": "333333",
-					"profile_use_background_image": false,
-					"has_extended_profile": false,
-					"default_profile": false,
-					"default_profile_image": false,
-					"following": false,
-					"follow_request_sent": false,
-					"notifications": false,
-					"translator_type": "none"
-				},
-				"geo": null,
-				"coordinates": null,
-				"place": null,
-				"contributors": null,
-				"is_quote_status": false,
-				"retweet_count": 6154,
-				"favorite_count": 21524,
-				"favorited": false,
-				"retweeted": false,
-				"possibly_sensitive": false,
-				"lang": "en"
-			},
-			"retweet_count": 3,
-			"favorite_count": 4,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"is_quote_status": true,
-		"quoted_status_id": 913198085110665200,
-		"quoted_status_id_str": "913198085110665216",
-		"retweet_count": 3,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Fri Sep 29 16:02:08 +0000 2017",
-		"id": 913796041207681000,
-		"id_str": "913796041207681031",
-		"text": "Hurensonate!",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 15378060,
-			"id_str": "15378060",
-			"name": "Hendrik Spree",
-			"screen_name": "drikkes",
-			"location": "Cologne, Germany",
-			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
-			"url": "https://t.co/7ynPrqkpaM",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/7ynPrqkpaM",
-							"expanded_url": "http://drikkes.com",
-							"display_url": "drikkes.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/pAb0SRWGFm",
-							"expanded_url": "http://drikk.es",
-							"display_url": "drikk.es",
-							"indices": [
-								46,
-								69
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 904,
-			"friends_count": 158,
-			"listed_count": 80,
-			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4135,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 16298,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
-			"profile_link_color": "17B1DB",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "FFFFFF",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Fri Sep 29 10:47:57 +0000 2017",
-		"id": 913716976417206300,
-		"id_str": "913716976417206273",
-		"text": "Troublemakler",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 15378060,
-			"id_str": "15378060",
-			"name": "Hendrik Spree",
-			"screen_name": "drikkes",
-			"location": "Cologne, Germany",
-			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
-			"url": "https://t.co/7ynPrqkpaM",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/7ynPrqkpaM",
-							"expanded_url": "http://drikkes.com",
-							"display_url": "drikkes.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/pAb0SRWGFm",
-							"expanded_url": "http://drikk.es",
-							"display_url": "drikk.es",
-							"indices": [
-								46,
-								69
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 904,
-			"friends_count": 158,
-			"listed_count": 80,
-			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4135,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 16297,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
-			"profile_link_color": "17B1DB",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "FFFFFF",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en"
-	},
-	{
-		"created_at": "Fri Sep 29 06:31:19 +0000 2017",
-		"id": 913652389370040300,
-		"id_str": "913652389370040320",
-		"text": "RT @Neururer_Zitate: Ich würde niemals ein Angebot von Bayern München annehmen, egal wie schlecht es mir geht.",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "Neururer_Zitate",
-					"name": "Peter Neururer",
-					"id": 524721510,
-					"id_str": "524721510",
-					"indices": [
-						3,
-						19
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 15378060,
-			"id_str": "15378060",
-			"name": "Hendrik Spree",
-			"screen_name": "drikkes",
-			"location": "Cologne, Germany",
-			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
-			"url": "https://t.co/7ynPrqkpaM",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/7ynPrqkpaM",
-							"expanded_url": "http://drikkes.com",
-							"display_url": "drikkes.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/pAb0SRWGFm",
-							"expanded_url": "http://drikk.es",
-							"display_url": "drikk.es",
-							"indices": [
-								46,
-								69
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 904,
-			"friends_count": 158,
-			"listed_count": 80,
-			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4135,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 16296,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
-			"profile_link_color": "17B1DB",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "FFFFFF",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sun Mar 22 18:28:46 +0000 2015",
-			"id": 579711330556502000,
-			"id_str": "579711330556502016",
-			"text": "Ich würde niemals ein Angebot von Bayern München annehmen, egal wie schlecht es mir geht.",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 524721510,
-				"id_str": "524721510",
-				"name": "Peter Neururer",
-				"screen_name": "Neururer_Zitate",
-				"location": "",
-				"description": "Der Pedda im Wortlaut. Legendäre Sprüche und aktuelle O-Töne. KEIN offizieller Account.",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 2975,
-				"friends_count": 396,
-				"listed_count": 29,
-				"created_at": "Wed Mar 14 20:55:27 +0000 2012",
-				"favourites_count": 238,
-				"utc_offset": 7200,
-				"time_zone": "Berlin",
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 3154,
-				"lang": "de",
+				"statuses_count": 11256,
+				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000690610891/088d25eac0838ba2feaa80e8576b2329_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000690610891/088d25eac0838ba2feaa80e8576b2329_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/524721510/1429643583",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_background_color": "EDEFF0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/500374023729975298/_A7JoGPj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/500374023729975298/_A7JoGPj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85306808/1442432280",
+				"profile_link_color": "0035C8",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
 				"profile_text_color": "333333",
-				"profile_use_background_image": true,
+				"profile_use_background_image": false,
 				"has_extended_profile": false,
-				"default_profile": true,
+				"default_profile": false,
 				"default_profile_image": false,
-				"following": true,
+				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
 				"translator_type": "none"
@@ -1361,25 +886,323 @@ Grailbird.data.tweets_2017_09 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 16,
-			"favorite_count": 33,
+			"retweet_count": 7377,
+			"favorite_count": 26314,
 			"favorited": false,
-			"retweeted": true,
-			"lang": "de"
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
 		},
-		"is_quote_status": false,
-		"retweet_count": 16,
-		"favorite_count": 0,
+		"retweet_count": 3,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "de"
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "attention please:.... ! https://t.co/aQBltRkec8"
+	},
+	{
+		"created_at": "Fri Sep 29 16:02:08 +0000 2017",
+		"id": 913796041207681000,
+		"id_str": "913796041207681031",
+		"full_text": "Hurensonate!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17983,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Hurensonate!"
+	},
+	{
+		"created_at": "Fri Sep 29 10:47:57 +0000 2017",
+		"id": 913716976417206300,
+		"id_str": "913716976417206273",
+		"full_text": "Troublemakler",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17983,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Troublemakler"
+	},
+	{
+		"created_at": "Sun Mar 22 18:28:46 +0000 2015",
+		"id": 579711330556502000,
+		"id_str": "579711330556502016",
+		"full_text": "Ich würde niemals ein Angebot von Bayern München annehmen, egal wie schlecht es mir geht.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 524721510,
+			"id_str": "524721510",
+			"name": "Peter Neururer",
+			"screen_name": "Neururer_Zitate",
+			"location": "",
+			"description": "Der Pedda im Wortlaut. Legendäre Sprüche und aktuelle O-Töne. KEIN offizieller Account.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2962,
+			"friends_count": 388,
+			"listed_count": 31,
+			"created_at": "Wed Mar 14 20:55:27 +0000 2012",
+			"favourites_count": 230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3221,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000690610891/088d25eac0838ba2feaa80e8576b2329_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000690610891/088d25eac0838ba2feaa80e8576b2329_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/524721510/1429643583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de",
+		"text": "Ich würde niemals ein Angebot von Bayern München annehmen, egal wie schlecht es mir geht."
 	},
 	{
 		"created_at": "Thu Sep 28 17:50:29 +0000 2017",
 		"id": 913460919589654500,
 		"id_str": "913460919589654528",
-		"text": "Eure „Besetzungscouch“-Witze",
+		"full_text": "Eure „Besetzungscouch“-Witze",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1429,23 +1252,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4135,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16295,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -1472,14 +1295,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Eure „Besetzungscouch“-Witze"
 	},
 	{
 		"created_at": "Thu Sep 28 16:51:18 +0000 2017",
 		"id": 913446026631147500,
 		"id_str": "913446026631147520",
-		"text": "eSport „Skipspringen“ naja",
+		"full_text": "eSport „Skipspringen“ naja",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1529,23 +1357,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4135,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16294,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -1569,17 +1397,22 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "eSport „Skipspringen“ naja"
 	},
 	{
 		"created_at": "Thu Sep 28 11:02:52 +0000 2017",
 		"id": 913358338850738200,
 		"id_str": "913358338850738176",
-		"text": "@vb_6112 Brunchen gegen das System. Love it. #VBstehtnichtfuerVolksBuehnesondernVerhandlungsBasis",
+		"full_text": "@vb_6112 Brunchen gegen das System. Love it. #VBstehtnichtfuerVolksBuehnesondernVerhandlungsBasis",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			97
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -1594,7 +1427,7 @@ Grailbird.data.tweets_2017_09 =
 			"user_mentions": [
 				{
 					"screen_name": "vb_6112",
-					"name": "vb6112",
+					"name": "B6112",
 					"id": 910800123881558000,
 					"id_str": "910800123881558017",
 					"indices": [
@@ -1605,7 +1438,7 @@ Grailbird.data.tweets_2017_09 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": 913311996971536400,
 		"in_reply_to_status_id_str": "913311996971536384",
 		"in_reply_to_user_id": 910800123881558000,
@@ -1648,23 +1481,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4136,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16293,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -1691,14 +1524,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@vb_6112 Brunchen gegen das System. Love it. #VBstehtnichtfuerVolksBuehnesondernVerhandlungsBasis"
 	},
 	{
 		"created_at": "Thu Sep 28 09:23:12 +0000 2017",
 		"id": 913333259240697900,
 		"id_str": "913333259240697861",
-		"text": "#arschoffiziell",
+		"full_text": "#arschoffiziell",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -1756,23 +1594,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4136,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16292,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -1799,14 +1637,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "#arschoffiziell"
 	},
 	{
 		"created_at": "Wed Sep 27 19:51:03 +0000 2017",
 		"id": 913128872631259100,
 		"id_str": "913128872631259136",
-		"text": "@cathrinmoody @kernpanik Es sieht so aus, als würde Hamburg nicht groß über dem westdt. Großstadtdurchschnitt liege… https://t.co/q3WyV8sQjX",
-		"truncated": true,
+		"full_text": "@cathrinmoody @kernpanik Es sieht so aus, als würde Hamburg nicht groß über dem westdt. Großstadtdurchschnitt liegen. Aber die Karte ist dafür nicht genau genug.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			161
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1823,7 +1666,7 @@ Grailbird.data.tweets_2017_09 =
 				},
 				{
 					"screen_name": "kernpanik",
-					"name": "kernpanik",
+					"name": "kern🐾panik",
 					"id": 16902857,
 					"id_str": "16902857",
 					"indices": [
@@ -1832,17 +1675,7 @@ Grailbird.data.tweets_2017_09 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/q3WyV8sQjX",
-					"expanded_url": "https://twitter.com/i/web/status/913128872631259136",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
 		"in_reply_to_status_id": 913124330179047400,
@@ -1887,23 +1720,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4133,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16291,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -1927,17 +1760,22 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@cathrinmoody @kernpanik Es sieht so aus, als würde Hamburg nicht groß über dem westdt. Großstadtdurchschnitt liegen. Aber die Karte ist dafür nicht genau genug."
 	},
 	{
 		"created_at": "Wed Sep 27 16:19:23 +0000 2017",
 		"id": 913075605779992600,
 		"id_str": "913075605779992578",
-		"text": "Invest in Eminem. https://t.co/vxBJZNo3Yh #IPO",
+		"full_text": "Invest in Eminem. https://t.co/vxBJZNo3Yh #IPO",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -2005,23 +1843,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4133,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16290,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -2044,19 +1882,24 @@ Grailbird.data.tweets_2017_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1,
+		"retweet_count": 0,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Invest in Eminem. https://t.co/vxBJZNo3Yh #IPO"
 	},
 	{
 		"created_at": "Wed Sep 27 11:11:09 +0000 2017",
 		"id": 912998037953359900,
 		"id_str": "912998037953359873",
-		"text": "@vanderKreet @kernpanik D.h. im Osten hat man seine Kinder nach Hamburger Vorbild-Ronnys benannt?",
+		"full_text": "@vanderKreet @kernpanik D.h. im Osten hat man seine Kinder nach Hamburger Vorbild-Ronnys benannt?",
 		"truncated": false,
+		"display_text_range": [
+			24,
+			97
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2073,7 +1916,7 @@ Grailbird.data.tweets_2017_09 =
 				},
 				{
 					"screen_name": "kernpanik",
-					"name": "kernpanik",
+					"name": "kern🐾panik",
 					"id": 16902857,
 					"id_str": "16902857",
 					"indices": [
@@ -2084,7 +1927,7 @@ Grailbird.data.tweets_2017_09 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": 912992082683420700,
 		"in_reply_to_status_id_str": "912992082683420672",
 		"in_reply_to_user_id": 405695880,
@@ -2127,23 +1970,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4133,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16289,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -2170,110 +2013,94 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@vanderKreet @kernpanik D.h. im Osten hat man seine Kinder nach Hamburger Vorbild-Ronnys benannt?"
 	},
 	{
-		"created_at": "Wed Sep 27 10:07:12 +0000 2017",
-		"id": 912981945851744300,
-		"id_str": "912981945851744256",
-		"text": "RT @HerrSchmitz: tl;dr https://t.co/mvpsj7E5oR",
+		"created_at": "Tue Sep 26 21:15:46 +0000 2017",
+		"id": 912787805910298600,
+		"id_str": "912787805910298625",
+		"full_text": "tl;dr https://t.co/mvpsj7E5oR",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "HerrSchmitz",
-					"name": "Jan Jasper Kosok",
-					"id": 3946541,
-					"id_str": "3946541",
-					"indices": [
-						3,
-						15
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [
 				{
 					"url": "https://t.co/mvpsj7E5oR",
 					"expanded_url": "https://twitter.com/jack/status/912784057863245824",
 					"display_url": "twitter.com/jack/status/91…",
 					"indices": [
-						23,
-						46
+						6,
+						29
 					]
 				}
 			]
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 15378060,
-			"id_str": "15378060",
-			"name": "Hendrik Spree",
-			"screen_name": "drikkes",
-			"location": "Cologne, Germany",
-			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
-			"url": "https://t.co/7ynPrqkpaM",
+			"id": 3946541,
+			"id_str": "3946541",
+			"name": "Jan Jasper Kosok",
+			"screen_name": "HerrSchmitz",
+			"location": "Berlin-Kreuzberg",
+			"description": "Der Alltag ist ein graues Puder, er nimmt uns unseren guten Stil. // Online-Chef @derfreitag // Privatier",
+			"url": "http://t.co/6v8TPS7FJm",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/7ynPrqkpaM",
-							"expanded_url": "http://drikkes.com",
-							"display_url": "drikkes.com",
+							"url": "http://t.co/6v8TPS7FJm",
+							"expanded_url": "http://jasperkosok.com",
+							"display_url": "jasperkosok.com",
 							"indices": [
 								0,
-								23
+								22
 							]
 						}
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/pAb0SRWGFm",
-							"expanded_url": "http://drikk.es",
-							"display_url": "drikk.es",
-							"indices": [
-								46,
-								69
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 158,
-			"listed_count": 80,
-			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4133,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"followers_count": 2110,
+			"friends_count": 873,
+			"listed_count": 78,
+			"created_at": "Mon Apr 09 21:41:15 +0000 2007",
+			"favourites_count": 14747,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 16288,
+			"verified": true,
+			"statuses_count": 12039,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_color": "E0E0E0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
-			"profile_link_color": "17B1DB",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969131198902685696/ooTzLHqu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969131198902685696/ooTzLHqu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3946541/1422534164",
+			"profile_link_color": "333333",
 			"profile_sidebar_border_color": "FFFFFF",
 			"profile_sidebar_fill_color": "FFFFFF",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
+			"profile_text_color": "444444",
+			"profile_use_background_image": false,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
@@ -2286,222 +2113,138 @@ Grailbird.data.tweets_2017_09 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Sep 26 21:15:46 +0000 2017",
-			"id": 912787805910298600,
-			"id_str": "912787805910298625",
-			"text": "tl;dr https://t.co/mvpsj7E5oR",
+		"is_quote_status": true,
+		"quoted_status_id": 912784057863245800,
+		"quoted_status_id_str": "912784057863245824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mvpsj7E5oR",
+			"expanded": "https://twitter.com/jack/status/912784057863245824",
+			"display": "twitter.com/jack/status/91…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 26 21:00:52 +0000 2017",
+			"id": 912784057863245800,
+			"id_str": "912784057863245824",
+			"full_text": "This is a small change, but a big move for us. 140 was an arbitrary choice based on the 160 character SMS limit. Proud of how thoughtful the team has been in solving a real problem people have when trying to tweet. And at the same time maintaining our brevity, speed, and essence! https://t.co/TuHj51MsTu",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
 			"entities": {
 				"hashtags": [],
 				"symbols": [],
 				"user_mentions": [],
 				"urls": [
 					{
-						"url": "https://t.co/mvpsj7E5oR",
-						"expanded_url": "https://twitter.com/jack/status/912784057863245824",
-						"display_url": "twitter.com/jack/status/91…",
+						"url": "https://t.co/TuHj51MsTu",
+						"expanded_url": "https://twitter.com/twitter/status/912783930431905797",
+						"display_url": "twitter.com/twitter/status…",
 						"indices": [
-							6,
-							29
+							281,
+							304
 						]
 					}
 				]
 			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter for  iPhone</a>",
 			"in_reply_to_status_id": null,
 			"in_reply_to_status_id_str": null,
 			"in_reply_to_user_id": null,
 			"in_reply_to_user_id_str": null,
 			"in_reply_to_screen_name": null,
 			"user": {
-				"id": 3946541,
-				"id_str": "3946541",
-				"name": "Jan Jasper Kosok",
-				"screen_name": "HerrSchmitz",
-				"location": "Berlin-Kreuzberg",
-				"description": "Es gibt nur on- und offline und wie man sich fühlt. // Online-Chef @derfreitag // Privatier",
-				"url": "http://t.co/6v8TPS7FJm",
+				"id": 12,
+				"id_str": "12",
+				"name": "jack",
+				"screen_name": "jack",
+				"location": "",
+				"description": "",
+				"url": null,
 				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/6v8TPS7FJm",
-								"expanded_url": "http://jasperkosok.com",
-								"display_url": "jasperkosok.com",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
 					"description": {
 						"urls": []
 					}
 				},
 				"protected": false,
-				"followers_count": 1673,
-				"friends_count": 722,
-				"listed_count": 75,
-				"created_at": "Mon Apr 09 21:41:15 +0000 2007",
-				"favourites_count": 4232,
-				"utc_offset": 7200,
-				"time_zone": "Berlin",
+				"followers_count": 4118400,
+				"friends_count": 3701,
+				"listed_count": 27888,
+				"created_at": "Tue Mar 21 20:50:14 +0000 2006",
+				"favourites_count": 22600,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 7745,
+				"statuses_count": 24667,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
-				"profile_background_color": "E0E0E0",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/560779494672183297/ts8Bfc62.jpeg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/560779494672183297/ts8Bfc62.jpeg",
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/560774682870169600/AlPd7T0m_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/560774682870169600/AlPd7T0m_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3946541/1422534164",
-				"profile_link_color": "333333",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "FFFFFF",
-				"profile_text_color": "444444",
-				"profile_use_background_image": false,
-				"has_extended_profile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839863609345794048/mkpdB9Tf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839863609345794048/mkpdB9Tf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12/1483046077",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
 				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
-				"translator_type": "none"
+				"translator_type": "regular"
 			},
 			"geo": null,
 			"coordinates": null,
 			"place": null,
 			"contributors": null,
 			"is_quote_status": true,
-			"quoted_status_id": 912784057863245800,
-			"quoted_status_id_str": "912784057863245824",
-			"quoted_status": {
-				"created_at": "Tue Sep 26 21:00:52 +0000 2017",
-				"id": 912784057863245800,
-				"id_str": "912784057863245824",
-				"text": "This is a small change, but a big move for us. 140 was an arbitrary choice based on the 160 character SMS limit. Pr… https://t.co/tYHA2VTS5l",
-				"truncated": true,
-				"entities": {
-					"hashtags": [],
-					"symbols": [],
-					"user_mentions": [],
-					"urls": [
-						{
-							"url": "https://t.co/tYHA2VTS5l",
-							"expanded_url": "https://twitter.com/i/web/status/912784057863245824",
-							"display_url": "twitter.com/i/web/status/9…",
-							"indices": [
-								117,
-								140
-							]
-						}
-					]
-				},
-				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter for  iPhone</a>",
-				"in_reply_to_status_id": null,
-				"in_reply_to_status_id_str": null,
-				"in_reply_to_user_id": null,
-				"in_reply_to_user_id_str": null,
-				"in_reply_to_screen_name": null,
-				"user": {
-					"id": 12,
-					"id_str": "12",
-					"name": "jack",
-					"screen_name": "jack",
-					"location": "California, USA",
-					"description": "",
-					"url": null,
-					"entities": {
-						"description": {
-							"urls": []
-						}
-					},
-					"protected": false,
-					"followers_count": 4098734,
-					"friends_count": 3110,
-					"listed_count": 27080,
-					"created_at": "Tue Mar 21 20:50:14 +0000 2006",
-					"favourites_count": 19077,
-					"utc_offset": -25200,
-					"time_zone": "Pacific Time (US & Canada)",
-					"geo_enabled": true,
-					"verified": true,
-					"statuses_count": 22663,
-					"lang": "en",
-					"contributors_enabled": false,
-					"is_translator": false,
-					"is_translation_enabled": false,
-					"profile_background_color": "EBEBEB",
-					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
-					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
-					"profile_background_tile": false,
-					"profile_image_url": "http://pbs.twimg.com/profile_images/839863609345794048/mkpdB9Tf_normal.jpg",
-					"profile_image_url_https": "https://pbs.twimg.com/profile_images/839863609345794048/mkpdB9Tf_normal.jpg",
-					"profile_banner_url": "https://pbs.twimg.com/profile_banners/12/1483046077",
-					"profile_link_color": "990000",
-					"profile_sidebar_border_color": "DFDFDF",
-					"profile_sidebar_fill_color": "F3F3F3",
-					"profile_text_color": "333333",
-					"profile_use_background_image": true,
-					"has_extended_profile": true,
-					"default_profile": false,
-					"default_profile_image": false,
-					"following": false,
-					"follow_request_sent": false,
-					"notifications": false,
-					"translator_type": "regular"
-				},
-				"geo": null,
-				"coordinates": null,
-				"place": null,
-				"contributors": null,
-				"is_quote_status": true,
-				"quoted_status_id": 912783930431905800,
-				"quoted_status_id_str": "912783930431905797",
-				"retweet_count": 16207,
-				"favorite_count": 22655,
-				"favorited": false,
-				"retweeted": false,
-				"possibly_sensitive": false,
-				"lang": "en"
+			"quoted_status_id": 912783930431905800,
+			"quoted_status_id_str": "912783930431905797",
+			"quoted_status_permalink": {
+				"url": "https://t.co/TuHj51MsTu",
+				"expanded": "https://twitter.com/twitter/status/912783930431905797",
+				"display": "twitter.com/twitter/status…"
 			},
-			"retweet_count": 8,
-			"favorite_count": 28,
+			"retweet_count": 17422,
+			"favorite_count": 27691,
 			"favorited": false,
-			"retweeted": true,
+			"retweeted": false,
 			"possibly_sensitive": false,
-			"lang": "in"
+			"lang": "en"
 		},
-		"is_quote_status": true,
-		"quoted_status_id": 912784057863245800,
-		"quoted_status_id_str": "912784057863245824",
 		"retweet_count": 8,
-		"favorite_count": 0,
+		"favorite_count": 34,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "in"
+		"lang": "in",
+		"text": "tl;dr https://t.co/mvpsj7E5oR"
 	},
 	{
 		"created_at": "Wed Sep 27 10:02:06 +0000 2017",
 		"id": 912980662667366400,
 		"id_str": "912980662667366400",
-		"text": "@kernpanik Warum wohnen in Hamburg so viele Ronnys?",
+		"full_text": "@kernpanik Warum wohnen in Hamburg so viele Ronnys?",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			51
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "kernpanik",
-					"name": "kernpanik",
+					"name": "kern🐾panik",
 					"id": 16902857,
 					"id_str": "16902857",
 					"indices": [
@@ -2512,7 +2255,7 @@ Grailbird.data.tweets_2017_09 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": 912608164083830800,
 		"in_reply_to_status_id_str": "912608164083830784",
 		"in_reply_to_user_id": 16902857,
@@ -2555,23 +2298,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4133,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16288,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -2595,17 +2338,22 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@kernpanik Warum wohnen in Hamburg so viele Ronnys?"
 	},
 	{
 		"created_at": "Wed Sep 27 09:07:36 +0000 2017",
 		"id": 912966944999006200,
 		"id_str": "912966944999006208",
-		"text": "Für wie geil muß man sich eigentlich halten, wenn man seinen Namen im Firmen-Intranet nur deshalb ändert, um ihn in ALL CAPS zu setzen?",
+		"full_text": "Für wie geil muß man sich eigentlich halten, wenn man seinen Namen im Firmen-Intranet nur deshalb ändert, um ihn in ALL CAPS zu setzen?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2655,23 +2403,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4133,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16286,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -2698,14 +2446,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Für wie geil muß man sich eigentlich halten, wenn man seinen Namen im Firmen-Intranet nur deshalb ändert, um ihn in ALL CAPS zu setzen?"
 	},
 	{
 		"created_at": "Tue Sep 26 15:04:32 +0000 2017",
 		"id": 912694383576801300,
 		"id_str": "912694383576801280",
-		"text": "Aus aktuellem Anlaß noch mal: https://t.co/78TGlfP1fU",
+		"full_text": "Aus aktuellem Anlaß noch mal: https://t.co/78TGlfP1fU",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2765,23 +2518,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4132,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16285,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -2809,14 +2562,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Aus aktuellem Anlaß noch mal: https://t.co/78TGlfP1fU"
 	},
 	{
 		"created_at": "Tue Sep 26 12:24:36 +0000 2017",
 		"id": 912654132015779800,
 		"id_str": "912654132015779841",
-		"text": "@Sillium *Ein",
+		"full_text": "@Sillium *Ein",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			13
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2834,7 +2592,7 @@ Grailbird.data.tweets_2017_09 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": 912648187923624000,
 		"in_reply_to_status_id_str": "912648187923623936",
 		"in_reply_to_user_id": 5525692,
@@ -2877,23 +2635,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4132,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16284,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -2920,14 +2678,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "@Sillium *Ein"
 	},
 	{
 		"created_at": "Tue Sep 26 12:22:07 +0000 2017",
 		"id": 912653509782327300,
 		"id_str": "912653509782327300",
-		"text": "@Sillium Mit AfD-Mit(hihi)Glied wäre somit ein (höhö) »After«?",
+		"full_text": "@Sillium Mit AfD-Mit(hihi)Glied wäre somit ein (höhö) »After«?",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			62
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2945,7 +2708,7 @@ Grailbird.data.tweets_2017_09 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": 912648187923624000,
 		"in_reply_to_status_id_str": "912648187923623936",
 		"in_reply_to_user_id": 5525692,
@@ -2988,23 +2751,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4132,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16284,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -3031,37 +2794,31 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@Sillium Mit AfD-Mit(hihi)Glied wäre somit ein (höhö) »After«?"
 	},
 	{
-		"created_at": "Mon Sep 25 16:40:13 +0000 2017",
-		"id": 912356073415331800,
-		"id_str": "912356073415331840",
-		"text": "RT @existentialcoms: Existential Ad Agency -\nhttps://t.co/Wo9CWwFS65 https://t.co/aPrcpEhYiV",
+		"created_at": "Mon Sep 25 16:11:27 +0000 2017",
+		"id": 912348834327494700,
+		"id_str": "912348834327494656",
+		"full_text": "Existential Ad Agency -\nhttps://t.co/Wo9CWwFS65 https://t.co/aPrcpEhYiV",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "existentialcoms",
-					"name": "Existential Comics",
-					"id": 2163374389,
-					"id_str": "2163374389",
-					"indices": [
-						3,
-						19
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [
 				{
 					"url": "https://t.co/Wo9CWwFS65",
 					"expanded_url": "http://existentialcomics.com/comic/204",
 					"display_url": "existentialcomics.com/comic/204",
 					"indices": [
-						45,
-						68
+						24,
+						47
 					]
 				}
 			],
@@ -3070,8 +2827,8 @@ Grailbird.data.tweets_2017_09 =
 					"id": 912348693302407200,
 					"id_str": "912348693302407168",
 					"indices": [
-						69,
-						92
+						48,
+						71
 					],
 					"media_url": "http://pbs.twimg.com/media/DKlQTX-U8AA9bRk.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DKlQTX-U8AA9bRk.jpg",
@@ -3080,11 +2837,6 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/existentialcoms/status/912348834327494656/photo/1",
 					"type": "photo",
 					"sizes": {
-						"small": {
-							"w": 453,
-							"h": 680,
-							"resize": "fit"
-						},
 						"large": {
 							"w": 1000,
 							"h": 1500,
@@ -3095,16 +2847,17 @@ Grailbird.data.tweets_2017_09 =
 							"h": 150,
 							"resize": "crop"
 						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
 						"medium": {
 							"w": 800,
 							"h": 1200,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 912348834327494700,
-					"source_status_id_str": "912348834327494656",
-					"source_user_id": 2163374389,
-					"source_user_id_str": "2163374389"
+					}
 				}
 			]
 		},
@@ -3114,8 +2867,8 @@ Grailbird.data.tweets_2017_09 =
 					"id": 912348693302407200,
 					"id_str": "912348693302407168",
 					"indices": [
-						69,
-						92
+						48,
+						71
 					],
 					"media_url": "http://pbs.twimg.com/media/DKlQTX-U8AA9bRk.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DKlQTX-U8AA9bRk.jpg",
@@ -3124,11 +2877,6 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/existentialcoms/status/912348834327494656/photo/1",
 					"type": "photo",
 					"sizes": {
-						"small": {
-							"w": 453,
-							"h": 680,
-							"resize": "fit"
-						},
 						"large": {
 							"w": 1000,
 							"h": 1500,
@@ -3139,23 +2887,24 @@ Grailbird.data.tweets_2017_09 =
 							"h": 150,
 							"resize": "crop"
 						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
 						"medium": {
 							"w": 800,
 							"h": 1200,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 912348834327494700,
-					"source_status_id_str": "912348834327494656",
-					"source_user_id": 2163374389,
-					"source_user_id_str": "2163374389"
+					}
 				},
 				{
 					"id": 912348707865092100,
 					"id_str": "912348707865092096",
 					"indices": [
-						69,
-						92
+						48,
+						71
 					],
 					"media_url": "http://pbs.twimg.com/media/DKlQUOOV4AAZyFV.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DKlQUOOV4AAZyFV.jpg",
@@ -3164,58 +2913,54 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/existentialcoms/status/912348834327494656/photo/1",
 					"type": "photo",
 					"sizes": {
-						"large": {
-							"w": 1000,
-							"h": 1500,
-							"resize": "fit"
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
 						},
 						"small": {
 							"w": 453,
 							"h": 680,
 							"resize": "fit"
 						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
 						"medium": {
 							"w": 800,
 							"h": 1200,
 							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
 						}
-					},
-					"source_status_id": 912348834327494700,
-					"source_status_id_str": "912348834327494656",
-					"source_user_id": 2163374389,
-					"source_user_id_str": "2163374389"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 15378060,
-			"id_str": "15378060",
-			"name": "Hendrik Spree",
-			"screen_name": "drikkes",
-			"location": "Cologne, Germany",
-			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
-			"url": "https://t.co/7ynPrqkpaM",
+			"id": 2163374389,
+			"id_str": "2163374389",
+			"name": "Existential Comics",
+			"screen_name": "existentialcoms",
+			"location": "Portland, OR",
+			"description": "A philosophy webcomic about the inevitable anguish of living a brief life in an absurd world. Also jokes. https://t.co/ngRN9krOEu",
+			"url": "http://t.co/2YD0UU9vYY",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/7ynPrqkpaM",
-							"expanded_url": "http://drikkes.com",
-							"display_url": "drikkes.com",
+							"url": "http://t.co/2YD0UU9vYY",
+							"expanded_url": "http://existentialcomics.com",
+							"display_url": "existentialcomics.com",
 							"indices": [
 								0,
-								23
+								22
 							]
 						}
 					]
@@ -3223,48 +2968,48 @@ Grailbird.data.tweets_2017_09 =
 				"description": {
 					"urls": [
 						{
-							"url": "https://t.co/pAb0SRWGFm",
-							"expanded_url": "http://drikk.es",
-							"display_url": "drikk.es",
+							"url": "https://t.co/ngRN9krOEu",
+							"expanded_url": "https://www.patreon.com/ExistentialComics",
+							"display_url": "patreon.com/ExistentialCom…",
 							"indices": [
-								46,
-								69
+								106,
+								129
 							]
 						}
 					]
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 158,
-			"listed_count": 80,
-			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4132,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
-			"geo_enabled": true,
+			"followers_count": 236139,
+			"friends_count": 105,
+			"listed_count": 2525,
+			"created_at": "Tue Oct 29 18:54:34 +0000 2013",
+			"favourites_count": 6347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 16282,
+			"statuses_count": 5985,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
-			"profile_link_color": "17B1DB",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/792916557403795456/d-iEnfPD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/792916557403795456/d-iEnfPD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2163374389/1526162179",
+			"profile_link_color": "489E5F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
 			"profile_text_color": "000000",
-			"profile_use_background_image": true,
+			"profile_use_background_image": false,
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -3273,245 +3018,25 @@ Grailbird.data.tweets_2017_09 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Mon Sep 25 16:11:27 +0000 2017",
-			"id": 912348834327494700,
-			"id_str": "912348834327494656",
-			"text": "Existential Ad Agency -\nhttps://t.co/Wo9CWwFS65 https://t.co/aPrcpEhYiV",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/Wo9CWwFS65",
-						"expanded_url": "http://existentialcomics.com/comic/204",
-						"display_url": "existentialcomics.com/comic/204",
-						"indices": [
-							24,
-							47
-						]
-					}
-				],
-				"media": [
-					{
-						"id": 912348693302407200,
-						"id_str": "912348693302407168",
-						"indices": [
-							48,
-							71
-						],
-						"media_url": "http://pbs.twimg.com/media/DKlQTX-U8AA9bRk.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DKlQTX-U8AA9bRk.jpg",
-						"url": "https://t.co/aPrcpEhYiV",
-						"display_url": "pic.twitter.com/aPrcpEhYiV",
-						"expanded_url": "https://twitter.com/existentialcoms/status/912348834327494656/photo/1",
-						"type": "photo",
-						"sizes": {
-							"small": {
-								"w": 453,
-								"h": 680,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1000,
-								"h": 1500,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 800,
-								"h": 1200,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 912348693302407200,
-						"id_str": "912348693302407168",
-						"indices": [
-							48,
-							71
-						],
-						"media_url": "http://pbs.twimg.com/media/DKlQTX-U8AA9bRk.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DKlQTX-U8AA9bRk.jpg",
-						"url": "https://t.co/aPrcpEhYiV",
-						"display_url": "pic.twitter.com/aPrcpEhYiV",
-						"expanded_url": "https://twitter.com/existentialcoms/status/912348834327494656/photo/1",
-						"type": "photo",
-						"sizes": {
-							"small": {
-								"w": 453,
-								"h": 680,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1000,
-								"h": 1500,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 800,
-								"h": 1200,
-								"resize": "fit"
-							}
-						}
-					},
-					{
-						"id": 912348707865092100,
-						"id_str": "912348707865092096",
-						"indices": [
-							48,
-							71
-						],
-						"media_url": "http://pbs.twimg.com/media/DKlQUOOV4AAZyFV.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DKlQUOOV4AAZyFV.jpg",
-						"url": "https://t.co/aPrcpEhYiV",
-						"display_url": "pic.twitter.com/aPrcpEhYiV",
-						"expanded_url": "https://twitter.com/existentialcoms/status/912348834327494656/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 1000,
-								"h": 1500,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 453,
-								"h": 680,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 800,
-								"h": 1200,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2163374389,
-				"id_str": "2163374389",
-				"name": "Existential Comics",
-				"screen_name": "existentialcoms",
-				"location": "Portland, OR",
-				"description": "A philosophy webcomic about the inevitable anguish of living a brief life in an absurd world. Also jokes. https://t.co/ngRN9krOEu",
-				"url": "http://t.co/2YD0UU9vYY",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/2YD0UU9vYY",
-								"expanded_url": "http://existentialcomics.com",
-								"display_url": "existentialcomics.com",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/ngRN9krOEu",
-								"expanded_url": "https://www.patreon.com/ExistentialComics",
-								"display_url": "patreon.com/ExistentialCom…",
-								"indices": [
-									106,
-									129
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 146333,
-				"friends_count": 95,
-				"listed_count": 1905,
-				"created_at": "Tue Oct 29 18:54:34 +0000 2013",
-				"favourites_count": 6002,
-				"utc_offset": -25200,
-				"time_zone": "Pacific Time (US & Canada)",
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 4560,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/792916557403795456/d-iEnfPD_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/792916557403795456/d-iEnfPD_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2163374389/1406441960",
-				"profile_link_color": "489E5F",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 223,
-			"favorite_count": 345,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 223,
-		"favorite_count": 0,
+		"retweet_count": 642,
+		"favorite_count": 1143,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Existential Ad Agency -\nhttps://t.co/Wo9CWwFS65 https://t.co/aPrcpEhYiV"
 	},
 	{
 		"created_at": "Mon Sep 25 10:23:53 +0000 2017",
 		"id": 912261367452848100,
 		"id_str": "912261367452848128",
-		"text": "Blühende Schlammschlachten",
+		"full_text": "Blühende Schlammschlachten",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3561,23 +3086,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4132,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16281,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -3601,17 +3126,22 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Blühende Schlammschlachten"
 	},
 	{
 		"created_at": "Sun Sep 24 10:54:56 +0000 2017",
 		"id": 911906792246038500,
 		"id_str": "911906792246038528",
-		"text": "OK, Wahlprognose „Unschulzvermutung“ _ist_ witzig.",
+		"full_text": "OK, Wahlprognose „Unschulzvermutung“ _ist_ witzig.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3661,23 +3191,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4131,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16280,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -3704,62 +3234,56 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "OK, Wahlprognose „Unschulzvermutung“ _ist_ witzig."
 	},
 	{
-		"created_at": "Fri Sep 22 21:58:41 +0000 2017",
-		"id": 911349055363698700,
-		"id_str": "911349055363698688",
-		"text": "RT @elektrotanja: Again.\nEvery fucking year.\nWelcome to autumn, fuckheads!\n https://t.co/4l7hFp2m3z",
+		"created_at": "Fri Sep 22 11:39:37 +0000 2017",
+		"id": 911193262827991000,
+		"id_str": "911193262827991040",
+		"full_text": "Again.\nEvery fucking year.\nWelcome to autumn, fuckheads!\n https://t.co/4l7hFp2m3z",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "elektrotanja",
-					"name": "Tanja Haeusler",
-					"id": 15566862,
-					"id_str": "15566862",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [
 				{
 					"url": "https://t.co/4l7hFp2m3z",
 					"expanded_url": "https://www.mcsweeneys.net/articles/its-decorative-gourd-season-motherfuckers",
 					"display_url": "mcsweeneys.net/articles/its-d…",
 					"indices": [
-						76,
-						99
+						58,
+						81
 					]
 				}
 			]
 		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 15378060,
-			"id_str": "15378060",
-			"name": "Hendrik Spree",
-			"screen_name": "drikkes",
-			"location": "Cologne, Germany",
-			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
-			"url": "https://t.co/7ynPrqkpaM",
+			"id": 15566862,
+			"id_str": "15566862",
+			"name": "Tanja Haeusler",
+			"screen_name": "elektrotanja",
+			"location": "Berlin",
+			"description": "https://t.co/Toxa10GgEV & https://t.co/RMOLWGM4uq - Plüschtierpräparation - Alle Kassen",
+			"url": "https://t.co/G5jDVguR5d",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/7ynPrqkpaM",
-							"expanded_url": "http://drikkes.com",
-							"display_url": "drikkes.com",
+							"url": "https://t.co/G5jDVguR5d",
+							"expanded_url": "http://www.tincon.org",
+							"display_url": "tincon.org",
 							"indices": [
 								0,
 								23
@@ -3770,48 +3294,57 @@ Grailbird.data.tweets_2017_09 =
 				"description": {
 					"urls": [
 						{
-							"url": "https://t.co/pAb0SRWGFm",
-							"expanded_url": "http://drikk.es",
-							"display_url": "drikk.es",
+							"url": "https://t.co/Toxa10GgEV",
+							"expanded_url": "http://re-publica.de",
+							"display_url": "re-publica.de",
 							"indices": [
-								46,
-								69
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/RMOLWGM4uq",
+							"expanded_url": "http://tincon.org",
+							"display_url": "tincon.org",
+							"indices": [
+								26,
+								49
 							]
 						}
 					]
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
-			"friends_count": 158,
-			"listed_count": 80,
-			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4130,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
-			"geo_enabled": true,
+			"followers_count": 2710,
+			"friends_count": 935,
+			"listed_count": 98,
+			"created_at": "Wed Jul 23 16:52:32 +0000 2008",
+			"favourites_count": 2810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 16279,
+			"statuses_count": 3278,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
-			"profile_link_color": "17B1DB",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "FFFFFF",
-			"profile_text_color": "000000",
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979312620049174528/xGjiMFHw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979312620049174528/xGjiMFHw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15566862/1524073532",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -3820,149 +3353,25 @@ Grailbird.data.tweets_2017_09 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Sep 22 11:39:37 +0000 2017",
-			"id": 911193262827991000,
-			"id_str": "911193262827991040",
-			"text": "Again.\nEvery fucking year.\nWelcome to autumn, fuckheads!\n https://t.co/4l7hFp2m3z",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/4l7hFp2m3z",
-						"expanded_url": "https://www.mcsweeneys.net/articles/its-decorative-gourd-season-motherfuckers",
-						"display_url": "mcsweeneys.net/articles/its-d…",
-						"indices": [
-							58,
-							81
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 15566862,
-				"id_str": "15566862",
-				"name": "Tanja Haeusler",
-				"screen_name": "elektrotanja",
-				"location": "Berlin",
-				"description": "Mutter & https://t.co/dIfZzCpeTo & https://t.co/Toxa10GgEV & https://t.co/RMOLWGM4uq - Plüschtierpräparation - Alle Kassen",
-				"url": "https://t.co/IPjXyT59au",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/IPjXyT59au",
-								"expanded_url": "http://www.spreeblick.com",
-								"display_url": "spreeblick.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/dIfZzCpeTo",
-								"expanded_url": "http://spreeblick.com",
-								"display_url": "spreeblick.com",
-								"indices": [
-									9,
-									32
-								]
-							},
-							{
-								"url": "https://t.co/Toxa10GgEV",
-								"expanded_url": "http://re-publica.de",
-								"display_url": "re-publica.de",
-								"indices": [
-									35,
-									58
-								]
-							},
-							{
-								"url": "https://t.co/RMOLWGM4uq",
-								"expanded_url": "http://tincon.org",
-								"display_url": "tincon.org",
-								"indices": [
-									61,
-									84
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 2405,
-				"friends_count": 798,
-				"listed_count": 97,
-				"created_at": "Wed Jul 23 16:52:32 +0000 2008",
-				"favourites_count": 1564,
-				"utc_offset": 7200,
-				"time_zone": "Berlin",
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 2643,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "9AE4E8",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/35748792/twitter.jpg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/35748792/twitter.jpg",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/791996367019335680/3EflxI4U_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/791996367019335680/3EflxI4U_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15566862/1369413946",
-				"profile_link_color": "0084B4",
-				"profile_sidebar_border_color": "BDDCAD",
-				"profile_sidebar_fill_color": "DDFFCC",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 0,
-			"favorite_count": 5,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Again.\nEvery fucking year.\nWelcome to autumn, fuckheads!\n https://t.co/4l7hFp2m3z"
 	},
 	{
 		"created_at": "Fri Sep 22 18:32:22 +0000 2017",
 		"id": 911297132497375200,
 		"id_str": "911297132497375232",
-		"text": "@neunetz „existenzgefährdende Gefahren“",
+		"full_text": "@neunetz „existenzgefährdende Gefahren“",
 		"truncated": false,
+		"display_text_range": [
+			9,
+			39
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4023,23 +3432,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4130,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16278,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -4066,14 +3475,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@neunetz „existenzgefährdende Gefahren“"
 	},
 	{
 		"created_at": "Fri Sep 22 11:34:33 +0000 2017",
 		"id": 911191986505437200,
 		"id_str": "911191986505437185",
-		"text": "Wählen? Es gibt doch nur einen Dschingis Khanzler!",
+		"full_text": "Wählen? Es gibt doch nur einen Dschingis Khanzler!",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4123,23 +3537,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4129,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16277,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -4166,14 +3580,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Wählen? Es gibt doch nur einen Dschingis Khanzler!"
 	},
 	{
 		"created_at": "Fri Sep 22 08:19:16 +0000 2017",
 		"id": 911142843351208000,
 		"id_str": "911142843351207936",
-		"text": "Lektüre hat sich auch fast ein Jahr später noch gelohnt. Nur, was wollte ich eigentlich an dem Rechner machen? #lt",
+		"full_text": "Lektüre hat sich auch fast ein Jahr später noch gelohnt. Nur, was wollte ich eigentlich an dem Rechner machen? #lt",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -4231,23 +3650,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4129,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16276,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -4274,14 +3693,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Lektüre hat sich auch fast ein Jahr später noch gelohnt. Nur, was wollte ich eigentlich an dem Rechner machen? #lt"
 	},
 	{
 		"created_at": "Fri Sep 22 08:17:53 +0000 2017",
 		"id": 911142492971683800,
 		"id_str": "911142492971683840",
-		"text": "Den iMac wohl länger nicht genutzt. In einem offenen Tab dieser Artikel über die Gilmore Girls. https://t.co/lv9QcrSUqE",
+		"full_text": "Den iMac wohl länger nicht genutzt. In einem offenen Tab dieser Artikel über die Gilmore Girls. https://t.co/lv9QcrSUqE",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4341,23 +3765,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4129,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16276,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -4385,14 +3809,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Den iMac wohl länger nicht genutzt. In einem offenen Tab dieser Artikel über die Gilmore Girls. https://t.co/lv9QcrSUqE"
 	},
 	{
 		"created_at": "Fri Sep 22 01:14:22 +0000 2017",
 		"id": 911035912066355200,
 		"id_str": "911035912066355200",
-		"text": "Sehr witzig. https://t.co/fqSOWY0pJp",
+		"full_text": "Sehr witzig. https://t.co/fqSOWY0pJp",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4452,23 +3881,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4129,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16274,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -4492,25 +3921,30 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Sehr witzig. https://t.co/fqSOWY0pJp"
 	},
 	{
 		"created_at": "Thu Sep 21 11:25:04 +0000 2017",
 		"id": 910827213003554800,
 		"id_str": "910827213003554819",
-		"text": "»PLACE TO B. Lifestyle by Axel Springer.« Aha.",
+		"full_text": "»PLACE TO B. Lifestyle by Axel Springer.« Aha.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -4553,23 +3987,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4129,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16273,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -4596,14 +4030,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "»PLACE TO B. Lifestyle by Axel Springer.« Aha."
 	},
 	{
 		"created_at": "Thu Sep 21 06:07:26 +0000 2017",
 		"id": 910747276372529200,
 		"id_str": "910747276372529152",
-		"text": "Großes „Welcome Freshmen“-Transpi an der FH. Hängt sowas jetzt überall oder nur an besonders dummen FreshHochschulen?",
+		"full_text": "Großes „Welcome Freshmen“-Transpi an der FH. Hängt sowas jetzt überall oder nur an besonders dummen FreshHochschulen?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4653,23 +4092,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4129,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16272,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -4693,17 +4132,22 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Großes „Welcome Freshmen“-Transpi an der FH. Hängt sowas jetzt überall oder nur an besonders dummen FreshHochschulen?"
 	},
 	{
 		"created_at": "Wed Sep 20 20:55:28 +0000 2017",
 		"id": 910608370356408300,
 		"id_str": "910608370356408321",
-		"text": "Kann ich bitte das @_juliaengelmann-Plakat zurückhaben? https://t.co/OFVWVNVbCw",
+		"full_text": "Kann ich bitte das @_juliaengelmann-Plakat zurückhaben? https://t.co/OFVWVNVbCw",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4735,24 +4179,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/910608370356408321/photo/1",
 					"type": "photo",
 					"sizes": {
-						"medium": {
-							"w": 900,
-							"h": 1200,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"large": {
-							"w": 1536,
-							"h": 2048,
-							"resize": "fit"
-						},
 						"small": {
 							"w": 510,
 							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
 							"resize": "fit"
 						}
 					}
@@ -4775,24 +4219,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/910608370356408321/photo/1",
 					"type": "photo",
 					"sizes": {
-						"medium": {
-							"w": 900,
-							"h": 1200,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"large": {
-							"w": 1536,
-							"h": 2048,
-							"resize": "fit"
-						},
 						"small": {
 							"w": 510,
 							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
 							"resize": "fit"
 						}
 					}
@@ -4842,23 +4286,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4129,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16271,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -4886,14 +4330,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Kann ich bitte das @_juliaengelmann-Plakat zurückhaben? https://t.co/OFVWVNVbCw"
 	},
 	{
 		"created_at": "Wed Sep 20 18:10:12 +0000 2017",
 		"id": 910566780476756000,
 		"id_str": "910566780476755968",
-		"text": "Cryptocurrencies to kill online advertisement. https://t.co/lpGToRsYox (via @hlgrrdlt)",
+		"full_text": "Cryptocurrencies to kill online advertisement. https://t.co/lpGToRsYox (via @hlgrrdlt)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4964,23 +4413,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4129,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16270,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -5008,14 +4457,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Cryptocurrencies to kill online advertisement. https://t.co/lpGToRsYox (via @hlgrrdlt)"
 	},
 	{
 		"created_at": "Wed Sep 20 17:12:29 +0000 2017",
 		"id": 910552256889724900,
 		"id_str": "910552256889724928",
-		"text": "Ich leg' mich fest: Der #effzeh wird diese Saison nicht Meister.",
+		"full_text": "Ich leg' mich fest: Der #effzeh wird diese Saison nicht Meister.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -5073,23 +4527,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4129,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16270,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -5116,14 +4570,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Ich leg' mich fest: Der #effzeh wird diese Saison nicht Meister."
 	},
 	{
 		"created_at": "Wed Sep 20 12:45:02 +0000 2017",
 		"id": 910484950796980200,
 		"id_str": "910484950796980224",
-		"text": "Bist Du es, Frank? https://t.co/MnhlM5Ywoi (Jaja, ein \"f\" zu viel, ich weiß.)",
+		"full_text": "Bist Du es, Frank? https://t.co/MnhlM5Ywoi (Jaja, ein \"f\" zu viel, ich weiß.)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5183,23 +4642,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4128,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16268,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -5227,31 +4686,26 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Bist Du es, Frank? https://t.co/MnhlM5Ywoi (Jaja, ein \"f\" zu viel, ich weiß.)"
 	},
 	{
 		"created_at": "Wed Sep 20 10:58:11 +0000 2017",
 		"id": 910458058068852700,
 		"id_str": "910458058068852737",
-		"text": "@meneramandarin @jwildeboer @peterbihr @mspro @qz Know this project? https://t.co/zbZoUWrdBL",
+		"full_text": "@meneramandarin @jwildeboer @peterbihr @mspro @qz Know this project? https://t.co/zbZoUWrdBL",
 		"truncated": false,
+		"display_text_range": [
+			50,
+			92
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
-					"screen_name": "meneramandarin",
-					"name": "Marlene Ronstedt",
-					"id": 481411008,
-					"id_str": "481411008",
-					"indices": [
-						0,
-						15
-					]
-				},
-				{
 					"screen_name": "jwildeboer",
-					"name": "Jan Wildeboer",
+					"name": "Jan 🇪🇺 Wildeboer (transnational citizen)",
 					"id": 16185413,
 					"id_str": "16185413",
 					"indices": [
@@ -5302,12 +4756,12 @@ Grailbird.data.tweets_2017_09 =
 				}
 			]
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": 910435023769219100,
 		"in_reply_to_status_id_str": "910435023769219072",
 		"in_reply_to_user_id": 481411008,
 		"in_reply_to_user_id_str": "481411008",
-		"in_reply_to_screen_name": "meneramandarin",
+		"in_reply_to_screen_name": "ronstedt",
 		"user": {
 			"id": 15378060,
 			"id_str": "15378060",
@@ -5345,23 +4799,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4127,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16267,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -5386,14 +4840,31 @@ Grailbird.data.tweets_2017_09 =
 		"is_quote_status": true,
 		"quoted_status_id": 910219696942850000,
 		"quoted_status_id_str": "910219696942850048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zbZoUWrdBL",
+			"expanded": "https://twitter.com/CECHR_UoD/status/910219696942850048",
+			"display": "twitter.com/CECHR_UoD/stat…"
+		},
 		"quoted_status": {
 			"created_at": "Tue Sep 19 19:11:01 +0000 2017",
 			"id": 910219696942850000,
 			"id_str": "910219696942850048",
-			"text": "Wind power, cryptocurrency in a combo that funds climate change research\n@julian0liver\nhttps://t.co/xEXP2udriB… https://t.co/FjJ77FjWNh",
-			"truncated": true,
+			"full_text": "Wind power, cryptocurrency in a combo that funds climate change research\n@julian0liver\nhttps://t.co/xEXP2udriB #Zcash https://t.co/lQQLULdycS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
 			"entities": {
-				"hashtags": [],
+				"hashtags": [
+					{
+						"text": "Zcash",
+						"indices": [
+							111,
+							117
+						]
+					}
+				],
 				"symbols": [],
 				"user_mentions": [
 					{
@@ -5416,15 +4887,84 @@ Grailbird.data.tweets_2017_09 =
 							87,
 							110
 						]
-					},
+					}
+				],
+				"media": [
 					{
-						"url": "https://t.co/FjJ77FjWNh",
-						"expanded_url": "https://twitter.com/i/web/status/910219696942850048",
-						"display_url": "twitter.com/i/web/status/9…",
+						"id": 909795970996678700,
+						"id_str": "909795970996678656",
 						"indices": [
-							112,
-							135
-						]
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/DKA-nYVWsAAH616.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKA-nYVWsAAH616.jpg",
+						"url": "https://t.co/lQQLULdycS",
+						"display_url": "pic.twitter.com/lQQLULdycS",
+						"expanded_url": "https://twitter.com/CECHR_UoD/status/910219696942850048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 909795970996678700,
+						"id_str": "909795970996678656",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/DKA-nYVWsAAH616.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKA-nYVWsAAH616.jpg",
+						"url": "https://t.co/lQQLULdycS",
+						"display_url": "pic.twitter.com/lQQLULdycS",
+						"expanded_url": "https://twitter.com/CECHR_UoD/status/910219696942850048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
 					}
 				]
 			},
@@ -5433,55 +4973,42 @@ Grailbird.data.tweets_2017_09 =
 			"in_reply_to_status_id_str": "881355501073686528",
 			"in_reply_to_user_id": 482133423,
 			"in_reply_to_user_id_str": "482133423",
-			"in_reply_to_screen_name": "CECHR_UoD",
+			"in_reply_to_screen_name": "dtdchange",
 			"user": {
 				"id": 482133423,
 				"id_str": "482133423",
-				"name": "CECHR",
-				"screen_name": "CECHR_UoD",
-				"location": "University of Dundee",
-				"description": "Centre for Environmental Change & Human Resilience: \r\nMain themes: Food Water Energy Health  Sustainability Ecology Environmental Economic & Social Well-being",
-				"url": "http://t.co/AJDpZAGAcw",
+				"name": "Doing Things Differently",
+				"screen_name": "dtdchange",
+				"location": "",
+				"description": "Your trusted source for insight and solutions for achieving change towards a more environmentally responsible, diverse and socially just world",
+				"url": null,
 				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/AJDpZAGAcw",
-								"expanded_url": "http://www.dundee.ac.uk/cechr",
-								"display_url": "dundee.ac.uk/cechr",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
 					"description": {
 						"urls": []
 					}
 				},
 				"protected": false,
-				"followers_count": 143181,
-				"friends_count": 92612,
-				"listed_count": 3581,
+				"followers_count": 173198,
+				"friends_count": 69271,
+				"listed_count": 3947,
 				"created_at": "Fri Feb 03 15:24:19 +0000 2012",
-				"favourites_count": 35939,
-				"utc_offset": 3600,
-				"time_zone": "Edinburgh",
+				"favourites_count": 39868,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 50492,
+				"statuses_count": 59640,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
 				"profile_background_color": "F7FFF2",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670598631/97b8437239591ea5e99eb9a2ef911081.jpeg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670598631/97b8437239591ea5e99eb9a2ef911081.jpeg",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/460738918497787904/KrpfiJYt_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/460738918497787904/KrpfiJYt_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/482133423/1398683714",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998897428844576768/fKUAwRRe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998897428844576768/fKUAwRRe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/482133423/1526990706",
 				"profile_link_color": "00640F",
 				"profile_sidebar_border_color": "FFFFFF",
 				"profile_sidebar_fill_color": "DDEEF6",
@@ -5500,26 +5027,31 @@ Grailbird.data.tweets_2017_09 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 8,
-			"favorite_count": 16,
+			"retweet_count": 13,
+			"favorite_count": 23,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "@meneramandarin @jwildeboer @peterbihr @mspro @qz Know this project? https://t.co/zbZoUWrdBL"
 	},
 	{
 		"created_at": "Wed Sep 20 06:10:36 +0000 2017",
 		"id": 910385686146175000,
 		"id_str": "910385686146174976",
-		"text": "The new Calculator App is truly the best calculator, Apple has ever made. https://t.co/E5NgYoBe7A",
+		"full_text": "The new Calculator App is truly the best calculator, Apple has ever made. https://t.co/E5NgYoBe7A",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5545,9 +5077,9 @@ Grailbird.data.tweets_2017_09 =
 							"h": 1200,
 							"resize": "fit"
 						},
-						"large": {
-							"w": 750,
-							"h": 1334,
+						"small": {
+							"w": 382,
+							"h": 680,
 							"resize": "fit"
 						},
 						"thumb": {
@@ -5555,9 +5087,9 @@ Grailbird.data.tweets_2017_09 =
 							"h": 150,
 							"resize": "crop"
 						},
-						"small": {
-							"w": 382,
-							"h": 680,
+						"large": {
+							"w": 750,
+							"h": 1334,
 							"resize": "fit"
 						}
 					}
@@ -5585,9 +5117,9 @@ Grailbird.data.tweets_2017_09 =
 							"h": 1200,
 							"resize": "fit"
 						},
-						"large": {
-							"w": 750,
-							"h": 1334,
+						"small": {
+							"w": 382,
+							"h": 680,
 							"resize": "fit"
 						},
 						"thumb": {
@@ -5595,9 +5127,9 @@ Grailbird.data.tweets_2017_09 =
 							"h": 150,
 							"resize": "crop"
 						},
-						"small": {
-							"w": 382,
-							"h": 680,
+						"large": {
+							"w": 750,
+							"h": 1334,
 							"resize": "fit"
 						}
 					}
@@ -5647,23 +5179,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4126,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16266,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -5687,18 +5219,23 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "The new Calculator App is truly the best calculator, Apple has ever made. https://t.co/E5NgYoBe7A"
 	},
 	{
 		"created_at": "Wed Sep 20 04:52:30 +0000 2017",
 		"id": 910366030194778100,
 		"id_str": "910366030194778112",
-		"text": "Wie schaffen es die Menschen?",
+		"full_text": "Wie schaffen es die Menschen?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5748,23 +5285,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4126,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16265,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -5791,14 +5328,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Wie schaffen es die Menschen?"
 	},
 	{
 		"created_at": "Tue Sep 19 15:57:04 +0000 2017",
 		"id": 910170887181291500,
 		"id_str": "910170887181291521",
-		"text": "Reminder. https://t.co/NrwBp41j1F",
+		"full_text": "Reminder. https://t.co/NrwBp41j1F",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5819,6 +5361,16 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/910170887181291521/photo/1",
 					"type": "photo",
 					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
 						"medium": {
 							"w": 1024,
 							"h": 512,
@@ -5828,16 +5380,6 @@ Grailbird.data.tweets_2017_09 =
 							"w": 1024,
 							"h": 512,
 							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 340,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
 						}
 					}
 				}
@@ -5859,6 +5401,16 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/910170887181291521/photo/1",
 					"type": "photo",
 					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
 						"medium": {
 							"w": 1024,
 							"h": 512,
@@ -5868,22 +5420,12 @@ Grailbird.data.tweets_2017_09 =
 							"w": 1024,
 							"h": 512,
 							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 340,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
 						}
 					}
 				}
 			]
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -5926,23 +5468,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4125,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16264,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -5970,14 +5512,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "da"
+		"lang": "da",
+		"text": "Reminder. https://t.co/NrwBp41j1F"
 	},
 	{
 		"created_at": "Tue Sep 19 11:14:41 +0000 2017",
 		"id": 910099825244479500,
 		"id_str": "910099825244479489",
-		"text": "“An ephemeral to-do list”… Are you kidding me? #likesnapchatforbullshit",
+		"full_text": "“An ephemeral to-do list”… Are you kidding me? #likesnapchatforbullshit",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -6035,23 +5582,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4125,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16263,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -6078,62 +5625,56 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "“An ephemeral to-do list”… Are you kidding me? #likesnapchatforbullshit"
 	},
 	{
-		"created_at": "Tue Sep 19 10:04:22 +0000 2017",
-		"id": 910082129488437200,
-		"id_str": "910082129488437248",
-		"text": "RT @m_boesch: Björk + Gucci https://t.co/WuIU5kcMQl",
+		"created_at": "Tue Sep 19 09:00:09 +0000 2017",
+		"id": 910065968965177300,
+		"id_str": "910065968965177345",
+		"full_text": "Björk + Gucci https://t.co/WuIU5kcMQl",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "m_boesch",
-					"name": "Marcus Bösch",
-					"id": 14287222,
-					"id_str": "14287222",
-					"indices": [
-						3,
-						12
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [
 				{
 					"url": "https://t.co/WuIU5kcMQl",
 					"expanded_url": "https://www.youtube.com/watch?v=AHabDT6pt5I",
 					"display_url": "youtube.com/watch?v=AHabDT…",
 					"indices": [
-						28,
-						51
+						14,
+						37
 					]
 				}
 			]
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 15378060,
-			"id_str": "15378060",
-			"name": "Hendrik Spree",
-			"screen_name": "drikkes",
-			"location": "Cologne, Germany",
-			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
-			"url": "https://t.co/7ynPrqkpaM",
+			"id": 14287222,
+			"id_str": "14287222",
+			"name": "Marcus Bösch",
+			"screen_name": "m_boesch",
+			"location": "Berlin, Deutschland",
+			"description": "Co-Founder AR/VR studio @vragments Product Owner @xrdok Man at arms https://t.co/6YdGHc0N4I",
+			"url": "https://t.co/r1OUBoOM2J",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/7ynPrqkpaM",
-							"expanded_url": "http://drikkes.com",
-							"display_url": "drikkes.com",
+							"url": "https://t.co/r1OUBoOM2J",
+							"expanded_url": "http://www.marcus-boesch.de",
+							"display_url": "marcus-boesch.de",
 							"indices": [
 								0,
 								23
@@ -6144,232 +5685,108 @@ Grailbird.data.tweets_2017_09 =
 				"description": {
 					"urls": [
 						{
-							"url": "https://t.co/pAb0SRWGFm",
-							"expanded_url": "http://drikk.es",
-							"display_url": "drikk.es",
+							"url": "https://t.co/6YdGHc0N4I",
+							"expanded_url": "http://mobile-journalism.com",
+							"display_url": "mobile-journalism.com",
 							"indices": [
-								46,
-								69
+								68,
+								91
 							]
 						}
 					]
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 158,
-			"listed_count": 80,
-			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4124,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"followers_count": 4231,
+			"friends_count": 2174,
+			"listed_count": 351,
+			"created_at": "Wed Apr 02 20:31:01 +0000 2008",
+			"favourites_count": 8286,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16262,
+			"statuses_count": 8573,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
-			"profile_link_color": "17B1DB",
-			"profile_sidebar_border_color": "FFFFFF",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021892786050744320/oZaDCcud_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021892786050744320/oZaDCcud_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14287222/1534251090",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "0E120A",
 			"profile_sidebar_fill_color": "FFFFFF",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"profile_text_color": "504141",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
-			"translator_type": "none"
+			"translator_type": "regular"
 		},
 		"geo": null,
 		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Sep 19 09:00:09 +0000 2017",
-			"id": 910065968965177300,
-			"id_str": "910065968965177345",
-			"text": "Björk + Gucci https://t.co/WuIU5kcMQl",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/WuIU5kcMQl",
-						"expanded_url": "https://www.youtube.com/watch?v=AHabDT6pt5I",
-						"display_url": "youtube.com/watch?v=AHabDT…",
-						"indices": [
-							14,
-							37
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 14287222,
-				"id_str": "14287222",
-				"name": "Marcus Bösch",
-				"screen_name": "m_boesch",
-				"location": "Berlin, Deutschland",
-				"description": "Co-Founder https://t.co/fOgBFCXeXv and https://t.co/bxr23QIZPa Man at arms https://t.co/6YdGHc0N4I ⚔️",
-				"url": "https://t.co/r1OUBoOM2J",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/r1OUBoOM2J",
-								"expanded_url": "http://www.marcus-boesch.de",
-								"display_url": "marcus-boesch.de",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/fOgBFCXeXv",
-								"expanded_url": "http://vragments.com",
-								"display_url": "vragments.com",
-								"indices": [
-									11,
-									34
-								]
-							},
-							{
-								"url": "https://t.co/bxr23QIZPa",
-								"expanded_url": "http://thegoodevil.com",
-								"display_url": "thegoodevil.com",
-								"indices": [
-									39,
-									62
-								]
-							},
-							{
-								"url": "https://t.co/6YdGHc0N4I",
-								"expanded_url": "http://mobile-journalism.com",
-								"display_url": "mobile-journalism.com",
-								"indices": [
-									75,
-									98
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 4175,
-				"friends_count": 1532,
-				"listed_count": 353,
-				"created_at": "Wed Apr 02 20:31:01 +0000 2008",
-				"favourites_count": 7425,
-				"utc_offset": 7200,
-				"time_zone": "Ljubljana",
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 8150,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "FFFFFF",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662925753/u2403j1ugg7g6s223c2z.png",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662925753/u2403j1ugg7g6s223c2z.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/711306528792432640/osGzV78D_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711306528792432640/osGzV78D_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14287222/1441447879",
-				"profile_link_color": "ABB8C2",
-				"profile_sidebar_border_color": "0E120A",
-				"profile_sidebar_fill_color": "FFFFFF",
-				"profile_text_color": "504141",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "regular"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": {
-				"id": "4267d6645adb29a6",
-				"url": "https://api.twitter.com/1.1/geo/id/4267d6645adb29a6.json",
-				"place_type": "city",
-				"name": "Leverkusen",
-				"full_name": "Leverkusen, Germany",
-				"country_code": "DE",
-				"country": "Germany",
-				"contained_within": [],
-				"bounding_box": {
-					"type": "Polygon",
-					"coordinates": [
+		"place": {
+			"id": "4267d6645adb29a6",
+			"url": "https://api.twitter.com/1.1/geo/id/4267d6645adb29a6.json",
+			"place_type": "city",
+			"name": "Leverkusen",
+			"full_name": "Leverkusen, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
 						[
-							[
-								6.899146,
-								51.011133
-							],
-							[
-								7.116138,
-								51.011133
-							],
-							[
-								7.116138,
-								51.097149
-							],
-							[
-								6.899146,
-								51.097149
-							]
+							6.899146,
+							51.011133
+						],
+						[
+							7.116138,
+							51.011133
+						],
+						[
+							7.116138,
+							51.097149
+						],
+						[
+							6.899146,
+							51.097149
 						]
 					]
-				},
-				"attributes": {}
+				]
 			},
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 0,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "sv"
+			"attributes": {}
 		},
+		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "sv"
+		"lang": "sv",
+		"text": "Björk + Gucci https://t.co/WuIU5kcMQl"
 	},
 	{
 		"created_at": "Tue Sep 19 09:28:28 +0000 2017",
 		"id": 910073095251218400,
 		"id_str": "910073095251218432",
-		"text": "@mspro Kommt darauf an, wer den Begriff \"Revolution\" definiert. https://t.co/jMM64t4z00",
+		"full_text": "@mspro Kommt darauf an, wer den Begriff \"Revolution\" definiert. https://t.co/jMM64t4z00",
 		"truncated": false,
+		"display_text_range": [
+			7,
+			87
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6440,23 +5857,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4124,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16262,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -6484,14 +5901,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@mspro Kommt darauf an, wer den Begriff \"Revolution\" definiert. https://t.co/jMM64t4z00"
 	},
 	{
 		"created_at": "Mon Sep 18 15:58:35 +0000 2017",
 		"id": 909808882972856300,
 		"id_str": "909808882972856320",
-		"text": "No, I’m from New York https://t.co/CKG92eCdgO",
+		"full_text": "No, I’m from New York https://t.co/CKG92eCdgO",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6551,23 +5973,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4124,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16260,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -6595,14 +6017,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "No, I’m from New York https://t.co/CKG92eCdgO"
 	},
 	{
 		"created_at": "Mon Sep 18 14:42:47 +0000 2017",
 		"id": 909789806842060800,
 		"id_str": "909789806842060800",
-		"text": "\"Official Audio\"",
+		"full_text": "\"Official Audio\"",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6652,23 +6079,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4124,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16259,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -6695,14 +6122,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "es"
+		"lang": "es",
+		"text": "\"Official Audio\""
 	},
 	{
 		"created_at": "Mon Sep 18 13:00:19 +0000 2017",
 		"id": 909764020516872200,
 		"id_str": "909764020516872194",
-		"text": "So ein Konsumopfer bin ich dann doch nicht. https://t.co/mVOKfSB9S7",
+		"full_text": "So ein Konsumopfer bin ich dann doch nicht. https://t.co/mVOKfSB9S7",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6762,23 +6194,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4124,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16258,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -6806,14 +6238,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "So ein Konsumopfer bin ich dann doch nicht. https://t.co/mVOKfSB9S7"
 	},
 	{
 		"created_at": "Mon Sep 18 08:21:31 +0000 2017",
 		"id": 909693855460659200,
 		"id_str": "909693855460659200",
-		"text": "»Meine Mama ist Krankenschwesterin, die kann dir helfen.«",
+		"full_text": "»Meine Mama ist Krankenschwesterin, die kann dir helfen.«",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6863,23 +6300,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4123,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16257,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -6906,14 +6343,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "»Meine Mama ist Krankenschwesterin, die kann dir helfen.«"
 	},
 	{
 		"created_at": "Sun Sep 17 07:52:29 +0000 2017",
 		"id": 909324164124807200,
 		"id_str": "909324164124807168",
-		"text": "Meinten Sie: H-Milch? https://t.co/8tPWttqmI4",
+		"full_text": "Meinten Sie: H-Milch? https://t.co/8tPWttqmI4",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -6934,16 +6376,6 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/909324164124807168/photo/1",
 					"type": "photo",
 					"sizes": {
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 900,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
@@ -6952,6 +6384,16 @@ Grailbird.data.tweets_2017_09 =
 						"large": {
 							"w": 2048,
 							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
 							"resize": "fit"
 						}
 					}
@@ -6974,16 +6416,6 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/909324164124807168/photo/1",
 					"type": "photo",
 					"sizes": {
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 900,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
@@ -6992,6 +6424,16 @@ Grailbird.data.tweets_2017_09 =
 						"large": {
 							"w": 2048,
 							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
 							"resize": "fit"
 						}
 					}
@@ -7041,23 +6483,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4123,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16256,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -7085,14 +6527,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Meinten Sie: H-Milch? https://t.co/8tPWttqmI4"
 	},
 	{
 		"created_at": "Sun Sep 17 05:43:42 +0000 2017",
 		"id": 909291751759908900,
 		"id_str": "909291751759908865",
-		"text": "Egon Krenzlauer Berg",
+		"full_text": "Egon Krenzlauer Berg",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7142,23 +6589,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4123,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16255,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -7185,14 +6632,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Egon Krenzlauer Berg"
 	},
 	{
 		"created_at": "Sat Sep 16 20:05:55 +0000 2017",
 		"id": 909146350985596900,
 		"id_str": "909146350985596928",
-		"text": "hate america great again",
+		"full_text": "hate america great again",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7242,23 +6694,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4123,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16254,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -7285,14 +6737,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "hate america great again"
 	},
 	{
 		"created_at": "Sat Sep 16 13:22:31 +0000 2017",
 		"id": 909044829727928300,
 		"id_str": "909044829727928321",
-		"text": "Fritz sieht zufällig das Crazy-Video von Aerosmith. Als Alicia Silverstone und Liv Tyler ins Auto steigen, fragt er: Sind das Hanni &amp; Nanni?",
+		"full_text": "Fritz sieht zufällig das Crazy-Video von Aerosmith. Als Alicia Silverstone und Liv Tyler ins Auto steigen, fragt er: Sind das Hanni &amp; Nanni?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7342,23 +6799,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
+			"followers_count": 862,
 			"friends_count": 158,
-			"listed_count": 80,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4123,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16253,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -7382,17 +6839,22 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Fritz sieht zufällig das Crazy-Video von Aerosmith. Als Alicia Silverstone und Liv Tyler ins Auto steigen, fragt er: Sind das Hanni &amp; Nanni?"
 	},
 	{
 		"created_at": "Sat Sep 16 08:23:34 +0000 2017",
 		"id": 908969596983627800,
 		"id_str": "908969596983627776",
-		"text": "Wie die Madonna! https://t.co/9rJY5maeWJ",
+		"full_text": "Wie die Madonna! https://t.co/9rJY5maeWJ",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7413,24 +6875,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/908969596983627776/photo/1",
 					"type": "photo",
 					"sizes": {
-						"small": {
-							"w": 680,
-							"h": 680,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"large": {
-							"w": 2048,
-							"h": 2047,
-							"resize": "fit"
-						},
 						"medium": {
 							"w": 1200,
 							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
 							"resize": "fit"
 						}
 					}
@@ -7453,24 +6915,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/908969596983627776/photo/1",
 					"type": "photo",
 					"sizes": {
-						"small": {
-							"w": 680,
-							"h": 680,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"large": {
-							"w": 2048,
-							"h": 2047,
-							"resize": "fit"
-						},
 						"medium": {
 							"w": 1200,
 							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
 							"resize": "fit"
 						}
 					}
@@ -7520,23 +6982,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4123,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16252,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -7564,14 +7026,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Wie die Madonna! https://t.co/9rJY5maeWJ"
 	},
 	{
 		"created_at": "Sat Sep 16 07:37:23 +0000 2017",
 		"id": 908957976886747100,
 		"id_str": "908957976886747137",
-		"text": "Deine Mudda wird sich nicht durchsetzen.",
+		"full_text": "Deine Mudda wird sich nicht durchsetzen.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7621,23 +7088,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4123,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16251,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -7664,14 +7131,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Deine Mudda wird sich nicht durchsetzen."
 	},
 	{
 		"created_at": "Fri Sep 15 22:08:27 +0000 2017",
 		"id": 908814799500447700,
 		"id_str": "908814799500447745",
-		"text": "A Lot of Sound and Supermodels, Signifying Not Much https://t.co/g7vlmI5GkC",
+		"full_text": "A Lot of Sound and Supermodels, Signifying Not Much https://t.co/g7vlmI5GkC",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7731,23 +7203,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4123,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16250,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -7775,14 +7247,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "A Lot of Sound and Supermodels, Signifying Not Much https://t.co/g7vlmI5GkC"
 	},
 	{
 		"created_at": "Fri Sep 15 15:35:01 +0000 2017",
 		"id": 908715788529479700,
 		"id_str": "908715788529479682",
-		"text": "https://t.co/AqKJgkH4QN",
+		"full_text": "https://t.co/AqKJgkH4QN",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7842,23 +7319,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4122,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16249,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -7886,14 +7363,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "https://t.co/AqKJgkH4QN"
 	},
 	{
 		"created_at": "Fri Sep 15 15:02:39 +0000 2017",
 		"id": 908707640804388900,
 		"id_str": "908707640804388865",
-		"text": "\"die Schokolade\" in Versalien https://t.co/mQUAB6IIYP https://t.co/hAwavEtdGL",
+		"full_text": "\"die Schokolade\" in Versalien https://t.co/mQUAB6IIYP https://t.co/hAwavEtdGL",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -7924,15 +7406,15 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/908707640804388865/photo/1",
 					"type": "photo",
 					"sizes": {
-						"large": {
-							"w": 800,
-							"h": 799,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 799,
+							"resize": "fit"
 						},
 						"medium": {
 							"w": 800,
@@ -7964,15 +7446,15 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/908707640804388865/photo/1",
 					"type": "photo",
 					"sizes": {
-						"large": {
-							"w": 800,
-							"h": 799,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 799,
+							"resize": "fit"
 						},
 						"medium": {
 							"w": 800,
@@ -8031,23 +7513,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4122,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16249,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -8075,14 +7557,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "\"die Schokolade\" in Versalien https://t.co/mQUAB6IIYP https://t.co/hAwavEtdGL"
 	},
 	{
 		"created_at": "Fri Sep 15 11:43:58 +0000 2017",
 		"id": 908657641966141400,
 		"id_str": "908657641966141440",
-		"text": "Ich arbeite seit über elf Jahren in Werbeagenturen. Heute habe ich zum ersten Mal in meinem Arbeitsleben jemanden in Rente gehen sehen.",
+		"full_text": "Ich arbeite seit über elf Jahren in Werbeagenturen. Heute habe ich zum ersten Mal in meinem Arbeitsleben jemanden in Rente gehen sehen.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -8132,23 +7619,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4122,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16248,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -8172,17 +7659,22 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 8,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Ich arbeite seit über elf Jahren in Werbeagenturen. Heute habe ich zum ersten Mal in meinem Arbeitsleben jemanden in Rente gehen sehen."
 	},
 	{
 		"created_at": "Fri Sep 15 09:21:44 +0000 2017",
 		"id": 908621848522448900,
 		"id_str": "908621848522448896",
-		"text": "@Znarf_Gnilhe Was ist die Bestätigung? Daß ich Ihnen überhaupt antworte? Oder daß ich es mit den gleichen Begriffli… https://t.co/D5jvMQ2d5o",
-		"truncated": true,
+		"full_text": "@Znarf_Gnilhe Was ist die Bestätigung? Daß ich Ihnen überhaupt antworte? Oder daß ich es mit den gleichen Begrifflichkeiten (»Ekel« usw.) tue?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			142
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -8198,19 +7690,9 @@ Grailbird.data.tweets_2017_09 =
 					]
 				}
 			],
-			"urls": [
-				{
-					"url": "https://t.co/D5jvMQ2d5o",
-					"expanded_url": "https://twitter.com/i/web/status/908621848522448896",
-					"display_url": "twitter.com/i/web/status/9…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": 908621379079217200,
 		"in_reply_to_status_id_str": "908621379079217153",
 		"in_reply_to_user_id": 882899764827836400,
@@ -8253,23 +7735,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4122,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16247,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -8296,14 +7778,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@Znarf_Gnilhe Was ist die Bestätigung? Daß ich Ihnen überhaupt antworte? Oder daß ich es mit den gleichen Begrifflichkeiten (»Ekel« usw.) tue?"
 	},
 	{
 		"created_at": "Fri Sep 15 08:41:36 +0000 2017",
 		"id": 908611748537798700,
 		"id_str": "908611748537798656",
-		"text": "@Znarf_Gnilhe Und was erlaubst Du Ekelfranzbot Dir, hier mit immergleichen Erregungstweets derart rumzustänkern? (fu73/53)",
+		"full_text": "@Znarf_Gnilhe Und was erlaubst Du Ekelfranzbot Dir, hier mit immergleichen Erregungstweets derart rumzustänkern? (fu73/53)",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			122
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -8321,7 +7808,7 @@ Grailbird.data.tweets_2017_09 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": 908609129635352600,
 		"in_reply_to_status_id_str": "908609129635352576",
 		"in_reply_to_user_id": 882899764827836400,
@@ -8364,23 +7851,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4122,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16246,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -8407,14 +7894,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@Znarf_Gnilhe Und was erlaubst Du Ekelfranzbot Dir, hier mit immergleichen Erregungstweets derart rumzustänkern? (fu73/53)"
 	},
 	{
 		"created_at": "Fri Sep 15 08:13:06 +0000 2017",
 		"id": 908604576290525200,
 		"id_str": "908604576290525184",
-		"text": "Dann nimm doch bitte lieber etwas weiter links Platz, @cem_oezdemir. https://t.co/V6y89zLUrI",
+		"full_text": "Dann nimm doch bitte lieber etwas weiter links Platz, @cem_oezdemir. https://t.co/V6y89zLUrI",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -8446,24 +7938,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/908604576290525184/photo/1",
 					"type": "photo",
 					"sizes": {
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"large": {
-							"w": 2048,
-							"h": 1536,
-							"resize": "fit"
-						},
 						"medium": {
 							"w": 1200,
 							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
 							"resize": "fit"
 						}
 					}
@@ -8486,24 +7978,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/908604576290525184/photo/1",
 					"type": "photo",
 					"sizes": {
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"large": {
-							"w": 2048,
-							"h": 1536,
-							"resize": "fit"
-						},
 						"medium": {
 							"w": 1200,
 							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
 							"resize": "fit"
 						}
 					}
@@ -8553,23 +8045,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4122,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16246,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -8597,14 +8089,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Dann nimm doch bitte lieber etwas weiter links Platz, @cem_oezdemir. https://t.co/V6y89zLUrI"
 	},
 	{
 		"created_at": "Fri Sep 15 06:35:48 +0000 2017",
 		"id": 908580090904227800,
 		"id_str": "908580090904227840",
-		"text": "*ändert wenig an der Tatsache*",
+		"full_text": "*ändert wenig an der Tatsache*",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -8654,23 +8151,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4121,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16244,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -8697,21 +8194,26 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "*ändert wenig an der Tatsache*"
 	},
 	{
 		"created_at": "Thu Sep 14 20:55:47 +0000 2017",
 		"id": 908434122594553900,
 		"id_str": "908434122594553856",
-		"text": "@karstenloh Heute lauter Leute hier, die man 25 Jahre nicht zu FC-Spielen in der Kneipe gesehen hat. Die wissen nicht zu jubeln.",
+		"full_text": "@karstenloh Heute lauter Leute hier, die man 25 Jahre nicht zu FC-Spielen in der Kneipe gesehen hat. Die wissen nicht zu jubeln.",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			128
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "karstenloh",
-					"name": "Tako ti je to!",
+					"name": "Karsten",
 					"id": 220942183,
 					"id_str": "220942183",
 					"indices": [
@@ -8765,23 +8267,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4120,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16243,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -8808,14 +8310,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@karstenloh Heute lauter Leute hier, die man 25 Jahre nicht zu FC-Spielen in der Kneipe gesehen hat. Die wissen nicht zu jubeln."
 	},
 	{
 		"created_at": "Thu Sep 14 20:16:43 +0000 2017",
 		"id": 908424290210664400,
 		"id_str": "908424290210664448",
-		"text": "Ich hab Bier in den Haaren.",
+		"full_text": "Ich hab Bier in den Haaren.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -8865,23 +8372,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4120,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16243,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -8908,14 +8415,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Ich hab Bier in den Haaren."
 	},
 	{
 		"created_at": "Thu Sep 14 16:26:10 +0000 2017",
 		"id": 908366270961274900,
 		"id_str": "908366270961274880",
-		"text": "“Herr Doktor, wenn ich da drücke, tut’s weh, wenn ich da drücke, tut’s weh &amp; wenn ich da drücke, tut’s weh.” - “Ihr Finger ist gebrochen.”",
+		"full_text": "“Herr Doktor, wenn ich da drücke, tut’s weh, wenn ich da drücke, tut’s weh &amp; wenn ich da drücke, tut’s weh.” - “Ihr Finger ist gebrochen.”",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -8965,23 +8477,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4120,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16241,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -9005,17 +8517,22 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "“Herr Doktor, wenn ich da drücke, tut’s weh, wenn ich da drücke, tut’s weh &amp; wenn ich da drücke, tut’s weh.” - “Ihr Finger ist gebrochen.”"
 	},
 	{
 		"created_at": "Thu Sep 14 13:52:20 +0000 2017",
 		"id": 908327559779295200,
 		"id_str": "908327559779295232",
-		"text": "Einmal so angewidert gucken wie der gesichtstätowierte Getränkelieferant beim Verladen der Perrier-Kästen für's Sternerestaurant.",
+		"full_text": "Einmal so angewidert gucken wie der gesichtstätowierte Getränkelieferant beim Verladen der Perrier-Kästen für's Sternerestaurant.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9065,23 +8582,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4120,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16240,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -9105,48 +8622,42 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Einmal so angewidert gucken wie der gesichtstätowierte Getränkelieferant beim Verladen der Perrier-Kästen für's Sternerestaurant."
 	},
 	{
-		"created_at": "Thu Sep 14 09:34:57 +0000 2017",
-		"id": 908262784542154800,
-		"id_str": "908262784542154752",
-		"text": "RT @arambartholl: #dummgelaufen ... https://t.co/61qn3Ma3U1",
+		"created_at": "Thu Sep 14 09:09:37 +0000 2017",
+		"id": 908256410542145500,
+		"id_str": "908256410542145536",
+		"full_text": "#dummgelaufen ... https://t.co/61qn3Ma3U1",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
 		"entities": {
 			"hashtags": [
 				{
 					"text": "dummgelaufen",
 					"indices": [
-						18,
-						31
+						0,
+						13
 					]
 				}
 			],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "arambartholl",
-					"name": "Ar@m B@rtholl",
-					"id": 5375902,
-					"id_str": "5375902",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [],
 			"media": [
 				{
 					"id": 908255925391298600,
 					"id_str": "908255925391298565",
 					"indices": [
-						36,
-						59
+						18,
+						41
 					],
 					"media_url": "http://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
@@ -9155,6 +8666,11 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/arambartholl/status/908256410542145536/photo/1",
 					"type": "photo",
 					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
 						"large": {
 							"w": 1024,
 							"h": 576,
@@ -9165,21 +8681,12 @@ Grailbird.data.tweets_2017_09 =
 							"h": 383,
 							"resize": "fit"
 						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
 						"medium": {
 							"w": 1024,
 							"h": 576,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 908256410542145500,
-					"source_status_id_str": "908256410542145536",
-					"source_user_id": 5375902,
-					"source_user_id_str": "5375902"
+					}
 				}
 			]
 		},
@@ -9189,8 +8696,8 @@ Grailbird.data.tweets_2017_09 =
 					"id": 908255925391298600,
 					"id_str": "908255925391298565",
 					"indices": [
-						36,
-						59
+						18,
+						41
 					],
 					"media_url": "http://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
@@ -9199,6 +8706,11 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/arambartholl/status/908256410542145536/photo/1",
 					"type": "photo",
 					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
 						"large": {
 							"w": 1024,
 							"h": 576,
@@ -9209,45 +8721,36 @@ Grailbird.data.tweets_2017_09 =
 							"h": 383,
 							"resize": "fit"
 						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
 						"medium": {
 							"w": 1024,
 							"h": 576,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 908256410542145500,
-					"source_status_id_str": "908256410542145536",
-					"source_user_id": 5375902,
-					"source_user_id_str": "5375902"
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"source": "<a href=\"https://github.com/mariotaku/twidere/\" rel=\"nofollow\">Twidere for Android #7</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 15378060,
-			"id_str": "15378060",
-			"name": "Hendrik Spree",
-			"screen_name": "drikkes",
-			"location": "Cologne, Germany",
-			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
-			"url": "https://t.co/7ynPrqkpaM",
+			"id": 5375902,
+			"id_str": "5375902",
+			"name": "Ar@m B@rtholl",
+			"screen_name": "arambartholl",
+			"location": "Berlin",
+			"description": "",
+			"url": "https://t.co/Y66cDmCiCA",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/7ynPrqkpaM",
-							"expanded_url": "http://drikkes.com",
-							"display_url": "drikkes.com",
+							"url": "https://t.co/Y66cDmCiCA",
+							"expanded_url": "http://arambartholl.com",
+							"display_url": "arambartholl.com",
 							"indices": [
 								0,
 								23
@@ -9256,50 +8759,39 @@ Grailbird.data.tweets_2017_09 =
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/pAb0SRWGFm",
-							"expanded_url": "http://drikk.es",
-							"display_url": "drikk.es",
-							"indices": [
-								46,
-								69
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
-			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4120,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
-			"geo_enabled": true,
+			"followers_count": 7622,
+			"friends_count": 1920,
+			"listed_count": 338,
+			"created_at": "Sat Apr 21 09:05:45 +0000 2007",
+			"favourites_count": 4555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 16239,
-			"lang": "en",
+			"statuses_count": 17991,
+			"lang": "de",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
-			"profile_link_color": "17B1DB",
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946607353/gmaps-avatar_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946607353/gmaps-avatar_normal.jpeg",
+			"profile_link_color": "787878",
 			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4DBEE",
 			"profile_text_color": "000000",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -9308,203 +8800,32 @@ Grailbird.data.tweets_2017_09 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Sep 14 09:09:37 +0000 2017",
-			"id": 908256410542145500,
-			"id_str": "908256410542145536",
-			"text": "#dummgelaufen ... https://t.co/61qn3Ma3U1",
-			"truncated": false,
-			"entities": {
-				"hashtags": [
-					{
-						"text": "dummgelaufen",
-						"indices": [
-							0,
-							13
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 908255925391298600,
-						"id_str": "908255925391298565",
-						"indices": [
-							18,
-							41
-						],
-						"media_url": "http://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
-						"url": "https://t.co/61qn3Ma3U1",
-						"display_url": "pic.twitter.com/61qn3Ma3U1",
-						"expanded_url": "https://twitter.com/arambartholl/status/908256410542145536/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 1024,
-								"h": 576,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 383,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 1024,
-								"h": 576,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 908255925391298600,
-						"id_str": "908255925391298565",
-						"indices": [
-							18,
-							41
-						],
-						"media_url": "http://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DJrF87YXkAUQ4wT.jpg",
-						"url": "https://t.co/61qn3Ma3U1",
-						"display_url": "pic.twitter.com/61qn3Ma3U1",
-						"expanded_url": "https://twitter.com/arambartholl/status/908256410542145536/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 1024,
-								"h": 576,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 383,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 1024,
-								"h": 576,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://github.com/mariotaku/twidere/\" rel=\"nofollow\">Twidere for Android #7</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 5375902,
-				"id_str": "5375902",
-				"name": "Ar@m B@rtholl",
-				"screen_name": "arambartholl",
-				"location": "Berlin",
-				"description": "offline art",
-				"url": "https://t.co/kdXi844hCc",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/kdXi844hCc",
-								"expanded_url": "http://www.datenform.de/indexeng.html",
-								"display_url": "datenform.de/indexeng.html",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 7476,
-				"friends_count": 1835,
-				"listed_count": 328,
-				"created_at": "Sat Apr 21 09:05:45 +0000 2007",
-				"favourites_count": 3187,
-				"utc_offset": 7200,
-				"time_zone": "Bern",
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 16747,
-				"lang": "de",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "FFFFFF",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705696793/14a1821bf1269f2a849d45cedc43f8ce.png",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705696793/14a1821bf1269f2a849d45cedc43f8ce.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/946607353/gmaps-avatar_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946607353/gmaps-avatar_normal.jpeg",
-				"profile_link_color": "787878",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "D4DBEE",
-				"profile_text_color": "000000",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 3,
-			"favorite_count": 11,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "und"
-		},
 		"is_quote_status": false,
 		"retweet_count": 3,
-		"favorite_count": 0,
+		"favorite_count": 15,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "#dummgelaufen ... https://t.co/61qn3Ma3U1"
 	},
 	{
 		"created_at": "Thu Sep 14 08:32:09 +0000 2017",
 		"id": 908246981465833500,
 		"id_str": "908246981465833474",
-		"text": "I'm at @dmexco 2017 in Köln, NRW w/ @hirnrinde https://t.co/kaorDT66QG",
+		"full_text": "I'm at @dmexco 2017 in Köln, NRW w/ @hirnrinde https://t.co/kaorDT66QG",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "dmexco",
-					"name": "dmexco",
+					"name": "DMEXCO",
 					"id": 17038370,
 					"id_str": "17038370",
 					"indices": [
@@ -9578,23 +8899,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4120,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16238,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -9663,18 +8984,23 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "I'm at @dmexco 2017 in Köln, NRW w/ @hirnrinde https://t.co/kaorDT66QG"
 	},
 	{
 		"created_at": "Thu Sep 14 07:04:46 +0000 2017",
 		"id": 908224992260882400,
 		"id_str": "908224992260882433",
-		"text": "@NiceBastard @anegend Richtig so. Das war auch nicht sein Arbeitsplatz, sondern zwei Kneipen weiter.",
+		"full_text": "@NiceBastard @anegend Richtig so. Das war auch nicht sein Arbeitsplatz, sondern zwei Kneipen weiter.",
 		"truncated": false,
+		"display_text_range": [
+			22,
+			100
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9745,23 +9071,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4119,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16237,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -9788,14 +9114,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@NiceBastard @anegend Richtig so. Das war auch nicht sein Arbeitsplatz, sondern zwei Kneipen weiter."
 	},
 	{
 		"created_at": "Wed Sep 13 22:22:08 +0000 2017",
 		"id": 908093465589928000,
 		"id_str": "908093465589927936",
-		"text": "@anegend @NiceBastard Richte ich aus.",
+		"full_text": "@anegend @NiceBastard Richte ich aus.",
 		"truncated": false,
+		"display_text_range": [
+			22,
+			37
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9866,23 +9197,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4119,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16236,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -9909,14 +9240,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@anegend @NiceBastard Richte ich aus."
 	},
 	{
 		"created_at": "Wed Sep 13 22:20:00 +0000 2017",
 		"id": 908092928685375500,
 		"id_str": "908092928685375488",
-		"text": "@anegend @NiceBastard Als Südstädterin kennst Du vielleicht den Andi aus dem Backes?",
+		"full_text": "@anegend @NiceBastard Als Südstädterin kennst Du vielleicht den Andi aus dem Backes?",
 		"truncated": false,
+		"display_text_range": [
+			22,
+			84
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -9987,23 +9323,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4119,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16236,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -10030,14 +9366,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@anegend @NiceBastard Als Südstädterin kennst Du vielleicht den Andi aus dem Backes?"
 	},
 	{
 		"created_at": "Wed Sep 13 22:09:01 +0000 2017",
 		"id": 908090164513316900,
 		"id_str": "908090164513316864",
-		"text": "Du willst nur noch schnell ein Absacker-Kölsch in Deiner Stammkneipe trinken, da feiert Dein Lieblingstürsteher um Mitternacht Geburtstag.",
+		"full_text": "Du willst nur noch schnell ein Absacker-Kölsch in Deiner Stammkneipe trinken, da feiert Dein Lieblingstürsteher um Mitternacht Geburtstag.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10087,23 +9428,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4119,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16234,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -10126,18 +9467,23 @@ Grailbird.data.tweets_2017_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Du willst nur noch schnell ein Absacker-Kölsch in Deiner Stammkneipe trinken, da feiert Dein Lieblingstürsteher um Mitternacht Geburtstag."
 	},
 	{
 		"created_at": "Wed Sep 13 15:01:27 +0000 2017",
 		"id": 907982562320142300,
 		"id_str": "907982562320142336",
-		"text": "Wo übrigens nie \"legendäre Parties\" stattfinden: an Messeständen. #dmexco #reminder",
+		"full_text": "Wo übrigens nie \"legendäre Parties\" stattfinden: an Messeständen. #dmexco #reminder",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -10202,23 +9548,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4119,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16233,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -10245,14 +9591,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Wo übrigens nie \"legendäre Parties\" stattfinden: an Messeständen. #dmexco #reminder"
 	},
 	{
 		"created_at": "Wed Sep 13 13:44:16 +0000 2017",
 		"id": 907963140218015700,
 		"id_str": "907963140218015744",
-		"text": "Für alle, die sich noch nicht genug getest-o-matet haben. https://t.co/Y8CrorVgb5",
+		"full_text": "Für alle, die sich noch nicht genug getest-o-matet haben. https://t.co/Y8CrorVgb5",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10312,23 +9663,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4119,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16232,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -10356,14 +9707,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Für alle, die sich noch nicht genug getest-o-matet haben. https://t.co/Y8CrorVgb5"
 	},
 	{
 		"created_at": "Wed Sep 13 12:11:33 +0000 2017",
 		"id": 907939806059139100,
 		"id_str": "907939806059139072",
-		"text": "Wichtig über Frank Castorf vs. Chris Dercon aufregen. Wen interessieren schon Anselm Weber, Oliver Reese und Peter Carp? #alteweissemaenner",
+		"full_text": "Wichtig über Frank Castorf vs. Chris Dercon aufregen. Wen interessieren schon Anselm Weber, Oliver Reese und Peter Carp? #alteweissemaenner",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -10421,23 +9777,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4119,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16231,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -10464,14 +9820,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Wichtig über Frank Castorf vs. Chris Dercon aufregen. Wen interessieren schon Anselm Weber, Oliver Reese und Peter Carp? #alteweissemaenner"
 	},
 	{
 		"created_at": "Wed Sep 13 09:26:45 +0000 2017",
 		"id": 907898334127501300,
 		"id_str": "907898334127501312",
-		"text": "Glückwunsch an die Konkurrenz. https://t.co/eLXN4lA6Wl",
+		"full_text": "Glückwunsch an die Konkurrenz. https://t.co/eLXN4lA6Wl",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10488,7 +9849,7 @@ Grailbird.data.tweets_2017_09 =
 				}
 			]
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -10531,23 +9892,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4119,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16230,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -10575,14 +9936,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Glückwunsch an die Konkurrenz. https://t.co/eLXN4lA6Wl"
 	},
 	{
 		"created_at": "Wed Sep 13 08:53:07 +0000 2017",
 		"id": 907889871062290400,
 		"id_str": "907889871062290433",
-		"text": "Kaufflausch https://t.co/9XNVfPmvtV",
+		"full_text": "Kaufflausch https://t.co/9XNVfPmvtV",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10642,23 +10008,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4119,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16229,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -10686,14 +10052,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Kaufflausch https://t.co/9XNVfPmvtV"
 	},
 	{
 		"created_at": "Wed Sep 13 08:09:40 +0000 2017",
 		"id": 907878937317036000,
 		"id_str": "907878937317036032",
-		"text": "Und Gentrifizierer vom Wedding bis nach Neukölln so: \"Wohnung zu vermitten.\"",
+		"full_text": "Und Gentrifizierer vom Wedding bis nach Neukölln so: \"Wohnung zu vermitten.\"",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10743,23 +10114,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4119,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16228,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -10786,14 +10157,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Und Gentrifizierer vom Wedding bis nach Neukölln so: \"Wohnung zu vermitten.\""
 	},
 	{
 		"created_at": "Tue Sep 12 12:25:42 +0000 2017",
 		"id": 907580981418262500,
 		"id_str": "907580981418262530",
-		"text": "THE RED HORSE OF THE SECOND SEAL IS NOT THE APPROPRIATE TIME TO BE DISCUSSING ARMAGEDDON https://t.co/8yTCoHAWOq",
+		"full_text": "THE RED HORSE OF THE SECOND SEAL IS NOT THE APPROPRIATE TIME TO BE DISCUSSING ARMAGEDDON https://t.co/8yTCoHAWOq",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10853,23 +10229,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4117,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16227,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -10897,14 +10273,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "THE RED HORSE OF THE SECOND SEAL IS NOT THE APPROPRIATE TIME TO BE DISCUSSING ARMAGEDDON https://t.co/8yTCoHAWOq"
 	},
 	{
 		"created_at": "Mon Sep 11 17:29:16 +0000 2017",
 		"id": 907294988605812700,
 		"id_str": "907294988605812737",
-		"text": "Ich verwechsle immmer Eisenglutenstadt und Glutenhüttenstadt.",
+		"full_text": "Ich verwechsle immmer Eisenglutenstadt und Glutenhüttenstadt.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -10954,23 +10335,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4117,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16226,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -10997,14 +10378,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Ich verwechsle immmer Eisenglutenstadt und Glutenhüttenstadt."
 	},
 	{
 		"created_at": "Mon Sep 11 11:48:43 +0000 2017",
 		"id": 907209284408234000,
 		"id_str": "907209284408233984",
-		"text": "gut zu schnitzeln",
+		"full_text": "gut zu schnitzeln",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11054,23 +10440,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4115,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16225,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -11097,14 +10483,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "gut zu schnitzeln"
 	},
 	{
 		"created_at": "Mon Sep 11 06:21:10 +0000 2017",
 		"id": 907126854217330700,
 		"id_str": "907126854217330688",
-		"text": "Leute, die sagen, es sei nicht das optimale Wetter. Was machen die so beruflich?",
+		"full_text": "Leute, die sagen, es sei nicht das optimale Wetter. Was machen die so beruflich?",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11154,23 +10545,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 902,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4115,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16224,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -11197,14 +10588,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Leute, die sagen, es sei nicht das optimale Wetter. Was machen die so beruflich?"
 	},
 	{
 		"created_at": "Sun Sep 10 16:44:51 +0000 2017",
 		"id": 906921422114652200,
 		"id_str": "906921422114652168",
-		"text": "T·K·Primarxx",
+		"full_text": "T·K·Primarxx",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11254,23 +10650,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4114,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16223,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -11297,14 +10693,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "T·K·Primarxx"
 	},
 	{
 		"created_at": "Sun Sep 10 13:01:26 +0000 2017",
 		"id": 906865199512256500,
 		"id_str": "906865199512256513",
-		"text": "Der verkackte Feedback-Smiley oben rechts in allen MS Office Produkten geht einem bei Wochenendarbeit noch mehr auf die Nerven.",
+		"full_text": "Der verkackte Feedback-Smiley oben rechts in allen MS Office Produkten geht einem bei Wochenendarbeit noch mehr auf die Nerven.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11354,23 +10755,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4114,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16222,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -11397,14 +10798,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Der verkackte Feedback-Smiley oben rechts in allen MS Office Produkten geht einem bei Wochenendarbeit noch mehr auf die Nerven."
 	},
 	{
 		"created_at": "Sun Sep 10 08:08:50 +0000 2017",
 		"id": 906791561761091600,
 		"id_str": "906791561761091584",
-		"text": "Die Taubenfußabdrücke in der Kotzelache Ecke Berliner Allee.",
+		"full_text": "Die Taubenfußabdrücke in der Kotzelache Ecke Berliner Allee.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11454,23 +10860,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4113,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16221,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -11497,14 +10903,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Die Taubenfußabdrücke in der Kotzelache Ecke Berliner Allee."
 	},
 	{
 		"created_at": "Sat Sep 09 09:29:59 +0000 2017",
 		"id": 906449596607602700,
 		"id_str": "906449596607602688",
-		"text": "\"Darf ich mir Mamas geheime Süßkiste nur mal anschauen? Ich nehme auch nichts raus.\" (Wußte bisher noch nichts von einer solchen Kiste.)",
+		"full_text": "\"Darf ich mir Mamas geheime Süßkiste nur mal anschauen? Ich nehme auch nichts raus.\" (Wußte bisher noch nichts von einer solchen Kiste.)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11554,23 +10965,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4113,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16220,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -11594,17 +11005,22 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "\"Darf ich mir Mamas geheime Süßkiste nur mal anschauen? Ich nehme auch nichts raus.\" (Wußte bisher noch nichts von einer solchen Kiste.)"
 	},
 	{
 		"created_at": "Sat Sep 09 06:33:43 +0000 2017",
 		"id": 906405236818014200,
 		"id_str": "906405236818014208",
-		"text": "https://t.co/z3aorBRQLL",
+		"full_text": "https://t.co/z3aorBRQLL",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11625,24 +11041,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/906405236818014208/photo/1",
 					"type": "photo",
 					"sizes": {
-						"medium": {
-							"w": 1024,
-							"h": 512,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"small": {
-							"w": 680,
-							"h": 340,
+						"medium": {
+							"w": 1024,
+							"h": 512,
 							"resize": "fit"
 						},
 						"large": {
 							"w": 1024,
 							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
 							"resize": "fit"
 						}
 					}
@@ -11665,24 +11081,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/906405236818014208/photo/1",
 					"type": "photo",
 					"sizes": {
-						"medium": {
-							"w": 1024,
-							"h": 512,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"small": {
-							"w": 680,
-							"h": 340,
+						"medium": {
+							"w": 1024,
+							"h": 512,
 							"resize": "fit"
 						},
 						"large": {
 							"w": 1024,
 							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
 							"resize": "fit"
 						}
 					}
@@ -11732,23 +11148,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4113,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16219,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -11776,14 +11192,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "https://t.co/z3aorBRQLL"
 	},
 	{
 		"created_at": "Sat Sep 09 06:33:29 +0000 2017",
 		"id": 906405176814309400,
 		"id_str": "906405176814309377",
-		"text": "https://t.co/JJMmgcuzXN",
+		"full_text": "https://t.co/JJMmgcuzXN",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11804,24 +11225,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/906405176814309377/photo/1",
 					"type": "photo",
 					"sizes": {
-						"medium": {
-							"w": 1024,
-							"h": 512,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"small": {
-							"w": 680,
-							"h": 340,
+						"medium": {
+							"w": 1024,
+							"h": 512,
 							"resize": "fit"
 						},
 						"large": {
 							"w": 1024,
 							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
 							"resize": "fit"
 						}
 					}
@@ -11844,24 +11265,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/906405176814309377/photo/1",
 					"type": "photo",
 					"sizes": {
-						"medium": {
-							"w": 1024,
-							"h": 512,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"small": {
-							"w": 680,
-							"h": 340,
+						"medium": {
+							"w": 1024,
+							"h": 512,
 							"resize": "fit"
 						},
 						"large": {
 							"w": 1024,
 							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
 							"resize": "fit"
 						}
 					}
@@ -11911,23 +11332,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4113,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16219,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -11955,14 +11376,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "https://t.co/JJMmgcuzXN"
 	},
 	{
 		"created_at": "Sat Sep 09 06:33:13 +0000 2017",
 		"id": 906405113371222000,
 		"id_str": "906405113371222016",
-		"text": "https://t.co/JWRku12Jo6",
+		"full_text": "https://t.co/JWRku12Jo6",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -11988,9 +11414,9 @@ Grailbird.data.tweets_2017_09 =
 							"h": 150,
 							"resize": "crop"
 						},
-						"medium": {
-							"w": 1024,
-							"h": 512,
+						"small": {
+							"w": 680,
+							"h": 340,
 							"resize": "fit"
 						},
 						"large": {
@@ -11998,9 +11424,9 @@ Grailbird.data.tweets_2017_09 =
 							"h": 512,
 							"resize": "fit"
 						},
-						"small": {
-							"w": 680,
-							"h": 340,
+						"medium": {
+							"w": 1024,
+							"h": 512,
 							"resize": "fit"
 						}
 					}
@@ -12028,9 +11454,9 @@ Grailbird.data.tweets_2017_09 =
 							"h": 150,
 							"resize": "crop"
 						},
-						"medium": {
-							"w": 1024,
-							"h": 512,
+						"small": {
+							"w": 680,
+							"h": 340,
 							"resize": "fit"
 						},
 						"large": {
@@ -12038,9 +11464,9 @@ Grailbird.data.tweets_2017_09 =
 							"h": 512,
 							"resize": "fit"
 						},
-						"small": {
-							"w": 680,
-							"h": 340,
+						"medium": {
+							"w": 1024,
+							"h": 512,
 							"resize": "fit"
 						}
 					}
@@ -12090,23 +11516,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4113,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16219,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -12134,14 +11560,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "und"
+		"lang": "und",
+		"text": "https://t.co/JWRku12Jo6"
 	},
 	{
 		"created_at": "Fri Sep 08 16:02:35 +0000 2017",
 		"id": 906186008697479200,
 		"id_str": "906186008697479169",
-		"text": "Tut mir leid. https://t.co/k0bAOuASzE",
+		"full_text": "Tut mir leid. https://t.co/k0bAOuASzE",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -12158,7 +11589,7 @@ Grailbird.data.tweets_2017_09 =
 				}
 			]
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -12201,23 +11632,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4113,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16216,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -12245,14 +11676,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Tut mir leid. https://t.co/k0bAOuASzE"
 	},
 	{
 		"created_at": "Fri Sep 08 14:04:54 +0000 2017",
 		"id": 906156394600116200,
 		"id_str": "906156394600116225",
-		"text": "In meiner Timeline werfen sie Semesterkurse und Studiengänge durcheinander. https://t.co/yZDHANMXKb Aber dafür arbeiten sie ja bei @1LIVE.",
+		"full_text": "In meiner Timeline werfen sie Semesterkurse und Studiengänge durcheinander. https://t.co/yZDHANMXKb Aber dafür arbeiten sie ja bei @1LIVE.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -12323,23 +11759,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4113,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16215,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -12367,14 +11803,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "In meiner Timeline werfen sie Semesterkurse und Studiengänge durcheinander. https://t.co/yZDHANMXKb Aber dafür arbeiten sie ja bei @1LIVE."
 	},
 	{
 		"created_at": "Fri Sep 08 13:36:01 +0000 2017",
 		"id": 906149125850370000,
 		"id_str": "906149125850370049",
-		"text": "Nähe Kö. https://t.co/wXtPtSNG7L",
+		"full_text": "Nähe Kö. https://t.co/wXtPtSNG7L",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -12405,12 +11846,12 @@ Grailbird.data.tweets_2017_09 =
 							"h": 321,
 							"resize": "fit"
 						},
-						"small": {
+						"large": {
 							"w": 241,
 							"h": 321,
 							"resize": "fit"
 						},
-						"large": {
+						"small": {
 							"w": 241,
 							"h": 321,
 							"resize": "fit"
@@ -12445,12 +11886,12 @@ Grailbird.data.tweets_2017_09 =
 							"h": 321,
 							"resize": "fit"
 						},
-						"small": {
+						"large": {
 							"w": 241,
 							"h": 321,
 							"resize": "fit"
 						},
-						"large": {
+						"small": {
 							"w": 241,
 							"h": 321,
 							"resize": "fit"
@@ -12502,23 +11943,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4113,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16215,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -12546,14 +11987,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Nähe Kö. https://t.co/wXtPtSNG7L"
 	},
 	{
 		"created_at": "Fri Sep 08 12:50:27 +0000 2017",
 		"id": 906137655808852000,
 		"id_str": "906137655808851969",
-		"text": "Put on your shitkickers and kick some shit.",
+		"full_text": "Put on your shitkickers and kick some shit.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -12603,23 +12049,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4113,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16213,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -12646,14 +12092,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Put on your shitkickers and kick some shit."
 	},
 	{
 		"created_at": "Fri Sep 08 11:07:55 +0000 2017",
 		"id": 906111852584648700,
 		"id_str": "906111852584648704",
-		"text": "by design https://t.co/gJKFl6Jm6W",
+		"full_text": "by design https://t.co/gJKFl6Jm6W",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -12713,23 +12164,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4113,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16212,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -12757,111 +12208,96 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "by design https://t.co/gJKFl6Jm6W"
 	},
 	{
-		"created_at": "Fri Sep 08 06:54:22 +0000 2017",
-		"id": 906048048572375000,
-		"id_str": "906048048572375040",
-		"text": "RT @Pinboard: I feel like @irma is not really taking full advantage of a rare opportunity",
+		"created_at": "Thu Sep 07 19:08:54 +0000 2017",
+		"id": 905870508058488800,
+		"id_str": "905870508058488832",
+		"full_text": "I feel like @irma is not really taking full advantage of a rare opportunity",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
-				{
-					"screen_name": "Pinboard",
-					"name": "Pinboard",
-					"id": 55525953,
-					"id_str": "55525953",
-					"indices": [
-						3,
-						12
-					]
-				},
 				{
 					"screen_name": "irma",
 					"name": "Irma",
 					"id": 4016601,
 					"id_str": "4016601",
 					"indices": [
-						26,
-						31
+						12,
+						17
 					]
 				}
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"source": "<a href=\"http://sites.google.com/site/yorufukurou/\" rel=\"nofollow\">YoruFukurou</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 15378060,
-			"id_str": "15378060",
-			"name": "Hendrik Spree",
-			"screen_name": "drikkes",
-			"location": "Cologne, Germany",
-			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
-			"url": "https://t.co/7ynPrqkpaM",
+			"id": 55525953,
+			"id_str": "55525953",
+			"name": "Several people are typing",
+			"screen_name": "Pinboard",
+			"location": "",
+			"description": "Veni, vidi, tweeti. maciej@ceglowski.com. Signal: +1.415.610.0231",
+			"url": "http://t.co/qOHjNexLMt",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/7ynPrqkpaM",
-							"expanded_url": "http://drikkes.com",
-							"display_url": "drikkes.com",
+							"url": "http://t.co/qOHjNexLMt",
+							"expanded_url": "http://pinboard.in",
+							"display_url": "pinboard.in",
 							"indices": [
 								0,
-								23
+								22
 							]
 						}
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/pAb0SRWGFm",
-							"expanded_url": "http://drikk.es",
-							"display_url": "drikk.es",
-							"indices": [
-								46,
-								69
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
-			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4112,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
-			"geo_enabled": true,
+			"followers_count": 43950,
+			"friends_count": 131,
+			"listed_count": 2194,
+			"created_at": "Fri Jul 10 10:24:12 +0000 2009",
+			"favourites_count": 696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 16211,
-			"lang": "en",
+			"statuses_count": 60502,
+			"lang": "pl",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
-			"profile_link_color": "17B1DB",
-			"profile_sidebar_border_color": "FFFFFF",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494414965/logo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494414965/logo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55525953/1528655258",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
 			"profile_sidebar_fill_color": "FFFFFF",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
@@ -12873,119 +12309,24 @@ Grailbird.data.tweets_2017_09 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Sep 07 19:08:54 +0000 2017",
-			"id": 905870508058488800,
-			"id_str": "905870508058488832",
-			"text": "I feel like @irma is not really taking full advantage of a rare opportunity",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "irma",
-						"name": "Irma",
-						"id": 4016601,
-						"id_str": "4016601",
-						"indices": [
-							12,
-							17
-						]
-					}
-				],
-				"urls": []
-			},
-			"source": "<a href=\"http://sites.google.com/site/yorufukurou/\" rel=\"nofollow\">YoruFukurou</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 55525953,
-				"id_str": "55525953",
-				"name": "Pinboard",
-				"screen_name": "Pinboard",
-				"location": "San Francisco",
-				"description": "veni vidi tweeti",
-				"url": "http://t.co/qOHjNexLMt",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/qOHjNexLMt",
-								"expanded_url": "http://pinboard.in",
-								"display_url": "pinboard.in",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 43146,
-				"friends_count": 27,
-				"listed_count": 2116,
-				"created_at": "Fri Jul 10 10:24:12 +0000 2009",
-				"favourites_count": 127,
-				"utc_offset": 10800,
-				"time_zone": "Bucharest",
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 42137,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "FFFFFF",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/494414965/logo_normal.png",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/494414965/logo_normal.png",
-				"profile_link_color": "0084B4",
-				"profile_sidebar_border_color": "BDDCAD",
-				"profile_sidebar_fill_color": "FFFFFF",
-				"profile_text_color": "333333",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 3,
-			"favorite_count": 15,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "en"
-		},
 		"is_quote_status": false,
-		"retweet_count": 3,
-		"favorite_count": 0,
+		"retweet_count": 2,
+		"favorite_count": 15,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "en"
+		"lang": "en",
+		"text": "I feel like @irma is not really taking full advantage of a rare opportunity"
 	},
 	{
 		"created_at": "Fri Sep 08 06:16:23 +0000 2017",
 		"id": 906038487610081300,
 		"id_str": "906038487610081285",
-		"text": "Wenn viel hupen nicht hilft, dann hilft viel klingeln bestimmt.",
+		"full_text": "Wenn viel hupen nicht hilft, dann hilft viel klingeln bestimmt.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13035,23 +12376,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4112,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16211,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -13078,14 +12419,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Wenn viel hupen nicht hilft, dann hilft viel klingeln bestimmt."
 	},
 	{
 		"created_at": "Fri Sep 08 05:22:33 +0000 2017",
 		"id": 906024938930298900,
 		"id_str": "906024938930298881",
-		"text": "Projektionsflächen 4 life!",
+		"full_text": "Projektionsflächen 4 life!",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13135,23 +12481,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4112,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16209,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -13178,14 +12524,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Projektionsflächen 4 life!"
 	},
 	{
 		"created_at": "Thu Sep 07 12:11:12 +0000 2017",
 		"id": 905765391166832600,
 		"id_str": "905765391166832640",
-		"text": "Köln. https://t.co/Md2ADXk6yV",
+		"full_text": "Köln. https://t.co/Md2ADXk6yV",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13245,23 +12596,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4111,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16208,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -13285,18 +12636,23 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Köln. https://t.co/Md2ADXk6yV"
 	},
 	{
 		"created_at": "Thu Sep 07 11:41:32 +0000 2017",
 		"id": 905757926580781000,
 		"id_str": "905757926580781056",
-		"text": "“Postmoderne: wo man für die einfachsten körperfunktionen schon werbung machen muss” https://t.co/Ulhaf19x6V",
+		"full_text": "“Postmoderne: wo man für die einfachsten körperfunktionen schon werbung machen muss” https://t.co/Ulhaf19x6V",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13356,23 +12712,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4111,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16208,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -13400,14 +12756,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "“Postmoderne: wo man für die einfachsten körperfunktionen schon werbung machen muss” https://t.co/Ulhaf19x6V"
 	},
 	{
 		"created_at": "Thu Sep 07 07:17:34 +0000 2017",
 		"id": 905691497630122000,
 		"id_str": "905691497630121985",
-		"text": "\"Die Hitler-Glocke von St. Jakobus\"",
+		"full_text": "\"Die Hitler-Glocke von St. Jakobus\"",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13457,123 +12818,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4111,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16206,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
-			"profile_link_color": "17B1DB",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "FFFFFF",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "de"
-	},
-	{
-		"created_at": "Wed Sep 06 08:51:25 +0000 2017",
-		"id": 905352728381202400,
-		"id_str": "905352728381202432",
-		"text": "Livestream nur noch Liveschlimm naja",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 15378060,
-			"id_str": "15378060",
-			"name": "Hendrik Spree",
-			"screen_name": "drikkes",
-			"location": "Cologne, Germany",
-			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
-			"url": "https://t.co/7ynPrqkpaM",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/7ynPrqkpaM",
-							"expanded_url": "http://drikkes.com",
-							"display_url": "drikkes.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/pAb0SRWGFm",
-							"expanded_url": "http://drikk.es",
-							"display_url": "drikk.es",
-							"indices": [
-								46,
-								69
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
-			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4110,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 16205,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -13600,14 +12861,124 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "\"Die Hitler-Glocke von St. Jakobus\""
+	},
+	{
+		"created_at": "Wed Sep 06 08:51:25 +0000 2017",
+		"id": 905352728381202400,
+		"id_str": "905352728381202432",
+		"full_text": "Livestream nur noch Liveschlimm naja",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17983,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "Livestream nur noch Liveschlimm naja"
 	},
 	{
 		"created_at": "Wed Sep 06 06:26:28 +0000 2017",
 		"id": 905316249751707600,
 		"id_str": "905316249751707648",
-		"text": "Bei der 14jährigen ist #Tellonym gerade der hyce Shyß.",
+		"full_text": "Bei der 14jährigen ist #Tellonym gerade der hyce Shyß.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -13665,23 +13036,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4109,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16204,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -13708,14 +13079,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Bei der 14jährigen ist #Tellonym gerade der hyce Shyß."
 	},
 	{
 		"created_at": "Tue Sep 05 19:35:41 +0000 2017",
 		"id": 905152473547071500,
 		"id_str": "905152473547071488",
-		"text": "Sitze in 'nem ICE, der in Leverkusen hält. #HellFreezesOver",
+		"full_text": "Sitze in 'nem ICE, der in Leverkusen hält. #HellFreezesOver",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -13773,23 +13149,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4109,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16203,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -13816,14 +13192,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Sitze in 'nem ICE, der in Leverkusen hält. #HellFreezesOver"
 	},
 	{
 		"created_at": "Tue Sep 05 18:08:54 +0000 2017",
 		"id": 905130636217905200,
 		"id_str": "905130636217905154",
-		"text": "Happy birthday, Rein van Duijnhoven!",
+		"full_text": "Happy birthday, Rein van Duijnhoven!",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13873,23 +13254,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4109,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16202,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -13916,14 +13297,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "nl"
+		"lang": "nl",
+		"text": "Happy birthday, Rein van Duijnhoven!"
 	},
 	{
 		"created_at": "Tue Sep 05 12:55:23 +0000 2017",
 		"id": 905051733717606400,
 		"id_str": "905051733717606401",
-		"text": "Verlauf, Forrest, verlauf! https://t.co/n718Mnms1A",
+		"full_text": "Verlauf, Forrest, verlauf! https://t.co/n718Mnms1A",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -13944,24 +13330,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/905051733717606401/photo/1",
 					"type": "photo",
 					"sizes": {
-						"medium": {
-							"w": 1024,
-							"h": 512,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"small": {
-							"w": 680,
-							"h": 340,
+						"medium": {
+							"w": 1024,
+							"h": 512,
 							"resize": "fit"
 						},
 						"large": {
 							"w": 1024,
 							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
 							"resize": "fit"
 						}
 					}
@@ -13984,24 +13370,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/905051733717606401/photo/1",
 					"type": "photo",
 					"sizes": {
-						"medium": {
-							"w": 1024,
-							"h": 512,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"small": {
-							"w": 680,
-							"h": 340,
+						"medium": {
+							"w": 1024,
+							"h": 512,
 							"resize": "fit"
 						},
 						"large": {
 							"w": 1024,
 							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
 							"resize": "fit"
 						}
 					}
@@ -14051,23 +13437,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4109,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16201,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -14095,14 +13481,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Verlauf, Forrest, verlauf! https://t.co/n718Mnms1A"
 	},
 	{
 		"created_at": "Tue Sep 05 12:48:48 +0000 2017",
 		"id": 905050079555457000,
 		"id_str": "905050079555457024",
-		"text": "@phwampfler @mspro Würde sogar so weit gehen zu sagen, daß für viele der aufgezählten Mißstände andere Parteien als… https://t.co/ZNDpXsOLDi",
-		"truncated": true,
+		"full_text": "@phwampfler @mspro Würde sogar so weit gehen zu sagen, daß für viele der aufgezählten Mißstände andere Parteien als @DiePARTEI verantwortlich sind.",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			147
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -14126,21 +13517,21 @@ Grailbird.data.tweets_2017_09 =
 						12,
 						18
 					]
-				}
-			],
-			"urls": [
+				},
 				{
-					"url": "https://t.co/ZNDpXsOLDi",
-					"expanded_url": "https://twitter.com/i/web/status/905050079555457024",
-					"display_url": "twitter.com/i/web/status/9…",
+					"screen_name": "DiePARTEI",
+					"name": "Die PARTEI",
+					"id": 65607107,
+					"id_str": "65607107",
 					"indices": [
-						117,
-						140
+						116,
+						126
 					]
 				}
-			]
+			],
+			"urls": []
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": 905046618411585500,
 		"in_reply_to_status_id_str": "905046618411585536",
 		"in_reply_to_user_id": 23925926,
@@ -14183,23 +13574,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4109,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16201,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -14223,17 +13614,22 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@phwampfler @mspro Würde sogar so weit gehen zu sagen, daß für viele der aufgezählten Mißstände andere Parteien als @DiePARTEI verantwortlich sind."
 	},
 	{
 		"created_at": "Tue Sep 05 10:26:44 +0000 2017",
 		"id": 905014328671313900,
 		"id_str": "905014328671313921",
-		"text": "@quotenmeter Über ein Jahr her. -&gt; https://t.co/IU6PcJjQhC Soviel weiter seid Ihr nicht gekommen, oder? https://t.co/ZbBksoNjvB",
+		"full_text": "@quotenmeter Über ein Jahr her. -&gt; https://t.co/IU6PcJjQhC Soviel weiter seid Ihr nicht gekommen, oder? https://t.co/ZbBksoNjvB",
 		"truncated": false,
+		"display_text_range": [
+			13,
+			106
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -14275,6 +13671,11 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/905014328671313921/photo/1",
 					"type": "photo",
 					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
 						"large": {
 							"w": 290,
 							"h": 290,
@@ -14284,11 +13685,6 @@ Grailbird.data.tweets_2017_09 =
 							"w": 290,
 							"h": 290,
 							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
 						},
 						"small": {
 							"w": 290,
@@ -14315,6 +13711,11 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/905014328671313921/photo/1",
 					"type": "photo",
 					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
 						"large": {
 							"w": 290,
 							"h": 290,
@@ -14325,11 +13726,6 @@ Grailbird.data.tweets_2017_09 =
 							"h": 290,
 							"resize": "fit"
 						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
 						"small": {
 							"w": 290,
 							"h": 290,
@@ -14339,7 +13735,7 @@ Grailbird.data.tweets_2017_09 =
 				}
 			]
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": 904998168194154500,
 		"in_reply_to_status_id_str": "904998168194154497",
 		"in_reply_to_user_id": 40934492,
@@ -14382,23 +13778,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4108,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16199,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -14423,12 +13819,21 @@ Grailbird.data.tweets_2017_09 =
 		"is_quote_status": true,
 		"quoted_status_id": 767646306244460500,
 		"quoted_status_id_str": "767646306244460544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IU6PcJjQhC",
+			"expanded": "https://twitter.com/drikkes/status/767646306244460544",
+			"display": "twitter.com/drikkes/status…"
+		},
 		"quoted_status": {
 			"created_at": "Mon Aug 22 08:55:16 +0000 2016",
 			"id": 767646306244460500,
 			"id_str": "767646306244460544",
-			"text": "Warum @quotenmeter oft nicht zitierfähig ist. #utf https://t.co/mzvaPZgzhN",
+			"full_text": "Warum @quotenmeter oft nicht zitierfähig ist. #utf https://t.co/mzvaPZgzhN",
 			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
 			"entities": {
 				"hashtags": [
 					{
@@ -14507,23 +13912,23 @@ Grailbird.data.tweets_2017_09 =
 					}
 				},
 				"protected": false,
-				"followers_count": 904,
-				"friends_count": 160,
-				"listed_count": 80,
+				"followers_count": 862,
+				"friends_count": 158,
+				"listed_count": 82,
 				"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-				"favourites_count": 4108,
-				"utc_offset": 7200,
-				"time_zone": "Paris",
+				"favourites_count": 4482,
+				"utc_offset": null,
+				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 16199,
+				"statuses_count": 17983,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
 				"profile_background_color": "17DB42",
-				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
 				"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 				"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -14558,14 +13963,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@quotenmeter Über ein Jahr her. -&gt; https://t.co/IU6PcJjQhC Soviel weiter seid Ihr nicht gekommen, oder? https://t.co/ZbBksoNjvB"
 	},
 	{
 		"created_at": "Tue Sep 05 05:09:01 +0000 2017",
 		"id": 904934369978179600,
 		"id_str": "904934369978179584",
-		"text": "Lindenstrapaze",
+		"full_text": "Lindenstrapaze",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -14615,23 +14025,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4108,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16198,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -14658,14 +14068,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "pt"
+		"lang": "pt",
+		"text": "Lindenstrapaze"
 	},
 	{
 		"created_at": "Mon Sep 04 19:51:37 +0000 2017",
 		"id": 904794095008317400,
 		"id_str": "904794095008317441",
-		"text": "Daß die sich bei @hartaberfair nicht schämen, @SigmundGottlieb in der Bauchbinde als \"Journalist\" zu bezeichnen.",
+		"full_text": "Daß die sich bei @hartaberfair nicht schämen, @SigmundGottlieb in der Bauchbinde als \"Journalist\" zu bezeichnen.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -14736,23 +14151,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4108,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16197,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -14779,14 +14194,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Daß die sich bei @hartaberfair nicht schämen, @SigmundGottlieb in der Bauchbinde als \"Journalist\" zu bezeichnen."
 	},
 	{
 		"created_at": "Mon Sep 04 15:34:15 +0000 2017",
 		"id": 904729329241870300,
 		"id_str": "904729329241870338",
-		"text": "I put the Scheiße in Hitscheißeler.",
+		"full_text": "I put the Scheiße in Hitscheißeler.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -14836,23 +14256,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4108,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16196,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -14879,14 +14299,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "I put the Scheiße in Hitscheißeler."
 	},
 	{
 		"created_at": "Mon Sep 04 08:57:12 +0000 2017",
 		"id": 904629406798368800,
 		"id_str": "904629406798368768",
-		"text": "📷 Braun wie die Hölle – Tanning Ads from the 1960s-1980s https://t.co/NF12ahEG40",
+		"full_text": "📷 Braun wie die Hölle – Tanning Ads from the 1960s-1980s https://t.co/NF12ahEG40",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -14903,7 +14328,7 @@ Grailbird.data.tweets_2017_09 =
 				}
 			]
 		},
-		"source": "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+		"source": "<a href=\"https://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
@@ -14946,23 +14371,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4108,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16195,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -14990,14 +14415,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "📷 Braun wie die Hölle – Tanning Ads from the 1960s-1980s https://t.co/NF12ahEG40"
 	},
 	{
 		"created_at": "Mon Sep 04 06:49:14 +0000 2017",
 		"id": 904597202206691300,
 		"id_str": "904597202206691328",
-		"text": "Wie schön, daß Du geboren bist. / Wir Admin Dich sonst Server Mist.",
+		"full_text": "Wie schön, daß Du geboren bist. / Wir Admin Dich sonst Server Mist.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15047,23 +14477,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4108,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16194,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -15087,17 +14517,22 @@ Grailbird.data.tweets_2017_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 2,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Wie schön, daß Du geboren bist. / Wir Admin Dich sonst Server Mist."
 	},
 	{
 		"created_at": "Sun Sep 03 17:45:00 +0000 2017",
 		"id": 904399845137449000,
 		"id_str": "904399845137448960",
-		"text": "@Frau_Elise Parallelgesellschaft!",
+		"full_text": "@Frau_Elise Parallelgesellschaft!",
 		"truncated": false,
+		"display_text_range": [
+			12,
+			33
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15115,7 +14550,7 @@ Grailbird.data.tweets_2017_09 =
 			],
 			"urls": []
 		},
-		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
 		"in_reply_to_status_id": 904392044461924400,
 		"in_reply_to_status_id_str": "904392044461924352",
 		"in_reply_to_user_id": 21445012,
@@ -15158,23 +14593,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4107,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16193,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -15201,14 +14636,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "@Frau_Elise Parallelgesellschaft!"
 	},
 	{
 		"created_at": "Sun Sep 03 07:27:02 +0000 2017",
 		"id": 904244326997401600,
 		"id_str": "904244326997401600",
-		"text": "Universes. I don't get them.",
+		"full_text": "Universes. I don't get them.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15258,23 +14698,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4107,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16192,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -15301,14 +14741,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "Universes. I don't get them."
 	},
 	{
 		"created_at": "Sat Sep 02 15:33:34 +0000 2017",
 		"id": 904004381158375400,
 		"id_str": "904004381158375425",
-		"text": "Bundesagentur für Rapshit",
+		"full_text": "Bundesagentur für Rapshit",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15358,23 +14803,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4107,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16191,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -15401,14 +14846,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Bundesagentur für Rapshit"
 	},
 	{
 		"created_at": "Sat Sep 02 07:44:00 +0000 2017",
 		"id": 903886210321535000,
 		"id_str": "903886210321534976",
-		"text": "Ochsentourismus",
+		"full_text": "Ochsentourismus",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15458,23 +14908,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4107,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16190,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -15501,14 +14951,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Ochsentourismus"
 	},
 	{
 		"created_at": "Fri Sep 01 21:09:25 +0000 2017",
 		"id": 903726511181705200,
 		"id_str": "903726511181705220",
-		"text": "“proactive paranoia” https://t.co/pI6aRDj50L",
+		"full_text": "“proactive paranoia” https://t.co/pI6aRDj50L",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15568,23 +15023,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4106,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16189,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -15612,14 +15067,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "en"
+		"lang": "en",
+		"text": "“proactive paranoia” https://t.co/pI6aRDj50L"
 	},
 	{
 		"created_at": "Fri Sep 01 14:56:23 +0000 2017",
 		"id": 903632634743541800,
 		"id_str": "903632634743541760",
-		"text": "Ich hab noch einen Kalaschnikoffer in Berlin https://t.co/pGlBn6RGaR https://t.co/N1mKOS9Oty",
+		"full_text": "Ich hab noch einen Kalaschnikoffer in Berlin https://t.co/pGlBn6RGaR https://t.co/N1mKOS9Oty",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15650,24 +15110,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/903632634743541760/photo/1",
 					"type": "photo",
 					"sizes": {
-						"medium": {
-							"w": 1024,
-							"h": 512,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"small": {
-							"w": 680,
-							"h": 340,
+						"medium": {
+							"w": 1024,
+							"h": 512,
 							"resize": "fit"
 						},
 						"large": {
 							"w": 1024,
 							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
 							"resize": "fit"
 						}
 					}
@@ -15690,24 +15150,24 @@ Grailbird.data.tweets_2017_09 =
 					"expanded_url": "https://twitter.com/drikkes/status/903632634743541760/photo/1",
 					"type": "photo",
 					"sizes": {
-						"medium": {
-							"w": 1024,
-							"h": 512,
-							"resize": "fit"
-						},
 						"thumb": {
 							"w": 150,
 							"h": 150,
 							"resize": "crop"
 						},
-						"small": {
-							"w": 680,
-							"h": 340,
+						"medium": {
+							"w": 1024,
+							"h": 512,
 							"resize": "fit"
 						},
 						"large": {
 							"w": 1024,
 							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
 							"resize": "fit"
 						}
 					}
@@ -15757,23 +15217,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4105,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16188,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -15801,14 +15261,19 @@ Grailbird.data.tweets_2017_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Ich hab noch einen Kalaschnikoffer in Berlin https://t.co/pGlBn6RGaR https://t.co/N1mKOS9Oty"
 	},
 	{
 		"created_at": "Fri Sep 01 13:37:23 +0000 2017",
 		"id": 903612754304618500,
 		"id_str": "903612754304618496",
-		"text": "Mit wässrigem Bier Wirt gutes Geld verdünnt.",
+		"full_text": "Mit wässrigem Bier Wirt gutes Geld verdünnt.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -15858,23 +15323,23 @@ Grailbird.data.tweets_2017_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
+			"followers_count": 862,
+			"friends_count": 158,
+			"listed_count": 82,
 			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4105,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
+			"favourites_count": 4482,
+			"utc_offset": null,
+			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16187,
+			"statuses_count": 17983,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
 			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
@@ -15901,104 +15366,88 @@ Grailbird.data.tweets_2017_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "de"
+		"lang": "de",
+		"text": "Mit wässrigem Bier Wirt gutes Geld verdünnt."
 	},
 	{
-		"created_at": "Fri Sep 01 07:03:25 +0000 2017",
-		"id": 903513607274680300,
-		"id_str": "903513607274680321",
-		"text": "RT @zufallsshirt: Ausdruckslosigkeit ist ja quasi wie Bedeutung. Und Bedeutung ist wie Käsebrot. Und Käsebrot ist der kleine Bruder des Neo…",
+		"created_at": "Fri Sep 01 03:44:01 +0000 2017",
+		"id": 903463430081863700,
+		"id_str": "903463430081863680",
+		"full_text": "Ausdruckslosigkeit ist ja quasi wie Bedeutung. Und Bedeutung ist wie Käsebrot. Und Käsebrot ist der kleine Bruder des Neoliberalismus!",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "zufallsshirt",
-					"name": "Zufallsshirt",
-					"id": 275471034,
-					"id_str": "275471034",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"source": "<a href=\"http://zufallsshirt.de\" rel=\"nofollow\">Zufallsshirt</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 15378060,
-			"id_str": "15378060",
-			"name": "Hendrik Spree",
-			"screen_name": "drikkes",
-			"location": "Cologne, Germany",
-			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
-			"url": "https://t.co/7ynPrqkpaM",
+			"id": 275471034,
+			"id_str": "275471034",
+			"name": "Zufallsshirt",
+			"screen_name": "zufallsshirt",
+			"location": "Berlin",
+			"description": "Mehr Shirts als Atome im Universum! Eine Weltverbesserungsmaßnahme von @kathrinpassig",
+			"url": "http://t.co/AllXUQ7nWq",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/7ynPrqkpaM",
-							"expanded_url": "http://drikkes.com",
-							"display_url": "drikkes.com",
+							"url": "http://t.co/AllXUQ7nWq",
+							"expanded_url": "http://zufallsshirt.de",
+							"display_url": "zufallsshirt.de",
 							"indices": [
 								0,
-								23
+								22
 							]
 						}
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/pAb0SRWGFm",
-							"expanded_url": "http://drikk.es",
-							"display_url": "drikk.es",
-							"indices": [
-								46,
-								69
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 904,
-			"friends_count": 160,
-			"listed_count": 80,
-			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
-			"favourites_count": 4105,
-			"utc_offset": 7200,
-			"time_zone": "Paris",
-			"geo_enabled": true,
+			"followers_count": 636,
+			"friends_count": 170,
+			"listed_count": 16,
+			"created_at": "Fri Apr 01 10:23:46 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 16186,
+			"statuses_count": 7886,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "17DB42",
-			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
-			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400182686/aufdemlaufenden_gr.jpg",
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
-			"profile_link_color": "17B1DB",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "FFFFFF",
-			"profile_text_color": "000000",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877922940280606720/8OdlbSPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877922940280606720/8OdlbSPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/275471034/1457899275",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
+			"has_extended_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -16007,101 +15456,12 @@ Grailbird.data.tweets_2017_09 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Sep 01 03:44:01 +0000 2017",
-			"id": 903463430081863700,
-			"id_str": "903463430081863680",
-			"text": "Ausdruckslosigkeit ist ja quasi wie Bedeutung. Und Bedeutung ist wie Käsebrot. Und Käsebrot ist der kleine Bruder des Neoliberalismus!",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://zufallsshirt.de\" rel=\"nofollow\">Zufallsshirt</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 275471034,
-				"id_str": "275471034",
-				"name": "Zufallsshirt",
-				"screen_name": "zufallsshirt",
-				"location": "Berlin",
-				"description": "Mehr Shirts als Atome im Universum! Eine Weltverbesserungsmaßnahme von @kathrinpassig",
-				"url": "http://t.co/AllXUQ7nWq",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/AllXUQ7nWq",
-								"expanded_url": "http://zufallsshirt.de",
-								"display_url": "zufallsshirt.de",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 418,
-				"friends_count": 173,
-				"listed_count": 9,
-				"created_at": "Fri Apr 01 10:23:46 +0000 2011",
-				"favourites_count": 3,
-				"utc_offset": 7200,
-				"time_zone": "Berlin",
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 3191,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/877922940280606720/8OdlbSPa_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877922940280606720/8OdlbSPa_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275471034/1457899275",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 0,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "de"
-		},
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "de"
+		"lang": "de",
+		"text": "Ausdruckslosigkeit ist ja quasi wie Bedeutung. Und Bedeutung ist wie Käsebrot. Und Käsebrot ist der kleine Bruder des Neoliberalismus!"
 	}
 ]
