@@ -4005,7 +4005,7 @@ Grailbird.data.tweets_2016_12 =
 			"user_mentions": [
 				{
 					"screen_name": "Nouveaubeton",
-					"name": "Hörnbéton",
+					"name": "Nouveaubéton",
 					"id": 995015327795875800,
 					"id_str": "995015327795875842",
 					"indices": [
@@ -10947,7 +10947,7 @@ Grailbird.data.tweets_2016_12 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 60056,
+			"statuses_count": 60057,
 			"lang": "de",
 			"contributors_enabled": false,
 			"is_translator": false,
