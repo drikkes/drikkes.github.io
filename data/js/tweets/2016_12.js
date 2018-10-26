@@ -2650,9 +2650,9 @@ Grailbird.data.tweets_2016_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 36627,
+				"followers_count": 36631,
 				"friends_count": 2276,
-				"listed_count": 1052,
+				"listed_count": 1049,
 				"created_at": "Tue Oct 14 20:38:46 +0000 2008",
 				"favourites_count": 12088,
 				"utc_offset": null,
