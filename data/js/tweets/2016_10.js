@@ -1157,9 +1157,9 @@ Grailbird.data.tweets_2016_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 43966,
+			"followers_count": 43968,
 			"friends_count": 131,
-			"listed_count": 2194,
+			"listed_count": 2193,
 			"created_at": "Fri Jul 10 10:24:12 +0000 2009",
 			"favourites_count": 696,
 			"utc_offset": null,
@@ -2202,7 +2202,7 @@ Grailbird.data.tweets_2016_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 58898,
+			"followers_count": 58899,
 			"friends_count": 1193,
 			"listed_count": 2273,
 			"created_at": "Fri Apr 20 01:27:55 +0000 2007",
@@ -5373,7 +5373,7 @@ Grailbird.data.tweets_2016_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 10118,
+			"followers_count": 10119,
 			"friends_count": 1593,
 			"listed_count": 67,
 			"created_at": "Mon Jul 27 18:23:22 +0000 2015",
