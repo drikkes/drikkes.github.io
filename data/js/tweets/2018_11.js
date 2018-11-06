@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 06 11:11:39 +0000 2018",
+		"id": 1059765249501470700,
+		"id_str": "1059765249501470720",
+		"full_text": "Das ist so zum Fremdschämen peinlich, zum Glück ist Posh Spice @victoriabeckham bei der Reunion nicht mit dabei. https://t.co/yzc9E0Twmt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "victoriabeckham",
+					"name": "Victoria Beckham",
+					"id": 185314895,
+					"id_str": "185314895",
+					"indices": [
+						63,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yzc9E0Twmt",
+					"expanded_url": "https://twitter.com/spicegirls/status/1059460331976572928",
+					"display_url": "twitter.com/spicegirls/sta…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 861,
+			"friends_count": 159,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18016,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1059460331976572900,
+		"quoted_status_id_str": "1059460331976572928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yzc9E0Twmt",
+			"expanded": "https://twitter.com/spicegirls/status/1059460331976572928",
+			"display": "twitter.com/spicegirls/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 05 15:00:01 +0000 2018",
+			"id": 1059460331976572900,
+			"id_str": "1059460331976572928",
+			"full_text": "Breaking Spice news... Tickets on sale Saturday 10.30am ✌🏻\n#GirlPower #FriendshipNeverEnds https://t.co/QmWrXOWLMd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GirlPower",
+						"indices": [
+							59,
+							69
+						]
+					},
+					{
+						"text": "FriendshipNeverEnds",
+						"indices": [
+							70,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1059406963216474100,
+						"id_str": "1059406963216474113",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DrPFokjX0AAArru.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrPFokjX0AAArru.jpg",
+						"url": "https://t.co/QmWrXOWLMd",
+						"display_url": "pic.twitter.com/QmWrXOWLMd",
+						"expanded_url": "https://twitter.com/spicegirls/status/1059460331976572928/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1059406963216474100,
+						"id_str": "1059406963216474113",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DrPFokjX0AAArru.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrPFokjX0AAArru.jpg",
+						"url": "https://t.co/QmWrXOWLMd",
+						"display_url": "pic.twitter.com/QmWrXOWLMd",
+						"expanded_url": "https://twitter.com/spicegirls/status/1059460331976572928/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 60000,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1059406963216474113/vid/320x180/exuzfgXfHAh1DRz9.mp4?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1059406963216474113/vid/640x360/UPRkzfebsnPi1qsK.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1059406963216474113/pl/eazFBbI7IZNho46Q.m3u8?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1059406963216474113/vid/1280x720/TP6Ro-FcNm-QUShx.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1048134828661596200,
+				"id_str": "1048134828661596160",
+				"name": "Spice Girls",
+				"screen_name": "spicegirls",
+				"location": "",
+				"description": "Official Spice Girls Twitter account #GirlPower #FriendshipNeverEnds",
+				"url": "https://t.co/tMG883gM8z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tMG883gM8z",
+								"expanded_url": "http://thespicegirls.com",
+								"display_url": "thespicegirls.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39306,
+				"friends_count": 12,
+				"listed_count": 46,
+				"created_at": "Fri Oct 05 08:56:31 +0000 2018",
+				"favourites_count": 90,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1059399749932072960/8-Qbgrxo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059399749932072960/8-Qbgrxo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1048134828661596160/1541430004",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20097,
+			"favorite_count": 60256,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Das ist so zum Fremdschämen peinlich, zum Glück ist Posh Spice @victoriabeckham bei der Reunion nicht mit dabei. https://t.co/yzc9E0Twmt"
+	},
+	{
 		"created_at": "Tue Nov 06 07:32:34 +0000 2018",
 		"id": 1059710113500614700,
 		"id_str": "1059710113500614656",
