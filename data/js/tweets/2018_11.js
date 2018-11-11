@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 11 08:02:41 +0000 2018",
+		"id": 1061529634335010800,
+		"id_str": "1061529634335010817",
+		"full_text": "The Millenial Spinal Tap: https://t.co/Vn6fvkyMcb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vn6fvkyMcb",
+					"expanded_url": "http://www.metalsucks.net/2018/11/09/l-a-band-threatin-faked-a-fanbase-to-land-a-european-tour-no-one-attended/",
+					"display_url": "metalsucks.net/2018/11/09/l-a…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116246631,
+			"id_str": "116246631",
+			"name": "Marcus John Henry Brown",
+			"screen_name": "MarcusJHBrown",
+			"location": "Munich",
+			"description": "Half Scottish Englishman with a German passport. Creative Mentor. Artist. Author, producer and performer of The Passing. I walk marathons in my spare time.",
+			"url": "https://t.co/tSoSpLv2K1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tSoSpLv2K1",
+							"expanded_url": "http://marcusjohnhenrybrown.com",
+							"display_url": "marcusjohnhenrybrown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2454,
+			"friends_count": 392,
+			"listed_count": 185,
+			"created_at": "Sun Feb 21 18:53:28 +0000 2010",
+			"favourites_count": 21365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950763146704244737/j_unXQZ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950763146704244737/j_unXQZ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116246631/1515518368",
+			"profile_link_color": "756033",
+			"profile_sidebar_border_color": "B2B2B2",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "37439688c6302728",
+			"url": "https://api.twitter.com/1.1/geo/id/37439688c6302728.json",
+			"place_type": "city",
+			"name": "Munich",
+			"full_name": "Munich, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.360589,
+							48.061634
+						],
+						[
+							11.722918,
+							48.061634
+						],
+						[
+							11.722918,
+							48.248124
+						],
+						[
+							11.360589,
+							48.248124
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Millenial Spinal Tap: https://t.co/Vn6fvkyMcb"
+	},
+	{
 		"created_at": "Sun Nov 11 00:11:48 +0000 2018",
 		"id": 1061411132508958700,
 		"id_str": "1061411132508958725",
