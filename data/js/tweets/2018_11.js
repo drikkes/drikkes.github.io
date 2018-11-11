@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 11 11:31:27 +0000 2018",
+		"id": 1061582172354723800,
+		"id_str": "1061582172354723842",
+		"full_text": "Gott schütze mich vor zu flüssigem Duschgel.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 855,
+			"friends_count": 159,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "Gott schütze mich vor zu flüssigem Duschgel."
+	},
+	{
+		"created_at": "Sun Nov 11 08:02:41 +0000 2018",
+		"id": 1061529634335010800,
+		"id_str": "1061529634335010817",
+		"full_text": "The Millenial Spinal Tap: https://t.co/Vn6fvkyMcb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vn6fvkyMcb",
+					"expanded_url": "http://www.metalsucks.net/2018/11/09/l-a-band-threatin-faked-a-fanbase-to-land-a-european-tour-no-one-attended/",
+					"display_url": "metalsucks.net/2018/11/09/l-a…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116246631,
+			"id_str": "116246631",
+			"name": "Marcus John Henry Brown",
+			"screen_name": "MarcusJHBrown",
+			"location": "Munich",
+			"description": "Half Scottish Englishman with a German passport. Creative Mentor. Artist. Author, producer and performer of The Passing. I walk marathons in my spare time.",
+			"url": "https://t.co/tSoSpLv2K1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tSoSpLv2K1",
+							"expanded_url": "http://marcusjohnhenrybrown.com",
+							"display_url": "marcusjohnhenrybrown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2454,
+			"friends_count": 392,
+			"listed_count": 185,
+			"created_at": "Sun Feb 21 18:53:28 +0000 2010",
+			"favourites_count": 21374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950763146704244737/j_unXQZ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950763146704244737/j_unXQZ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116246631/1515518368",
+			"profile_link_color": "756033",
+			"profile_sidebar_border_color": "B2B2B2",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "37439688c6302728",
+			"url": "https://api.twitter.com/1.1/geo/id/37439688c6302728.json",
+			"place_type": "city",
+			"name": "Munich",
+			"full_name": "Munich, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.360589,
+							48.061634
+						],
+						[
+							11.722918,
+							48.061634
+						],
+						[
+							11.722918,
+							48.248124
+						],
+						[
+							11.360589,
+							48.248124
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Millenial Spinal Tap: https://t.co/Vn6fvkyMcb"
+	},
+	{
 		"created_at": "Sun Nov 11 08:02:41 +0000 2018",
 		"id": 1061529634335010800,
 		"id_str": "1061529634335010817",
