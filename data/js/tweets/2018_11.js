@@ -125,6 +125,130 @@ Grailbird.data.tweets_2018_11 =
 		"text": "wer keine lust hat meine zusammenfassung (https://t.co/eRXAYC6Byp)\ndieses kurzen, aber prägnanten robert-reich-texts (https://t.co/KWwmZxDsnw) zu lesen, sollte wenigstens das original lesen oder robert reichs (kurzen) wikipedia-eintrag: https://t.co/zin5m2e1Ql"
 	},
 	{
+		"created_at": "Wed Nov 14 08:05:40 +0000 2018",
+		"id": 1062617549689499600,
+		"id_str": "1062617549689499649",
+		"full_text": "wer keine lust hat meine zusammenfassung (https://t.co/eRXAYC6Byp)\ndieses kurzen, aber prägnanten robert-reich-texts (https://t.co/KWwmZxDsnw) zu lesen, sollte wenigstens das original lesen oder robert reichs (kurzen) wikipedia-eintrag: https://t.co/zin5m2e1Ql",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eRXAYC6Byp",
+					"expanded_url": "https://wirres.net/11105",
+					"display_url": "wirres.net/11105",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/KWwmZxDsnw",
+					"expanded_url": "https://www.truthdig.com/articles/robert-reich-amazon-is-everything-thats-wrong-with-america/",
+					"display_url": "truthdig.com/articles/rober…",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/zin5m2e1Ql",
+					"expanded_url": "https://de.wikipedia.org/wiki/Robert_B._Reich",
+					"display_url": "de.wikipedia.org/wiki/Robert_B.…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5101971,
+			"id_str": "5101971",
+			"name": "felix schwenzel",
+			"screen_name": "diplix",
+			"location": "berlin",
+			"description": "ix schreibe gerne ins internet.",
+			"url": "https://t.co/KAy8etO3Q8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KAy8etO3Q8",
+							"expanded_url": "https://wirres.net",
+							"display_url": "wirres.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6635,
+			"friends_count": 1599,
+			"listed_count": 261,
+			"created_at": "Wed Apr 18 10:10:16 +0000 2007",
+			"favourites_count": 6414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8575,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/15688422/03022687630_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/15688422/03022687630_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5101971/1398331273",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "0000FF",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "wer keine lust hat meine zusammenfassung (https://t.co/eRXAYC6Byp)\ndieses kurzen, aber prägnanten robert-reich-texts (https://t.co/KWwmZxDsnw) zu lesen, sollte wenigstens das original lesen oder robert reichs (kurzen) wikipedia-eintrag: https://t.co/zin5m2e1Ql"
+	},
+	{
 		"created_at": "Tue Nov 13 17:24:51 +0000 2018",
 		"id": 1062395881599746000,
 		"id_str": "1062395881599746049",
