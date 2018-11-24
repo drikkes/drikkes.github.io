@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 24 14:51:39 +0000 2018",
+		"id": 1066343595735728100,
+		"id_str": "1066343595735728130",
+		"full_text": "„Das ist so deutsch, dass ich jetzt gerne sagen würde, dass das fürchterlich deutsch ist, wäre es nicht gleichermaßen so fürchterlich deutsch, darauf hinzuweisen.“ https://t.co/GftC1hRKcV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GftC1hRKcV",
+					"expanded_url": "https://twitter.com/katjaberlin/status/1066339143163236353",
+					"display_url": "twitter.com/katjaberlin/st…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 160,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91714478,
+				6.96569569
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96569569,
+				50.91714478
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1066339143163236400,
+		"quoted_status_id_str": "1066339143163236353",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GftC1hRKcV",
+			"expanded": "https://twitter.com/katjaberlin/status/1066339143163236353",
+			"display": "twitter.com/katjaberlin/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 24 14:33:58 +0000 2018",
+			"id": 1066339143163236400,
+			"id_str": "1066339143163236353",
+			"full_text": "was passiert, wenn ich mit männern über meinen beruf rede: https://t.co/SwsmEhKBhq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SwsmEhKBhq",
+						"expanded_url": "http://katjadittrich.de/mit-maennern-reden/",
+						"display_url": "katjadittrich.de/mit-maennern-r…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15788546,
+				"id_str": "15788546",
+				"name": "katjaberlin",
+				"screen_name": "katjaberlin",
+				"location": "berlin",
+				"description": "chefin und autorin. torte der wahrheit in @DIEZEIT. kolumne in der @berlinerzeitung. bücher: https://t.co/fjBj4Z1aEf",
+				"url": "https://t.co/G0URqJ6bd9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G0URqJ6bd9",
+								"expanded_url": "http://www.katjaberlin.com",
+								"display_url": "katjaberlin.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fjBj4Z1aEf",
+								"expanded_url": "https://www.amazon.de/Katja-Berlin/e/B00BW33WMM",
+								"display_url": "amazon.de/Katja-Berlin/e…",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 53102,
+				"friends_count": 601,
+				"listed_count": 869,
+				"created_at": "Sat Aug 09 12:25:52 +0000 2008",
+				"favourites_count": 31518,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16412,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CFD1D0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1065652546109353984/j_d2KkTX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065652546109353984/j_d2KkTX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15788546/1456859708",
+				"profile_link_color": "DC143C",
+				"profile_sidebar_border_color": "629C8C",
+				"profile_sidebar_fill_color": "E1E1E1",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "„Das ist so deutsch, dass ich jetzt gerne sagen würde, dass das fürchterlich deutsch ist, wäre es nicht gleichermaßen so fürchterlich deutsch, darauf hinzuweisen.“ https://t.co/GftC1hRKcV"
+	},
+	{
 		"created_at": "Sat Nov 24 12:56:58 +0000 2018",
 		"id": 1066314736269180900,
 		"id_str": "1066314736269180929",
