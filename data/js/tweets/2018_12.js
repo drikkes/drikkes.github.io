@@ -239,6 +239,100 @@ Grailbird.data.tweets_2018_12 =
 			"protected": false,
 			"followers_count": 6020,
 			"friends_count": 132,
+			"listed_count": 154,
+			"created_at": "Thu Apr 10 18:59:19 +0000 2014",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/454333798075752448/lxtvg4LK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/454333798075752448/lxtvg4LK_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Your Mom Is Now A Photorealistic Gaming Experience"
+	},
+	{
+		"created_at": "Sun Dec 09 16:49:29 +0000 2018",
+		"id": 1071809065272135700,
+		"id_str": "1071809065272135680",
+		"full_text": "Your Mom Is Now A Photorealistic Gaming Experience",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2437412011,
+			"id_str": "2437412011",
+			"name": "CNN Your Mom",
+			"screen_name": "CNNyourmom",
+			"location": "",
+			"description": "I add your mom to headlines (not just from CNN). Not a bot. My other name is @wordlust. Author of forthcoming Bullshit: A Lexicon from Three Rivers Press.",
+			"url": "http://t.co/bbwmXcvLiL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bbwmXcvLiL",
+							"expanded_url": "http://nachoabyss.com/",
+							"display_url": "nachoabyss.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6020,
+			"friends_count": 132,
 			"listed_count": 153,
 			"created_at": "Thu Apr 10 18:59:19 +0000 2014",
 			"favourites_count": 477,
