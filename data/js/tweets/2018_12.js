@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 10 10:07:41 +0000 2018",
+		"id": 1072070339918741500,
+		"id_str": "1072070339918741505",
+		"full_text": "Backfisch-Konfektion! https://t.co/pr3hGIRukr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pr3hGIRukr",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1072068406243934208",
+					"display_url": "twitter.com/Die_Reklame/st…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "Hendrik Spree",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 159,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18131,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91696167,
+				6.96589269
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96589269,
+				50.91696167
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072068406243934200,
+		"quoted_status_id_str": "1072068406243934208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pr3hGIRukr",
+			"expanded": "https://twitter.com/Die_Reklame/status/1072068406243934208",
+			"display": "twitter.com/Die_Reklame/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 10 10:00:00 +0000 2018",
+			"id": 1072068406243934200,
+			"id_str": "1072068406243934208",
+			"full_text": "Darmstädter Tagblatt, 29.3.1914. https://t.co/tTbr14mMK0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1069327958245036000,
+						"id_str": "1069327958245036034",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DtcEHMuW0AIM3C6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtcEHMuW0AIM3C6.jpg",
+						"url": "https://t.co/tTbr14mMK0",
+						"display_url": "pic.twitter.com/tTbr14mMK0",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1072068406243934208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 461,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 261,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1954,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1069327958245036000,
+						"id_str": "1069327958245036034",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DtcEHMuW0AIM3C6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtcEHMuW0AIM3C6.jpg",
+						"url": "https://t.co/tTbr14mMK0",
+						"display_url": "pic.twitter.com/tTbr14mMK0",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1072068406243934208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 461,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 261,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1954,
+								"h": 750,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 966765831140139000,
+				"id_str": "966765831140139009",
+				"name": "Die Reklame",
+				"screen_name": "Die_Reklame",
+				"location": "",
+				"description": "Und jetzt: Werbung. Von @CJahnz, @mschfr und @moritz_hoffmann.",
+				"url": "https://t.co/3Yb5ujzitv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3Yb5ujzitv",
+								"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+								"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1882,
+				"friends_count": 58,
+				"listed_count": 18,
+				"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+				"favourites_count": 220,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1112,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+				"profile_link_color": "1A1A1A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "sv",
+		"text": "Backfisch-Konfektion! https://t.co/pr3hGIRukr"
+	},
+	{
+		"created_at": "Mon Dec 10 09:33:36 +0000 2018",
+		"id": 1072061763020079100,
+		"id_str": "1072061763020079105",
+		"full_text": "\"Some things Jack Dorsey didn’t mention in his Myanmar meditation travelogue\"\n\nhttps://t.co/n49OLhNIL9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n49OLhNIL9",
+					"expanded_url": "https://techcrunch.com/2018/12/09/some-things-jack-dorsey-didnt-mention-in-his-myanmar-meditation-travelogue/",
+					"display_url": "techcrunch.com/2018/12/09/som…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1007251,
+			"id_str": "1007251",
+			"name": "Marcel Weiss",
+			"screen_name": "marcelweiss",
+			"location": "Berlin, Germany",
+			"description": "Ich denke, rede & schreibe über das Internet. Freier Strategy Analyst der Internetwirtschaft seit 2009. Blog: @neunetz, Podcasts: @neunetzfm (Engl: @newnetland)",
+			"url": "https://t.co/t5NmQfCGRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t5NmQfCGRM",
+							"expanded_url": "http://marcelweiss.de/",
+							"display_url": "marcelweiss.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4764,
+			"friends_count": 1243,
+			"listed_count": 313,
+			"created_at": "Mon Mar 12 12:58:14 +0000 2007",
+			"favourites_count": 20531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21403,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6699AA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476701632961343489/-a8I5OrF_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476701632961343489/-a8I5OrF_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1007251/1522316459",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Some things Jack Dorsey didn’t mention in his Myanmar meditation travelogue\"\n\nhttps://t.co/n49OLhNIL9"
+	},
+	{
+		"created_at": "Sun Dec 09 16:49:29 +0000 2018",
+		"id": 1071809065272135700,
+		"id_str": "1071809065272135680",
+		"full_text": "Your Mom Is Now A Photorealistic Gaming Experience",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2437412011,
+			"id_str": "2437412011",
+			"name": "CNN Your Mom",
+			"screen_name": "CNNyourmom",
+			"location": "",
+			"description": "I add your mom to headlines (not just from CNN). Not a bot. My other name is @wordlust. Author of forthcoming Bullshit: A Lexicon from Three Rivers Press.",
+			"url": "http://t.co/bbwmXcvLiL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bbwmXcvLiL",
+							"expanded_url": "http://nachoabyss.com/",
+							"display_url": "nachoabyss.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6020,
+			"friends_count": 132,
+			"listed_count": 154,
+			"created_at": "Thu Apr 10 18:59:19 +0000 2014",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21636,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/454333798075752448/lxtvg4LK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/454333798075752448/lxtvg4LK_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Your Mom Is Now A Photorealistic Gaming Experience"
+	},
+	{
 		"created_at": "Sun Dec 09 16:49:29 +0000 2018",
 		"id": 1071809065272135700,
 		"id_str": "1071809065272135680",
