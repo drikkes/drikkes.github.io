@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 24 08:58:41 +0000 2018",
+		"id": 1077126405979365400,
+		"id_str": "1077126405979365377",
+		"full_text": "Jens Spahn besucht medienwirksam ein Klinikum vor Weihnachten und schenkt den Pflegekräften was? EINE SCHEISS PACKUNG MERCI! ICH RASTE AUS! Jeder, der im KH arbeitet, hasst Merci. Wir werden zugeschüttet mit dem Rotz und es schmeckt scheisse. Lachhaft, der Typ! https://t.co/41BmJnRUlv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/41BmJnRUlv",
+					"expanded_url": "https://twitter.com/jensspahn/status/1076853691070713856",
+					"display_url": "twitter.com/jensspahn/stat…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 730218697,
+			"id_str": "730218697",
+			"name": "|PROPOFOLPR🎅🏻PELLER|™️",
+			"screen_name": "Doktor_FreakOut",
+			"location": "Neuland",
+			"description": "Alles was ich über Medizin weiß, hab ich aus der Apotheken Umschau. Fachredakteur der Medizini. Seite 3 Girl im New England Journal Of Medicine.",
+			"url": "https://t.co/XVUgjIl03W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XVUgjIl03W",
+							"expanded_url": "http://doktorfreakout.com",
+							"display_url": "doktorfreakout.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16033,
+			"friends_count": 398,
+			"listed_count": 307,
+			"created_at": "Wed Aug 01 07:46:39 +0000 2012",
+			"favourites_count": 213577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46520,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548902762566942721/oaGjXUoA_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548902762566942721/oaGjXUoA_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/730218697/1530803834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1076853691070713900,
+		"quoted_status_id_str": "1076853691070713856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/41BmJnRUlv",
+			"expanded": "https://twitter.com/jensspahn/status/1076853691070713856",
+			"display": "twitter.com/jensspahn/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 23 14:55:01 +0000 2018",
+			"id": 1076853691070713900,
+			"id_str": "1076853691070713856",
+			"full_text": "Pflegekräfte &amp; Ärzte leisten einen wichtigen Dienst. Ihnen &amp; allen Beschäftigten Danke zu sagen für ihren Einsatz, ihr Engagement und ihre Leidenschaft, auch an den Weihnachtstagen - das ist mir ein echtes Herzensanliegen. Und das konnte ich heut im Klinikum Dortmund. @klinikumdo https://t.co/f0FIlS6kad",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				288
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "klinikumdo",
+						"name": "Klinikum Dortmund",
+						"id": 118626788,
+						"id_str": "118626788",
+						"indices": [
+							277,
+							288
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1076853683013472300,
+						"id_str": "1076853683013472257",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/DvHAuCMW0AEh0L9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvHAuCMW0AEh0L9.jpg",
+						"url": "https://t.co/f0FIlS6kad",
+						"display_url": "pic.twitter.com/f0FIlS6kad",
+						"expanded_url": "https://twitter.com/jensspahn/status/1076853691070713856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1076853683013472300,
+						"id_str": "1076853683013472257",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/DvHAuCMW0AEh0L9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvHAuCMW0AEh0L9.jpg",
+						"url": "https://t.co/f0FIlS6kad",
+						"display_url": "pic.twitter.com/f0FIlS6kad",
+						"expanded_url": "https://twitter.com/jensspahn/status/1076853691070713856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1076853683109982200,
+						"id_str": "1076853683109982208",
+						"indices": [
+							289,
+							312
+						],
+						"media_url": "http://pbs.twimg.com/media/DvHAuCjXcAA69Vf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvHAuCjXcAA69Vf.jpg",
+						"url": "https://t.co/f0FIlS6kad",
+						"display_url": "pic.twitter.com/f0FIlS6kad",
+						"expanded_url": "https://twitter.com/jensspahn/status/1076853691070713856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 299650387,
+				"id_str": "299650387",
+				"name": "Jens Spahn",
+				"screen_name": "jensspahn",
+				"location": "Berlin",
+				"description": "Bundesminister für Gesundheit    Westmünsterländer                  @CDU @bmg_bund",
+				"url": "https://t.co/39LRsCk5ZH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/39LRsCk5ZH",
+								"expanded_url": "http://www.jens-spahn.de",
+								"display_url": "jens-spahn.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 81192,
+				"friends_count": 617,
+				"listed_count": 763,
+				"created_at": "Mon May 16 13:25:13 +0000 2011",
+				"favourites_count": 90,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6751,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072523018235191297/E-JUs2HW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072523018235191297/E-JUs2HW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/299650387/1488435610",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 271,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 335,
+		"favorite_count": 1169,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Jens Spahn besucht medienwirksam ein Klinikum vor Weihnachten und schenkt den Pflegekräften was? EINE SCHEISS PACKUNG MERCI! ICH RASTE AUS! Jeder, der im KH arbeitet, hasst Merci. Wir werden zugeschüttet mit dem Rotz und es schmeckt scheisse. Lachhaft, der Typ! https://t.co/41BmJnRUlv"
+	},
+	{
+		"created_at": "Mon Dec 24 10:54:30 +0000 2018",
+		"id": 1077155548544618500,
+		"id_str": "1077155548544618496",
+		"full_text": "Listen Santa to what I say\nA girl’s best friend is equal pay\nStop interrupting me when i talk\nAnd don’t text me pictures of your— \nhttps://t.co/pLWyQyoinV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pLWyQyoinV",
+					"expanded_url": "https://www.youtube.com/watch?v=rPdXgCq_Rlg",
+					"display_url": "youtube.com/watch?v=rPdXgC…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 80976498,
+			"id_str": "80976498",
+			"name": "Sarah Kuttner",
+			"screen_name": "KuttnerSarah",
+			"location": "Berlin",
+			"description": "Kuttner care less",
+			"url": "https://t.co/UBpsrwVOag",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UBpsrwVOag",
+							"expanded_url": "http://instagram.com/diekuttner",
+							"display_url": "instagram.com/diekuttner",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 353890,
+			"friends_count": 51,
+			"listed_count": 988,
+			"created_at": "Thu Oct 08 23:52:46 +0000 2009",
+			"favourites_count": 9986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20977,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/901959710361968640/cqS8UdQK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/901959710361968640/cqS8UdQK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80976498/1401302681",
+			"profile_link_color": "050505",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen Santa to what I say\nA girl’s best friend is equal pay\nStop interrupting me when i talk\nAnd don’t text me pictures of your— \nhttps://t.co/pLWyQyoinV"
+	},
+	{
 		"created_at": "Mon Dec 24 10:54:30 +0000 2018",
 		"id": 1077155548544618500,
 		"id_str": "1077155548544618496",
