@@ -184,6 +184,359 @@ Grailbird.data.tweets_2018_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Happy Birthday, Kaiserin Elisabeth von Österreich-Ungarn 👑\nAm 24.12.1837 wurde Sisi in München geboren. \n\nWer von euch feiert auch zu Weihnachten #Geburtstag 🎈?\n\n© SKB https://t.co/Sey20EibuI"
+	},
+	{
+		"created_at": "Mon Dec 24 09:15:26 +0000 2018",
+		"id": 1077130621577818100,
+		"id_str": "1077130621577818113",
+		"full_text": "@karstenloh Nein.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karstenloh",
+					"name": "Nö, Danke.",
+					"id": 220942183,
+					"id_str": "220942183",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1077116698979897300,
+		"in_reply_to_status_id_str": "1077116698979897344",
+		"in_reply_to_user_id": 220942183,
+		"in_reply_to_user_id_str": "220942183",
+		"in_reply_to_screen_name": "karstenloh",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 159,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91702271,
+				6.96584821
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96584821,
+				50.91702271
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@karstenloh Nein."
+	},
+	{
+		"created_at": "Mon Dec 24 08:02:23 +0000 2018",
+		"id": 1077112236185927700,
+		"id_str": "1077112236185927681",
+		"full_text": "Happy Birthday, Kaiserin Elisabeth von Österreich-Ungarn 👑\nAm 24.12.1837 wurde Sisi in München geboren. \n\nWer von euch feiert auch zu Weihnachten #Geburtstag 🎈?\n\n© SKB https://t.co/Sey20EibuI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Geburtstag",
+					"indices": [
+						146,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077112233577119700,
+					"id_str": "1077112233577119744",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DvKr3qGXgAAHuC-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvKr3qGXgAAHuC-.jpg",
+					"url": "https://t.co/Sey20EibuI",
+					"display_url": "pic.twitter.com/Sey20EibuI",
+					"expanded_url": "https://twitter.com/hofburg_vienna/status/1077112236185927681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1395,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077112233577119700,
+					"id_str": "1077112233577119744",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DvKr3qGXgAAHuC-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvKr3qGXgAAHuC-.jpg",
+					"url": "https://t.co/Sey20EibuI",
+					"display_url": "pic.twitter.com/Sey20EibuI",
+					"expanded_url": "https://twitter.com/hofburg_vienna/status/1077112236185927681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1395,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://swat.io/\" rel=\"nofollow\">Swat.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36339277,
+			"id_str": "36339277",
+			"name": "Sisi Museum Wien",
+			"screen_name": "hofburg_vienna",
+			"location": "Hofburg Wien, Vienna, Austria",
+			"description": "Hofburg Wien: Kaiserappartements | Sisi Museum | Silberkammer http://t.co/9egTzg3F1M",
+			"url": "http://t.co/OFtvqkBWzd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/OFtvqkBWzd",
+							"expanded_url": "http://www.hofburg-wien.at",
+							"display_url": "hofburg-wien.at",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/9egTzg3F1M",
+							"expanded_url": "http://www.hofburg-wien.at/impressum.html",
+							"display_url": "hofburg-wien.at/impressum.html",
+							"indices": [
+								62,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2753,
+			"friends_count": 93,
+			"listed_count": 164,
+			"created_at": "Wed Apr 29 11:50:05 +0000 2009",
+			"favourites_count": 651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 987,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/814085397894590464/IVvLfvUu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/814085397894590464/IVvLfvUu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36339277/1482928079",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D8D7CD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
 		"retweet_count": 18,
 		"favorite_count": 27,
 		"favorited": false,
