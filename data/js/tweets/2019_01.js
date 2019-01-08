@@ -61,6 +61,112 @@ Grailbird.data.tweets_2019_01 =
 			"protected": false,
 			"followers_count": 29770,
 			"friends_count": 1003,
+			"listed_count": 799,
+			"created_at": "Fri Aug 19 22:29:33 +0000 2011",
+			"favourites_count": 57205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8876,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989842057568182273/fuNwONVU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989842057568182273/fuNwONVU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/358428263/1433864332",
+			"profile_link_color": "FC0536",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/BIKDb6Idto"
+	},
+	{
+		"created_at": "Mon Jan 07 18:19:30 +0000 2019",
+		"id": 1082340966806229000,
+		"id_str": "1082340966806228993",
+		"full_text": "https://t.co/BIKDb6Idto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BIKDb6Idto",
+					"expanded_url": "https://peterbreuer.me/2019/01/07/restlos-bedient/",
+					"display_url": "peterbreuer.me/2019/01/07/res…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 358428263,
+			"id_str": "358428263",
+			"name": "Peter Breuer",
+			"screen_name": "peterbreuer",
+			"location": "Hamburg, Deutschland",
+			"description": "",
+			"url": "https://t.co/1Qnsqjro9K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Qnsqjro9K",
+							"expanded_url": "http://www.peterbreuer.de",
+							"display_url": "peterbreuer.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29770,
+			"friends_count": 1003,
 			"listed_count": 797,
 			"created_at": "Fri Aug 19 22:29:33 +0000 2011",
 			"favourites_count": 57205,
