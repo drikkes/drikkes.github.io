@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 10:13:17 +0000 2019",
+		"id": 1083305772317134800,
+		"id_str": "1083305772317134848",
+		"full_text": "Deine Mudda spaltet die Gesellschaft. https://t.co/ht6nLEH5Sf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ht6nLEH5Sf",
+					"expanded_url": "https://twitter.com/B___Walther/status/1083268429577105408",
+					"display_url": "twitter.com/B___Walther/st…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 850,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18250,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0ea0e665161844a4",
+			"url": "https://api.twitter.com/1.1/geo/id/0ea0e665161844a4.json",
+			"place_type": "neighborhood",
+			"name": "Pempelfort",
+			"full_name": "Pempelfort, Düsseldorf",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.765948,
+							51.228052
+						],
+						[
+							6.798002,
+							51.228052
+						],
+						[
+							6.798002,
+							51.243446
+						],
+						[
+							6.765948,
+							51.243446
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083268429577105400,
+		"quoted_status_id_str": "1083268429577105408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ht6nLEH5Sf",
+			"expanded": "https://twitter.com/B___Walther/status/1083268429577105408",
+			"display": "twitter.com/B___Walther/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 10 07:44:54 +0000 2019",
+			"id": 1083268429577105400,
+			"id_str": "1083268429577105408",
+			"full_text": "Was spaltet die Gesellschaft? \n\nEin lebendiger Bilderthread zur kruden Angst der Deutschen vor dem Verlust der Volksgemeinschaft:",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 748091197999185900,
+				"id_str": "748091197999185920",
+				"name": "Walthers Echte (🇮🇱)",
+				"screen_name": "B___Walther",
+				"location": "",
+				"description": "Sekundärliteratur formte diesen schönen Twitteraccount.",
+				"url": "https://t.co/HosT0pDDl6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HosT0pDDl6",
+								"expanded_url": "http://www.distanz-magazin.de",
+								"display_url": "distanz-magazin.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 376,
+				"friends_count": 198,
+				"listed_count": 7,
+				"created_at": "Wed Jun 29 09:50:15 +0000 2016",
+				"favourites_count": 11187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2198,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1083255282527100928/Vrb1ZLM__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083255282527100928/Vrb1ZLM__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/748091197999185920/1533556744",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 76,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Deine Mudda spaltet die Gesellschaft. https://t.co/ht6nLEH5Sf"
+	},
+	{
 		"created_at": "Thu Jan 10 09:13:43 +0000 2019",
 		"id": 1083290780658253800,
 		"id_str": "1083290780658253825",
