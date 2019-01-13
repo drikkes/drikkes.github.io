@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 14:05:01 +0000 2019",
+		"id": 1084088863923101700,
+		"id_str": "1084428052245954563",
+		"full_text": "Der neue Tag die grosse Koelner Morgenzeitung 1.2.1934 https://t.co/cbYNqywJK7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084088861175763000,
+					"id_str": "1084088861175762944",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwt1E1NW0AAwHoe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwt1E1NW0AAwHoe.jpg",
+					"url": "https://t.co/cbYNqywJK7",
+					"display_url": "pic.twitter.com/cbYNqywJK7",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1084088863923101699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 595,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 694,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 337,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084088861175763000,
+					"id_str": "1084088861175762944",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwt1E1NW0AAwHoe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwt1E1NW0AAwHoe.jpg",
+					"url": "https://t.co/cbYNqywJK7",
+					"display_url": "pic.twitter.com/cbYNqywJK7",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1084088863923101699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 595,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 694,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 337,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://autochirp.spinfo.uni-koeln.de\" rel=\"nofollow\">autoChirp-App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966765831140139000,
+			"id_str": "966765831140139009",
+			"name": "Die Reklame",
+			"screen_name": "Die_Reklame",
+			"location": "",
+			"description": "Und jetzt: Werbung. Von @CJahnz, @mschfr und @moritz_hoffmann.",
+			"url": "https://t.co/3Yb5ujzitv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Yb5ujzitv",
+							"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+							"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2109,
+			"friends_count": 58,
+			"listed_count": 22,
+			"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1286,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+			"profile_link_color": "1A1A1A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Der neue Tag die grosse Koelner Morgenzeitung 1.2.1934 https://t.co/cbYNqywJK7"
+	},
+	{
 		"created_at": "Sun Jan 13 00:28:21 +0000 2019",
 		"id": 1084245732582924300,
 		"id_str": "1084245732582924289",
