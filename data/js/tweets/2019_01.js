@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 00:41:57 +0000 2019",
+		"id": 1084611543159984100,
+		"id_str": "1084611543159984129",
+		"full_text": "Nord: Helsinki\nWest: New York\nOst: Tartu, Estland\nSüd: Madrid https://t.co/KHCgfk5cAp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KHCgfk5cAp",
+					"expanded_url": "https://twitter.com/mspro/status/1084587778158014467",
+					"display_url": "twitter.com/mspro/status/1…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 850,
+			"friends_count": 158,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084587778158014500,
+		"quoted_status_id_str": "1084587778158014467",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KHCgfk5cAp",
+			"expanded": "https://twitter.com/mspro/status/1084587778158014467",
+			"display": "twitter.com/mspro/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 13 23:07:31 +0000 2019",
+			"id": 1084587778158014500,
+			"id_str": "1084587778158014467",
+			"full_text": "nord: narvic, norwegen.\nwest: san francisco, usa\nost: hualien, taiwan\nsüd: kapstadt, süd-afrika\nhttps://t.co/tSHBHGavoB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tSHBHGavoB",
+						"expanded_url": "https://twitter.com/hdsjulian/status/1084582197179359232?s=21",
+						"display_url": "twitter.com/hdsjulian/stat…",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5751892,
+				"id_str": "5751892",
+				"name": "Michael Seemann",
+				"screen_name": "mspro",
+				"location": "berlin, germany",
+				"description": "thinking into the internet. \n\nenglish: @mspro_en\nbook: https://t.co/2wu7Xg3Jhn \ntheory: https://t.co/SjV5VRGZzT\npodcast: https://t.co/8JTF4eyis2",
+				"url": "https://t.co/ESZuNZhqN0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ESZuNZhqN0",
+								"expanded_url": "http://michaelseemann.de",
+								"display_url": "michaelseemann.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2wu7Xg3Jhn",
+								"expanded_url": "http://dasneuespiel.de",
+								"display_url": "dasneuespiel.de",
+								"indices": [
+									55,
+									78
+								]
+							},
+							{
+								"url": "https://t.co/SjV5VRGZzT",
+								"expanded_url": "http://ctrl-verlust.net",
+								"display_url": "ctrl-verlust.net",
+								"indices": [
+									88,
+									111
+								]
+							},
+							{
+								"url": "https://t.co/8JTF4eyis2",
+								"expanded_url": "http://wir.muessenreden.de",
+								"display_url": "wir.muessenreden.de",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18318,
+				"friends_count": 1024,
+				"listed_count": 936,
+				"created_at": "Thu May 03 21:55:36 +0000 2007",
+				"favourites_count": 9675,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 81342,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935905660004372480/hlpGtQ4G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935905660004372480/hlpGtQ4G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5751892/1387209394",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1084582197179359200,
+			"quoted_status_id_str": "1084582197179359232",
+			"quoted_status_permalink": {
+				"url": "https://t.co/tSHBHGavoB",
+				"expanded": "https://twitter.com/hdsjulian/status/1084582197179359232?s=21",
+				"display": "twitter.com/hdsjulian/stat…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "Nord: Helsinki\nWest: New York\nOst: Tartu, Estland\nSüd: Madrid https://t.co/KHCgfk5cAp"
+	},
+	{
 		"created_at": "Sun Jan 13 14:59:19 +0000 2019",
 		"id": 1084464917648953300,
 		"id_str": "1084464917648953346",
