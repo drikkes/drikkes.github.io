@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 17:40:12 +0000 2019",
+		"id": 1086679734535286800,
+		"id_str": "1086786766571487232",
+		"full_text": "Wortschatzdatenjournalismus, das ist ziemlich nice. https://t.co/Wg0ydTF9fJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wg0ydTF9fJ",
+					"expanded_url": "https://pudding.cool/projects/vocabulary/",
+					"display_url": "pudding.cool/projects/vocab…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14311831,
+			"id_str": "14311831",
+			"name": "Michael Brake",
+			"screen_name": "freelancepolice",
+			"location": "Berlin",
+			"description": "",
+			"url": "https://t.co/Wqx4brXbYl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wqx4brXbYl",
+							"expanded_url": "http://michaelbrake.de",
+							"display_url": "michaelbrake.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 715,
+			"friends_count": 284,
+			"listed_count": 36,
+			"created_at": "Sat Apr 05 19:01:43 +0000 2008",
+			"favourites_count": 8894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6660,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/57531948/franzb_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/57531948/franzb_normal.gif",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Wortschatzdatenjournalismus, das ist ziemlich nice. https://t.co/Wg0ydTF9fJ"
+	},
+	{
 		"created_at": "Fri Jan 18 13:13:16 +0000 2019",
 		"id": 1086250168054366200,
 		"id_str": "1086250168054366209",
