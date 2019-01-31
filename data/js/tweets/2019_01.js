@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 31 11:04:22 +0000 2019",
+		"id": 1090928772977692700,
+		"id_str": "1090928772977692672",
+		"full_text": "Same here. https://t.co/EX9JErUReq Was ist da los, @GoogleDE? https://t.co/UoL8jChyXn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoogleDE",
+					"name": "Google Deutschland",
+					"id": 52407579,
+					"id_str": "52407579",
+					"indices": [
+						51,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EX9JErUReq",
+					"expanded_url": "https://www.diigo.com/item/image/ylgo/bqnh",
+					"display_url": "diigo.com/item/image/ylg…",
+					"indices": [
+						11,
+						34
+					]
+				},
+				{
+					"url": "https://t.co/UoL8jChyXn",
+					"expanded_url": "https://twitter.com/zeitweise/status/1090908266916470790",
+					"display_url": "twitter.com/zeitweise/stat…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 157,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0ea0e665161844a4",
+			"url": "https://api.twitter.com/1.1/geo/id/0ea0e665161844a4.json",
+			"place_type": "neighborhood",
+			"name": "Pempelfort",
+			"full_name": "Pempelfort, Düsseldorf",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.765948,
+							51.228052
+						],
+						[
+							6.798002,
+							51.228052
+						],
+						[
+							6.798002,
+							51.243446
+						],
+						[
+							6.765948,
+							51.243446
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1090908266916470800,
+		"quoted_status_id_str": "1090908266916470790",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UoL8jChyXn",
+			"expanded": "https://twitter.com/zeitweise/status/1090908266916470790",
+			"display": "twitter.com/zeitweise/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 31 09:42:53 +0000 2019",
+			"id": 1090908266916470800,
+			"id_str": "1090908266916470790",
+			"full_text": "Äh, whut? https://t.co/e6YviGNAIK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				9
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1090908130832252900,
+						"id_str": "1090908130832252928",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DyOvKkTXgAAGnGz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyOvKkTXgAAGnGz.jpg",
+						"url": "https://t.co/e6YviGNAIK",
+						"display_url": "pic.twitter.com/e6YviGNAIK",
+						"expanded_url": "https://twitter.com/zeitweise/status/1090908266916470790/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1164,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 660,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1306,
+								"h": 1267,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1090908130832252900,
+						"id_str": "1090908130832252928",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/DyOvKkTXgAAGnGz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyOvKkTXgAAGnGz.jpg",
+						"url": "https://t.co/e6YviGNAIK",
+						"display_url": "pic.twitter.com/e6YviGNAIK",
+						"expanded_url": "https://twitter.com/zeitweise/status/1090908266916470790/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1164,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 660,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1306,
+								"h": 1267,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15494684,
+				"id_str": "15494684",
+				"name": "@zeitweise",
+				"screen_name": "zeitweise",
+				"location": "Germany, Munich",
+				"description": "English account:@sightwise Marcel-André Casasola Merkle: Indie Games Uncannymals-Sticker https://t.co/8gTKoz2IS5, Rules! https://t.co/nSmz3kAnr3",
+				"url": "https://t.co/bMU9JaBxhI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bMU9JaBxhI",
+								"expanded_url": "http://www.137b.org",
+								"display_url": "137b.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8gTKoz2IS5",
+								"expanded_url": "https://itunes.apple.com/us/app/uncannymals/id1331557013?l=de&ls=1&mt=8",
+								"display_url": "itunes.apple.com/us/app/uncanny…",
+								"indices": [
+									89,
+									112
+								]
+							},
+							{
+								"url": "https://t.co/nSmz3kAnr3",
+								"expanded_url": "http://rulesgame.net/appstore",
+								"display_url": "rulesgame.net/appstore",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10313,
+				"friends_count": 309,
+				"listed_count": 496,
+				"created_at": "Sat Jul 19 19:20:40 +0000 2008",
+				"favourites_count": 8608,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20535,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "165478",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2537661538/iysgc8dedep2s9qk7gyc_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2537661538/iysgc8dedep2s9qk7gyc_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15494684/1515144542",
+				"profile_link_color": "1178B0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BFDCE6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "sv"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Same here. https://t.co/EX9JErUReq Was ist da los, @GoogleDE? https://t.co/UoL8jChyXn"
+	},
+	{
 		"created_at": "Thu Jan 31 10:00:26 +0000 2019",
 		"id": 1090912682398625800,
 		"id_str": "1090912682398625794",
