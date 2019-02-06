@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 22:21:01 +0000 2019",
+		"id": 1092910995566141400,
+		"id_str": "1093181717022760960",
+		"full_text": "A damaging blow to the dick pic economy https://t.co/UBv3gz4cx2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UBv3gz4cx2",
+					"expanded_url": "https://twitter.com/Emojipedia/status/1092883339755712512",
+					"display_url": "twitter.com/Emojipedia/sta…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51359739,
+			"id_str": "51359739",
+			"name": "Justin Whang 🐙",
+			"screen_name": "JustinWhang",
+			"location": "twitch.tv/justinwhang",
+			"description": "The Asian kid from The Goonies making his comeback on YouTube! Guitar in @wearejynx | https://t.co/CwExPLxMgg | Merch: https://t.co/g4jXJr1JTC",
+			"url": "https://t.co/CwJxkwWkWY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CwJxkwWkWY",
+							"expanded_url": "http://www.youtube.com/whangwhangwhang?sub_confirmation=1",
+							"display_url": "youtube.com/whangwhangwhan…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CwExPLxMgg",
+							"expanded_url": "http://instagram.com/justinwhangyt",
+							"display_url": "instagram.com/justinwhangyt",
+							"indices": [
+								86,
+								109
+							]
+						},
+						{
+							"url": "https://t.co/g4jXJr1JTC",
+							"expanded_url": "http://goo.gl/Na9QF9",
+							"display_url": "goo.gl/Na9QF9",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31823,
+			"friends_count": 2115,
+			"listed_count": 70,
+			"created_at": "Sat Jun 27 05:43:26 +0000 2009",
+			"favourites_count": 48450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49568,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037304482801938432/HpSMJykF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037304482801938432/HpSMJykF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51359739/1526527050",
+			"profile_link_color": "57B1FF",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00c39537733fa112",
+			"url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json",
+			"place_type": "city",
+			"name": "Queens",
+			"full_name": "Queens, NY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-73.962582,
+							40.541722
+						],
+						[
+							-73.699793,
+							40.541722
+						],
+						[
+							-73.699793,
+							40.8000371
+						],
+						[
+							-73.962582,
+							40.8000371
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092883339755712500,
+		"quoted_status_id_str": "1092883339755712512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UBv3gz4cx2",
+			"expanded": "https://twitter.com/Emojipedia/status/1092883339755712512",
+			"display": "twitter.com/Emojipedia/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 05 20:31:07 +0000 2019",
+			"id": 1092883339755712500,
+			"id_str": "1092883339755712512",
+			"full_text": "✅ Approved in #emoji12: Pinching Hand https://t.co/g9P4Zdq7UW https://t.co/WmNMSPa1dc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "emoji12",
+						"indices": [
+							14,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/g9P4Zdq7UW",
+						"expanded_url": "https://emojipedia.org/pinching-hand/",
+						"display_url": "emojipedia.org/pinching-hand/",
+						"indices": [
+							38,
+							61
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1092883323943247900,
+						"id_str": "1092883323943247872",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/Dyqzl8CV4AAE0wM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dyqzl8CV4AAE0wM.jpg",
+						"url": "https://t.co/WmNMSPa1dc",
+						"display_url": "pic.twitter.com/WmNMSPa1dc",
+						"expanded_url": "https://twitter.com/Emojipedia/status/1092883339755712512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 433,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 700,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1092883323943247900,
+						"id_str": "1092883323943247872",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/Dyqzl8CV4AAE0wM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dyqzl8CV4AAE0wM.jpg",
+						"url": "https://t.co/WmNMSPa1dc",
+						"display_url": "pic.twitter.com/WmNMSPa1dc",
+						"expanded_url": "https://twitter.com/Emojipedia/status/1092883339755712512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 433,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 700,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1100,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1092882600085966800,
+			"in_reply_to_status_id_str": "1092882600085966850",
+			"in_reply_to_user_id": 1594580336,
+			"in_reply_to_user_id_str": "1594580336",
+			"in_reply_to_screen_name": "Emojipedia",
+			"user": {
+				"id": 1594580336,
+				"id_str": "1594580336",
+				"name": "Emojipedia 📙",
+				"screen_name": "Emojipedia",
+				"location": "iOS, Android, macOS, Windows",
+				"description": "🔍 Your home for everything emoji. Tweet @botmoji to find out what any emoji means. Subscribe to our podcast + newsletter @emojiwrap 😍",
+				"url": "https://t.co/UJPd3LI8w5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UJPd3LI8w5",
+								"expanded_url": "https://emojipedia.org",
+								"display_url": "emojipedia.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69675,
+				"friends_count": 863,
+				"listed_count": 415,
+				"created_at": "Mon Jul 15 00:25:33 +0000 2013",
+				"favourites_count": 10967,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12700,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/455839494118191105/rk1nK15u_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/455839494118191105/rk1nK15u_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1594580336/1429653441",
+				"profile_link_color": "2458A1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3598,
+			"favorite_count": 12520,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1699,
+		"favorite_count": 9911,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A damaging blow to the dick pic economy https://t.co/UBv3gz4cx2"
+	},
+	{
 		"created_at": "Wed Feb 06 16:08:19 +0000 2019",
 		"id": 1093179589726294000,
 		"id_str": "1093179589726294016",
