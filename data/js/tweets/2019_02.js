@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 12:17:50 +0000 2019",
+		"id": 1093483974897348600,
+		"id_str": "1093575626286608384",
+		"full_text": "Wunderbare Problemlösung.\n\nhttps://t.co/3bKLFpP7DG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3bKLFpP7DG",
+					"expanded_url": "https://www.sueddeutsche.de/panorama/fahrrad-fernseher-usa-1.4318821",
+					"display_url": "sueddeutsche.de/panorama/fahrr…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2836581,
+			"id_str": "2836581",
+			"name": "André Krüger",
+			"screen_name": "bosch",
+			"location": "Hamburg",
+			"description": "Nutzlose Kleinodversuche. Freelancer Strategie & Konzept, Dozent @hhschoolofideas, Instagram: @bosch, Co-Founder @thirdwavewichteln",
+			"url": "https://t.co/esn2AYBCv2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/esn2AYBCv2",
+							"expanded_url": "http://boschblog.de",
+							"display_url": "boschblog.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13222,
+			"friends_count": 1043,
+			"listed_count": 475,
+			"created_at": "Thu Mar 29 13:17:44 +0000 2007",
+			"favourites_count": 20895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17489,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/755497067217293312/7CzLNfb1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/755497067217293312/7CzLNfb1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2836581/1356462144",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Wunderbare Problemlösung.\n\nhttps://t.co/3bKLFpP7DG"
+	},
+	{
 		"created_at": "Thu Feb 07 11:58:40 +0000 2019",
 		"id": 1093479151259013100,
 		"id_str": "1093479151259013120",
