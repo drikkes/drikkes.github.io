@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 10 18:18:39 +0000 2019",
+		"id": 1094661943384830000,
+		"id_str": "1094683698534977536",
+		"full_text": "Mir erscheint das unfreiwillig komisch. https://t.co/V9OfGIc2cO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V9OfGIc2cO",
+					"expanded_url": "https://twitter.com/Monster/status/1088573903658725376",
+					"display_url": "twitter.com/Monster/status…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16902386,
+			"id_str": "16902386",
+			"name": "innere_simone",
+			"screen_name": "innere_simone",
+			"location": "Bonn, Deutschland",
+			"description": "",
+			"url": "https://t.co/9CG1IsfBiV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9CG1IsfBiV",
+							"expanded_url": "http://inneresimone.tumblr.com/",
+							"display_url": "inneresimone.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 375,
+			"listed_count": 70,
+			"created_at": "Wed Oct 22 08:14:55 +0000 2008",
+			"favourites_count": 8433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3294,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/192984288/simone_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/192984288/simone_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "e99b714fe65be4fb",
+			"url": "https://api.twitter.com/1.1/geo/id/e99b714fe65be4fb.json",
+			"place_type": "city",
+			"name": "Bonn",
+			"full_name": "Bonn, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							7.022472,
+							50.632531
+						],
+						[
+							7.2107005,
+							50.632531
+						],
+						[
+							7.2107005,
+							50.774412
+						],
+						[
+							7.022472,
+							50.774412
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088573903658725400,
+		"quoted_status_id_str": "1088573903658725376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V9OfGIc2cO",
+			"expanded": "https://twitter.com/Monster/status/1088573903658725376",
+			"display": "twitter.com/Monster/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 24 23:06:58 +0000 2019",
+			"id": 1088573903658725400,
+			"id_str": "1088573903658725376",
+			"full_text": "Der aktuelle Job ist nicht das Wahre? Schauen Sie sich mal diesen hier an!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.monster.com\" rel=\"nofollow\">Monster Social Job Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 772368,
+				"id_str": "772368",
+				"name": "Monster",
+				"screen_name": "Monster",
+				"location": "Worldwide",
+				"description": "Whether you're looking for a new job, seeking career advice or want a laugh, we've got you covered. \n\nSign up today for free: https://t.co/lKVnOeMLUo",
+				"url": "https://t.co/2SZyS9vqXs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2SZyS9vqXs",
+								"expanded_url": "http://Monster.com",
+								"display_url": "Monster.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lKVnOeMLUo",
+								"expanded_url": "http://mnstr.me/23sqeP1",
+								"display_url": "mnstr.me/23sqeP1",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 215219,
+				"friends_count": 7490,
+				"listed_count": 3675,
+				"created_at": "Wed Feb 14 18:04:51 +0000 2007",
+				"favourites_count": 18874,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 375894,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642891",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1085280314174459904/SnNF-8GC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085280314174459904/SnNF-8GC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/772368/1547163876",
+				"profile_link_color": "642891",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"scopes": {
+				"followers": false
+			},
+			"lang": "de"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Mir erscheint das unfreiwillig komisch. https://t.co/V9OfGIc2cO"
+	},
+	{
 		"created_at": "Sun Feb 10 13:46:52 +0000 2019",
 		"id": 1094593546567516200,
 		"id_str": "1094593546567516161",
