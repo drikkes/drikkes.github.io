@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 18:48:38 +0000 2019",
+		"id": 1095394264589185000,
+		"id_str": "1095394264589185029",
+		"full_text": "Who put the CIA in Balenciagaga? &lt;3 https://t.co/Mbp7aTbVcQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mbp7aTbVcQ",
+					"expanded_url": "https://twitter.com/BALENCIAGA/status/1095347396115161088",
+					"display_url": "twitter.com/BALENCIAGA/sta…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 848,
+			"friends_count": 158,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "57b897afd26a3c7f",
+			"url": "https://api.twitter.com/1.1/geo/id/57b897afd26a3c7f.json",
+			"place_type": "neighborhood",
+			"name": "Deutz",
+			"full_name": "Deutz, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.965278,
+							50.917496
+						],
+						[
+							6.995462,
+							50.917496
+						],
+						[
+							6.995462,
+							50.954659
+						],
+						[
+							6.965278,
+							50.954659
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095347396115161100,
+		"quoted_status_id_str": "1095347396115161088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Mbp7aTbVcQ",
+			"expanded": "https://twitter.com/BALENCIAGA/status/1095347396115161088",
+			"display": "twitter.com/BALENCIAGA/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 12 15:42:24 +0000 2019",
+			"id": 1095347396115161100,
+			"id_str": "1095347396115161088",
+			"full_text": "Balenciaga\nSummer 19 Campaign https://t.co/3I32GW41px",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1095346529051783200,
+						"id_str": "1095346529051783168",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095346529051783168/pu/img/yjSR8HaJZ9OWIrC5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095346529051783168/pu/img/yjSR8HaJZ9OWIrC5.jpg",
+						"url": "https://t.co/3I32GW41px",
+						"display_url": "pic.twitter.com/3I32GW41px",
+						"expanded_url": "https://twitter.com/BALENCIAGA/status/1095347396115161088/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 864,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 864,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1095346529051783200,
+						"id_str": "1095346529051783168",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095346529051783168/pu/img/yjSR8HaJZ9OWIrC5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095346529051783168/pu/img/yjSR8HaJZ9OWIrC5.jpg",
+						"url": "https://t.co/3I32GW41px",
+						"display_url": "pic.twitter.com/3I32GW41px",
+						"expanded_url": "https://twitter.com/BALENCIAGA/status/1095347396115161088/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 864,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 864,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 106440,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1095346529051783168/pu/vid/320x400/P7VwMIpBhTqF_eio.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1095346529051783168/pu/vid/360x450/gYOsMQLFU4AdiMYn.mp4?tag=6"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1095346529051783168/pu/vid/720x900/JX1mEQX1Vtl0XYHT.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1095346529051783168/pu/pl/9e0viTuEPFUsEnaB.m3u8?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 180124279,
+				"id_str": "180124279",
+				"name": "Balenciaga",
+				"screen_name": "BALENCIAGA",
+				"location": "Paris",
+				"description": "Official Balenciaga Twitter Page.\r\nhttp://t.co/NWvtDOAnhU",
+				"url": "http://t.co/cYJUFSmC4j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cYJUFSmC4j",
+								"expanded_url": "http://www.balenciaga.com",
+								"display_url": "balenciaga.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/NWvtDOAnhU",
+								"expanded_url": "http://Balenciaga.com",
+								"display_url": "Balenciaga.com",
+								"indices": [
+									35,
+									57
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 761674,
+				"friends_count": 0,
+				"listed_count": 2568,
+				"created_at": "Wed Aug 18 22:09:48 +0000 2010",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913667876158046208/otBTZL8x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913667876158046208/otBTZL8x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180124279/1549986412",
+				"profile_link_color": "43736D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 567,
+			"favorite_count": 1844,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who put the CIA in Balenciagaga? &lt;3 https://t.co/Mbp7aTbVcQ"
+	},
+	{
 		"created_at": "Tue Feb 12 17:06:21 +0000 2019",
 		"id": 1095368521599668200,
 		"id_str": "1095368521599668225",
