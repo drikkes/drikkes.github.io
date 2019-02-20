@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 12:02:44 +0000 2019",
+		"id": 1097828832420061200,
+		"id_str": "1098234753155821571",
+		"full_text": "In 2008 I had the honour to interview Karl Lagefeld. He was one of the most inspiring and talented people I ever met. We all lost a true genius and giant R.I.P. my Friend. https://t.co/LVWMoNwkiq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LVWMoNwkiq",
+					"expanded_url": "https://www.youtube.com/watch?v=rgcT91eElUw",
+					"display_url": "youtube.com/watch?v=rgcT91…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24661289,
+			"id_str": "24661289",
+			"name": "Amir Kassaei",
+			"screen_name": "AmirKassaei",
+			"location": "NYC, Berlin, Ibiza, Barcelona",
+			"description": "Born in Iran. Grew up in Austria. Studied in France. Lived in Germany. Been there. Dione that. G.O.A.T. and CCO of C14TORCE.",
+			"url": "https://t.co/zj6EDMp2uN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zj6EDMp2uN",
+							"expanded_url": "http://lemon2020.com/",
+							"display_url": "lemon2020.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17341,
+			"friends_count": 918,
+			"listed_count": 875,
+			"created_at": "Mon Mar 16 06:53:33 +0000 2009",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18989,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/745103740550578176/Clu3jSyG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/745103740550578176/Clu3jSyG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24661289/1484566836",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 2008 I had the honour to interview Karl Lagefeld. He was one of the most inspiring and talented people I ever met. We all lost a true genius and giant R.I.P. my Friend. https://t.co/LVWMoNwkiq"
+	},
+	{
 		"created_at": "Wed Feb 20 13:37:29 +0000 2019",
 		"id": 1098215062966280200,
 		"id_str": "1098215062966280192",
