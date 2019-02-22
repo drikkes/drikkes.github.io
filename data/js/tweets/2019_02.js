@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 18:16:07 +0000 2019",
+		"id": 1099009960036442100,
+		"id_str": "1099010652276965376",
+		"full_text": "if you absolutely love everything about the Academy Awards as much as i do you'll appreciate this thread. https://t.co/53ns4BnS1P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/53ns4BnS1P",
+					"expanded_url": "https://twitter.com/TheOnion/status/1098633738869788673",
+					"display_url": "twitter.com/TheOnion/statu…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154221292,
+			"id_str": "154221292",
+			"name": "Casey Neistat",
+			"screen_name": "CaseyNeistat",
+			"location": "nyc",
+			"description": "family + work",
+			"url": "https://t.co/G29ueAVHlb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G29ueAVHlb",
+							"expanded_url": "http://www.youtube.com/caseyneistat",
+							"display_url": "youtube.com/caseyneistat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1942468,
+			"friends_count": 1969,
+			"listed_count": 4805,
+			"created_at": "Thu Jun 10 17:54:33 +0000 2010",
+			"favourites_count": 34314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "616161",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154221292/1403543694",
+			"profile_link_color": "943D3D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098633738869788700,
+		"quoted_status_id_str": "1098633738869788673",
+		"quoted_status_permalink": {
+			"url": "https://t.co/53ns4BnS1P",
+			"expanded": "https://twitter.com/TheOnion/status/1098633738869788673",
+			"display": "twitter.com/TheOnion/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 21 17:21:09 +0000 2019",
+			"id": 1098633738869788700,
+			"id_str": "1098633738869788673",
+			"full_text": "The Onion's Guide To The Oscars https://t.co/zmEONL3LNA https://t.co/2xOj2amjq2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zmEONL3LNA",
+						"expanded_url": "https://trib.al/jDAUDps",
+						"display_url": "trib.al/jDAUDps",
+						"indices": [
+							32,
+							55
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1098633737049378800,
+						"id_str": "1098633737049378816",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz8hkCMWkAAD0-3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz8hkCMWkAAD0-3.jpg",
+						"url": "https://t.co/2xOj2amjq2",
+						"display_url": "pic.twitter.com/2xOj2amjq2",
+						"expanded_url": "https://twitter.com/TheOnion/status/1098633738869788673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1098633737049378800,
+						"id_str": "1098633737049378816",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz8hkCMWkAAD0-3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz8hkCMWkAAD0-3.jpg",
+						"url": "https://t.co/2xOj2amjq2",
+						"display_url": "pic.twitter.com/2xOj2amjq2",
+						"expanded_url": "https://twitter.com/TheOnion/status/1098633738869788673/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14075928,
+				"id_str": "14075928",
+				"name": "The Onion",
+				"screen_name": "TheOnion",
+				"location": "",
+				"description": "America's Finest News Source.",
+				"url": "https://t.co/EIF811U9ds",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EIF811U9ds",
+								"expanded_url": "https://www.theonion.com/",
+								"display_url": "theonion.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11043169,
+				"friends_count": 14,
+				"listed_count": 74049,
+				"created_at": "Tue Mar 04 02:48:37 +0000 2008",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 65877,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875392068125769732/yrN-1k0Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875392068125769732/yrN-1k0Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14075928/1529705818",
+				"profile_link_color": "327144",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 317,
+			"favorite_count": 1480,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 31,
+		"favorite_count": 389,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "if you absolutely love everything about the Academy Awards as much as i do you'll appreciate this thread. https://t.co/53ns4BnS1P"
+	},
+	{
 		"created_at": "Fri Feb 22 16:45:34 +0000 2019",
 		"id": 1098987171099365400,
 		"id_str": "1098987171099365376",
