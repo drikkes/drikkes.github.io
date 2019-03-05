@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 21:39:16 +0000 2019",
+		"id": 1103010901957980200,
+		"id_str": "1103047348572303360",
+		"full_text": "A guide to social video in 2019\n\nh/t @xkcdComic https://t.co/7tz4eRLm8b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xkcdComic",
+					"name": "XKCD Comic",
+					"id": 2251623492,
+					"id_str": "2251623492",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103010894722814000,
+					"id_str": "1103010894722813952",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/D06ukJNW0AAac-S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D06ukJNW0AAac-S.jpg",
+					"url": "https://t.co/7tz4eRLm8b",
+					"display_url": "pic.twitter.com/7tz4eRLm8b",
+					"expanded_url": "https://twitter.com/MattNavarra/status/1103010901957980161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 441,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 441,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 441,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103010894722814000,
+					"id_str": "1103010894722813952",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/D06ukJNW0AAac-S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D06ukJNW0AAac-S.jpg",
+					"url": "https://t.co/7tz4eRLm8b",
+					"display_url": "pic.twitter.com/7tz4eRLm8b",
+					"expanded_url": "https://twitter.com/MattNavarra/status/1103010901957980161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 441,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 441,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 441,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16211566,
+			"id_str": "16211566",
+			"name": "Matt Navarra",
+			"screen_name": "MattNavarra",
+			"location": "Cardiff, UK",
+			"description": "Social media consultant | Former Director of Social Media for @TheNextWeb | Ex-UK Gov digital comms | 📸 Follow me on Instagram: https://t.co/qboIXJxUot",
+			"url": "https://t.co/uJyI0HKnpz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uJyI0HKnpz",
+							"expanded_url": "https://www.facebook.com/groups/socialgeekout",
+							"display_url": "facebook.com/groups/socialg…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qboIXJxUot",
+							"expanded_url": "http://Instagram.com/mattnavarra",
+							"display_url": "Instagram.com/mattnavarra",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40785,
+			"friends_count": 4230,
+			"listed_count": 2032,
+			"created_at": "Tue Sep 09 21:25:05 +0000 2008",
+			"favourites_count": 90036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 97466,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083731710393704448/zgZfpvI0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083731710393704448/zgZfpvI0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16211566/1547640547",
+			"profile_link_color": "3C5A99",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "171106",
+			"profile_text_color": "473623",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A guide to social video in 2019\n\nh/t @xkcdComic https://t.co/7tz4eRLm8b"
+	},
+	{
 		"created_at": "Tue Mar 05 20:38:45 +0000 2019",
 		"id": 1102973986345025500,
 		"id_str": "1103032119071248384",
