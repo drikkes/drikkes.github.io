@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 20:38:45 +0000 2019",
+		"id": 1102973986345025500,
+		"id_str": "1103032119071248384",
+		"full_text": "Darauf hat die Branche lange warten müssen: #Buzzword-Bingo endlich übersetzt... https://t.co/CfK1p57veU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Buzzword",
+					"indices": [
+						44,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CfK1p57veU",
+					"expanded_url": "https://www.wiwo.de/unternehmen/dienstleister/werbesprech-so-verstehen-sie-das-buzzword-bingo-der-werbebranche/24058330.html",
+					"display_url": "wiwo.de/unternehmen/di…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21765190,
+			"id_str": "21765190",
+			"name": "Thomas Koch",
+			"screen_name": "ufomedia",
+			"location": "Duesseldorf",
+			"description": "The DOOH Consultancy, Ex-CEO tkmStarcom. Plural Media Services, Bulo-Koch. Herausgeber CLAP. Mediapersönlichkeit 2008. Redner, Autor, Kolumnist, „Mr. Media“",
+			"url": "https://t.co/w1CTwTEpg7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w1CTwTEpg7",
+							"expanded_url": "http://www.the-dooh-consultancy.de",
+							"display_url": "the-dooh-consultancy.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6343,
+			"friends_count": 781,
+			"listed_count": 404,
+			"created_at": "Tue Feb 24 15:55:39 +0000 2009",
+			"favourites_count": 2780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 67348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229956769/Ufomedia-Avatar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229956769/Ufomedia-Avatar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21765190/1471185347",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Darauf hat die Branche lange warten müssen: #Buzzword-Bingo endlich übersetzt... https://t.co/CfK1p57veU"
+	},
+	{
 		"created_at": "Tue Mar 05 13:23:21 +0000 2019",
 		"id": 1102922550005387300,
 		"id_str": "1102922550005387264",
