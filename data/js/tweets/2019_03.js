@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 26 15:28:16 +0000 2019",
+		"id": 1110506730121769000,
+		"id_str": "1110564129855672320",
+		"full_text": "themenvorschlag für rechtdrallige CDU-vorsitzende oder JU-hansel: mal über den genderwahn beim unisex klopapier reden. https://t.co/BKgsuCMTGh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1110506727814938600,
+					"id_str": "1110506727814938624",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D2lP_DgXQAAUqkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2lP_DgXQAAUqkI.jpg",
+					"url": "https://t.co/BKgsuCMTGh",
+					"display_url": "pic.twitter.com/BKgsuCMTGh",
+					"expanded_url": "https://twitter.com/diplix/status/1110506730121768960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 809,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 809,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110506727814938600,
+					"id_str": "1110506727814938624",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D2lP_DgXQAAUqkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2lP_DgXQAAUqkI.jpg",
+					"url": "https://t.co/BKgsuCMTGh",
+					"display_url": "pic.twitter.com/BKgsuCMTGh",
+					"expanded_url": "https://twitter.com/diplix/status/1110506730121768960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 809,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 809,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5101971,
+			"id_str": "5101971",
+			"name": "felix schwenzel",
+			"screen_name": "diplix",
+			"location": "berlin",
+			"description": "ix schreibe gerne ins internet.",
+			"url": "https://t.co/KAy8etO3Q8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KAy8etO3Q8",
+							"expanded_url": "https://wirres.net",
+							"display_url": "wirres.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6600,
+			"friends_count": 1600,
+			"listed_count": 254,
+			"created_at": "Wed Apr 18 10:10:16 +0000 2007",
+			"favourites_count": 6689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8785,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/15688422/03022687630_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/15688422/03022687630_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5101971/1398331273",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "0000FF",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "themenvorschlag für rechtdrallige CDU-vorsitzende oder JU-hansel: mal über den genderwahn beim unisex klopapier reden. https://t.co/BKgsuCMTGh"
+	},
+	{
 		"created_at": "Tue Mar 26 09:46:33 +0000 2019",
 		"id": 1110478132031688700,
 		"id_str": "1110478132031688704",
