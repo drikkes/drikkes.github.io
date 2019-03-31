@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 08:09:38 +0000 2019",
+		"id": 1112258972248006700,
+		"id_str": "1112265681486168064",
+		"full_text": "„Hoch die internationale Solidarität.“\n„Das gefällt mir - endlich mal ein vernünftiger Gruß aus der Küche.“ https://t.co/RjvywCaFox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1112258963469492200,
+					"id_str": "1112258963469492225",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D2-Jol_X4AEn7Iq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2-Jol_X4AEn7Iq.jpg",
+					"url": "https://t.co/RjvywCaFox",
+					"display_url": "pic.twitter.com/RjvywCaFox",
+					"expanded_url": "https://twitter.com/peterbreuer/status/1112258972248006657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1112258963469492200,
+					"id_str": "1112258963469492225",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D2-Jol_X4AEn7Iq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2-Jol_X4AEn7Iq.jpg",
+					"url": "https://t.co/RjvywCaFox",
+					"display_url": "pic.twitter.com/RjvywCaFox",
+					"expanded_url": "https://twitter.com/peterbreuer/status/1112258972248006657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 358428263,
+			"id_str": "358428263",
+			"name": "Peter Breuer",
+			"screen_name": "peterbreuer",
+			"location": "Hamburg, Deutschland",
+			"description": "",
+			"url": "https://t.co/1Qnsqjro9K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Qnsqjro9K",
+							"expanded_url": "http://www.peterbreuer.de",
+							"display_url": "peterbreuer.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30666,
+			"friends_count": 1023,
+			"listed_count": 802,
+			"created_at": "Fri Aug 19 22:29:33 +0000 2011",
+			"favourites_count": 58408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9311,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097970036692656129/BUULjAap_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097970036692656129/BUULjAap_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/358428263/1433864332",
+			"profile_link_color": "FC0536",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "„Hoch die internationale Solidarität.“\n„Das gefällt mir - endlich mal ein vernünftiger Gruß aus der Küche.“ https://t.co/RjvywCaFox"
+	},
+	{
 		"created_at": "Sun Mar 31 05:01:51 +0000 2019",
 		"id": 1112218427748421600,
 		"id_str": "1112218427748421634",
