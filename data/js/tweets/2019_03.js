@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 31 20:44:42 +0000 2019",
+		"id": 1112455702273052700,
+		"id_str": "1112455702273052673",
+		"full_text": "#SPDerneuern https://t.co/uTzLLgpX56",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SPDerneuern",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uTzLLgpX56",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1112355113253912578",
+					"display_url": "twitter.com/Die_Reklame/st…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 846,
+			"friends_count": 158,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1112355113253912600,
+		"quoted_status_id_str": "1112355113253912578",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uTzLLgpX56",
+			"expanded": "https://twitter.com/Die_Reklame/status/1112355113253912578",
+			"display": "twitter.com/Die_Reklame/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 31 14:05:00 +0000 2019",
+			"id": 1112355113253912600,
+			"id_str": "1112355113253912578",
+			"full_text": "Vorwärts 4. April 1925 https://t.co/fDCNhSn04S",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				22
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1112355111173541900,
+						"id_str": "1112355111173541888",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/D2_hFIGW0AAHxKa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2_hFIGW0AAHxKa.jpg",
+						"url": "https://t.co/fDCNhSn04S",
+						"display_url": "pic.twitter.com/fDCNhSn04S",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1112355113253912578/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 826,
+								"h": 889,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 632,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 826,
+								"h": 889,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1112355111173541900,
+						"id_str": "1112355111173541888",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/D2_hFIGW0AAHxKa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2_hFIGW0AAHxKa.jpg",
+						"url": "https://t.co/fDCNhSn04S",
+						"display_url": "pic.twitter.com/fDCNhSn04S",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1112355113253912578/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 826,
+								"h": 889,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 632,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 826,
+								"h": 889,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://autochirp.spinfo.uni-koeln.de\" rel=\"nofollow\">autoChirp-App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 966765831140139000,
+				"id_str": "966765831140139009",
+				"name": "Die Reklame",
+				"screen_name": "Die_Reklame",
+				"location": "",
+				"description": "Und jetzt: Werbung. Von @CJahnz, @mschfr und @moritz_hoffmann.",
+				"url": "https://t.co/3Yb5ujzitv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3Yb5ujzitv",
+								"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+								"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2351,
+				"friends_count": 59,
+				"listed_count": 24,
+				"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+				"favourites_count": 287,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1701,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+				"profile_link_color": "1A1A1A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#SPDerneuern https://t.co/uTzLLgpX56"
+	},
+	{
 		"created_at": "Sun Mar 31 15:50:47 +0000 2019",
 		"id": 1112381734706798600,
 		"id_str": "1112381734706798593",
