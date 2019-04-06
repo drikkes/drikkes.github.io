@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 20:57:44 +0000 2019",
+		"id": 1114563679377330200,
+		"id_str": "1114633307524878337",
+		"full_text": "🙏 #FCBBVB https://t.co/2QCgfVxamI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FCBBVB",
+					"indices": [
+						2,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114563675057213400,
+					"id_str": "1114563675057213440",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D3e5wdtW0AAAqtf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3e5wdtW0AAAqtf.jpg",
+					"url": "https://t.co/2QCgfVxamI",
+					"display_url": "pic.twitter.com/2QCgfVxamI",
+					"expanded_url": "https://twitter.com/BVB/status/1114563679377330179/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114563675057213400,
+					"id_str": "1114563675057213440",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/D3e5wdtW0AAAqtf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3e5wdtW0AAAqtf.jpg",
+					"url": "https://t.co/2QCgfVxamI",
+					"display_url": "pic.twitter.com/2QCgfVxamI",
+					"expanded_url": "https://twitter.com/BVB/status/1114563679377330179/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 422,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 165699676,
+			"id_str": "165699676",
+			"name": "Borussia Dortmund",
+			"screen_name": "BVB",
+			"location": "Dortmund",
+			"description": "🇩🇪 Offizieller Twitter-Account von Borussia Dortmund || 🇬🇧🇺🇸 @BlackYellow ||\nImpressum: https://t.co/ljYvUO1oNg || \nDatenschutz: https://t.co/WNQCRZ7UNk",
+			"url": "https://t.co/PtAcDlwxqW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PtAcDlwxqW",
+							"expanded_url": "http://www.bvb.de",
+							"display_url": "bvb.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ljYvUO1oNg",
+							"expanded_url": "https://www.bvb.de/Impressum",
+							"display_url": "bvb.de/Impressum",
+							"indices": [
+								88,
+								111
+							]
+						},
+						{
+							"url": "https://t.co/WNQCRZ7UNk",
+							"expanded_url": "https://www.bvb.de/dse_twitter",
+							"display_url": "bvb.de/dse_twitter",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3283495,
+			"friends_count": 929,
+			"listed_count": 7974,
+			"created_at": "Mon Jul 12 09:00:00 +0000 2010",
+			"favourites_count": 8324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 78989,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FEE600",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007374363098865671/N_MdhQ6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007374363098865671/N_MdhQ6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165699676/1520853160",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFE600",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "37439688c6302728",
+			"url": "https://api.twitter.com/1.1/geo/id/37439688c6302728.json",
+			"place_type": "city",
+			"name": "Munich",
+			"full_name": "Munich, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							11.360589,
+							48.061634
+						],
+						[
+							11.722918,
+							48.061634
+						],
+						[
+							11.722918,
+							48.248124
+						],
+						[
+							11.360589,
+							48.248124
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 1070,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🙏 #FCBBVB https://t.co/2QCgfVxamI"
+	},
+	{
 		"created_at": "Sat Apr 06 09:27:01 +0000 2019",
 		"id": 1114459484674457600,
 		"id_str": "1114459484674457600",
