@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 13:26:18 +0000 2019",
+		"id": 1115244479164952600,
+		"id_str": "1115244479164952577",
+		"full_text": "@fbrantner @KonstantinNotz @Lambsdorff @sven_giegold @SkaKeller @ToniHofreiter @GoeringEckardt Kurze Frage: Haben Sie das selbst gezeichnet oder das Recht erworben, diesen Cartoon zu veröffentlichen – noch dazu ohne Nennung der Quelle?",
+		"truncated": false,
+		"display_text_range": [
+			95,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fbrantner",
+					"name": "Franziska Brantner",
+					"id": 32323724,
+					"id_str": "32323724",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "KonstantinNotz",
+					"name": "Konstantin v. Notz",
+					"id": 17752770,
+					"id_str": "17752770",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "Lambsdorff",
+					"name": "Alexander Lambsdorff",
+					"id": 149299258,
+					"id_str": "149299258",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "sven_giegold",
+					"name": "Sven Giegold",
+					"id": 16705726,
+					"id_str": "16705726",
+					"indices": [
+						39,
+						52
+					]
+				},
+				{
+					"screen_name": "SkaKeller",
+					"name": "Ska Keller",
+					"id": 16600393,
+					"id_str": "16600393",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"screen_name": "ToniHofreiter",
+					"name": "Toni Hofreiter",
+					"id": 442678902,
+					"id_str": "442678902",
+					"indices": [
+						64,
+						78
+					]
+				},
+				{
+					"screen_name": "GoeringEckardt",
+					"name": "Katrin Göring-Eckardt MdB",
+					"id": 626287930,
+					"id_str": "626287930",
+					"indices": [
+						79,
+						94
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1115175616326848500,
+		"in_reply_to_status_id_str": "1115175616326848512",
+		"in_reply_to_user_id": 32323724,
+		"in_reply_to_user_id_str": "32323724",
+		"in_reply_to_screen_name": "fbrantner",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 158,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18571,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0ea0e665161844a4",
+			"url": "https://api.twitter.com/1.1/geo/id/0ea0e665161844a4.json",
+			"place_type": "neighborhood",
+			"name": "Pempelfort",
+			"full_name": "Pempelfort, Düsseldorf",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.765948,
+							51.228052
+						],
+						[
+							6.798002,
+							51.228052
+						],
+						[
+							6.798002,
+							51.243446
+						],
+						[
+							6.765948,
+							51.243446
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@fbrantner @KonstantinNotz @Lambsdorff @sven_giegold @SkaKeller @ToniHofreiter @GoeringEckardt Kurze Frage: Haben Sie das selbst gezeichnet oder das Recht erworben, diesen Cartoon zu veröffentlichen – noch dazu ohne Nennung der Quelle?"
+	},
+	{
 		"created_at": "Mon Apr 08 12:25:11 +0000 2019",
 		"id": 1115229099142856700,
 		"id_str": "1115229099142856705",
