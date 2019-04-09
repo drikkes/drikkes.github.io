@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 15:57:34 +0000 2019",
+		"id": 1115644933380157400,
+		"id_str": "1115644933380157440",
+		"full_text": "Auch Deutsche unter den Hilfen. https://t.co/r7j8jL0I7K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r7j8jL0I7K",
+					"expanded_url": "https://twitter.com/oliverpolak/status/1115166481120137216",
+					"display_url": "twitter.com/oliverpolak/st…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 158,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18575,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0ea0e665161844a4",
+			"url": "https://api.twitter.com/1.1/geo/id/0ea0e665161844a4.json",
+			"place_type": "neighborhood",
+			"name": "Pempelfort",
+			"full_name": "Pempelfort, Düsseldorf",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.765948,
+							51.228052
+						],
+						[
+							6.798002,
+							51.228052
+						],
+						[
+							6.798002,
+							51.243446
+						],
+						[
+							6.765948,
+							51.243446
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115166481120137200,
+		"quoted_status_id_str": "1115166481120137216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/r7j8jL0I7K",
+			"expanded": "https://twitter.com/oliverpolak/status/1115166481120137216",
+			"display": "twitter.com/oliverpolak/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 08 08:16:22 +0000 2019",
+			"id": 1115166481120137200,
+			"id_str": "1115166481120137216",
+			"full_text": "Duden hilft Deutschen https://t.co/S6ktSIx9CG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				21
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1115166445044891600,
+						"id_str": "1115166445044891648",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/D3nd-S5WAAAPARs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3nd-S5WAAAPARs.jpg",
+						"url": "https://t.co/S6ktSIx9CG",
+						"display_url": "pic.twitter.com/S6ktSIx9CG",
+						"expanded_url": "https://twitter.com/oliverpolak/status/1115166481120137216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1115166445044891600,
+						"id_str": "1115166445044891648",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/D3nd-S5WAAAPARs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3nd-S5WAAAPARs.jpg",
+						"url": "https://t.co/S6ktSIx9CG",
+						"display_url": "pic.twitter.com/S6ktSIx9CG",
+						"expanded_url": "https://twitter.com/oliverpolak/status/1115166481120137216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 59143862,
+				"id_str": "59143862",
+				"name": "Oliver Polak",
+				"screen_name": "oliverpolak",
+				"location": "berlin",
+				"description": "\"Oliver Polak, so überzeugend und unangenehm und melancholisch wie Lenny Bruce und Louis C.K.“ DIE ZEIT 2018",
+				"url": "https://t.co/IcPtFqaSKO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IcPtFqaSKO",
+								"expanded_url": "http://oliverpolak.com",
+								"display_url": "oliverpolak.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9351,
+				"friends_count": 478,
+				"listed_count": 60,
+				"created_at": "Wed Jul 22 14:46:37 +0000 2009",
+				"favourites_count": 2243,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 956,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092821066819518464/4_uHWEoI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092821066819518464/4_uHWEoI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59143862/1549383821",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 572,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Auch Deutsche unter den Hilfen. https://t.co/r7j8jL0I7K"
+	},
+	{
 		"created_at": "Tue Apr 09 14:02:44 +0000 2019",
 		"id": 1115616032729849900,
 		"id_str": "1115616032729849856",
