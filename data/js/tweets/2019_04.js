@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 07:15:25 +0000 2019",
+		"id": 1119373908015296500,
+		"id_str": "1119499797847781376",
+		"full_text": "Und was ist bitte bei den Murmeltieren los? https://t.co/RkBYnM9b8H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119373855938744300,
+					"id_str": "1119373855938744320",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D4jQl14WkAArxF0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4jQl14WkAArxF0.jpg",
+					"url": "https://t.co/RkBYnM9b8H",
+					"display_url": "pic.twitter.com/RkBYnM9b8H",
+					"expanded_url": "https://twitter.com/freelancepolice/status/1119373908015296512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 123,
+							"h": 123,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 123,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 116,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119373855938744300,
+					"id_str": "1119373855938744320",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/D4jQl14WkAArxF0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4jQl14WkAArxF0.jpg",
+					"url": "https://t.co/RkBYnM9b8H",
+					"display_url": "pic.twitter.com/RkBYnM9b8H",
+					"expanded_url": "https://twitter.com/freelancepolice/status/1119373908015296512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 123,
+							"h": 123,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 123,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 116,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14311831,
+			"id_str": "14311831",
+			"name": "Michael Brake",
+			"screen_name": "freelancepolice",
+			"location": "Berlin",
+			"description": "",
+			"url": "https://t.co/Wqx4brXbYl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wqx4brXbYl",
+							"expanded_url": "http://michaelbrake.de",
+							"display_url": "michaelbrake.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 752,
+			"friends_count": 294,
+			"listed_count": 35,
+			"created_at": "Sat Apr 05 19:01:43 +0000 2008",
+			"favourites_count": 9818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7104,
+			"lang": "de",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098635765326712833/tPhqmt90_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098635765326712833/tPhqmt90_normal.png",
+			"profile_link_color": "113311",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Und was ist bitte bei den Murmeltieren los? https://t.co/RkBYnM9b8H"
+	},
+	{
 		"created_at": "Thu Apr 18 22:42:15 +0000 2019",
 		"id": 1119008264690249700,
 		"id_str": "1119008264690249729",
