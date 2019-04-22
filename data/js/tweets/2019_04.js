@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 14:06:18 +0000 2019",
+		"id": 1120248747785629700,
+		"id_str": "1120327974300135425",
+		"full_text": "Fun fact: It’s called the Common Identity Repository because the name Let’s Go Full Orwell Motherfuckers YOLO was already taken. https://t.co/TL5UnLVNeu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TL5UnLVNeu",
+					"expanded_url": "https://twitter.com/campuscodi/status/1120220328884604929",
+					"display_url": "twitter.com/campuscodi/sta…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48903,
+			"id_str": "48903",
+			"name": "Aral Balkan (@aral@mastodon.ar.al)",
+			"screen_name": "aral",
+			"location": "Terra firma",
+			"description": "I mainly post on my blog at https://t.co/MH5qjWg2mi (RSS: https://t.co/uoejQfZwcW) and interact on my Mastodon https://t.co/P7hooxbo4i. Please follow me there.",
+			"url": "https://t.co/MH5qjWg2mi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MH5qjWg2mi",
+							"expanded_url": "https://ar.al",
+							"display_url": "ar.al",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MH5qjWg2mi",
+							"expanded_url": "https://ar.al",
+							"display_url": "ar.al",
+							"indices": [
+								28,
+								51
+							]
+						},
+						{
+							"url": "https://t.co/uoejQfZwcW",
+							"expanded_url": "https://ar.al/index.xml",
+							"display_url": "ar.al/index.xml",
+							"indices": [
+								58,
+								81
+							]
+						},
+						{
+							"url": "https://t.co/P7hooxbo4i",
+							"expanded_url": "https://mastodon.ar.al",
+							"display_url": "mastodon.ar.al",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 43022,
+			"friends_count": 20078,
+			"listed_count": 2674,
+			"created_at": "Thu Dec 07 19:55:38 +0000 2006",
+			"favourites_count": 113489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 147267,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AAAAAA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/873476708497838080/rdwukUAR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/873476708497838080/rdwukUAR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48903/1503223813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120220328884604900,
+		"quoted_status_id_str": "1120220328884604929",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TL5UnLVNeu",
+			"expanded": "https://twitter.com/campuscodi/status/1120220328884604929",
+			"display": "twitter.com/campuscodi/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 22 06:58:33 +0000 2019",
+			"id": 1120220328884604900,
+			"id_str": "1120220328884604929",
+			"full_text": "This new database will be named the Common Identity Repository (CIR) and is set to unify records on over 350 million people.\n\nIt will interconnect already-existing databases that track cross-border checks, migration, and law enforcement systems. https://t.co/kNFNNfdDPh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1120220324065419300,
+						"id_str": "1120220324065419264",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/D4vScxYXoAAivVA.png",
+						"media_url_https": "https://pbs.twimg.com/media/D4vScxYXoAAivVA.png",
+						"url": "https://t.co/kNFNNfdDPh",
+						"display_url": "pic.twitter.com/kNFNNfdDPh",
+						"expanded_url": "https://twitter.com/campuscodi/status/1120220328884604929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 641,
+								"h": 429,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 641,
+								"h": 429,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 641,
+								"h": 429,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1120220324065419300,
+						"id_str": "1120220324065419264",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/D4vScxYXoAAivVA.png",
+						"media_url_https": "https://pbs.twimg.com/media/D4vScxYXoAAivVA.png",
+						"url": "https://t.co/kNFNNfdDPh",
+						"display_url": "pic.twitter.com/kNFNNfdDPh",
+						"expanded_url": "https://twitter.com/campuscodi/status/1120220328884604929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 641,
+								"h": 429,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 641,
+								"h": 429,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 641,
+								"h": 429,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1120205592201703400,
+			"in_reply_to_status_id_str": "1120205592201703427",
+			"in_reply_to_user_id": 39176606,
+			"in_reply_to_user_id_str": "39176606",
+			"in_reply_to_screen_name": "campuscodi",
+			"user": {
+				"id": 39176606,
+				"id_str": "39176606",
+				"name": "Catalin Cimpanu",
+				"screen_name": "campuscodi",
+				"location": "",
+				"description": "Security news reporter @ZDNet\nInfosec-related account.\nEmail: catalincimpanu@gmail.com\nDMs are open for a reason.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24660,
+				"friends_count": 1056,
+				"listed_count": 1635,
+				"created_at": "Mon May 11 02:57:56 +0000 2009",
+				"favourites_count": 251,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 93545,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1085491201736953857/Tz0v3uQq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085491201736953857/Tz0v3uQq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39176606/1551433347",
+				"profile_link_color": "CC2229",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 40,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fun fact: It’s called the Common Identity Repository because the name Let’s Go Full Orwell Motherfuckers YOLO was already taken. https://t.co/TL5UnLVNeu"
+	},
+	{
 		"created_at": "Sun Apr 21 14:05:31 +0000 2019",
 		"id": 1119965390665322500,
 		"id_str": "1119965390665322496",
