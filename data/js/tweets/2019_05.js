@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 11:24:34 +0000 2019",
+		"id": 1124445287303524400,
+		"id_str": "1124635925781319685",
+		"full_text": "Brands are NOT people.\nhttps://t.co/srJGyeZq0T\n@hudsonhongo knows his shit.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hudsonhongo",
+					"name": "k⁢nife dog",
+					"id": 190172686,
+					"id_str": "190172686",
+					"indices": [
+						47,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/srJGyeZq0T",
+					"expanded_url": "https://gizmodo.com/you-know-how-this-all-ends-dont-you-1834506574",
+					"display_url": "gizmodo.com/you-know-how-t…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21574612,
+			"id_str": "21574612",
+			"name": "Mark Duffy",
+			"screen_name": "copyranter",
+			"location": "New York City",
+			"description": "Copywriter/Ad Critic. CLIO, One Show, Bobcat Pin. A \"creative silo\". Anger issues. My hockey wrist shot is better than yours. Tips—copyranter@gmail",
+			"url": "https://t.co/S1xuV8ndjf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S1xuV8ndjf",
+							"expanded_url": "https://medium.com/@copyranter",
+							"display_url": "medium.com/@copyranter",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23626,
+			"friends_count": 0,
+			"listed_count": 1223,
+			"created_at": "Sun Feb 22 16:11:04 +0000 2009",
+			"favourites_count": 255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8226,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/718156299205214209/boWz9GXH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/718156299205214209/boWz9GXH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21574612/1398339554",
+			"profile_link_color": "41B7D1",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F5F0F0",
+			"profile_text_color": "080808",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brands are NOT people.\nhttps://t.co/srJGyeZq0T\n@hudsonhongo knows his shit."
+	},
+	{
 		"created_at": "Sat May 04 10:05:07 +0000 2019",
 		"id": 1124361297557098500,
 		"id_str": "1124615935229353984",
