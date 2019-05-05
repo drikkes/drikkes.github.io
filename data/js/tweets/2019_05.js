@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 08:56:05 +0000 2019",
+		"id": 1124306908133896200,
+		"id_str": "1124960948320702464",
+		"full_text": "Okay. Which bastard painted that? https://t.co/apC05NimY8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124306903591456800,
+					"id_str": "1124306903591456769",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D5pXLAcWkAETKlt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5pXLAcWkAETKlt.jpg",
+					"url": "https://t.co/apC05NimY8",
+					"display_url": "pic.twitter.com/apC05NimY8",
+					"expanded_url": "https://twitter.com/Sandford_Police/status/1124306908133896192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 719,
+							"h": 903,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 903,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124306903591456800,
+					"id_str": "1124306903591456769",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D5pXLAcWkAETKlt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5pXLAcWkAETKlt.jpg",
+					"url": "https://t.co/apC05NimY8",
+					"display_url": "pic.twitter.com/apC05NimY8",
+					"expanded_url": "https://twitter.com/Sandford_Police/status/1124306908133896192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 719,
+							"h": 903,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 903,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 834055398160207900,
+			"id_str": "834055398160207872",
+			"name": "Sandford Police",
+			"screen_name": "Sandford_Police",
+			"location": "Sandford, Gloucestershire",
+			"description": "NOT the actual police. No really. Just \nhere for shits and giggles.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8210,
+			"friends_count": 4318,
+			"listed_count": 30,
+			"created_at": "Tue Feb 21 15:01:17 +0000 2017",
+			"favourites_count": 24306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16580,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092495549943738369/5xIiePtP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092495549943738369/5xIiePtP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834055398160207872/1549306242",
+			"profile_link_color": "1A146F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3386,
+		"favorite_count": 7649,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Okay. Which bastard painted that? https://t.co/apC05NimY8"
+	},
+	{
 		"created_at": "Sat May 04 11:24:34 +0000 2019",
 		"id": 1124445287303524400,
 		"id_str": "1124635925781319685",
@@ -16,7 +177,7 @@ Grailbird.data.tweets_2019_05 =
 			"user_mentions": [
 				{
 					"screen_name": "hudsonhongo",
-					"name": "k⁢nife dog",
+					"name": "knife dog",
 					"id": 190172686,
 					"id_str": "190172686",
 					"indices": [
