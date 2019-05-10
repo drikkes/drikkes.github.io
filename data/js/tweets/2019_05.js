@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 12:33:56 +0000 2019",
+		"id": 1126827709563273200,
+		"id_str": "1126827709563273216",
+		"full_text": "Reisepläne https://t.co/rbCSpktGpT https://t.co/OumWkj076n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rbCSpktGpT",
+					"expanded_url": "http://drikkes.com/?p=13656",
+					"display_url": "drikkes.com/?p=13656",
+					"indices": [
+						11,
+						34
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126827705767530500,
+					"id_str": "1126827705767530497",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6NL1AVXkAEhc6V.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6NL1AVXkAEhc6V.jpg",
+					"url": "https://t.co/OumWkj076n",
+					"display_url": "pic.twitter.com/OumWkj076n",
+					"expanded_url": "https://twitter.com/drikkes/status/1126827709563273216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126827705767530500,
+					"id_str": "1126827705767530497",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6NL1AVXkAEhc6V.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6NL1AVXkAEhc6V.jpg",
+					"url": "https://t.co/OumWkj076n",
+					"display_url": "pic.twitter.com/OumWkj076n",
+					"expanded_url": "https://twitter.com/drikkes/status/1126827709563273216/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D6NL1AVXkAEhc6V.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 848,
+			"friends_count": 158,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18682,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Reisepläne https://t.co/rbCSpktGpT https://t.co/OumWkj076n"
+	},
+	{
 		"created_at": "Thu May 09 16:34:53 +0000 2019",
 		"id": 1126525960688472000,
 		"id_str": "1126525960688472064",
