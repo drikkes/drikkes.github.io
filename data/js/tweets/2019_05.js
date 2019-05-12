@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 14:16:39 +0000 2019",
+		"id": 1126188223343013900,
+		"id_str": "1127578337340268544",
+		"full_text": "https://t.co/Ptithobrrc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126188212681105400,
+					"id_str": "1126188212681105409",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D6EGNm8W4AESGol.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6EGNm8W4AESGol.jpg",
+					"url": "https://t.co/Ptithobrrc",
+					"display_url": "pic.twitter.com/Ptithobrrc",
+					"expanded_url": "https://twitter.com/inthemoodfortw/status/1126188223343013889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126188212681105400,
+					"id_str": "1126188212681105409",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D6EGNm8W4AESGol.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6EGNm8W4AESGol.jpg",
+					"url": "https://t.co/Ptithobrrc",
+					"display_url": "pic.twitter.com/Ptithobrrc",
+					"expanded_url": "https://twitter.com/inthemoodfortw/status/1126188223343013889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279501453,
+			"id_str": "279501453",
+			"name": "JeanPhilippedeTonnac",
+			"screen_name": "inthemoodfortw",
+			"location": "Montmartre",
+			"description": "Jean-Philippe de Tonnac essay writer novelist publisher journalist",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53045,
+			"friends_count": 4664,
+			"listed_count": 1432,
+			"created_at": "Sat Apr 09 11:47:16 +0000 2011",
+			"favourites_count": 19288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56272,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982923043029778433/msUUVAWv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982923043029778433/msUUVAWv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279501453/1426321000",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 758,
+		"favorite_count": 1792,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Ptithobrrc"
+	},
+	{
 		"created_at": "Sun May 12 14:04:02 +0000 2019",
 		"id": 1127575160842854400,
 		"id_str": "1127575160842854400",
