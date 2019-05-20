@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 08:02:34 +0000 2019",
+		"id": 1129858803724410900,
+		"id_str": "1130383297496985600",
+		"full_text": "2019 dot jpeg https://t.co/UIE9kjdPyc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129858672795029500,
+					"id_str": "1129858672795029504",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D64QegZXkAA-X7_.png",
+					"media_url_https": "https://pbs.twimg.com/media/D64QegZXkAA-X7_.png",
+					"url": "https://t.co/UIE9kjdPyc",
+					"display_url": "pic.twitter.com/UIE9kjdPyc",
+					"expanded_url": "https://twitter.com/lifewinning/status/1129858803724410880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 528,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 528,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129858672795029500,
+					"id_str": "1129858672795029504",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D64QegZXkAA-X7_.png",
+					"media_url_https": "https://pbs.twimg.com/media/D64QegZXkAA-X7_.png",
+					"url": "https://t.co/UIE9kjdPyc",
+					"display_url": "pic.twitter.com/UIE9kjdPyc",
+					"expanded_url": "https://twitter.com/lifewinning/status/1129858803724410880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 528,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 528,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1129858375284604900,
+		"in_reply_to_status_id_str": "1129858375284604929",
+		"in_reply_to_user_id": 348082699,
+		"in_reply_to_user_id_str": "348082699",
+		"in_reply_to_screen_name": "lifewinning",
+		"user": {
+			"id": 348082699,
+			"id_str": "348082699",
+			"name": "Ingrid Burrington",
+			"screen_name": "lifewinning",
+			"location": "A Small Island Near America",
+			"description": "Investigations, Near Futures, Research, Art. book: https://t.co/s2kCTSRLXZ… VC co-founders: https://t.co/skFqkkjhaY",
+			"url": "https://t.co/IMualqKIOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IMualqKIOb",
+							"expanded_url": "http://lifewinning.com",
+							"display_url": "lifewinning.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/s2kCTSRLXZ",
+							"expanded_url": "http://mhpbooks.com/books/networks",
+							"display_url": "mhpbooks.com/books/networks",
+							"indices": [
+								51,
+								74
+							]
+						},
+						{
+							"url": "https://t.co/skFqkkjhaY",
+							"expanded_url": "http://patreon.com/lifewinning",
+							"display_url": "patreon.com/lifewinning",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15199,
+			"friends_count": 739,
+			"listed_count": 483,
+			"created_at": "Wed Aug 03 21:09:39 +0000 2011",
+			"favourites_count": 36294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54829,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1612672528/netwk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1612672528/netwk_normal.jpg",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "2019 dot jpeg https://t.co/UIE9kjdPyc"
+	},
+	{
 		"created_at": "Sun May 19 15:13:30 +0000 2019",
 		"id": 1130129358084038700,
 		"id_str": "1130129358084038656",
