@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 10:10:24 +0000 2019",
+		"id": 1132589793962012700,
+		"id_str": "1132589793962012672",
+		"full_text": "@karstenloh Scheiße. – Warum? – Ne Streife. – Nein. – Doch. – Scheiße. https://t.co/H7QGbn8iAR",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karstenloh",
+					"name": "zu leise ...",
+					"id": 220942183,
+					"id_str": "220942183",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132589759019323400,
+					"id_str": "1132589759019323392",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7fEYpaXkAA4bPp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7fEYpaXkAA4bPp.jpg",
+					"url": "https://t.co/H7QGbn8iAR",
+					"display_url": "pic.twitter.com/H7QGbn8iAR",
+					"expanded_url": "https://twitter.com/drikkes/status/1132589793962012672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132589759019323400,
+					"id_str": "1132589759019323392",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7fEYpaXkAA4bPp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7fEYpaXkAA4bPp.jpg",
+					"url": "https://t.co/H7QGbn8iAR",
+					"display_url": "pic.twitter.com/H7QGbn8iAR",
+					"expanded_url": "https://twitter.com/drikkes/status/1132589793962012672/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							68
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D7fEYpaXkAA4bPp.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1132586635017838600,
+		"in_reply_to_status_id_str": "1132586635017838593",
+		"in_reply_to_user_id": 220942183,
+		"in_reply_to_user_id_str": "220942183",
+		"in_reply_to_screen_name": "karstenloh",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 848,
+			"friends_count": 158,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "@karstenloh Scheiße. – Warum? – Ne Streife. – Nein. – Doch. – Scheiße. https://t.co/H7QGbn8iAR"
+	},
+	{
 		"created_at": "Sat May 25 14:57:46 +0000 2019",
 		"id": 1132299726823612400,
 		"id_str": "1132299726823612417",
