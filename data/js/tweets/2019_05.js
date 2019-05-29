@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 04:57:44 +0000 2019",
+		"id": 1133598275100127200,
+		"id_str": "1133598275100127233",
+		"full_text": "1. Clerks\n2. Mann beißt Hund\n3. Pulp Fiction\n4. When Harry Met Sally\n5. Once Upon A Time In The West https://t.co/n5kjAnglnV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n5kjAnglnV",
+					"expanded_url": "https://twitter.com/scottderrickson/status/1133218239817797632",
+					"display_url": "twitter.com/scottderrickso…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 848,
+			"friends_count": 158,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133218239817797600,
+		"quoted_status_id_str": "1133218239817797632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n5kjAnglnV",
+			"expanded": "https://twitter.com/scottderrickson/status/1133218239817797632",
+			"display": "twitter.com/scottderrickso…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 28 03:47:37 +0000 2019",
+			"id": 1133218239817797600,
+			"id_str": "1133218239817797632",
+			"full_text": "Name the five films you’ve seen the most times. \n\n1. Apocalypse Now\n2. Blade Runner\n3. Se7en\n4. Taxi Driver \n5. Rashomon",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47578715,
+				"id_str": "47578715",
+				"name": "N O S ⋊ Ɔ I ᴚ ᴚ Ǝ ᗡ   ⊥ ⊥ O Ɔ S",
+				"screen_name": "scottderrickson",
+				"location": "Mind, Elsewhere",
+				"description": "film fan, film maker - always in that order 🤘🏻👁🤘🏻writer/director of The Exorcism of Emily Rose, Sinister and Marvel’s Doctor Strange.",
+				"url": "https://t.co/hG8ARLDnAH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hG8ARLDnAH",
+								"expanded_url": "https://www.instagram.com/scottderrickson/",
+								"display_url": "instagram.com/scottderrickso…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 99246,
+				"friends_count": 1225,
+				"listed_count": 1267,
+				"created_at": "Tue Jun 16 08:36:41 +0000 2009",
+				"favourites_count": 60088,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17429,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "171414",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1102292132864262144/NcWyMHMc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102292132864262144/NcWyMHMc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47578715/1548720663",
+				"profile_link_color": "612623",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "4D050A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1096,
+			"favorite_count": 13940,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1. Clerks\n2. Mann beißt Hund\n3. Pulp Fiction\n4. When Harry Met Sally\n5. Once Upon A Time In The West https://t.co/n5kjAnglnV"
+	},
+	{
 		"created_at": "Tue May 28 14:56:42 +0000 2019",
 		"id": 1133386619850043400,
 		"id_str": "1133386619850043393",
