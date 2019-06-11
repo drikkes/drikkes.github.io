@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 09:40:04 +0000 2019",
+		"id": 1138380369026265100,
+		"id_str": "1138380369026265088",
+		"full_text": "Musik in meinen Ohren. #BrandedContent https://t.co/WWblKEqRbZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BrandedContent",
+					"indices": [
+						23,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WWblKEqRbZ",
+					"expanded_url": "https://twitter.com/Pop_UniSiegen/status/1138341647899643904",
+					"display_url": "twitter.com/Pop_UniSiegen/…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 848,
+			"friends_count": 158,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4715,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0ea0e665161844a4",
+			"url": "https://api.twitter.com/1.1/geo/id/0ea0e665161844a4.json",
+			"place_type": "neighborhood",
+			"name": "Pempelfort",
+			"full_name": "Pempelfort, Düsseldorf",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.765948,
+							51.228052
+						],
+						[
+							6.798002,
+							51.228052
+						],
+						[
+							6.798002,
+							51.243446
+						],
+						[
+							6.765948,
+							51.243446
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138341647899643900,
+		"quoted_status_id_str": "1138341647899643904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WWblKEqRbZ",
+			"expanded": "https://twitter.com/Pop_UniSiegen/status/1138341647899643904",
+			"display": "twitter.com/Pop_UniSiegen/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 11 07:06:12 +0000 2019",
+			"id": 1138341647899643900,
+			"id_str": "1138341647899643904",
+			"full_text": "Gerade ist das neue Buch von @ba_moritz – \"Western Promises: Pop-Musik und Markennamen\" – erschienen. Auf https://t.co/LsAxHnXtZ9 gibt es einen Auszug: Über Automarken im deutschen Pop. https://t.co/RtDFxDxlN9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ba_moritz",
+						"name": "Moritz Baßler",
+						"id": 1023551518107201500,
+						"id_str": "1023551518107201537",
+						"indices": [
+							29,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LsAxHnXtZ9",
+						"expanded_url": "http://pop-zeitschrift.de",
+						"display_url": "pop-zeitschrift.de",
+						"indices": [
+							106,
+							129
+						]
+					},
+					{
+						"url": "https://t.co/RtDFxDxlN9",
+						"expanded_url": "http://www.pop-zeitschrift.de/2019/06/11/markierte-markenvon-moritz-bassler11-6-2019/",
+						"display_url": "pop-zeitschrift.de/2019/06/11/mar…",
+						"indices": [
+							186,
+							209
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3502399401,
+				"id_str": "3502399401",
+				"name": "Populäre Kulturen",
+				"screen_name": "Pop_UniSiegen",
+				"location": "Siegen, Deutschland",
+				"description": "Forschungsstelle Populäre Kulturen an der Universität Siegen. \n\nhttps://t.co/tttsdsY1g3",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tttsdsY1g3",
+								"expanded_url": "http://popkultur.uni-siegen.de",
+								"display_url": "popkultur.uni-siegen.de",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1487,
+				"friends_count": 231,
+				"listed_count": 12,
+				"created_at": "Mon Aug 31 14:07:18 +0000 2015",
+				"favourites_count": 3262,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1399,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/639462961950662656/u2YZNX9X_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/639462961950662656/u2YZNX9X_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3502399401/1441295630",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Musik in meinen Ohren. #BrandedContent https://t.co/WWblKEqRbZ"
+	},
+	{
 		"created_at": "Mon Jun 10 13:38:50 +0000 2019",
 		"id": 1138078069015625700,
 		"id_str": "1138078069015625729",
