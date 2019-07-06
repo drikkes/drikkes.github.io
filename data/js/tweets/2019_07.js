@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 06 14:18:28 +0000 2019",
+		"id": 1147469589707669500,
+		"id_str": "1147510124883435522",
+		"full_text": "Marken funktionieren immer noch gut. https://t.co/PABjbxzdk5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PABjbxzdk5",
+					"expanded_url": "https://twitter.com/bertoslos/status/1147276841390157829",
+					"display_url": "twitter.com/bertoslos/stat…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71992998,
+			"id_str": "71992998",
+			"name": "Stephan Noller",
+			"screen_name": "holadiho",
+			"location": "Cologne/Germany",
+			"description": "The armies of those I love engirth me, and I engirth them; #ubirch #calliope #trackle #D64 #bvdw",
+			"url": "https://t.co/w5szGzHu2G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5szGzHu2G",
+							"expanded_url": "http://stephannoller.eu",
+							"display_url": "stephannoller.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2766,
+			"friends_count": 2289,
+			"listed_count": 201,
+			"created_at": "Sun Sep 06 07:56:17 +0000 2009",
+			"favourites_count": 15268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1044460234171961344/lBm7auIM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044460234171961344/lBm7auIM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71992998/1408024913",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1147276841390157800,
+		"quoted_status_id_str": "1147276841390157829",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PABjbxzdk5",
+			"expanded": "https://twitter.com/bertoslos/status/1147276841390157829",
+			"display": "twitter.com/bertoslos/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 05 22:51:29 +0000 2019",
+			"id": 1147276841390157800,
+			"id_str": "1147276841390157829",
+			"full_text": "https://t.co/twSyfIrMmH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1147276799795241000,
+						"id_str": "1147276799795240966",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147276799795240966/pu/img/qFATihxnw6S-R-Kz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147276799795240966/pu/img/qFATihxnw6S-R-Kz.jpg",
+						"url": "https://t.co/twSyfIrMmH",
+						"display_url": "pic.twitter.com/twSyfIrMmH",
+						"expanded_url": "https://twitter.com/BertosLos/status/1147276841390157829/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1147276799795241000,
+						"id_str": "1147276799795240966",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147276799795240966/pu/img/qFATihxnw6S-R-Kz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147276799795240966/pu/img/qFATihxnw6S-R-Kz.jpg",
+						"url": "https://t.co/twSyfIrMmH",
+						"display_url": "pic.twitter.com/twSyfIrMmH",
+						"expanded_url": "https://twitter.com/BertosLos/status/1147276841390157829/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 11466,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1147276799795240966/pu/pl/2N8Z4YtPHfcLqdcd.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1147276799795240966/pu/vid/480x270/Oi36H1CLINr7CUtd.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1147276799795240966/pu/vid/1280x720/9co4BIIcytcLMJUk.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1147276799795240966/pu/vid/640x360/LRA6g5-WdEQoi0aa.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 969719352692965400,
+				"id_str": "969719352692965381",
+				"name": "der eindimensionale user🎠",
+				"screen_name": "BertosLos",
+				"location": "",
+				"description": "kopf gefickt",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 176,
+				"friends_count": 984,
+				"listed_count": 1,
+				"created_at": "Fri Mar 02 23:41:24 +0000 2018",
+				"favourites_count": 14647,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2784,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1143531559674359808/a3c6SYcn_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143531559674359808/a3c6SYcn_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/969719352692965381/1560358292",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 133,
+			"favorite_count": 558,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Marken funktionieren immer noch gut. https://t.co/PABjbxzdk5"
+	},
+	{
 		"created_at": "Sat Jul 06 12:59:53 +0000 2019",
 		"id": 1147490351122395100,
 		"id_str": "1147490351122395136",
