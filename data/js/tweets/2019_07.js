@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 08 06:23:43 +0000 2019",
+		"id": 1147928609899679700,
+		"id_str": "1148115427224170501",
+		"full_text": "als ich diesen sehr witzigen und guten artikel der beifahrerin eben las, musste ich gleich noch was ergänzendes, eiegenes hinterherbloggen: https://t.co/D21tISZzsf https://t.co/ngxhV4hps6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D21tISZzsf",
+					"expanded_url": "https://wirres.net/11305",
+					"display_url": "wirres.net/11305",
+					"indices": [
+						140,
+						163
+					]
+				},
+				{
+					"url": "https://t.co/ngxhV4hps6",
+					"expanded_url": "https://twitter.com/knetagabo/status/1147898971593068544",
+					"display_url": "twitter.com/knetagabo/stat…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5101971,
+			"id_str": "5101971",
+			"name": "felix schwenzel",
+			"screen_name": "diplix",
+			"location": "berlin",
+			"description": "ix schreibe gerne ins internet.",
+			"url": "https://t.co/KAy8etO3Q8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KAy8etO3Q8",
+							"expanded_url": "https://wirres.net",
+							"display_url": "wirres.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6606,
+			"friends_count": 1606,
+			"listed_count": 253,
+			"created_at": "Wed Apr 18 10:10:16 +0000 2007",
+			"favourites_count": 6937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/15688422/03022687630_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/15688422/03022687630_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5101971/1398331273",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "0000FF",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1147898971593068500,
+		"quoted_status_id_str": "1147898971593068544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ngxhV4hps6",
+			"expanded": "https://twitter.com/knetagabo/status/1147898971593068544",
+			"display": "twitter.com/knetagabo/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 07 16:03:36 +0000 2019",
+			"id": 1147898971593068500,
+			"id_str": "1147898971593068544",
+			"full_text": "bischen launisch heute, mal über meine oma, mövenpickeis in den achzigern und jeff koons: https://t.co/qr19yO5fWy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qr19yO5fWy",
+						"expanded_url": "https://katiakelm.de/blog/2019/07/07/celebrity-art/",
+						"display_url": "katiakelm.de/blog/2019/07/0…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5767292,
+				"id_str": "5767292",
+				"name": "katia",
+				"screen_name": "knetagabo",
+				"location": "berlin",
+				"description": "atmet nur wenn sie möchte",
+				"url": "https://t.co/lDebEtBGTh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lDebEtBGTh",
+								"expanded_url": "https://katiakelm.de/blog/",
+								"display_url": "katiakelm.de/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1050,
+				"friends_count": 613,
+				"listed_count": 46,
+				"created_at": "Fri May 04 14:31:46 +0000 2007",
+				"favourites_count": 4042,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1250,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1050790931136425984/Sari7w5f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050790931136425984/Sari7w5f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5767292/1539363855",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "ADADAD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "als ich diesen sehr witzigen und guten artikel der beifahrerin eben las, musste ich gleich noch was ergänzendes, eiegenes hinterherbloggen: https://t.co/D21tISZzsf https://t.co/ngxhV4hps6"
+	},
+	{
 		"created_at": "Sun Jul 07 20:16:21 +0000 2019",
 		"id": 1147962576833327100,
 		"id_str": "1147962576833327106",
