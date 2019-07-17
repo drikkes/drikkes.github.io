@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 17 05:54:39 +0000 2019",
+		"id": 1151262035801362400,
+		"id_str": "1151369604859617281",
+		"full_text": "Does When Harry Met Sally hold up 30 years on? Looking back on Nora Ephron's rom-com epic :) @zitremedies https://t.co/Z8m1dZQc3G https://t.co/DmHVC5SdJZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zitremedies",
+					"name": "annie fell",
+					"id": 158857820,
+					"id_str": "158857820",
+					"indices": [
+						93,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z8m1dZQc3G",
+					"expanded_url": "https://slutever.com/nora-ephron-harry-met-sally/",
+					"display_url": "slutever.com/nora-ephron-ha…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1151261940796125200,
+					"id_str": "1151261940796125184",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D_oaorCUcAA38bJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_oaorCUcAA38bJ.jpg",
+					"url": "https://t.co/DmHVC5SdJZ",
+					"display_url": "pic.twitter.com/DmHVC5SdJZ",
+					"expanded_url": "https://twitter.com/Slutever/status/1151262035801362433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 940,
+							"h": 529,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 940,
+							"h": 529,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151261940796125200,
+					"id_str": "1151261940796125184",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D_oaorCUcAA38bJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_oaorCUcAA38bJ.jpg",
+					"url": "https://t.co/DmHVC5SdJZ",
+					"display_url": "pic.twitter.com/DmHVC5SdJZ",
+					"expanded_url": "https://twitter.com/Slutever/status/1151262035801362433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 940,
+							"h": 529,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 940,
+							"h": 529,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25672496,
+			"id_str": "25672496",
+			"name": "Karley Sciortino",
+			"screen_name": "Slutever",
+			"location": "New York",
+			"description": "Author of Vogue's Breathless column, host & EP Slutever on @Viceland. Co-writer of TV show #NowApocalypse",
+			"url": "https://t.co/RmtJ9MQVfd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RmtJ9MQVfd",
+							"expanded_url": "https://slutever.com/",
+							"display_url": "slutever.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46060,
+			"friends_count": 687,
+			"listed_count": 396,
+			"created_at": "Sat Mar 21 13:29:10 +0000 2009",
+			"favourites_count": 2454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936295527108497409/YzHxqm37_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936295527108497409/YzHxqm37_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25672496/1518986864",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Does When Harry Met Sally hold up 30 years on? Looking back on Nora Ephron's rom-com epic :) @zitremedies https://t.co/Z8m1dZQc3G https://t.co/DmHVC5SdJZ"
+	},
+	{
 		"created_at": "Tue Jul 16 15:55:09 +0000 2019",
 		"id": 1151158334935982100,
 		"id_str": "1151158334935982081",
