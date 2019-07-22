@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 22 15:34:24 +0000 2019",
+		"id": 1152669561768042500,
+		"id_str": "1153327443199123457",
+		"full_text": "I bought Poundland's \"Gucci\" pumps - now I'm drowning in pussy! Only in Sunday Sport tomorrow https://t.co/K0JxuR6Kjs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152669557326327800,
+					"id_str": "1152669557326327809",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D_8a2vPXsAEeVJO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_8a2vPXsAEeVJO.jpg",
+					"url": "https://t.co/K0JxuR6Kjs",
+					"display_url": "pic.twitter.com/K0JxuR6Kjs",
+					"expanded_url": "https://twitter.com/thesundaysport/status/1152669561768042497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1523,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152669557326327800,
+					"id_str": "1152669557326327809",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D_8a2vPXsAEeVJO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_8a2vPXsAEeVJO.jpg",
+					"url": "https://t.co/K0JxuR6Kjs",
+					"display_url": "pic.twitter.com/K0JxuR6Kjs",
+					"expanded_url": "https://twitter.com/thesundaysport/status/1152669561768042497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1523,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twittimer.com\" rel=\"nofollow\">Twittimer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196108016,
+			"id_str": "196108016",
+			"name": "Sunday Sport",
+			"screen_name": "thesundaysport",
+			"location": "UK",
+			"description": "Subscribe to read the paper online with Android,  iPad, iPhone PC or Mac click https://t.co/ZUdDGAK8o7",
+			"url": "https://t.co/8x4uFPgtgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8x4uFPgtgm",
+							"expanded_url": "http://sundaysportonline.co.uk",
+							"display_url": "sundaysportonline.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZUdDGAK8o7",
+							"expanded_url": "http://bit.ly/1niHIYm",
+							"display_url": "bit.ly/1niHIYm",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40513,
+			"friends_count": 3458,
+			"listed_count": 168,
+			"created_at": "Tue Sep 28 10:42:43 +0000 2010",
+			"favourites_count": 1388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/461159252782878721/s6v_UcE1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/461159252782878721/s6v_UcE1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196108016/1398850817",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2043,
+		"favorite_count": 5726,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "I bought Poundland's \"Gucci\" pumps - now I'm drowning in pussy! Only in Sunday Sport tomorrow https://t.co/K0JxuR6Kjs"
+	},
+	{
 		"created_at": "Mon Jul 22 14:51:46 +0000 2019",
 		"id": 1153316714446315500,
 		"id_str": "1153316714446315527",
