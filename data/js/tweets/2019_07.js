@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 25 18:10:05 +0000 2019",
+		"id": 1154433695668945000,
+		"id_str": "1154453782563979265",
+		"full_text": "Eine Frau kommt bei einer kosmetischen Operation ums Leben. Wie könnte man das adäquat, sinnvoll und mit Feingefühl bebildern hm ach fuck it es sind 42 grad https://t.co/vRBGt82L0G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154433683727749000,
+					"id_str": "1154433683727749120",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EAVfUaNWkAAzFUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAVfUaNWkAAzFUc.jpg",
+					"url": "https://t.co/vRBGt82L0G",
+					"display_url": "pic.twitter.com/vRBGt82L0G",
+					"expanded_url": "https://twitter.com/samelou/status/1154433695668944902/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 548,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154433683727749000,
+					"id_str": "1154433683727749120",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EAVfUaNWkAAzFUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAVfUaNWkAAzFUc.jpg",
+					"url": "https://t.co/vRBGt82L0G",
+					"display_url": "pic.twitter.com/vRBGt82L0G",
+					"expanded_url": "https://twitter.com/samelou/status/1154433695668944902/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 548,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 548,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154433685074133000,
+					"id_str": "1154433685074132993",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EAVfUfOWwAE5klH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAVfUfOWwAE5klH.jpg",
+					"url": "https://t.co/vRBGt82L0G",
+					"display_url": "pic.twitter.com/vRBGt82L0G",
+					"expanded_url": "https://twitter.com/samelou/status/1154433695668944902/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 595,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 595,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154433684952486000,
+					"id_str": "1154433684952485888",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EAVfUexWkAArd2j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAVfUexWkAArd2j.jpg",
+					"url": "https://t.co/vRBGt82L0G",
+					"display_url": "pic.twitter.com/vRBGt82L0G",
+					"expanded_url": "https://twitter.com/samelou/status/1154433695668944902/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 519,
+							"h": 406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 519,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154433686986788900,
+					"id_str": "1154433686986788865",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EAVfUmWXkAESc7O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAVfUmWXkAESc7O.jpg",
+					"url": "https://t.co/vRBGt82L0G",
+					"display_url": "pic.twitter.com/vRBGt82L0G",
+					"expanded_url": "https://twitter.com/samelou/status/1154433695668944902/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 529,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 529,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 275140490,
+			"id_str": "275140490",
+			"name": "Samira El Ouassil",
+			"screen_name": "samelou",
+			"location": "",
+			"description": "Hallo.",
+			"url": "https://t.co/uie71qlYeF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uie71qlYeF",
+							"expanded_url": "https://youtu.be/Y25xSLu2TFA",
+							"display_url": "youtu.be/Y25xSLu2TFA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15228,
+			"friends_count": 1232,
+			"listed_count": 87,
+			"created_at": "Thu Mar 31 18:13:41 +0000 2011",
+			"favourites_count": 8016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095072230982209537/bnCetPtH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095072230982209537/bnCetPtH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/275140490/1398141285",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Eine Frau kommt bei einer kosmetischen Operation ums Leben. Wie könnte man das adäquat, sinnvoll und mit Feingefühl bebildern hm ach fuck it es sind 42 grad https://t.co/vRBGt82L0G"
+	},
+	{
 		"created_at": "Thu Jul 25 13:10:45 +0000 2019",
 		"id": 1154378455867437000,
 		"id_str": "1154378455867437057",
