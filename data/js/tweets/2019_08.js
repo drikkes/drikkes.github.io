@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 07 05:02:05 +0000 2019",
+		"id": 1158753789219750000,
+		"id_str": "1158966518673264640",
+		"full_text": "all shoes look like this now https://t.co/FodQqzr7kf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1158753782693367800,
+					"id_str": "1158753782693367808",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EBS4bQ-UEAAdEzM.png",
+					"media_url_https": "https://pbs.twimg.com/media/EBS4bQ-UEAAdEzM.png",
+					"url": "https://t.co/FodQqzr7kf",
+					"display_url": "pic.twitter.com/FodQqzr7kf",
+					"expanded_url": "https://twitter.com/themjeans/status/1158753789219749889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158753782693367800,
+					"id_str": "1158753782693367808",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EBS4bQ-UEAAdEzM.png",
+					"media_url_https": "https://pbs.twimg.com/media/EBS4bQ-UEAAdEzM.png",
+					"url": "https://t.co/FodQqzr7kf",
+					"display_url": "pic.twitter.com/FodQqzr7kf",
+					"expanded_url": "https://twitter.com/themjeans/status/1158753789219749889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17031030,
+			"id_str": "17031030",
+			"name": "themjeans",
+			"screen_name": "themjeans",
+			"location": "Los Angeles, CA",
+			"description": "Branding / Strategy / Podcast / DJ / Food",
+			"url": "https://t.co/KomPpI41mx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KomPpI41mx",
+							"expanded_url": "http://Instagram.com/themjeans",
+							"display_url": "Instagram.com/themjeans",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19084,
+			"friends_count": 755,
+			"listed_count": 159,
+			"created_at": "Tue Oct 28 23:13:06 +0000 2008",
+			"favourites_count": 29196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E1BCEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138866615141822464/zG3VtEr1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138866615141822464/zG3VtEr1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17031030/1519696148",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 508,
+		"favorite_count": 4028,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "all shoes look like this now https://t.co/FodQqzr7kf"
+	},
+	{
 		"created_at": "Tue Aug 06 07:07:34 +0000 2019",
 		"id": 1158490868040568800,
 		"id_str": "1158635709881868288",
