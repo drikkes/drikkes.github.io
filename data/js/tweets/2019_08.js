@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 12 22:48:38 +0000 2019",
+		"id": 1161029069309456400,
+		"id_str": "1161046864654995456",
+		"full_text": "wenn man diese beiden bilder merget kommt true fruits raus https://t.co/1Yquj2WtuV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1161029056894255000,
+					"id_str": "1161029056894255107",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EBzNxp4WwAMF3Cs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBzNxp4WwAMF3Cs.jpg",
+					"url": "https://t.co/1Yquj2WtuV",
+					"display_url": "pic.twitter.com/1Yquj2WtuV",
+					"expanded_url": "https://twitter.com/DaxWerner/status/1161029069309456384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1900,
+							"h": 1276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161029056894255000,
+					"id_str": "1161029056894255107",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EBzNxp4WwAMF3Cs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBzNxp4WwAMF3Cs.jpg",
+					"url": "https://t.co/1Yquj2WtuV",
+					"display_url": "pic.twitter.com/1Yquj2WtuV",
+					"expanded_url": "https://twitter.com/DaxWerner/status/1161029069309456384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1900,
+							"h": 1276,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1161029065194836000,
+					"id_str": "1161029065194835969",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EBzNyIzXkAEQ4_1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBzNyIzXkAEQ4_1.jpg",
+					"url": "https://t.co/1Yquj2WtuV",
+					"display_url": "pic.twitter.com/1Yquj2WtuV",
+					"expanded_url": "https://twitter.com/DaxWerner/status/1161029069309456384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 910,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815634950372397000,
+			"id_str": "815634950372397056",
+			"name": "Dax Werner",
+			"screen_name": "DaxWerner",
+			"location": "",
+			"description": "@titanic   @diescreenshots",
+			"url": "https://t.co/eJaGLaBusr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eJaGLaBusr",
+							"expanded_url": "http://bit.ly/liebegruessetour",
+							"display_url": "bit.ly/liebegruesseto…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25015,
+			"friends_count": 1872,
+			"listed_count": 106,
+			"created_at": "Sun Jan 01 19:05:00 +0000 2017",
+			"favourites_count": 154626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151103602720722946/wN--m7JH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151103602720722946/wN--m7JH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815634950372397056/1564491238",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "wenn man diese beiden bilder merget kommt true fruits raus https://t.co/1Yquj2WtuV"
+	},
+	{
 		"created_at": "Mon Aug 12 15:40:12 +0000 2019",
 		"id": 1160939048049021000,
 		"id_str": "1160939048049020929",
