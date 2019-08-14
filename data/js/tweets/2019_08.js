@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 14 03:38:44 +0000 2019",
+		"id": 1160911717720830000,
+		"id_str": "1161482257338654720",
+		"full_text": "https://t.co/G6V7aAufec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160911689841332200,
+					"id_str": "1160911689841332224",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EBxjB_iXUAANc34.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBxjB_iXUAANc34.jpg",
+					"url": "https://t.co/G6V7aAufec",
+					"display_url": "pic.twitter.com/G6V7aAufec",
+					"expanded_url": "https://twitter.com/KiIledByDeath__/status/1160911717720829957/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 712,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 759,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160911689841332200,
+					"id_str": "1160911689841332224",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EBxjB_iXUAANc34.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBxjB_iXUAANc34.jpg",
+					"url": "https://t.co/G6V7aAufec",
+					"display_url": "pic.twitter.com/G6V7aAufec",
+					"expanded_url": "https://twitter.com/KiIledByDeath__/status/1160911717720829957/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 712,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 759,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160911700557742000,
+					"id_str": "1160911700557742082",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EBxjCndWwAIE1cS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBxjCndWwAIE1cS.jpg",
+					"url": "https://t.co/G6V7aAufec",
+					"display_url": "pic.twitter.com/G6V7aAufec",
+					"expanded_url": "https://twitter.com/KiIledByDeath__/status/1160911717720829957/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 717,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 765,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 406,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1160911710171160600,
+					"id_str": "1160911710171160576",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EBxjDLRX4AANwN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBxjDLRX4AANwN7.jpg",
+					"url": "https://t.co/G6V7aAufec",
+					"display_url": "pic.twitter.com/G6V7aAufec",
+					"expanded_url": "https://twitter.com/KiIledByDeath__/status/1160911717720829957/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 739,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 739,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1084593434164367400,
+			"id_str": "1084593434164367360",
+			"name": "claudia",
+			"screen_name": "KiIledByDeath__",
+			"location": "leite do tetinha",
+			"description": "You'd better run faster than my bullet.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 878,
+			"friends_count": 286,
+			"listed_count": 1,
+			"created_at": "Sun Jan 13 23:30:00 +0000 2019",
+			"favourites_count": 27183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143809011197894657/VYkOr3gp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143809011197894657/VYkOr3gp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1084593434164367360/1560943666",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84239,
+		"favorite_count": 317115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/G6V7aAufec"
+	},
+	{
 		"created_at": "Tue Aug 13 13:38:26 +0000 2019",
 		"id": 1161270792220491800,
 		"id_str": "1161270792220491776",
