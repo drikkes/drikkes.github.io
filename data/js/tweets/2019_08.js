@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 14 16:13:01 +0000 2019",
+		"id": 1161672078766018600,
+		"id_str": "1161672078766018565",
+		"full_text": "Moin. (@ Superbude St. Pauli in Hamburg) https://t.co/d2jl04zQiO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d2jl04zQiO",
+					"expanded_url": "https://www.swarmapp.com/c/4a362nVu8RM",
+					"display_url": "swarmapp.com/c/4a362nVu8RM",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 852,
+			"friends_count": 162,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				53.56033072,
+				9.9599411
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				9.9599411,
+				53.56033072
+			]
+		},
+		"place": {
+			"id": "5bcd72da50f0ee77",
+			"url": "https://api.twitter.com/1.1/geo/id/5bcd72da50f0ee77.json",
+			"place_type": "city",
+			"name": "Hamburg",
+			"full_name": "Hamburg, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							8.4201604,
+							53.395118
+						],
+						[
+							10.325199,
+							53.395118
+						],
+						[
+							10.325199,
+							53.9646546
+						],
+						[
+							8.4201604,
+							53.9646546
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Moin. (@ Superbude St. Pauli in Hamburg) https://t.co/d2jl04zQiO"
+	},
+	{
 		"created_at": "Wed Aug 14 08:42:44 +0000 2019",
 		"id": 1161558761535881200,
 		"id_str": "1161558761535881218",
