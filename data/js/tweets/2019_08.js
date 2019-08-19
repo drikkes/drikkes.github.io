@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 19 13:42:23 +0000 2019",
+		"id": 1163446110771458000,
+		"id_str": "1163446110771458053",
+		"full_text": "Ich erhöhe um einen Win. https://t.co/Mk81hCnLJM https://t.co/KoBpqDf8KH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mk81hCnLJM",
+					"expanded_url": "https://twitter.com/phildampier/status/1162993955782430721",
+					"display_url": "twitter.com/phildampier/st…",
+					"indices": [
+						25,
+						48
+					]
+				},
+				{
+					"url": "https://t.co/KoBpqDf8KH",
+					"expanded_url": "https://twitter.com/marcelweiss/status/1163419374532927494",
+					"display_url": "twitter.com/marcelweiss/st…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 852,
+			"friends_count": 162,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0ea0e665161844a4",
+			"url": "https://api.twitter.com/1.1/geo/id/0ea0e665161844a4.json",
+			"place_type": "neighborhood",
+			"name": "Pempelfort",
+			"full_name": "Pempelfort, Düsseldorf",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.765948,
+							51.228052
+						],
+						[
+							6.798002,
+							51.228052
+						],
+						[
+							6.798002,
+							51.243446
+						],
+						[
+							6.765948,
+							51.243446
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1163419374532927500,
+		"quoted_status_id_str": "1163419374532927494",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KoBpqDf8KH",
+			"expanded": "https://twitter.com/marcelweiss/status/1163419374532927494",
+			"display": "twitter.com/marcelweiss/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 19 11:56:08 +0000 2019",
+			"id": 1163419374532927500,
+			"id_str": "1163419374532927494",
+			"full_text": "Win-win-win-win! https://t.co/aT8Eb6ulsq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				16
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aT8Eb6ulsq",
+						"expanded_url": "https://twitter.com/norberthaering/status/1163386937497018368",
+						"display_url": "twitter.com/norberthaering…",
+						"indices": [
+							17,
+							40
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://birdie.news\" rel=\"nofollow\">Birdie for Twitter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1007251,
+				"id_str": "1007251",
+				"name": "Marcel Weiss",
+				"screen_name": "marcelweiss",
+				"location": "Berlin, Germany",
+				"description": "Ich denke, rede & schreibe über das Netz. Freier Strategy Analyst seit 2009. Gründungsmitglied @_ownw Blog: @neunetz, Podcasts: @neunetzfm (Engl: @newnetland)",
+				"url": "https://t.co/t5NmQfCGRM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/t5NmQfCGRM",
+								"expanded_url": "http://marcelweiss.de/",
+								"display_url": "marcelweiss.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4891,
+				"friends_count": 1312,
+				"listed_count": 299,
+				"created_at": "Mon Mar 12 12:58:14 +0000 2007",
+				"favourites_count": 23994,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22878,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6699AA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/476701632961343489/-a8I5OrF_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/476701632961343489/-a8I5OrF_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1007251/1549444440",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1163356957203472400,
+			"quoted_status_id_str": "1163356957203472385",
+			"quoted_status_permalink": {
+				"url": "https://t.co/aT8Eb6ulsq",
+				"expanded": "https://twitter.com/norberthaering/status/1163386937497018368",
+				"display": "twitter.com/norberthaering…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Ich erhöhe um einen Win. https://t.co/Mk81hCnLJM https://t.co/KoBpqDf8KH"
+	},
+	{
 		"created_at": "Mon Aug 19 09:29:04 +0000 2019",
 		"id": 1163382362853531600,
 		"id_str": "1163382362853531648",
