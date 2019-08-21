@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 21 13:11:56 +0000 2019",
+		"id": 1164163224780050400,
+		"id_str": "1164163224780050432",
+		"full_text": "Well done. https://t.co/HlmusoF05n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HlmusoF05n",
+					"expanded_url": "https://twitter.com/Channel4/status/1163855027288625155",
+					"display_url": "twitter.com/Channel4/statu…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 852,
+			"friends_count": 162,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0ea0e665161844a4",
+			"url": "https://api.twitter.com/1.1/geo/id/0ea0e665161844a4.json",
+			"place_type": "neighborhood",
+			"name": "Pempelfort",
+			"full_name": "Pempelfort, Düsseldorf",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.765948,
+							51.228052
+						],
+						[
+							6.798002,
+							51.228052
+						],
+						[
+							6.798002,
+							51.243446
+						],
+						[
+							6.765948,
+							51.243446
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1163855027288625200,
+		"quoted_status_id_str": "1163855027288625155",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HlmusoF05n",
+			"expanded": "https://twitter.com/Channel4/status/1163855027288625155",
+			"display": "twitter.com/Channel4/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 20 16:47:16 +0000 2019",
+			"id": 1163855027288625200,
+			"id_str": "1163855027288625155",
+			"full_text": "Channel 4 was set up to be different \nComplaints welcome https://t.co/pizkSaYrCF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1163793089812684800,
+						"id_str": "1163793089812684805",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/ECagX5qWkAMTiPi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECagX5qWkAMTiPi.jpg",
+						"url": "https://t.co/pizkSaYrCF",
+						"display_url": "pic.twitter.com/pizkSaYrCF",
+						"expanded_url": "https://twitter.com/Channel4/status/1163855027288625155/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1163793089812684800,
+						"id_str": "1163793089812684805",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/ECagX5qWkAMTiPi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECagX5qWkAMTiPi.jpg",
+						"url": "https://t.co/pizkSaYrCF",
+						"display_url": "pic.twitter.com/pizkSaYrCF",
+						"expanded_url": "https://twitter.com/Channel4/status/1163855027288625155/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 84800,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1163793089812684805/vid/480x270/cAwSNPrsqgGrcdRn.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1163793089812684805/vid/640x360/5iQ2P_FnVvj6t3Lp.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1163793089812684805/pl/8VeouiLkj5IidNZ9.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1163793089812684805/vid/1280x720/kiNuQ2JB5JSs_kVv.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 183585551,
+				"id_str": "183585551",
+				"name": "Channel 4",
+				"screen_name": "Channel4",
+				"location": "United Kingdom",
+				"description": "UK broadcaster since 1982. Publicly owned, funded by adverts. Champions unheard voices, takes bold creative risks, inspires change and stands up for diversity.",
+				"url": "https://t.co/DNjFRv6zDO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DNjFRv6zDO",
+								"expanded_url": "http://www.channel4.com",
+								"display_url": "channel4.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 959419,
+				"friends_count": 9786,
+				"listed_count": 2372,
+				"created_at": "Fri Aug 27 11:07:07 +0000 2010",
+				"favourites_count": 6332,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 51591,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1162381114754965505/pnB7IoI6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162381114754965505/pnB7IoI6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183585551/1566204463",
+				"profile_link_color": "0A0A0A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7E99C2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10997,
+			"favorite_count": 50929,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well done. https://t.co/HlmusoF05n"
+	},
+	{
 		"created_at": "Wed Aug 21 09:26:10 +0000 2019",
 		"id": 1164106407244959700,
 		"id_str": "1164106407244959744",
