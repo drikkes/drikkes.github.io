@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 22 20:49:02 +0000 2019",
+		"id": 1164640644016627700,
+		"id_str": "1164640644016627719",
+		"full_text": "„Internationale Garantie“ https://t.co/NLHxugI3yr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NLHxugI3yr",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1164614468229390336",
+					"display_url": "twitter.com/Die_Reklame/st…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 850,
+			"friends_count": 161,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1164614468229390300,
+		"quoted_status_id_str": "1164614468229390336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NLHxugI3yr",
+			"expanded": "https://twitter.com/Die_Reklame/status/1164614468229390336",
+			"display": "twitter.com/Die_Reklame/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 22 19:05:01 +0000 2019",
+			"id": 1164614468229390300,
+			"id_str": "1164614468229390336",
+			"full_text": "Stern, 1.7.1976 https://t.co/7E3XDimmJS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				15
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1164614465154891800,
+						"id_str": "1164614465154891776",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/ECmKr4fWwAA8xDu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECmKr4fWwAA8xDu.jpg",
+						"url": "https://t.co/7E3XDimmJS",
+						"display_url": "pic.twitter.com/7E3XDimmJS",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1164614468229390336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 896,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 508,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1530,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1164614465154891800,
+						"id_str": "1164614465154891776",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/ECmKr4fWwAA8xDu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECmKr4fWwAA8xDu.jpg",
+						"url": "https://t.co/7E3XDimmJS",
+						"display_url": "pic.twitter.com/7E3XDimmJS",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1164614468229390336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 896,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 508,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1530,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://github.com/spinfo/autoChirp\" rel=\"nofollow\">autoChirper</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 966765831140139000,
+				"id_str": "966765831140139009",
+				"name": "Die Reklame",
+				"screen_name": "Die_Reklame",
+				"location": "",
+				"description": "Historische Werbung. Von @moritz_hoffmann, @CJahnz und @mschfr, Technik von @auto_chirp. Wir stehen nicht in Verbindung mit den abgebildeten Produkten.",
+				"url": "https://t.co/3Yb5ujzitv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3Yb5ujzitv",
+								"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+								"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4122,
+				"friends_count": 63,
+				"listed_count": 37,
+				"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+				"favourites_count": 347,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2405,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+				"profile_link_color": "1A1A1A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "„Internationale Garantie“ https://t.co/NLHxugI3yr"
+	},
+	{
 		"created_at": "Thu Aug 22 13:51:50 +0000 2019",
 		"id": 1164535653742325800,
 		"id_str": "1164535653742325760",
