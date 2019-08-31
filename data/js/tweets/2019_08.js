@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 11:57:55 +0000 2019",
+		"id": 1167768477316214800,
+		"id_str": "1167768477316214790",
+		"full_text": "„Ministers have even ordered mugs and t-shirts with the ‘Get ready’ slogan.“ https://t.co/J5HvUt85le",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J5HvUt85le",
+					"expanded_url": "https://twitter.com/MarcusJHBrown/status/1167694314992033792",
+					"display_url": "twitter.com/MarcusJHBrown/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 163,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1167694314992033800,
+		"quoted_status_id_str": "1167694314992033792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J5HvUt85le",
+			"expanded": "https://twitter.com/MarcusJHBrown/status/1167694314992033792",
+			"display": "twitter.com/MarcusJHBrown/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 31 07:03:14 +0000 2019",
+			"id": 1167694314992033800,
+			"id_str": "1167694314992033792",
+			"full_text": "GET READY. The new Black Operatives Department campaign for the UK Government.\n\nBrexit: Public to be urged to 'get ready' for no-deal in £100m advertising blitz | The Independent https://t.co/s18tSl0fpo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/s18tSl0fpo",
+						"expanded_url": "https://www.independent.co.uk/news/uk/politics/brexit-no-deal-adverts-boris-johnson-michael-gove-eu-a9085201.html",
+						"display_url": "independent.co.uk/news/uk/politi…",
+						"indices": [
+							179,
+							202
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 116246631,
+				"id_str": "116246631",
+				"name": "Marcus John Henry Brown",
+				"screen_name": "MarcusJHBrown",
+				"location": "Munich",
+				"description": "| Performance artist | Author, producer and performer of The Passing Trilogy, CONTROL and CHEMISTRY |",
+				"url": "https://t.co/z1SX6FEtSC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z1SX6FEtSC",
+								"expanded_url": "https://www.marcusjohnhenrybrown.com/",
+								"display_url": "marcusjohnhenrybrown.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3036,
+				"friends_count": 393,
+				"listed_count": 183,
+				"created_at": "Sun Feb 21 18:53:28 +0000 2010",
+				"favourites_count": 26852,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17095,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1068054916642553857/tnZnRJO9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068054916642553857/tnZnRJO9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/116246631/1565263223",
+				"profile_link_color": "756033",
+				"profile_sidebar_border_color": "B2B2B2",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "„Ministers have even ordered mugs and t-shirts with the ‘Get ready’ slogan.“ https://t.co/J5HvUt85le"
+	},
+	{
+		"created_at": "Sat Aug 31 11:47:49 +0000 2019",
+		"id": 1167329800375210000,
+		"id_str": "1167765935954026496",
+		"full_text": "In #Görlitz riefen selbst #Antifa-Gruppen zur Wahl des CDU-Kandidaten #Ursu auf, um einen AfD-OB zu verhindern. Und wie dankt es die CDU? Stimmt mit der AfD gegen Ihre Unterstützer und bringt den Vertreter einer vom #VS beobachteten Organistation (#IB) ins Amt. #ltwsn https://t.co/cNY74FvUBO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Görlitz",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"text": "Antifa",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"text": "Ursu",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "VS",
+					"indices": [
+						216,
+						219
+					]
+				},
+				{
+					"text": "IB",
+					"indices": [
+						248,
+						251
+					]
+				},
+				{
+					"text": "ltwsn",
+					"indices": [
+						262,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cNY74FvUBO",
+					"expanded_url": "https://twitter.com/schullegr/status/1167133367101480965",
+					"display_url": "twitter.com/schullegr/stat…",
+					"indices": [
+						269,
+						292
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 789536425,
+			"id_str": "789536425",
+			"name": "Michael Lühmann",
+			"screen_name": "HerrLuehmann",
+			"location": "Göttingen, Deutschland",
+			"description": "Demokratieforscher @DemokratieGoe und Redakteur @INDESonline. Forscht zu AfD und Grünen, zu politischer Kultur und Antifaschismus in der DDR und Ostdeutschland.",
+			"url": "https://t.co/G3Q0dWeIMx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G3Q0dWeIMx",
+							"expanded_url": "http://www.demokratie-goettingen.de/mitarbeiter/wissenschaftliche-mitarbeiter/michael-luhmann",
+							"display_url": "demokratie-goettingen.de/mitarbeiter/wi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 835,
+			"friends_count": 535,
+			"listed_count": 13,
+			"created_at": "Wed Aug 29 15:07:00 +0000 2012",
+			"favourites_count": 6302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/545242470007595008/bjh6V5YA_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/545242470007595008/bjh6V5YA_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/789536425/1548085862",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1167133367101481000,
+		"quoted_status_id_str": "1167133367101480965",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cNY74FvUBO",
+			"expanded": "https://twitter.com/schullegr/status/1167133367101480965",
+			"display": "twitter.com/schullegr/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 29 17:54:13 +0000 2019",
+			"id": 1167133367101481000,
+			"id_str": "1167133367101480965",
+			"full_text": "Die #CDU im Stadtrat #Görlitz stimmt nicht nur mit der AfD gegen Kandidaten der #LINKEN sondern auch gegen Kandidaten der Bündnisfraktion BfG, Motor Görlitz, #Grüne, #SPD und wählen den AfD Kandidaten der der Identitären Bewegung zugerechnet wird. #noafd #niewiederCDU #ltwsn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CDU",
+						"indices": [
+							4,
+							8
+						]
+					},
+					{
+						"text": "Görlitz",
+						"indices": [
+							21,
+							29
+						]
+					},
+					{
+						"text": "LINKEN",
+						"indices": [
+							80,
+							87
+						]
+					},
+					{
+						"text": "Grüne",
+						"indices": [
+							158,
+							164
+						]
+					},
+					{
+						"text": "SPD",
+						"indices": [
+							166,
+							170
+						]
+					},
+					{
+						"text": "noafd",
+						"indices": [
+							248,
+							254
+						]
+					},
+					{
+						"text": "niewiederCDU",
+						"indices": [
+							255,
+							268
+						]
+					},
+					{
+						"text": "ltwsn",
+						"indices": [
+							269,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50787771,
+				"id_str": "50787771",
+				"name": "MdL Mirko Schultze",
+				"screen_name": "schullegr",
+				"location": "Görlitz",
+				"description": "1974 in Görlitz geboren und Mitglied des Sächsischen Landtages - Fraktion DIE LINKE",
+				"url": "http://t.co/dmC6D4eIHC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/dmC6D4eIHC",
+								"expanded_url": "http://www.mirko-schultze.de",
+								"display_url": "mirko-schultze.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1940,
+				"friends_count": 1581,
+				"listed_count": 64,
+				"created_at": "Thu Jun 25 22:13:11 +0000 2009",
+				"favourites_count": 3889,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8596,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F21847",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1156895867007307776/P9uzks2Z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156895867007307776/P9uzks2Z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50787771/1542015721",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 231,
+			"favorite_count": 419,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 346,
+		"favorite_count": 547,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "In #Görlitz riefen selbst #Antifa-Gruppen zur Wahl des CDU-Kandidaten #Ursu auf, um einen AfD-OB zu verhindern. Und wie dankt es die CDU? Stimmt mit der AfD gegen Ihre Unterstützer und bringt den Vertreter einer vom #VS beobachteten Organistation (#IB) ins Amt. #ltwsn https://t.co/cNY74FvUBO"
+	},
+	{
 		"created_at": "Fri Aug 30 15:38:00 +0000 2019",
 		"id": 1167461474249433000,
 		"id_str": "1167461474249433090",
