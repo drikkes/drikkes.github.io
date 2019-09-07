@@ -1,6 +1,161 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 21:24:44 +0000 2019",
+		"id": 1170264006105415700,
+		"id_str": "1170447836388954113",
+		"full_text": "NEW VISION for @Twitter 👉🏻 https://t.co/YZleNWYsZ8 It turns twitter into an html table that you can sort in 29 different ways.\n\n#OtherOrders is by @sam_lavigne, made for the Akademie Schloss Solitude - @zkmkarlsruhe web residency program. @SolitudeNetwork",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OtherOrders",
+					"indices": [
+						128,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"screen_name": "sam_lavigne",
+					"name": "Sam Lavigne",
+					"id": 6428702,
+					"id_str": "6428702",
+					"indices": [
+						147,
+						159
+					]
+				},
+				{
+					"screen_name": "zkmkarlsruhe",
+					"name": "ZKM Karlsruhe",
+					"id": 52354055,
+					"id_str": "52354055",
+					"indices": [
+						202,
+						215
+					]
+				},
+				{
+					"screen_name": "SolitudeNetwork",
+					"name": "Akademie Solitude",
+					"id": 19911187,
+					"id_str": "19911187",
+					"indices": [
+						239,
+						255
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YZleNWYsZ8",
+					"expanded_url": "https://otherorders.net",
+					"display_url": "otherorders.net",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 225542451,
+			"id_str": "225542451",
+			"name": "mr.w0bb1t 🌐",
+			"screen_name": "_w0bb1t_",
+			"location": "(⧖)  0xC45FCC65D74014E6",
+			"description": "Loading...",
+			"url": "https://t.co/Bq9z09knbi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bq9z09knbi",
+							"expanded_url": "https://mastodon.social/@w0bb1t",
+							"display_url": "mastodon.social/@w0bb1t",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415,
+			"friends_count": 831,
+			"listed_count": 11,
+			"created_at": "Sat Dec 11 20:56:26 +0000 2010",
+			"favourites_count": 984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152873836322467845/vqVnVgyL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152873836322467845/vqVnVgyL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/225542451/1563700321",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "4D494A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW VISION for @Twitter 👉🏻 https://t.co/YZleNWYsZ8 It turns twitter into an html table that you can sort in 29 different ways.\n\n#OtherOrders is by @sam_lavigne, made for the Akademie Schloss Solitude - @zkmkarlsruhe web residency program. @SolitudeNetwork"
+	},
+	{
 		"created_at": "Sat Sep 07 11:39:28 +0000 2019",
 		"id": 1170294390247571500,
 		"id_str": "1170300548622487554",
