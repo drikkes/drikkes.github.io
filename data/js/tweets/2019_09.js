@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 11:39:28 +0000 2019",
+		"id": 1170294390247571500,
+		"id_str": "1170300548622487554",
+		"full_text": "Da bin ich ja froh. https://t.co/5haUAM9KNw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5haUAM9KNw",
+					"expanded_url": "https://twitter.com/boeingdach/status/1168905236389302272",
+					"display_url": "twitter.com/boeingdach/sta…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71992998,
+			"id_str": "71992998",
+			"name": "Stephan Noller",
+			"screen_name": "holadiho",
+			"location": "Cologne/Germany",
+			"description": "The armies of those I love engirth me, and I engirth them; #ubirch #calliope #trackle #D64 #bvdw",
+			"url": "https://t.co/w5szGzHu2G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5szGzHu2G",
+							"expanded_url": "http://stephannoller.eu",
+							"display_url": "stephannoller.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2761,
+			"friends_count": 2331,
+			"listed_count": 201,
+			"created_at": "Sun Sep 06 07:56:17 +0000 2009",
+			"favourites_count": 16126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1044460234171961344/lBm7auIM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044460234171961344/lBm7auIM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71992998/1408024913",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1168905236389302300,
+		"quoted_status_id_str": "1168905236389302272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5haUAM9KNw",
+			"expanded": "https://twitter.com/boeingdach/status/1168905236389302272",
+			"display": "twitter.com/boeingdach/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 03 15:15:00 +0000 2019",
+			"id": 1168905236389302300,
+			"id_str": "1168905236389302272",
+			"full_text": "Der H-47 Chinook ist mit visionärem Design und neuester Technik ausgestattet. Der Chinook steht bereit, Deutschland zu dienen – jetzt und in Zukunft.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 822065905375019000,
+				"id_str": "822065905375019008",
+				"name": "Boeing DACH",
+				"screen_name": "BoeingDACH",
+				"location": "Berlin, Deutschland",
+				"description": "Offizieller @Boeing D-A-CH Twitter Account - informiert über #Technologie #Innovation und #Partnerschaft in Deutschland, Österreich & der Schweiz.",
+				"url": "https://t.co/42LJUaAKzZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/42LJUaAKzZ",
+								"expanded_url": "http://www.Boeing.de",
+								"display_url": "Boeing.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2319,
+				"friends_count": 662,
+				"listed_count": 24,
+				"created_at": "Thu Jan 19 12:59:19 +0000 2017",
+				"favourites_count": 1467,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 739,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1064842339942916096/fsCz3YLs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064842339942916096/fsCz3YLs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/822065905375019008/1562929412",
+				"profile_link_color": "0039A6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 122,
+			"favorited": false,
+			"retweeted": false,
+			"scopes": {
+				"followers": false
+			},
+			"lang": "de"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Da bin ich ja froh. https://t.co/5haUAM9KNw"
+	},
+	{
 		"created_at": "Fri Sep 06 13:48:28 +0000 2019",
 		"id": 1169970624040767500,
 		"id_str": "1169970624040767490",
