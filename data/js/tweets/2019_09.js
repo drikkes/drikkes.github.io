@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 17:19:20 +0000 2019",
+		"id": 1170729757438353400,
+		"id_str": "1170748464516538368",
+		"full_text": "Bürger-Zeitung für Düsseldorf und Umgebung, 14.7.1893 https://t.co/eYXI1708FV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170729755529887700,
+					"id_str": "1170729755529887745",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/ED9EgoZWwAEiJhJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED9EgoZWwAEiJhJ.png",
+					"url": "https://t.co/eYXI1708FV",
+					"display_url": "pic.twitter.com/eYXI1708FV",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1170729757438353408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 526,
+							"h": 758,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 526,
+							"h": 758,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170729755529887700,
+					"id_str": "1170729755529887745",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/ED9EgoZWwAEiJhJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED9EgoZWwAEiJhJ.png",
+					"url": "https://t.co/eYXI1708FV",
+					"display_url": "pic.twitter.com/eYXI1708FV",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1170729757438353408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 526,
+							"h": 758,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 526,
+							"h": 758,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/spinfo/autoChirp\" rel=\"nofollow\">autoChirper</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966765831140139000,
+			"id_str": "966765831140139009",
+			"name": "Die Reklame",
+			"screen_name": "Die_Reklame",
+			"location": "",
+			"description": "Historische Werbung. Von @moritz_hoffmann, @CJahnz und @mschfr, Technik von @auto_chirp. Wir stehen nicht in Verbindung mit den abgebildeten Produkten.",
+			"url": "https://t.co/3Yb5ujzitv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Yb5ujzitv",
+							"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+							"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4158,
+			"friends_count": 63,
+			"listed_count": 37,
+			"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+			"profile_link_color": "1A1A1A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Bürger-Zeitung für Düsseldorf und Umgebung, 14.7.1893 https://t.co/eYXI1708FV"
+	},
+	{
 		"created_at": "Sun Sep 08 14:36:40 +0000 2019",
 		"id": 1170707529653018600,
 		"id_str": "1170707529653018629",
