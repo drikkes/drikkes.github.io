@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 11 11:15:26 +0000 2019",
+		"id": 1171675610571247600,
+		"id_str": "1171744051898568704",
+		"full_text": "Visiting the #DMEXCO19? Find yourself sitting in the audience of one of the 19 male-only panels? The panel takes questions from the audience? Ask them why there aren't any women on the panel. ASK THEM WHY.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DMEXCO19",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116246631,
+			"id_str": "116246631",
+			"name": "Marcus John Henry Brown",
+			"screen_name": "MarcusJHBrown",
+			"location": "Munich",
+			"description": "| Performance artist | Author, producer and performer of The Passing Trilogy, CONTROL and CHEMISTRY |",
+			"url": "https://t.co/z1SX6FEtSC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z1SX6FEtSC",
+							"expanded_url": "https://www.marcusjohnhenrybrown.com/",
+							"display_url": "marcusjohnhenrybrown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3038,
+			"friends_count": 394,
+			"listed_count": 184,
+			"created_at": "Sun Feb 21 18:53:28 +0000 2010",
+			"favourites_count": 27095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068054916642553857/tnZnRJO9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068054916642553857/tnZnRJO9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116246631/1565263223",
+			"profile_link_color": "756033",
+			"profile_sidebar_border_color": "B2B2B2",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Visiting the #DMEXCO19? Find yourself sitting in the audience of one of the 19 male-only panels? The panel takes questions from the audience? Ask them why there aren't any women on the panel. ASK THEM WHY."
+	},
+	{
 		"created_at": "Tue Sep 10 12:39:41 +0000 2019",
 		"id": 1171402866759753700,
 		"id_str": "1171402866759753728",
