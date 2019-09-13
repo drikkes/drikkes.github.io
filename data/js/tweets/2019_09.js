@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 07:34:30 +0000 2019",
+		"id": 1172182765699326000,
+		"id_str": "1172413229181497345",
+		"full_text": "Die Washington Post hat heute ihre kostenlose Express-Ausgabe eingestellt. Das ist die letzte Titelseite: https://t.co/v285BXZcBL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172182732702716000,
+					"id_str": "1172182732702715905",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EERt_CKXkAEZfLg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EERt_CKXkAEZfLg.jpg",
+					"url": "https://t.co/v285BXZcBL",
+					"display_url": "pic.twitter.com/v285BXZcBL",
+					"expanded_url": "https://twitter.com/titelseiten/status/1172182765699325952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172182732702716000,
+					"id_str": "1172182732702715905",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EERt_CKXkAEZfLg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EERt_CKXkAEZfLg.jpg",
+					"url": "https://t.co/v285BXZcBL",
+					"display_url": "pic.twitter.com/v285BXZcBL",
+					"expanded_url": "https://twitter.com/titelseiten/status/1172182765699325952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1182,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3303137152,
+			"id_str": "3303137152",
+			"name": "Titelseiten",
+			"screen_name": "titelseiten",
+			"location": "Oberfalz",
+			"description": "Titelseiten und Aufmacher aus aller Welt. Headerbild CC-BY 2.0 Davis Staedtler, Tweets von @tibor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1512,
+			"friends_count": 75,
+			"listed_count": 18,
+			"created_at": "Fri May 29 19:25:34 +0000 2015",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0000AA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/605300588625010688/69XCCVHg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/605300588625010688/69XCCVHg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3303137152/1449578510",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Die Washington Post hat heute ihre kostenlose Express-Ausgabe eingestellt. Das ist die letzte Titelseite: https://t.co/v285BXZcBL"
+	},
+	{
 		"created_at": "Thu Sep 12 10:48:26 +0000 2019",
 		"id": 1172099646619095000,
 		"id_str": "1172099646619095040",
