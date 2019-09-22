@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 22 18:26:36 +0000 2019",
+		"id": 1175793518176067600,
+		"id_str": "1175838826041921543",
+		"full_text": "Das Wort zum Sonntag, und zur österreichischen #NRW19, von @robindetje (im @redaktionmerkur) https://t.co/eDuzPKjF3B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NRW19",
+					"indices": [
+						47,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robindetje",
+					"name": "Robin Detje",
+					"id": 2896652213,
+					"id_str": "2896652213",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"screen_name": "redaktionmerkur",
+					"name": "Redaktion Merkur",
+					"id": 867711740,
+					"id_str": "867711740",
+					"indices": [
+						75,
+						91
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1175793510508896300,
+					"id_str": "1175793510508896260",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EFFB99sXoAQGOaP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFFB99sXoAQGOaP.jpg",
+					"url": "https://t.co/eDuzPKjF3B",
+					"display_url": "pic.twitter.com/eDuzPKjF3B",
+					"expanded_url": "https://twitter.com/jalenz/status/1175793518176067585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175793510508896300,
+					"id_str": "1175793510508896260",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EFFB99sXoAQGOaP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFFB99sXoAQGOaP.jpg",
+					"url": "https://t.co/eDuzPKjF3B",
+					"display_url": "pic.twitter.com/eDuzPKjF3B",
+					"expanded_url": "https://twitter.com/jalenz/status/1175793518176067585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23576906,
+			"id_str": "23576906",
+			"name": "Lenz Jacobsen",
+			"screen_name": "jalenz",
+			"location": "Berlin",
+			"description": "Journalist @zeitonline, in Elternteilzeit. 🇩🇪 im transalpinen Podcast „Servus. Grüezi. Hallo.“",
+			"url": "https://t.co/s4J6sgQ5FP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s4J6sgQ5FP",
+							"expanded_url": "http://www.zeit.de/autoren/J/Lenz_Jacobsen/index.xml",
+							"display_url": "zeit.de/autoren/J/Lenz…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10113,
+			"friends_count": 1229,
+			"listed_count": 341,
+			"created_at": "Tue Mar 10 10:19:53 +0000 2009",
+			"favourites_count": 3927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149413473778130944/lKes8t3d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149413473778130944/lKes8t3d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23576906/1401386578",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Das Wort zum Sonntag, und zur österreichischen #NRW19, von @robindetje (im @redaktionmerkur) https://t.co/eDuzPKjF3B"
+	},
+	{
 		"created_at": "Sun Sep 22 17:13:49 +0000 2019",
 		"id": 1175820509046628400,
 		"id_str": "1175820509046628353",
