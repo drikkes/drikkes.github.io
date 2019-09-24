@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 24 12:21:11 +0000 2019",
+		"id": 1176168124246311000,
+		"id_str": "1176471642244935680",
+		"full_text": "Why artists like Rihanna, Beyoncé and Justin Bieber are more focused on releasing \"fit pics\" than albums https://t.co/OTcurstZpT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OTcurstZpT",
+					"expanded_url": "https://on.wsj.com/2m6BGkM",
+					"display_url": "on.wsj.com/2m6BGkM",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3108351,
+			"id_str": "3108351",
+			"name": "The Wall Street Journal",
+			"screen_name": "WSJ",
+			"location": "New York, NY",
+			"description": "Breaking news and features from https://t.co/GhhR6PLfem.",
+			"url": "https://t.co/GhhR6PLfem",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GhhR6PLfem",
+							"expanded_url": "http://wsj.com",
+							"display_url": "wsj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GhhR6PLfem",
+							"expanded_url": "http://wsj.com",
+							"display_url": "wsj.com",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16907868,
+			"friends_count": 1114,
+			"listed_count": 113147,
+			"created_at": "Sun Apr 01 06:22:13 +0000 2007",
+			"favourites_count": 1229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 287364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "EDF2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3108351/1562333209",
+			"profile_link_color": "1164B8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why artists like Rihanna, Beyoncé and Justin Bieber are more focused on releasing \"fit pics\" than albums https://t.co/OTcurstZpT"
+	},
+	{
 		"created_at": "Tue Sep 24 09:33:55 +0000 2019",
 		"id": 1176429548147265500,
 		"id_str": "1176429548147265536",
