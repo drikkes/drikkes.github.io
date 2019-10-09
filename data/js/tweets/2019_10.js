@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 09 10:19:28 +0000 2019",
+		"id": 1181849146539597800,
+		"id_str": "1181876829415727104",
+		"full_text": "Und da sage nochmal jemand, E-Scooter würden nicht für weniger Autofahrten sorgen https://t.co/K6V6MLDfld",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K6V6MLDfld",
+					"expanded_url": "https://twitter.com/tibor/status/1181530433697275904",
+					"display_url": "twitter.com/tibor/status/1…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1007251,
+			"id_str": "1007251",
+			"name": "Marcel Weiss",
+			"screen_name": "marcelweiss",
+			"location": "Berlin, Germany",
+			"description": "Ich denke, rede & schreibe über das Netz. Freier Strategy Analyst seit 2009. Gründungsmitglied @_ownw Blog: @neunetz, Podcasts: @neunetzfm (Engl: @newnetland)",
+			"url": "https://t.co/t5NmQfCGRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t5NmQfCGRM",
+							"expanded_url": "http://marcelweiss.de/",
+							"display_url": "marcelweiss.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4919,
+			"friends_count": 1328,
+			"listed_count": 302,
+			"created_at": "Mon Mar 12 12:58:14 +0000 2007",
+			"favourites_count": 24881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6699AA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476701632961343489/-a8I5OrF_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476701632961343489/-a8I5OrF_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1007251/1549444440",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181530433697276000,
+		"quoted_status_id_str": "1181530433697275904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K6V6MLDfld",
+			"expanded": "https://twitter.com/tibor/status/1181530433697275904",
+			"display": "twitter.com/tibor/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 08 11:23:01 +0000 2019",
+			"id": 1181530433697276000,
+			"id_str": "1181530433697275904",
+			"full_text": "Über 200 Autofahrer haben ihren Führerschein verloren, weil sie beim Oktoberfest betrunken E-Roller gefahren sind: https://t.co/lp8bwm0qhy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lp8bwm0qhy",
+						"expanded_url": "https://www.cnn.com/travel/article/oktoberfest-police-report-scli-intl-grm/index.html?utm_source=twitter&utm_medium=@tibor",
+						"display_url": "cnn.com/travel/article…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70459168,
+				"id_str": "70459168",
+				"name": "Tibor Martini for Future",
+				"screen_name": "tibor",
+				"location": "Berlin, Germany",
+				"description": "Journalist •Interessiert an Politik, Wirtschaft, Technik, Fotografie • Früher Kurator @BlendleDE, Teacher @ReDISchool • @werderbremen-Fan • Head of @LikeFluence",
+				"url": "https://t.co/eT0BAHFcOR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eT0BAHFcOR",
+								"expanded_url": "https://www.likefluence.com",
+								"display_url": "likefluence.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4795,
+				"friends_count": 2232,
+				"listed_count": 190,
+				"created_at": "Mon Aug 31 18:12:18 +0000 2009",
+				"favourites_count": 46305,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 41188,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": true,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1138529193514471424/P3MzpxsT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138529193514471424/P3MzpxsT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70459168/1451346354",
+				"profile_link_color": "13AA9D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BAF300",
+				"profile_text_color": "4D4D4D",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "badged"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 178,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 131,
+		"favorite_count": 739,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Und da sage nochmal jemand, E-Scooter würden nicht für weniger Autofahrten sorgen https://t.co/K6V6MLDfld"
+	},
+	{
 		"created_at": "Wed Oct 09 10:05:42 +0000 2019",
 		"id": 1181873364421533700,
 		"id_str": "1181873364421533698",
