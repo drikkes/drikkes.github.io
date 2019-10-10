@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 10 18:38:51 +0000 2019",
+		"id": 1182239314236756000,
+		"id_str": "1182364888645197825",
+		"full_text": "Who's gonna tell @CBSNews about @virgilabloh? \nhttps://t.co/tvqZb16Kkh https://t.co/FdhbBejn5w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CBSNews",
+					"name": "CBS News",
+					"id": 15012486,
+					"id_str": "15012486",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"screen_name": "virgilabloh",
+					"name": "virgil abloh",
+					"id": 21845792,
+					"id_str": "21845792",
+					"indices": [
+						32,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tvqZb16Kkh",
+					"expanded_url": "https://www.cbsnews.com/news/fake-nike-shoes-feds-seize-2-2-million-counterfeit-retro-nike-shoes-los-angeles-long-beach-seaport-2019-10-09/",
+					"display_url": "cbsnews.com/news/fake-nike…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1182239301108551700,
+					"id_str": "1182239301108551680",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EGgoYW4U0AAzm06.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGgoYW4U0AAzm06.jpg",
+					"url": "https://t.co/FdhbBejn5w",
+					"display_url": "pic.twitter.com/FdhbBejn5w",
+					"expanded_url": "https://twitter.com/BrodyLogan/status/1182239314236755968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 817,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1587,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182239301108551700,
+					"id_str": "1182239301108551680",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EGgoYW4U0AAzm06.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGgoYW4U0AAzm06.jpg",
+					"url": "https://t.co/FdhbBejn5w",
+					"display_url": "pic.twitter.com/FdhbBejn5w",
+					"expanded_url": "https://twitter.com/BrodyLogan/status/1182239314236755968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 817,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1587,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1182239308129783800,
+					"id_str": "1182239308129783808",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EGgoYxCUUAAFzG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGgoYxCUUAAFzG8.jpg",
+					"url": "https://t.co/FdhbBejn5w",
+					"display_url": "pic.twitter.com/FdhbBejn5w",
+					"expanded_url": "https://twitter.com/BrodyLogan/status/1182239314236755968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1067,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1215,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19563907,
+			"id_str": "19563907",
+			"name": "Brody Logan",
+			"screen_name": "BrodyLogan",
+			"location": "Denver, CO",
+			"description": "Sports Anchor, alum of #TheU, Previously #9News @fox5dc @ESPNU @CBSSports Won a Sauna on The Price is Right",
+			"url": "https://t.co/TNCCMkmhgB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TNCCMkmhgB",
+							"expanded_url": "https://www.youtube.com/watch?v=aQQQ3pINJsg",
+							"display_url": "youtube.com/watch?v=aQQQ3p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5557,
+			"friends_count": 1413,
+			"listed_count": 196,
+			"created_at": "Mon Jan 26 22:50:50 +0000 2009",
+			"favourites_count": 25622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 93276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "110E0E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/842035441654198272/a3DC0XUJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/842035441654198272/a3DC0XUJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19563907/1448743756",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "3C12ED",
+			"profile_sidebar_fill_color": "13150E",
+			"profile_text_color": "0C28DF",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 428,
+		"favorite_count": 1627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who's gonna tell @CBSNews about @virgilabloh? \nhttps://t.co/tvqZb16Kkh https://t.co/FdhbBejn5w"
+	},
+	{
 		"created_at": "Thu Oct 10 16:19:27 +0000 2019",
 		"id": 1182321445927555000,
 		"id_str": "1182329810049261570",
