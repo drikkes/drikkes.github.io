@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 11 13:57:48 +0000 2019",
+		"id": 1182656547094225000,
+		"id_str": "1182656547094224898",
+		"full_text": "Don't forget to wear your favourite sneaker brand when tweetsmearing Apple for pulling that HK protest app. https://t.co/MY2cwhFq7q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MY2cwhFq7q",
+					"expanded_url": "https://twitter.com/ganeshpuri89/status/1182378572205481984",
+					"display_url": "twitter.com/ganeshpuri89/s…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 852,
+			"friends_count": 163,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182378572205482000,
+		"quoted_status_id_str": "1182378572205481984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MY2cwhFq7q",
+			"expanded": "https://twitter.com/ganeshpuri89/status/1182378572205481984",
+			"display": "twitter.com/ganeshpuri89/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 10 19:33:13 +0000 2019",
+			"id": 1182378572205482000,
+			"id_str": "1182378572205481984",
+			"full_text": "Nike pulls Houston Rockets gear from stores in Beijing and Shanghai.\n\n https://t.co/p70aO2yMy2 https://t.co/IuTJtxdF63",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/p70aO2yMy2",
+						"expanded_url": "https://www.reuters.com/article/us-china-basketball-nba-nike/houston-rockets-nike-merchandise-disappears-from-china-stores-idUSKBN1WP109",
+						"display_url": "reuters.com/article/us-chi…",
+						"indices": [
+							71,
+							94
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1182378564383105000,
+						"id_str": "1182378564383105024",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/EGinCjAXYAAH_7L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGinCjAXYAAH_7L.jpg",
+						"url": "https://t.co/IuTJtxdF63",
+						"display_url": "pic.twitter.com/IuTJtxdF63",
+						"expanded_url": "https://twitter.com/ganeshpuri89/status/1182378572205481984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1182378564383105000,
+						"id_str": "1182378564383105024",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/EGinCjAXYAAH_7L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGinCjAXYAAH_7L.jpg",
+						"url": "https://t.co/IuTJtxdF63",
+						"display_url": "pic.twitter.com/IuTJtxdF63",
+						"expanded_url": "https://twitter.com/ganeshpuri89/status/1182378572205481984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9649222,
+				"id_str": "9649222",
+				"name": "Robert J Stevens",
+				"screen_name": "ganeshpuri89",
+				"location": "NYC and SC",
+				"description": "Sid Arthur",
+				"url": "https://t.co/2qkPmJU6Mv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2qkPmJU6Mv",
+								"expanded_url": "https://Instagram.com/siddarthurnyc",
+								"display_url": "Instagram.com/siddarthurnyc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1444,
+				"friends_count": 1556,
+				"listed_count": 45,
+				"created_at": "Wed Oct 24 09:03:39 +0000 2007",
+				"favourites_count": 10203,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12443,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8EEFF1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877103523485319169/nAJxj3WO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877103523485319169/nAJxj3WO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9649222/1565452695",
+				"profile_link_color": "A03F37",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "669EED",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01a9a39529b27f36",
+				"url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+				"place_type": "city",
+				"name": "Manhattan",
+				"full_name": "Manhattan, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.026675,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.877483
+							],
+							[
+								-74.026675,
+								40.877483
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't forget to wear your favourite sneaker brand when tweetsmearing Apple for pulling that HK protest app. https://t.co/MY2cwhFq7q"
+	},
+	{
 		"created_at": "Fri Oct 11 12:57:33 +0000 2019",
 		"id": 1182641384215498800,
 		"id_str": "1182641384215498754",
