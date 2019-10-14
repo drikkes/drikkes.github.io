@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 17:23:23 +0000 2019",
+		"id": 1183795448940847000,
+		"id_str": "1183795448940847107",
+		"full_text": "Nur so eine persönliche Idee: Kann mal jemand einen Bot bauen, der jedem neuen Tweet von @ReinhardtSascha mit diesem Thread replied? Damit das immer schön sichtbar bleibt und nicht in der Versenkung verschwindet. https://t.co/3urXmCeoS6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReinhardtSascha",
+					"name": "Alexander Reinhardt",
+					"id": 625480776,
+					"id_str": "625480776",
+					"indices": [
+						89,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3urXmCeoS6",
+					"expanded_url": "https://twitter.com/x_rtk/status/1183420282389717000",
+					"display_url": "twitter.com/x_rtk/status/1…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 852,
+			"friends_count": 163,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183420282389717000,
+		"quoted_status_id_str": "1183420282389717000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3urXmCeoS6",
+			"expanded": "https://twitter.com/x_rtk/status/1183420282389717000",
+			"display": "twitter.com/x_rtk/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 13 16:32:36 +0000 2019",
+			"id": 1183420282389717000,
+			"id_str": "1183420282389717000",
+			"full_text": "[Thread] Der Chef der Öffentlichkeitsarbeit von @Airbus Deutschland hat #ExtinctionRebellion gedroht, ihm nicht in den Weg zu kommen. Mit fünf Ausrufezeichen. 😮 https://t.co/sIavBi4TUO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ExtinctionRebellion",
+						"indices": [
+							72,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Airbus",
+						"name": "Airbus",
+						"id": 15425377,
+						"id_str": "15425377",
+						"indices": [
+							48,
+							55
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1183420262546657300,
+						"id_str": "1183420262546657280",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/EGxadXEX0AARBen.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGxadXEX0AARBen.jpg",
+						"url": "https://t.co/sIavBi4TUO",
+						"display_url": "pic.twitter.com/sIavBi4TUO",
+						"expanded_url": "https://twitter.com/x_rtk/status/1183420282389717000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 697,
+								"h": 401,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 697,
+								"h": 401,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 391,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1183420262546657300,
+						"id_str": "1183420262546657280",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/EGxadXEX0AARBen.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGxadXEX0AARBen.jpg",
+						"url": "https://t.co/sIavBi4TUO",
+						"display_url": "pic.twitter.com/sIavBi4TUO",
+						"expanded_url": "https://twitter.com/x_rtk/status/1183420282389717000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 697,
+								"h": 401,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 697,
+								"h": 401,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 391,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1180072551680237600,
+				"id_str": "1180072551680237568",
+				"name": "XR Team K",
+				"screen_name": "x_rtk",
+				"location": "",
+				"description": "Follow: @ExtinctionR_DE, @XRBerlin, @XR_Aufstand\nPrinzipien: https://t.co/4QXRHhXJ4r… Rebellionskonsens: https://t.co/hTma72W00t…",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4QXRHhXJ4r",
+								"expanded_url": "http://extinctionrebellion.de/wer-wir-sind/p",
+								"display_url": "extinctionrebellion.de/wer-wir-sind/p",
+								"indices": [
+									61,
+									84
+								]
+							},
+							{
+								"url": "https://t.co/hTma72W00t",
+								"expanded_url": "http://extinctionrebellion.de/mitmachen/rebe",
+								"display_url": "extinctionrebellion.de/mitmachen/rebe",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 246,
+				"friends_count": 127,
+				"listed_count": 4,
+				"created_at": "Fri Oct 04 10:50:09 +0000 2019",
+				"favourites_count": 518,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 458,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1180552943306772481/aYJNWK9l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180552943306772481/aYJNWK9l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180072551680237568/1570381263",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 686,
+			"favorite_count": 1248,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Nur so eine persönliche Idee: Kann mal jemand einen Bot bauen, der jedem neuen Tweet von @ReinhardtSascha mit diesem Thread replied? Damit das immer schön sichtbar bleibt und nicht in der Versenkung verschwindet. https://t.co/3urXmCeoS6"
+	},
+	{
 		"created_at": "Mon Oct 14 10:27:29 +0000 2019",
 		"id": 1183690782714318800,
 		"id_str": "1183690782714318849",
