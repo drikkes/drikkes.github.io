@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 24 21:08:43 +0000 2019",
+		"id": 1187476033844338700,
+		"id_str": "1187476033844338688",
+		"full_text": "@kosmar @343max @Mithos09 @avbelow @DB_Bahn Habe zwischen Köln und Düsseldorf jeden Morgen die ICE-Wahl zwischen 8:11, 8:17, 8:25 und 8:41. Wie soll das da mit Umreservierungen gehen? Eben. Keine Flexibilität wäre für Abo-Ticket ein NoGo.",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kosmar",
+					"name": "kosmar hilft 🇪🇺",
+					"id": 1487011,
+					"id_str": "1487011",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "343max",
+					"name": "Max von Webel",
+					"id": 2284151,
+					"id_str": "2284151",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"screen_name": "Mithos09",
+					"name": "Mithos09",
+					"id": 67264151,
+					"id_str": "67264151",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "avbelow",
+					"name": "Below is a link",
+					"id": 18763491,
+					"id_str": "18763491",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "DB_Bahn",
+					"name": "Deutsche Bahn Personenverkehr",
+					"id": 39999078,
+					"id_str": "39999078",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1187301271679713300,
+		"in_reply_to_status_id_str": "1187301271679713280",
+		"in_reply_to_user_id": 1487011,
+		"in_reply_to_user_id_str": "1487011",
+		"in_reply_to_screen_name": "kosmar",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 159,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "ebdc4aa39ecb7cb1",
+			"url": "https://api.twitter.com/1.1/geo/id/ebdc4aa39ecb7cb1.json",
+			"place_type": "city",
+			"name": "Naples",
+			"full_name": "Naples, Campania",
+			"country_code": "IT",
+			"country": "Italy",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							14.1332005,
+							40.7920697
+						],
+						[
+							14.3537026,
+							40.7920697
+						],
+						[
+							14.3537026,
+							40.9161549
+						],
+						[
+							14.1332005,
+							40.9161549
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@kosmar @343max @Mithos09 @avbelow @DB_Bahn Habe zwischen Köln und Düsseldorf jeden Morgen die ICE-Wahl zwischen 8:11, 8:17, 8:25 und 8:41. Wie soll das da mit Umreservierungen gehen? Eben. Keine Flexibilität wäre für Abo-Ticket ein NoGo."
+	},
+	{
 		"created_at": "Thu Oct 24 19:19:37 +0000 2019",
 		"id": 1187448579759202300,
 		"id_str": "1187448579759202306",
