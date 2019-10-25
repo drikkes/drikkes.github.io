@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 12:55:11 +0000 2019",
+		"id": 1187714220076552200,
+		"id_str": "1187714220076552192",
+		"full_text": "@kosmar @avbelow @343max @Mithos09 @DB_Bahn Sehen ich, tausend Pendler und die Bahn anders. Warum gibt es das Ticket sonst im Abo? Stimme Max zu, Deine Sicht ist die eines Berliners, dessen Konzept ein paar Bahnfahrten im Jahr ist. Im zentralistischen Frankreich geht das gut, in D eher nicht.",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			293
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kosmar",
+					"name": "kosmar hilft 🇪🇺",
+					"id": 1487011,
+					"id_str": "1487011",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "avbelow",
+					"name": "Below is a link",
+					"id": 18763491,
+					"id_str": "18763491",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"screen_name": "343max",
+					"name": "Max von Webel",
+					"id": 2284151,
+					"id_str": "2284151",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "Mithos09",
+					"name": "Mithos09",
+					"id": 67264151,
+					"id_str": "67264151",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "DB_Bahn",
+					"name": "Deutsche Bahn Personenverkehr",
+					"id": 39999078,
+					"id_str": "39999078",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1187696821445038000,
+		"in_reply_to_status_id_str": "1187696821445038080",
+		"in_reply_to_user_id": 1487011,
+		"in_reply_to_user_id_str": "1487011",
+		"in_reply_to_screen_name": "kosmar",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 850,
+			"friends_count": 159,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4ff44f62e185dade",
+			"url": "https://api.twitter.com/1.1/geo/id/4ff44f62e185dade.json",
+			"place_type": "city",
+			"name": "Pompei",
+			"full_name": "Pompei, Campania",
+			"country_code": "IT",
+			"country": "Italy",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							14.4733625,
+							40.7223358
+						],
+						[
+							14.5204068,
+							40.7223358
+						],
+						[
+							14.5204068,
+							40.7700884
+						],
+						[
+							14.4733625,
+							40.7700884
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@kosmar @avbelow @343max @Mithos09 @DB_Bahn Sehen ich, tausend Pendler und die Bahn anders. Warum gibt es das Ticket sonst im Abo? Stimme Max zu, Deine Sicht ist die eines Berliners, dessen Konzept ein paar Bahnfahrten im Jahr ist. Im zentralistischen Frankreich geht das gut, in D eher nicht."
+	},
+	{
 		"created_at": "Fri Oct 25 07:07:46 +0000 2019",
 		"id": 1187626791118225400,
 		"id_str": "1187626791118225410",
