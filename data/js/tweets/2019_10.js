@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 26 07:08:22 +0000 2019",
+		"id": 1187706887552155600,
+		"id_str": "1187989330926718976",
+		"full_text": "How to wear leopard print for men | Priya Elan https://t.co/Ym1KUFaLqg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ym1KUFaLqg",
+					"expanded_url": "https://www.theguardian.com/fashion/2019/oct/25/how-to-wear-leopard-print-for-men-fashion-priya-elan?utm_source=dlvr.it&utm_medium=twitter",
+					"display_url": "theguardian.com/fashion/2019/o…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308442339,
+			"id_str": "308442339",
+			"name": "Guardian Fashion",
+			"screen_name": "GuardianFashion",
+			"location": "",
+			"description": "The Twitter home of the @Guardian's Fashion team. Instagram: @guardianfashion",
+			"url": "http://t.co/RnMJXd5ISR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/RnMJXd5ISR",
+							"expanded_url": "http://theguardian.com/fashion",
+							"display_url": "theguardian.com/fashion",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41616,
+			"friends_count": 905,
+			"listed_count": 593,
+			"created_at": "Tue May 31 12:29:35 +0000 2011",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061928551711195136/5OSAuMU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061928551711195136/5OSAuMU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/308442339/1542018479",
+			"profile_link_color": "005689",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to wear leopard print for men | Priya Elan https://t.co/Ym1KUFaLqg"
+	},
+	{
 		"created_at": "Sat Oct 26 05:33:10 +0000 2019",
 		"id": 1187965372437323800,
 		"id_str": "1187965372437323776",
