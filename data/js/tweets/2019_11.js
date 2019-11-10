@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 19:37:54 +0000 2019",
+		"id": 1193578139189940200,
+		"id_str": "1193613771337543681",
+		"full_text": "wie sich die werbefuzzis in die tasche lügen und alle froh dabei werden.\n\ngrossartige, lange recherche von @The_Corres, hier meine zusammenfassung und der very-long-read-link.\n\nhttps://t.co/6GAy260NL0 via @piqd_de",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "The_Corres",
+					"name": "The Correspondent",
+					"id": 3017412700,
+					"id_str": "3017412700",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"screen_name": "piqd_de",
+					"name": "piqd",
+					"id": 3674645536,
+					"id_str": "3674645536",
+					"indices": [
+						205,
+						213
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6GAy260NL0",
+					"expanded_url": "https://www.piqd.de/medien-gesellschaft/werbung-wirkt-vielleicht-aber-auch-nicht?utm_source=Twitter&utm_medium=social&utm_campaign=user_sharing",
+					"display_url": "piqd.de/medien-gesells…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5101971,
+			"id_str": "5101971",
+			"name": "felix schwenzel",
+			"screen_name": "diplix",
+			"location": "berlin",
+			"description": "ix schreibe gerne ins internet.",
+			"url": "https://t.co/KAy8etO3Q8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KAy8etO3Q8",
+							"expanded_url": "https://wirres.net",
+							"display_url": "wirres.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6609,
+			"friends_count": 1615,
+			"listed_count": 249,
+			"created_at": "Wed Apr 18 10:10:16 +0000 2007",
+			"favourites_count": 7228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/15688422/03022687630_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/15688422/03022687630_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5101971/1398331273",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "0000FF",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "wie sich die werbefuzzis in die tasche lügen und alle froh dabei werden.\n\ngrossartige, lange recherche von @The_Corres, hier meine zusammenfassung und der very-long-read-link.\n\nhttps://t.co/6GAy260NL0 via @piqd_de"
+	},
+	{
 		"created_at": "Sun Nov 10 16:24:32 +0000 2019",
 		"id": 1193565110398279700,
 		"id_str": "1193565110398279682",
