@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 16 14:54:38 +0000 2019",
+		"id": 1195716815588135000,
+		"id_str": "1195716815588134912",
+		"full_text": "@kugelundniere @kosmar Was ist witzig, weil man immer erst zu spät merkt, daß man selbst Teil des Problems ist.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kugelundniere",
+					"name": "Kugel und Niere",
+					"id": 1007536882815787000,
+					"id_str": "1007536882815787008",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "kosmar",
+					"name": "kosmar 🇪🇺",
+					"id": 1487011,
+					"id_str": "1487011",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1195641447300632600,
+		"in_reply_to_status_id_str": "1195641447300632578",
+		"in_reply_to_user_id": 1007536882815787000,
+		"in_reply_to_user_id_str": "1007536882815787008",
+		"in_reply_to_screen_name": "kugelundniere",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 852,
+			"friends_count": 161,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4077ab467e2f95b0",
+			"url": "https://api.twitter.com/1.1/geo/id/4077ab467e2f95b0.json",
+			"place_type": "neighborhood",
+			"name": "Altstadt-Nord",
+			"full_name": "Altstadt-Nord, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.939532,
+							50.934379
+						],
+						[
+							6.968189,
+							50.934379
+						],
+						[
+							6.968189,
+							50.949655
+						],
+						[
+							6.939532,
+							50.949655
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@kugelundniere @kosmar Was ist witzig, weil man immer erst zu spät merkt, daß man selbst Teil des Problems ist."
+	},
+	{
 		"created_at": "Fri Nov 15 20:05:50 +0000 2019",
 		"id": 1195432741879369700,
 		"id_str": "1195432741879369729",
