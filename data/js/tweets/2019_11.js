@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 07:39:29 +0000 2019",
+		"id": 1196100661726916600,
+		"id_str": "1196332082894651392",
+		"full_text": "North Face Schuhe als PERSONEN. (Thread)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2473600839,
+			"id_str": "2473600839",
+			"name": "Schwester Ewald",
+			"screen_name": "hashcrap",
+			"location": "Köln",
+			"description": "Autorin bei @btfcologne und @rowohlt. Anfragen: info@heavygermanshit.de",
+			"url": "https://t.co/OBwCo0lErl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OBwCo0lErl",
+							"expanded_url": "https://www.rowohlt.de/hardcover/giulia-becker-das-leben-ist-eins-der-haertesten.html",
+							"display_url": "rowohlt.de/hardcover/giul…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59048,
+			"friends_count": 541,
+			"listed_count": 238,
+			"created_at": "Thu Apr 10 09:42:08 +0000 2014",
+			"favourites_count": 45048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/849348889807376384/O-mbRaQe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/849348889807376384/O-mbRaQe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2473600839/1480691842",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 729,
+		"favorite_count": 3937,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "North Face Schuhe als PERSONEN. (Thread)"
+	},
+	{
 		"created_at": "Sun Nov 17 15:59:16 +0000 2019",
 		"id": 1196095466015985700,
 		"id_str": "1196095466015985664",
