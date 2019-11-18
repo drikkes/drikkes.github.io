@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 21:00:38 +0000 2019",
+		"id": 1196443215613907000,
+		"id_str": "1196533697136205824",
+		"full_text": "@wuv Here's a little backstory to the series: https://t.co/ykjZhWT6gh https://t.co/rzdFdNPIcK",
+		"truncated": false,
+		"display_text_range": [
+			5,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wuv",
+					"name": "W&V",
+					"id": 34911230,
+					"id_str": "34911230",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ykjZhWT6gh",
+					"expanded_url": "https://www.marcusjohnhenrybrown.com/post/we-don-t-wag-the-dog-we-blow-up-the-dog",
+					"display_url": "marcusjohnhenrybrown.com/post/we-don-t-…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1196443196424933400,
+					"id_str": "1196443196424933378",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EJqev4TXUAIWMIZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJqev4TXUAIWMIZ.jpg",
+					"url": "https://t.co/rzdFdNPIcK",
+					"display_url": "pic.twitter.com/rzdFdNPIcK",
+					"expanded_url": "https://twitter.com/MarcusJHBrown/status/1196443215613906945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1480,
+							"h": 833,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 916,
+									"y": 49,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 420,
+									"y": 22,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 916,
+									"y": 49,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 39,
+									"h": 64,
+									"w": 64
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196443196424933400,
+					"id_str": "1196443196424933378",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EJqev4TXUAIWMIZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJqev4TXUAIWMIZ.jpg",
+					"url": "https://t.co/rzdFdNPIcK",
+					"display_url": "pic.twitter.com/rzdFdNPIcK",
+					"expanded_url": "https://twitter.com/MarcusJHBrown/status/1196443215613906945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1480,
+							"h": 833,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 916,
+									"y": 49,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 420,
+									"y": 22,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 916,
+									"y": 49,
+									"h": 79,
+									"w": 79
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 39,
+									"h": 64,
+									"w": 64
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1196417481860173800,
+		"in_reply_to_status_id_str": "1196417481860173824",
+		"in_reply_to_user_id": 116246631,
+		"in_reply_to_user_id_str": "116246631",
+		"in_reply_to_screen_name": "MarcusJHBrown",
+		"user": {
+			"id": 116246631,
+			"id_str": "116246631",
+			"name": "Marcus John Henry Brown",
+			"screen_name": "MarcusJHBrown",
+			"location": "Munich",
+			"description": "| Performance artist | Author, producer and performer of The Passing Trilogy, CONTROL and CHEMISTRY |",
+			"url": "https://t.co/z1SX6FEtSC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z1SX6FEtSC",
+							"expanded_url": "https://www.marcusjohnhenrybrown.com/",
+							"display_url": "marcusjohnhenrybrown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3117,
+			"friends_count": 395,
+			"listed_count": 183,
+			"created_at": "Sun Feb 21 18:53:28 +0000 2010",
+			"favourites_count": 27673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172045887549399042/g4woz0Kn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172045887549399042/g4woz0Kn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116246631/1565263223",
+			"profile_link_color": "756033",
+			"profile_sidebar_border_color": "B2B2B2",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@wuv Here's a little backstory to the series: https://t.co/ykjZhWT6gh https://t.co/rzdFdNPIcK"
+	},
+	{
 		"created_at": "Mon Nov 18 18:45:52 +0000 2019",
 		"id": 1196499780878438400,
 		"id_str": "1196499780878438400",
