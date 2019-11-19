@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 19 21:01:42 +0000 2019",
+		"id": 1196896353932267500,
+		"id_str": "1196896353932267527",
+		"full_text": "Verleser des Tages: Spielgeld. https://t.co/6Qcj8mCm90",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6Qcj8mCm90",
+					"expanded_url": "https://twitter.com/SPIEGEL_Gruppe/status/1196744000604119041",
+					"display_url": "twitter.com/SPIEGEL_Gruppe…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/7ynPrqkpaM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7ynPrqkpaM",
+							"expanded_url": "http://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 852,
+			"friends_count": 161,
+			"listed_count": 83,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1454326384",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4077ab467e2f95b0",
+			"url": "https://api.twitter.com/1.1/geo/id/4077ab467e2f95b0.json",
+			"place_type": "neighborhood",
+			"name": "Altstadt-Nord",
+			"full_name": "Altstadt-Nord, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.939532,
+							50.934379
+						],
+						[
+							6.968189,
+							50.934379
+						],
+						[
+							6.968189,
+							50.949655
+						],
+						[
+							6.939532,
+							50.949655
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196744000604119000,
+		"quoted_status_id_str": "1196744000604119041",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6Qcj8mCm90",
+			"expanded": "https://twitter.com/SPIEGEL_Gruppe/status/1196744000604119041",
+			"display": "twitter.com/SPIEGEL_Gruppe…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 19 10:56:18 +0000 2019",
+			"id": 1196744000604119000,
+			"id_str": "1196744000604119041",
+			"full_text": "Die SPIEGEL-Gruppe startet heute das gemeinnützige Bildungsangebot SPIEGEL Ed mit dem Ziel, die Medien- und Nachrichtenkompetenz von Jugendlichen zu stärken: https://t.co/MEbNlCvQ5N https://t.co/gvA5vWIn67",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MEbNlCvQ5N",
+						"expanded_url": "https://ed.spiegel.de/",
+						"display_url": "ed.spiegel.de",
+						"indices": [
+							158,
+							181
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1196739131801514000,
+						"id_str": "1196739131801513991",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/EJur5lfWsAc6Gzq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJur5lfWsAc6Gzq.jpg",
+						"url": "https://t.co/gvA5vWIn67",
+						"display_url": "pic.twitter.com/gvA5vWIn67",
+						"expanded_url": "https://twitter.com/SPIEGEL_Gruppe/status/1196744000604119041/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 429,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 731,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 243,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1196739131801514000,
+						"id_str": "1196739131801513991",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/EJur5lfWsAc6Gzq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJur5lfWsAc6Gzq.jpg",
+						"url": "https://t.co/gvA5vWIn67",
+						"display_url": "pic.twitter.com/gvA5vWIn67",
+						"expanded_url": "https://twitter.com/SPIEGEL_Gruppe/status/1196744000604119041/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 429,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 731,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 243,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 964129015425654800,
+				"id_str": "964129015425654786",
+				"name": "SPIEGEL Gruppe",
+				"screen_name": "SPIEGEL_Gruppe",
+				"location": "Hamburg, Deutschland",
+				"description": "Neuigkeiten und Veranstaltungen der SPIEGEL Gruppe. Bereitgestellt vom Team der Unternehmenskommunikation. Impressum: https://t.co/CVZH3qbKSf",
+				"url": "https://t.co/xRrXg8tfkZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xRrXg8tfkZ",
+								"expanded_url": "http://www.spiegelgruppe.de/",
+								"display_url": "spiegelgruppe.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CVZH3qbKSf",
+								"expanded_url": "http://bit.ly/2EBA0bi",
+								"display_url": "bit.ly/2EBA0bi",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 318,
+				"friends_count": 340,
+				"listed_count": 5,
+				"created_at": "Thu Feb 15 13:27:24 +0000 2018",
+				"favourites_count": 347,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 454,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1185208330710671361/ce6ckN9E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185208330710671361/ce6ckN9E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/964129015425654786/1519028607",
+				"profile_link_color": "E64415",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Verleser des Tages: Spielgeld. https://t.co/6Qcj8mCm90"
+	},
+	{
 		"created_at": "Tue Nov 19 10:46:22 +0000 2019",
 		"id": 1196741499456761900,
 		"id_str": "1196741499456761861",
