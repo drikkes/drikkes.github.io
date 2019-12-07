@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 14:20:11 +0000 2019",
+		"id": 1203064593301614600,
+		"id_str": "1203318291739107328",
+		"full_text": "Pawsitively twinning 👯 Coordinate with your canine counterpart with designer dogwear from @thombrowneny, @burberry, @032c_Workshop, and more. See our own #SSENSEInterns model our favorite picks. https://t.co/vuOSNxCxAX https://t.co/RHTplFPAaS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SSENSEInterns",
+					"indices": [
+						154,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThomBrowneNY",
+					"name": "Thom Browne",
+					"id": 87485794,
+					"id_str": "87485794",
+					"indices": [
+						90,
+						103
+					]
+				},
+				{
+					"screen_name": "Burberry",
+					"name": "Burberry",
+					"id": 47459700,
+					"id_str": "47459700",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"screen_name": "032c_Workshop",
+					"name": "032c",
+					"id": 14673707,
+					"id_str": "14673707",
+					"indices": [
+						116,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vuOSNxCxAX",
+					"expanded_url": "http://ssen.se/2sN3H48",
+					"display_url": "ssen.se/2sN3H48",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203064549160751000,
+					"id_str": "1203064549160751105",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203064549160751105/pu/img/dR1ZjiRiTYCd2az9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203064549160751105/pu/img/dR1ZjiRiTYCd2az9.jpg",
+					"url": "https://t.co/RHTplFPAaS",
+					"display_url": "pic.twitter.com/RHTplFPAaS",
+					"expanded_url": "https://twitter.com/SSENSE/status/1203064593301614592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203064549160751000,
+					"id_str": "1203064549160751105",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203064549160751105/pu/img/dR1ZjiRiTYCd2az9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203064549160751105/pu/img/dR1ZjiRiTYCd2az9.jpg",
+					"url": "https://t.co/RHTplFPAaS",
+					"display_url": "pic.twitter.com/RHTplFPAaS",
+					"expanded_url": "https://twitter.com/SSENSE/status/1203064593301614592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 13000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203064549160751105/pu/vid/720x720/dkdQXd5fXhwep3KS.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203064549160751105/pu/vid/480x480/MdmvNZuzgnTnzCmL.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203064549160751105/pu/vid/320x320/OO3puyIKQYcXgU9e.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1203064549160751105/pu/pl/0_JUadquvzcj6mzb.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119513889,
+			"id_str": "119513889",
+			"name": "SSENSE",
+			"screen_name": "SSENSE",
+			"location": "Montreal",
+			"description": "Luxury fashion tech leader and cultural resource.",
+			"url": "https://t.co/xqlbTJeZ6u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xqlbTJeZ6u",
+							"expanded_url": "https://www.ssense.com/",
+							"display_url": "ssense.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63985,
+			"friends_count": 175,
+			"listed_count": 575,
+			"created_at": "Wed Mar 03 21:55:48 +0000 2010",
+			"favourites_count": 4732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/918201641479884801/HjQiWPYV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/918201641479884801/HjQiWPYV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119513889/1566485380",
+			"profile_link_color": "8A8A8A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pawsitively twinning 👯 Coordinate with your canine counterpart with designer dogwear from @thombrowneny, @burberry, @032c_Workshop, and more. See our own #SSENSEInterns model our favorite picks. https://t.co/vuOSNxCxAX https://t.co/RHTplFPAaS"
+	},
+	{
 		"created_at": "Fri Dec 06 14:52:23 +0000 2019",
 		"id": 1202964003615641600,
 		"id_str": "1202964003615641601",
