@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 15:54:46 +0000 2019",
+		"id": 1203662343537922000,
+		"id_str": "1203704479775895552",
+		"full_text": "https://t.co/eKpCDHuLOM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eKpCDHuLOM",
+					"expanded_url": "https://www.fr.de/panorama/montenegro-china-finanzierte-autobahn-traum-tragoedie-13276788.html",
+					"display_url": "fr.de/panorama/monte…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14385857,
+			"id_str": "14385857",
+			"name": "hrcz",
+			"screen_name": "malomalo",
+			"location": "Köln, Paris, nowhere",
+			"description": "Lost and found, reinvented, paniert and deep fried.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 727,
+			"friends_count": 547,
+			"listed_count": 42,
+			"created_at": "Mon Apr 14 14:48:30 +0000 2008",
+			"favourites_count": 8246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198257904157114369/SBYk8sFZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198257904157114369/SBYk8sFZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14385857/1412984933",
+			"profile_link_color": "5D667D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/eKpCDHuLOM"
+	},
+	{
 		"created_at": "Sun Dec 08 14:02:25 +0000 2019",
 		"id": 1203676207927169000,
 		"id_str": "1203676207927169026",
