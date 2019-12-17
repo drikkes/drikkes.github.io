@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 17 11:21:28 +0000 2019",
+		"id": 1206841294909259800,
+		"id_str": "1206897194542026752",
+		"full_text": "den initiative in gedenken an oury jalloh e.v. kann man übrigens hier unterstützen, um eine unabhängige untersuchungskommission zu ermöglichen: https://t.co/OANCqgzKe5 https://t.co/NOSWwMw6Lv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OANCqgzKe5",
+					"expanded_url": "https://www.betterplace.org/de/projects/32717-ermittlung-der-brand-und-todesursache-von-oury-jalloh",
+					"display_url": "betterplace.org/de/projects/32…",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/NOSWwMw6Lv",
+					"expanded_url": "https://twitter.com/polizeiberlin/status/1206540423319162885",
+					"display_url": "twitter.com/polizeiberlin/…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15313574,
+			"id_str": "15313574",
+			"name": "A$AP GNOCCHI 🌊",
+			"screen_name": "AlibiSW",
+			"location": "leipzig x rocky beach",
+			"description": "ufo-experte #freemaxb",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6834,
+			"friends_count": 1282,
+			"listed_count": 39,
+			"created_at": "Thu Jul 03 23:26:15 +0000 2008",
+			"favourites_count": 138708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912448704841420800/rhKs6GZh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912448704841420800/rhKs6GZh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15313574/1476713956",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1206540423319163000,
+		"quoted_status_id_str": "1206540423319162885",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NOSWwMw6Lv",
+			"expanded": "https://twitter.com/polizeiberlin/status/1206540423319162885",
+			"display": "twitter.com/polizeiberlin/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 16 11:43:48 +0000 2019",
+			"id": 1206540423319163000,
+			"id_str": "1206540423319162885",
+			"full_text": "@BVG_Kampagne @Naturbreiter So ein Zufall, unser Job kann auch hin und wieder fesselnd sein und wenn wir zu dominant werden, dann hören wir auf das #Safeword \"Anwalt\" ;)\n\n^tsm",
+			"truncated": false,
+			"display_text_range": [
+				28,
+				175
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Safeword",
+						"indices": [
+							148,
+							157
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BVG_Kampagne",
+						"name": "Weil wir dich lieben",
+						"id": 2913614824,
+						"id_str": "2913614824",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "Naturbreiter",
+						"name": "Naturbreit",
+						"id": 706138920766070800,
+						"id_str": "706138920766070785",
+						"indices": [
+							14,
+							27
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1206503191157887000,
+			"in_reply_to_status_id_str": "1206503191157886977",
+			"in_reply_to_user_id": 2913614824,
+			"in_reply_to_user_id_str": "2913614824",
+			"in_reply_to_screen_name": "BVG_Kampagne",
+			"user": {
+				"id": 2397974054,
+				"id_str": "2397974054",
+				"name": "Polizei Berlin",
+				"screen_name": "polizeiberlin",
+				"location": "Berlin, Deutschland",
+				"description": "Hier twittern ^tsm, ^yt, ^tc & ^PPr'in für die Polizei Berlin. -Keine Notrufe- Keine Anzeigen -Kein 24/7- In Notfällen 📞110  Infos zu Karriere @polizeiberlin_k",
+				"url": "https://t.co/hG0wyWkYrr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hG0wyWkYrr",
+								"expanded_url": "http://www.berlin.de/polizei",
+								"display_url": "berlin.de/polizei",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 438755,
+				"friends_count": 7,
+				"listed_count": 1219,
+				"created_at": "Wed Mar 19 14:35:26 +0000 2014",
+				"favourites_count": 1693,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8977,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "002F5D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1191318931023249408/gUxG-1d1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191318931023249408/gUxG-1d1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2397974054/1567515149",
+				"profile_link_color": "002F5D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 344,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 35,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "den initiative in gedenken an oury jalloh e.v. kann man übrigens hier unterstützen, um eine unabhängige untersuchungskommission zu ermöglichen: https://t.co/OANCqgzKe5 https://t.co/NOSWwMw6Lv"
+	},
+	{
 		"created_at": "Tue Dec 17 07:59:01 +0000 2019",
 		"id": 1206846246327144400,
 		"id_str": "1206846246327144449",
