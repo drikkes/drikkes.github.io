@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 21 21:35:55 +0000 2019",
+		"id": 1208444747574055000,
+		"id_str": "1208501376994729991",
+		"full_text": "wenn du gefragt wirst, welches buch ganz gut ist für 2019 und du aber maxim biller heißt und noch paar uppercuts loswerden willst\n\nhttps://t.co/dS4HqkSaP1 https://t.co/Axxnxwz0no",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dS4HqkSaP1",
+					"expanded_url": "https://www.sueddeutsche.de/kultur/buchempfehlungen-autoren-tipps-1.4731066",
+					"display_url": "sueddeutsche.de/kultur/buchemp…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1208444732969554000,
+					"id_str": "1208444732969553920",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EMVCFP9XkAATRS1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMVCFP9XkAATRS1.jpg",
+					"url": "https://t.co/Axxnxwz0no",
+					"display_url": "pic.twitter.com/Axxnxwz0no",
+					"expanded_url": "https://twitter.com/hatr/status/1208444747574054913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 339,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 598,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1446,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208444732969554000,
+					"id_str": "1208444732969553920",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EMVCFP9XkAATRS1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMVCFP9XkAATRS1.jpg",
+					"url": "https://t.co/Axxnxwz0no",
+					"display_url": "pic.twitter.com/Axxnxwz0no",
+					"expanded_url": "https://twitter.com/hatr/status/1208444747574054913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 339,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 598,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1446,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48272332,
+			"id_str": "48272332",
+			"name": "hͭaͣᶰkͬaͥnͮᵉʳᵈᶤ",
+			"screen_name": "hatr",
+			"location": "",
+			"description": "reporter, covering hackers/infosec for german public broadcasting {@br_recherche). python this, osint that.",
+			"url": "https://t.co/6QXerm5AF4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6QXerm5AF4",
+							"expanded_url": "https://twitter.com/br_data",
+							"display_url": "twitter.com/br_data",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11120,
+			"friends_count": 1998,
+			"listed_count": 442,
+			"created_at": "Thu Jun 18 06:45:03 +0000 2009",
+			"favourites_count": 28716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205517601461481473/jKv2DQCP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205517601461481473/jKv2DQCP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48272332/1536168994",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "2C2C2C",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "wenn du gefragt wirst, welches buch ganz gut ist für 2019 und du aber maxim biller heißt und noch paar uppercuts loswerden willst\n\nhttps://t.co/dS4HqkSaP1 https://t.co/Axxnxwz0no"
+	},
+	{
 		"created_at": "Sat Dec 21 16:34:39 +0000 2019",
 		"id": 1208425559644102700,
 		"id_str": "1208425559644102657",
