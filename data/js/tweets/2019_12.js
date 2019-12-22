@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 22 14:39:04 +0000 2019",
+		"id": 1208750287466483700,
+		"id_str": "1208758860036689920",
+		"full_text": "Olympia-Zeitung - offizielles Organ der 11. Olympischen Spiele 1936 in Berlin, 21.7.1936 https://t.co/gVQVZz6vmJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1208750284924739600,
+					"id_str": "1208750284924739584",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EMZX-tsXYAAgHfu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMZX-tsXYAAgHfu.jpg",
+					"url": "https://t.co/gVQVZz6vmJ",
+					"display_url": "pic.twitter.com/gVQVZz6vmJ",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1208750287466483713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 595,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 349,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208750284924739600,
+					"id_str": "1208750284924739584",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EMZX-tsXYAAgHfu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMZX-tsXYAAgHfu.jpg",
+					"url": "https://t.co/gVQVZz6vmJ",
+					"display_url": "pic.twitter.com/gVQVZz6vmJ",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1208750287466483713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 595,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 349,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/spinfo/autoChirp\" rel=\"nofollow\">autoChirper</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966765831140139000,
+			"id_str": "966765831140139009",
+			"name": "Die Reklame",
+			"screen_name": "Die_Reklame",
+			"location": "",
+			"description": "Historische Werbung. Von @moritz_hoffmann, @CJahnz und @mschfr, Technik von @auto_chirp. Wir stehen nicht in Verbindung mit den abgebildeten Produkten.",
+			"url": "https://t.co/3Yb5ujzitv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Yb5ujzitv",
+							"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+							"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4372,
+			"friends_count": 65,
+			"listed_count": 35,
+			"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+			"favourites_count": 389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+			"profile_link_color": "1A1A1A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Olympia-Zeitung - offizielles Organ der 11. Olympischen Spiele 1936 in Berlin, 21.7.1936 https://t.co/gVQVZz6vmJ"
+	},
+	{
 		"created_at": "Sun Dec 22 12:41:05 +0000 2019",
 		"id": 1208729166356582400,
 		"id_str": "1208729166356582400",
