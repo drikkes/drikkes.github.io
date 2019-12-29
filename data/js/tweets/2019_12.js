@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 29 16:40:14 +0000 2019",
+		"id": 1210030954485633000,
+		"id_str": "1211326065420976131",
+		"full_text": "None of the kids wanted toys for Christmas this year, they just wanted cash. Understandable, but cash as a gift, while practical, always feels impersonal, so I made special packaging. Went over well https://t.co/urXVCHtDyW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1210030937540644900,
+					"id_str": "1210030937540644871",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EMrkugdX0AcNWgu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMrkugdX0AcNWgu.jpg",
+					"url": "https://t.co/urXVCHtDyW",
+					"display_url": "pic.twitter.com/urXVCHtDyW",
+					"expanded_url": "https://twitter.com/TwoClawsMedia/status/1210030954485633025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 650,
+									"y": 407,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 310,
+									"y": 567,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 580,
+									"y": 639,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 650,
+									"y": 407,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 310,
+									"y": 567,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 580,
+									"y": 639,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 270,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 205,
+									"y": 376,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 385,
+									"y": 424,
+									"h": 28,
+									"w": 28
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 650,
+									"y": 407,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 310,
+									"y": 567,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 580,
+									"y": 639,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1210030937540644900,
+					"id_str": "1210030937540644871",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EMrkugdX0AcNWgu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMrkugdX0AcNWgu.jpg",
+					"url": "https://t.co/urXVCHtDyW",
+					"display_url": "pic.twitter.com/urXVCHtDyW",
+					"expanded_url": "https://twitter.com/TwoClawsMedia/status/1210030954485633025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 650,
+									"y": 407,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 310,
+									"y": 567,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 580,
+									"y": 639,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 650,
+									"y": 407,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 310,
+									"y": 567,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 580,
+									"y": 639,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 431,
+									"y": 270,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 205,
+									"y": 376,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 385,
+									"y": 424,
+									"h": 28,
+									"w": 28
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 650,
+									"y": 407,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 310,
+									"y": 567,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 580,
+									"y": 639,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1210030937565782000,
+					"id_str": "1210030937565782018",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EMrkugjXYAIKQgY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMrkugjXYAIKQgY.jpg",
+					"url": "https://t.co/urXVCHtDyW",
+					"display_url": "pic.twitter.com/urXVCHtDyW",
+					"expanded_url": "https://twitter.com/TwoClawsMedia/status/1210030954485633025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 145,
+									"y": 558,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 145,
+									"y": 558,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 145,
+									"y": 558,
+									"h": 117,
+									"w": 117
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 370,
+									"h": 77,
+									"w": 77
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1210030937557405700,
+					"id_str": "1210030937557405696",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EMrkughXkAAus_u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMrkughXkAAus_u.jpg",
+					"url": "https://t.co/urXVCHtDyW",
+					"display_url": "pic.twitter.com/urXVCHtDyW",
+					"expanded_url": "https://twitter.com/TwoClawsMedia/status/1210030954485633025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 415,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 503,
+									"y": 625,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 503,
+									"y": 625,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 503,
+									"y": 625,
+									"h": 108,
+									"w": 108
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1210030937565802500,
+					"id_str": "1210030937565802496",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EMrkugjXsAAlIUo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMrkugjXsAAlIUo.jpg",
+					"url": "https://t.co/urXVCHtDyW",
+					"display_url": "pic.twitter.com/urXVCHtDyW",
+					"expanded_url": "https://twitter.com/TwoClawsMedia/status/1210030954485633025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 241,
+									"y": 322,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 317,
+									"y": 245,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 364,
+									"y": 486,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 478,
+									"y": 369,
+									"h": 170,
+									"w": 170
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 364,
+									"y": 486,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 478,
+									"y": 369,
+									"h": 170,
+									"w": 170
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 364,
+									"y": 486,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 478,
+									"y": 369,
+									"h": 170,
+									"w": 170
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 997315446650167300,
+			"id_str": "997315446650167296",
+			"name": "Donnachaidha O’Chionnaigh",
+			"screen_name": "TwoClawsMedia",
+			"location": "Sitting on a beach earning 20%",
+			"description": "Foreign, yet accessible. He/Him. Warren 2020.",
+			"url": "https://t.co/mKCDQGpzAw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mKCDQGpzAw",
+							"expanded_url": "https://www.redbubble.com/people/perfidia/works/39994098-humboldt-park?p=t-shirt",
+							"display_url": "redbubble.com/people/perfidi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4440,
+			"friends_count": 680,
+			"listed_count": 34,
+			"created_at": "Fri May 18 03:18:26 +0000 2018",
+			"favourites_count": 18752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145670391211483136/Gd3UF4Ky_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145670391211483136/Gd3UF4Ky_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/997315446650167296/1565581443",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124651,
+		"favorite_count": 706797,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "None of the kids wanted toys for Christmas this year, they just wanted cash. Understandable, but cash as a gift, while practical, always feels impersonal, so I made special packaging. Went over well https://t.co/urXVCHtDyW"
+	},
+	{
 		"created_at": "Sun Dec 29 13:26:54 +0000 2019",
 		"id": 1211277413709205500,
 		"id_str": "1211277413709205504",
