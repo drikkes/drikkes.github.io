@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 07:05:21 +0000 2020",
+		"id": 1214008610667155500,
+		"id_str": "1214080497002975232",
+		"full_text": "Ricky Gervais kicks off The #GoldenGlobes. https://t.co/ZSdqiWMudx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenGlobes",
+					"indices": [
+						28,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214004378790531000,
+					"id_str": "1214004378790531073",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1214004378790531073/img/KNZKuxf5vWkjL9Yr.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1214004378790531073/img/KNZKuxf5vWkjL9Yr.jpg",
+					"url": "https://t.co/ZSdqiWMudx",
+					"display_url": "pic.twitter.com/ZSdqiWMudx",
+					"expanded_url": "https://twitter.com/nbc/status/1214008610667155456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214004378790531000,
+					"id_str": "1214004378790531073",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1214004378790531073/img/KNZKuxf5vWkjL9Yr.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1214004378790531073/img/KNZKuxf5vWkjL9Yr.jpg",
+					"url": "https://t.co/ZSdqiWMudx",
+					"display_url": "pic.twitter.com/ZSdqiWMudx",
+					"expanded_url": "https://twitter.com/nbc/status/1214008610667155456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 469769,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1214004378790531073/vid/1280x720/mHepsXRmIQQEyfNS.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1214004378790531073/vid/640x360/a5ZgPTUz7aBMD2Dy.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1214004378790531073/vid/480x270/HsgNdUEQ2yL_Vzsr.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1214004378790531073/pl/k5Ds5uy8HmnU1X1C.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "Ricky Gervais' Monologue - 2020 Golden Globes",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://www.nbc.com/the-golden-globe-awards"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26585095,
+			"id_str": "26585095",
+			"name": "NBC Entertainment",
+			"screen_name": "nbc",
+			"location": "Across the globe",
+			"description": "The official Twitter profile for NBC. Need help? Tweet @nbcsupport.",
+			"url": "https://t.co/yDH5UHI5Tf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yDH5UHI5Tf",
+							"expanded_url": "http://nbc.com",
+							"display_url": "nbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1991976,
+			"friends_count": 1220,
+			"listed_count": 10058,
+			"created_at": "Wed Mar 25 20:37:48 +0000 2009",
+			"favourites_count": 16920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B3ADB3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210277525818986496/ddmz2fyp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210277525818986496/ddmz2fyp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26585095/1557174273",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6859,
+		"favorite_count": 25382,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ricky Gervais kicks off The #GoldenGlobes. https://t.co/ZSdqiWMudx"
+	},
+	{
 		"created_at": "Sun Jan 05 13:58:26 +0000 2020",
 		"id": 1213822064626409500,
 		"id_str": "1213822064626409472",
