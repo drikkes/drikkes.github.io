@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 07:35:09 +0000 2020",
+		"id": 1214136165017825300,
+		"id_str": "1214450385592705026",
+		"full_text": "I take it all back. I now welcome nuclear oblivion  https://t.co/BDQ9zH4OTQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 941040214159560700,
+					"id_str": "941040214159560710",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/941040214159560710/img/oGOCobhXvQVWbYOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/941040214159560710/img/oGOCobhXvQVWbYOz.jpg",
+					"url": "https://t.co/BDQ9zH4OTQ",
+					"display_url": "pic.twitter.com/BDQ9zH4OTQ",
+					"expanded_url": "https://twitter.com/cheddar/status/1213914564406005760/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1213914564406005800,
+					"source_status_id_str": "1213914564406005760",
+					"source_user_id": 700784500658208800,
+					"source_user_id_str": "700784500658208768",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 941040214159560700,
+					"id_str": "941040214159560710",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/941040214159560710/img/oGOCobhXvQVWbYOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/941040214159560710/img/oGOCobhXvQVWbYOz.jpg",
+					"url": "https://t.co/BDQ9zH4OTQ",
+					"display_url": "pic.twitter.com/BDQ9zH4OTQ",
+					"expanded_url": "https://twitter.com/cheddar/status/1213914564406005760/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1213914564406005800,
+					"source_status_id_str": "1213914564406005760",
+					"source_user_id": 700784500658208800,
+					"source_user_id_str": "700784500658208768",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 42242,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/941040214159560710/vid/480x480/efrKbsQs69swxzEQ.mp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/941040214159560710/vid/720x720/cYv_M0n4xCGFxAU9.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/941040214159560710/vid/240x240/gZsW2L6PbVxZkUno.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/941040214159560710/pl/CC7SmrSh3CdTICHj.m3u8"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 700784500658208800,
+							"id_str": "700784500658208768",
+							"name": "Cheddar",
+							"screen_name": "cheddar",
+							"location": "New York, NY",
+							"description": "Cheddar covers the latest in news, business, media, and tech. Live weekdays from 7am - 5pm EST. https://t.co/ZOGPjvSN6O",
+							"url": "https://t.co/tf0BsbRMXt",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/tf0BsbRMXt",
+											"expanded_url": "http://cheddar.com",
+											"display_url": "cheddar.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/ZOGPjvSN6O",
+											"expanded_url": "https://chdr.tv/shop",
+											"display_url": "chdr.tv/shop",
+											"indices": [
+												96,
+												119
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 249283,
+							"friends_count": 7090,
+							"listed_count": 2125,
+							"created_at": "Fri Feb 19 20:50:19 +0000 2016",
+							"favourites_count": 11824,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 37284,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1091348821563592705/Q5AWGB6S_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091348821563592705/Q5AWGB6S_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/700784500658208768/1554472748",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107731410,
+			"id_str": "107731410",
+			"name": "Frances Weetman",
+			"screen_name": "francesweetman",
+			"location": "Newcastle Upon Tyne, England",
+			"description": "Films, finance, feminism. Not necessarily in that order! Winner of the inaugural Virago/New Statesman Prize for Politics and Economics.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15268,
+			"friends_count": 2949,
+			"listed_count": 93,
+			"created_at": "Sat Jan 23 14:51:42 +0000 2010",
+			"favourites_count": 149834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F4F5D2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039493842293219329/mFbMI1uu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039493842293219329/mFbMI1uu_normal.jpg",
+			"profile_link_color": "030526",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3563,
+		"favorite_count": 19419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I take it all back. I now welcome nuclear oblivion  https://t.co/BDQ9zH4OTQ"
+	},
+	{
 		"created_at": "Mon Jan 06 17:17:04 +0000 2020",
 		"id": 1214234438147756000,
 		"id_str": "1214234438147756033",
