@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 18:11:59 +0000 2020",
+		"id": 1215412746663223300,
+		"id_str": "1215697811687268354",
+		"full_text": "Iran May Have a Fleet of Communist Killer Dolphins https://t.co/mwGJcMuoaZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mwGJcMuoaZ",
+					"expanded_url": "http://bit.ly/37RkthW",
+					"display_url": "bit.ly/37RkthW",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14692385,
+			"id_str": "14692385",
+			"name": "Military.com",
+			"screen_name": "Militarydotcom",
+			"location": "United States",
+			"description": "The Official http://t.co/iqMCS6M3ZD Twitter.  Follow for breaking military news, videos, and exclusive military content.",
+			"url": "http://www.Military.com",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.Military.com",
+							"expanded_url": null,
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/iqMCS6M3ZD",
+							"expanded_url": "http://Military.com",
+							"display_url": "Military.com",
+							"indices": [
+								13,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 201924,
+			"friends_count": 739,
+			"listed_count": 2668,
+			"created_at": "Wed May 07 21:47:48 +0000 2008",
+			"favourites_count": 671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 38875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880506581640773632/eNTAl2D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880506581640773632/eNTAl2D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14692385/1498764124",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2942,
+		"favorite_count": 7493,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Iran May Have a Fleet of Communist Killer Dolphins https://t.co/mwGJcMuoaZ"
+	},
+	{
 		"created_at": "Fri Jan 10 14:42:47 +0000 2020",
 		"id": 1215645163231621000,
 		"id_str": "1215645163231621122",
