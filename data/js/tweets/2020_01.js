@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 11:35:46 +0000 2020",
+		"id": 1216706486207991800,
+		"id_str": "1217772427872215040",
+		"full_text": "Fotos machen kann die @CSU nicht so gut wie @PaulZiemiak. Sonst hätten sie vielleicht gemerkt, dass es bisschen blöd ist, ein \"Wieder fair sein\"-Plakat zu präsentieren und gegen Radwege zu hetzten, wenn gerade ein Auto auf dem Radweg parkt. #muenchen #muc #niemehrcsu #muc #wahl https://t.co/Ol23jVeP94",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "muenchen",
+					"indices": [
+						241,
+						250
+					]
+				},
+				{
+					"text": "muc",
+					"indices": [
+						251,
+						255
+					]
+				},
+				{
+					"text": "niemehrcsu",
+					"indices": [
+						256,
+						267
+					]
+				},
+				{
+					"text": "muc",
+					"indices": [
+						268,
+						272
+					]
+				},
+				{
+					"text": "wahl",
+					"indices": [
+						273,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CSU",
+					"name": "CSU",
+					"id": 21107582,
+					"id_str": "21107582",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"screen_name": "PaulZiemiak",
+					"name": "Paul Ziemiak",
+					"id": 288696645,
+					"id_str": "288696645",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216706481753612300,
+					"id_str": "1216706481753612289",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EOKcGUjW4AElWxd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOKcGUjW4AElWxd.jpg",
+					"url": "https://t.co/Ol23jVeP94",
+					"display_url": "pic.twitter.com/Ol23jVeP94",
+					"expanded_url": "https://twitter.com/Isarjunge1/status/1216706486207991808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 778,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 778,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 551,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 103,
+									"y": 204,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 596,
+									"y": 228,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 103,
+									"y": 204,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 596,
+									"y": 228,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 103,
+									"y": 204,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 596,
+									"y": 228,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 144,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 422,
+									"y": 161,
+									"h": 56,
+									"w": 56
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216706481753612300,
+					"id_str": "1216706481753612289",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EOKcGUjW4AElWxd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOKcGUjW4AElWxd.jpg",
+					"url": "https://t.co/Ol23jVeP94",
+					"display_url": "pic.twitter.com/Ol23jVeP94",
+					"expanded_url": "https://twitter.com/Isarjunge1/status/1216706486207991808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 778,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 778,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 551,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 103,
+									"y": 204,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 596,
+									"y": 228,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 103,
+									"y": 204,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 596,
+									"y": 228,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 103,
+									"y": 204,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 596,
+									"y": 228,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 72,
+									"y": 144,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 422,
+									"y": 161,
+									"h": 56,
+									"w": 56
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096033961682317300,
+			"id_str": "1096033961682317317",
+			"name": "Isarjunge",
+			"screen_name": "Isarjunge1",
+			"location": "",
+			"description": "Schreibt mehr Drukos als eigene Tweets... #NieMehrCDU #NiemalsAfD #FCKAFD",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 290,
+			"listed_count": 0,
+			"created_at": "Thu Feb 14 13:10:34 +0000 2019",
+			"favourites_count": 7254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102954773710602243/Vwmq50___normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102954773710602243/Vwmq50___normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 366,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Fotos machen kann die @CSU nicht so gut wie @PaulZiemiak. Sonst hätten sie vielleicht gemerkt, dass es bisschen blöd ist, ein \"Wieder fair sein\"-Plakat zu präsentieren und gegen Radwege zu hetzten, wenn gerade ein Auto auf dem Radweg parkt. #muenchen #muc #niemehrcsu #muc #wahl https://t.co/Ol23jVeP94"
+	},
+	{
 		"created_at": "Thu Jan 16 10:23:29 +0000 2020",
 		"id": 1217754237133869000,
 		"id_str": "1217754237133869056",
