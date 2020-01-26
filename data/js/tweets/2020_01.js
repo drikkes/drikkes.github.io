@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 26 08:43:42 +0000 2020",
+		"id": 1221353005817254000,
+		"id_str": "1221353005817253888",
+		"full_text": "Waren die beim letzten Album nicht noch ein Trio? https://t.co/Q4Lar9XzFz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q4Lar9XzFz",
+					"expanded_url": "https://twitter.com/Nilzenburger/status/1221063709264687104",
+					"display_url": "twitter.com/Nilzenburger/s…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 854,
+			"friends_count": 163,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221063709264687000,
+		"quoted_status_id_str": "1221063709264687104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Q4Lar9XzFz",
+			"expanded": "https://twitter.com/Nilzenburger/status/1221063709264687104",
+			"display": "twitter.com/Nilzenburger/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 25 13:34:09 +0000 2020",
+			"id": 1221063709264687000,
+			"id_str": "1221063709264687104",
+			"full_text": "Diese Band ist so super - ich weiß gar nicht, ob wir die wirklich verdient haben. https://t.co/RBvmoV6w63 @oddcoupleberlin",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "oddcoupleberlin",
+						"name": "Odd Couple",
+						"id": 821705755829141500,
+						"id_str": "821705755829141505",
+						"indices": [
+							106,
+							122
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RBvmoV6w63",
+						"expanded_url": "https://youtu.be/6oAXJp64Gk0",
+						"display_url": "youtu.be/6oAXJp64Gk0",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5977982,
+				"id_str": "5977982",
+				"name": "Nilz Bokelberg",
+				"screen_name": "Nilzenburger",
+				"location": "Germany",
+				"description": "Podcast Autor der Herzen (Faking Hitler, Dunkle Heimat, Pop kann alles) und Host (Gästeliste Geisterbahn, Wimaf) Wären wir Freunde, würdest du nie AfD wählen.",
+				"url": "https://t.co/ZzVizsWgAM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZzVizsWgAM",
+								"expanded_url": "http://www.gaestelistegeisterbahn.de",
+								"display_url": "gaestelistegeisterbahn.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47606,
+				"friends_count": 6687,
+				"listed_count": 505,
+				"created_at": "Sat May 12 01:26:34 +0000 2007",
+				"favourites_count": 31857,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17734,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583383484762361856/a87-ymHM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583383484762361856/a87-ymHM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5977982/1479569884",
+				"profile_link_color": "3F8032",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EBBEA8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Waren die beim letzten Album nicht noch ein Trio? https://t.co/Q4Lar9XzFz"
+	},
+	{
 		"created_at": "Sat Jan 25 17:51:13 +0000 2020",
 		"id": 1221128404789080000,
 		"id_str": "1221128404789080064",
