@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 11:23:47 +0000 2020",
+		"id": 1223205231871262700,
+		"id_str": "1223205231871262721",
+		"full_text": "Fremdbild als später Graf Bálint Széchényi de Sárvár-Felsövidék. https://t.co/c5ggGnB8Hv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c5ggGnB8Hv",
+					"expanded_url": "https://twitter.com/sethbleonard/status/1222975753731612672",
+					"display_url": "twitter.com/sethbleonard/s…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 854,
+			"friends_count": 163,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222975753731612700,
+		"quoted_status_id_str": "1222975753731612672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c5ggGnB8Hv",
+			"expanded": "https://twitter.com/sethbleonard/status/1222975753731612672",
+			"display": "twitter.com/sethbleonard/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 30 20:11:56 +0000 2020",
+			"id": 1222975753731612700,
+			"id_str": "1222975753731612672",
+			"full_text": "Countess Beatrix of Schönburg-Glauchau, mother of Fürstin Gloria of Thurn and Taxis, celebrates her 90th birthday.\n\nBorn in 1930, Beatrix is a daughter of the late Count Bálint Széchényi de Sárvár-Felsövidék and Princess Maria Pavlovna Galitzine.\n\nhttps://t.co/DYWwlBkxof https://t.co/eyUyeLjzTJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DYWwlBkxof",
+						"expanded_url": "https://eurohistoryjournal.blogspot.com/2020/01/the-ninetieth-birthday-of-countess.html?m=1",
+						"display_url": "eurohistoryjournal.blogspot.com/2020/01/the-ni…",
+						"indices": [
+							248,
+							271
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1222975746743963600,
+						"id_str": "1222975746743963648",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EPjh9kmXkAAXivn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPjh9kmXkAAXivn.jpg",
+						"url": "https://t.co/eyUyeLjzTJ",
+						"display_url": "pic.twitter.com/eyUyeLjzTJ",
+						"expanded_url": "https://twitter.com/sethbleonard/status/1222975753731612672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 755,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 428,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1974,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 52,
+										"y": 741,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 265,
+										"y": 115,
+										"h": 178,
+										"w": 178
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 29,
+										"y": 420,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 150,
+										"y": 65,
+										"h": 100,
+										"w": 100
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 86,
+										"y": 1220,
+										"h": 136,
+										"w": 136
+									},
+									{
+										"x": 437,
+										"y": 190,
+										"h": 293,
+										"w": 293
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 86,
+										"y": 1220,
+										"h": 136,
+										"w": 136
+									},
+									{
+										"x": 437,
+										"y": 190,
+										"h": 293,
+										"w": 293
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1222975746743963600,
+						"id_str": "1222975746743963648",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EPjh9kmXkAAXivn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPjh9kmXkAAXivn.jpg",
+						"url": "https://t.co/eyUyeLjzTJ",
+						"display_url": "pic.twitter.com/eyUyeLjzTJ",
+						"expanded_url": "https://twitter.com/sethbleonard/status/1222975753731612672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 755,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 428,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1974,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 52,
+										"y": 741,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 265,
+										"y": 115,
+										"h": 178,
+										"w": 178
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 29,
+										"y": 420,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 150,
+										"y": 65,
+										"h": 100,
+										"w": 100
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 86,
+										"y": 1220,
+										"h": 136,
+										"w": 136
+									},
+									{
+										"x": 437,
+										"y": 190,
+										"h": 293,
+										"w": 293
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 86,
+										"y": 1220,
+										"h": 136,
+										"w": 136
+									},
+									{
+										"x": 437,
+										"y": 190,
+										"h": 293,
+										"w": 293
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 68575828,
+				"id_str": "68575828",
+				"name": "Seth B. Leonard",
+				"screen_name": "sethbleonard",
+				"location": "Greenville, South Carolina",
+				"description": "Contributing writer & editor at European Royal History Journal (ERHJ) | Aficionado of European (& world-wide) royalty | Lover of genealogy & family history",
+				"url": "https://t.co/ScUJosgVFr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ScUJosgVFr",
+								"expanded_url": "http://eurohistoryjournal.blogspot.com",
+								"display_url": "eurohistoryjournal.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72,
+				"friends_count": 160,
+				"listed_count": 3,
+				"created_at": "Tue Aug 25 01:53:08 +0000 2009",
+				"favourites_count": 10036,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1063,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1218724579939667970/15opUJ0C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218724579939667970/15opUJ0C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/68575828/1424474590",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "hu",
+		"text": "Fremdbild als später Graf Bálint Széchényi de Sárvár-Felsövidék. https://t.co/c5ggGnB8Hv"
+	},
+	{
 		"created_at": "Fri Jan 31 10:58:09 +0000 2020",
 		"id": 1223198779257630700,
 		"id_str": "1223198779257630720",
