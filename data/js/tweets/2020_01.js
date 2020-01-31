@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 10:58:09 +0000 2020",
+		"id": 1223198779257630700,
+		"id_str": "1223198779257630720",
+		"full_text": "„die jungen Wilden“ https://t.co/OQKdirPKuS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OQKdirPKuS",
+					"expanded_url": "https://twitter.com/claudio_schmid/status/1222785614845706240",
+					"display_url": "twitter.com/claudio_schmid…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 854,
+			"friends_count": 163,
+			"listed_count": 82,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222785614845706200,
+		"quoted_status_id_str": "1222785614845706240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OQKdirPKuS",
+			"expanded": "https://twitter.com/claudio_schmid/status/1222785614845706240",
+			"display": "twitter.com/claudio_schmid…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 30 07:36:23 +0000 2020",
+			"id": 1222785614845706200,
+			"id_str": "1222785614845706240",
+			"full_text": "Am 30. Januar 1933 - vor 87 Jahren - ergriffen die Nazis die Macht.\n\nHitler: 43 Jahre alt\nGöring: 40 Jahre alt\nGoebbels: 35 Jahre alt\nBormann: 32 Jahre alt \nHimmler: 32 Jahre alt\nHeydrich: 28 Jahre alt\nSpeer: 27 Jahre alt \n\nWirkt extrem krass, surreal und bizarr ...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2231435263,
+				"id_str": "2231435263",
+				"name": "Claudio Schmid",
+				"screen_name": "claudio_schmid",
+				"location": "Bülach, Schweiz",
+				"description": "Unternehmer & Kantonsrat Zürich",
+				"url": "https://t.co/u3kOW7N3Si",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u3kOW7N3Si",
+								"expanded_url": "http://www.Kantonsrat.zh.ch",
+								"display_url": "Kantonsrat.zh.ch",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5472,
+				"friends_count": 364,
+				"listed_count": 117,
+				"created_at": "Thu Dec 05 12:50:24 +0000 2013",
+				"favourites_count": 101012,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2569,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1135848482126880768/5EANI9NF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135848482126880768/5EANI9NF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2231435263/1559642462",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 272,
+			"favorite_count": 1060,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "„die jungen Wilden“ https://t.co/OQKdirPKuS"
+	},
+	{
 		"created_at": "Fri Jan 31 06:24:04 +0000 2020",
 		"id": 1223129803244671000,
 		"id_str": "1223129803244670976",
