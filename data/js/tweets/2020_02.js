@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 18:38:48 +0000 2020",
+		"id": 1224447514054520800,
+		"id_str": "1224764255955836928",
+		"full_text": "“Dong. Ding dong.”\n\n-Jame Bond’s doorbell",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40931468,
+			"id_str": "40931468",
+			"name": "Noah Garfinkel",
+			"screen_name": "NoahGarfinkel",
+			"location": "Los Angeles, CA",
+			"description": "Writer -- Abby’s, Single Parents. Formerly: President Show, New Girl, Kroll Show, Workaholics. Profile picture is a guy editing my passport photo at Walgreens.",
+			"url": "https://t.co/phP57IbcWR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/phP57IbcWR",
+							"expanded_url": "http://www.instagram.com/noahgarfinkel",
+							"display_url": "instagram.com/noahgarfinkel",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23044,
+			"friends_count": 972,
+			"listed_count": 333,
+			"created_at": "Mon May 18 18:20:21 +0000 2009",
+			"favourites_count": 15048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123737169019973632/SADt885L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123737169019973632/SADt885L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40931468/1495648333",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1956,
+		"favorite_count": 15529,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“Dong. Ding dong.”\n\n-Jame Bond’s doorbell"
+	},
+	{
 		"created_at": "Tue Feb 04 15:21:06 +0000 2020",
 		"id": 1224714501909622800,
 		"id_str": "1224714501909622788",
