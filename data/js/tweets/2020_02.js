@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 17:25:17 +0000 2020",
+		"id": 1225079543800762400,
+		"id_str": "1225108145309126665",
+		"full_text": "😭 https://t.co/omDycjQ05p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225079529959379000,
+					"id_str": "1225079529959378946",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/EQBbV3zU0AIoJrg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQBbV3zU0AIoJrg.jpg",
+					"url": "https://t.co/omDycjQ05p",
+					"display_url": "pic.twitter.com/omDycjQ05p",
+					"expanded_url": "https://twitter.com/larsweisbrod/status/1225079543800762368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1112,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225079529959379000,
+					"id_str": "1225079529959378946",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/EQBbV3zU0AIoJrg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQBbV3zU0AIoJrg.jpg",
+					"url": "https://t.co/omDycjQ05p",
+					"display_url": "pic.twitter.com/omDycjQ05p",
+					"expanded_url": "https://twitter.com/larsweisbrod/status/1225079543800762368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1112,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1112,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16189050,
+			"id_str": "16189050",
+			"name": "Lars Weisbrod",
+			"screen_name": "larsweisbrod",
+			"location": "Hamburg",
+			"description": "Bring me my bow of burning gold / Bring me my arrows of desire @DIEZEIT Feuilleton",
+			"url": "https://t.co/xWlsPF3zPH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xWlsPF3zPH",
+							"expanded_url": "http://instagram.com/larsweisbrod",
+							"display_url": "instagram.com/larsweisbrod",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21592,
+			"friends_count": 1002,
+			"listed_count": 127,
+			"created_at": "Mon Sep 08 18:53:10 +0000 2008",
+			"favourites_count": 65033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209958871848116226/_siEBRc9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209958871848116226/_siEBRc9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16189050/1422928130",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😭 https://t.co/omDycjQ05p"
+	},
+	{
 		"created_at": "Wed Feb 05 09:34:59 +0000 2020",
 		"id": 1224989786718507000,
 		"id_str": "1224989786718507014",
