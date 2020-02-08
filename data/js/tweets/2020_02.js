@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 10:25:03 +0000 2020",
+		"id": 1226083666025222100,
+		"id_str": "1226089553716555776",
+		"full_text": "https://t.co/gjjMFnTwjX \"Der wichtigste Film in meinem Leben beginnt mit den Namen 'Charlton Heston' und 'John Cassavetes' dann kommt der Titel 'two-minute warning' und dann sieht man einen sehr großen Roulettetisch, den man wohl in die Landschaft zementiert hat! Ganz ganz lange\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gjjMFnTwjX",
+					"expanded_url": "https://www.youtube.com/watch?v=_ecyaeB5OSw",
+					"display_url": "youtube.com/watch?v=_ecyae…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32183857,
+			"id_str": "32183857",
+			"name": "René Pollesch",
+			"screen_name": "renepollesch",
+			"location": "Berlin",
+			"description": "Gefolgt von niemandem, dem du folgst",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9397,
+			"friends_count": 988,
+			"listed_count": 77,
+			"created_at": "Thu Apr 16 22:35:00 +0000 2009",
+			"favourites_count": 5260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000848676737159169/JtXBtegd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000848676737159169/JtXBtegd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32183857/1566765446",
+			"profile_link_color": "CF2D2D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "https://t.co/gjjMFnTwjX \"Der wichtigste Film in meinem Leben beginnt mit den Namen 'Charlton Heston' und 'John Cassavetes' dann kommt der Titel 'two-minute warning' und dann sieht man einen sehr großen Roulettetisch, den man wohl in die Landschaft zementiert hat! Ganz ganz lange\""
+	},
+	{
 		"created_at": "Sat Feb 08 10:01:48 +0000 2020",
 		"id": 1226083699302813700,
 		"id_str": "1226083699302813697",
