@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 18 15:10:20 +0000 2020",
+		"id": 1229785225506574300,
+		"id_str": "1229785225506574338",
+		"full_text": "Ich weiß nicht viel, aber ich bin mir ziemlich sicher, daß uns „eine Tüte Gummibärchen &amp; ein Collegeblock gratis“ nicht vor der Klimakatastrophe retten werden. https://t.co/zOab7ISFvp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zOab7ISFvp",
+					"expanded_url": "https://twitter.com/jrh73/status/1225344934800220160",
+					"display_url": "twitter.com/jrh73/status/1…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 852,
+			"friends_count": 163,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1225344934800220200,
+		"quoted_status_id_str": "1225344934800220160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zOab7ISFvp",
+			"expanded": "https://twitter.com/jrh73/status/1225344934800220160",
+			"display": "twitter.com/jrh73/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 06 09:06:12 +0000 2020",
+			"id": 1225344934800220200,
+			"id_str": "1225344934800220160",
+			"full_text": "„Go Green Or Die Trying‘“ titelt die aktuelle @BusinessPunkMag . Gemeinsam haben  @thjnkag, loved und @upljft ReThinkingPaper entwickelt, so dass jeder via https://t.co/PKux3ppczi zum Umdenker werden kann! #ReThinkingPaper #SocialMedia #Umdenken 💪🌳🌎 https://t.co/ujqGIAEbFo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ReThinkingPaper",
+						"indices": [
+							206,
+							222
+						]
+					},
+					{
+						"text": "SocialMedia",
+						"indices": [
+							223,
+							235
+						]
+					},
+					{
+						"text": "Umdenken",
+						"indices": [
+							236,
+							245
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BusinessPunkMag",
+						"name": "Business Punk",
+						"id": 76700084,
+						"id_str": "76700084",
+						"indices": [
+							46,
+							62
+						]
+					},
+					{
+						"screen_name": "thjnkag",
+						"name": "thjnk",
+						"id": 775591994,
+						"id_str": "775591994",
+						"indices": [
+							82,
+							90
+						]
+					},
+					{
+						"screen_name": "upljft",
+						"name": "upljft",
+						"id": 975784660469940200,
+						"id_str": "975784660469940224",
+						"indices": [
+							102,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PKux3ppczi",
+						"expanded_url": "http://www.rethinking-paper.de",
+						"display_url": "rethinking-paper.de",
+						"indices": [
+							156,
+							179
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1225344928705728500,
+						"id_str": "1225344928705728512",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/EQFMuHLU0AAjvFI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQFMuHLU0AAjvFI.jpg",
+						"url": "https://t.co/ujqGIAEbFo",
+						"display_url": "pic.twitter.com/ujqGIAEbFo",
+						"expanded_url": "https://twitter.com/jrh73/status/1225344934800220160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1225344928705728500,
+						"id_str": "1225344928705728512",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/EQFMuHLU0AAjvFI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQFMuHLU0AAjvFI.jpg",
+						"url": "https://t.co/ujqGIAEbFo",
+						"display_url": "pic.twitter.com/ujqGIAEbFo",
+						"expanded_url": "https://twitter.com/jrh73/status/1225344934800220160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1225344928718282800,
+						"id_str": "1225344928718282752",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/EQFMuHOUYAAs0Df.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQFMuHOUYAAs0Df.jpg",
+						"url": "https://t.co/ujqGIAEbFo",
+						"display_url": "pic.twitter.com/ujqGIAEbFo",
+						"expanded_url": "https://twitter.com/jrh73/status/1225344934800220160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 637,
+								"h": 637,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 637,
+								"h": 637,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 637,
+								"h": 637,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 263256152,
+				"id_str": "263256152",
+				"name": "Jan Honsel",
+				"screen_name": "jrh73",
+				"location": "Hamburg",
+				"description": "Building @upljft. Angel @EditionF_com. Fmr. Country Manager @PinterestDACH, COO & Publishing Director G+J Business Media, Co-Founder @BusinessPunkMag",
+				"url": "https://t.co/dIMoZE6MbX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dIMoZE6MbX",
+								"expanded_url": "http://de.linkedin.com/pub/jan-honsel/0/53a/587",
+								"display_url": "de.linkedin.com/pub/jan-honsel…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2667,
+				"friends_count": 2628,
+				"listed_count": 347,
+				"created_at": "Wed Mar 09 18:07:50 +0000 2011",
+				"favourites_count": 3327,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9210,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFE5CC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012612121526497280/frdt2tnL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012612121526497280/frdt2tnL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/263256152/1527611424",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Ich weiß nicht viel, aber ich bin mir ziemlich sicher, daß uns „eine Tüte Gummibärchen &amp; ein Collegeblock gratis“ nicht vor der Klimakatastrophe retten werden. https://t.co/zOab7ISFvp"
+	},
+	{
 		"created_at": "Tue Feb 18 13:46:25 +0000 2020",
 		"id": 1229764107601096700,
 		"id_str": "1229764107601096704",
