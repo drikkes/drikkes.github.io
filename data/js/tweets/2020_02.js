@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 23 12:02:07 +0000 2020",
+		"id": 1231549799306006500,
+		"id_str": "1231549799306006529",
+		"full_text": "„Sicherheitsbehörden“ https://t.co/Yw3IQUjUsP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yw3IQUjUsP",
+					"expanded_url": "https://twitter.com/AlexGrantl/status/1231547490446475265",
+					"display_url": "twitter.com/AlexGrantl/sta…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 852,
+			"friends_count": 164,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 4996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1231547490446475300,
+		"quoted_status_id_str": "1231547490446475265",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yw3IQUjUsP",
+			"expanded": "https://twitter.com/AlexGrantl/status/1231547490446475265",
+			"display": "twitter.com/AlexGrantl/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 23 11:52:57 +0000 2020",
+			"id": 1231547490446475300,
+			"id_str": "1231547490446475265",
+			"full_text": "Knapp daneben ist auch vorbei https://t.co/zzF5zgXm3G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1231547085989830700,
+						"id_str": "1231547085989830657",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/ERdVjLiXYAEz3Qx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERdVjLiXYAEz3Qx.jpg",
+						"url": "https://t.co/zzF5zgXm3G",
+						"display_url": "pic.twitter.com/zzF5zgXm3G",
+						"expanded_url": "https://twitter.com/AlexGrantl/status/1231547490446475265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 899,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1124,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1231547085989830700,
+						"id_str": "1231547085989830657",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/ERdVjLiXYAEz3Qx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERdVjLiXYAEz3Qx.jpg",
+						"url": "https://t.co/zzF5zgXm3G",
+						"display_url": "pic.twitter.com/zzF5zgXm3G",
+						"expanded_url": "https://twitter.com/AlexGrantl/status/1231547490446475265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 899,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1124,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1231547097931010000,
+						"id_str": "1231547097931010050",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/ERdVj4BXUAIByEn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERdVj4BXUAIByEn.jpg",
+						"url": "https://t.co/zzF5zgXm3G",
+						"display_url": "pic.twitter.com/zzF5zgXm3G",
+						"expanded_url": "https://twitter.com/AlexGrantl/status/1231547490446475265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 521,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1263,
+								"h": 967,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 919,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4836498256,
+				"id_str": "4836498256",
+				"name": "Alex Grantl",
+				"screen_name": "AlexGrantl",
+				"location": "",
+				"description": "Journalist und Autor. @ndr. Davor @extra3.",
+				"url": "https://t.co/dUllo5tCyk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dUllo5tCyk",
+								"expanded_url": "http://alex-grantl.de",
+								"display_url": "alex-grantl.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2769,
+				"friends_count": 424,
+				"listed_count": 37,
+				"created_at": "Fri Jan 22 21:30:59 +0000 2016",
+				"favourites_count": 102607,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 552,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213163944648626176/NmqueBld_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213163944648626176/NmqueBld_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4836498256/1566044938",
+				"profile_link_color": "7323DC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "„Sicherheitsbehörden“ https://t.co/Yw3IQUjUsP"
+	},
+	{
 		"created_at": "Sun Feb 23 09:01:13 +0000 2020",
 		"id": 1231481322104901600,
 		"id_str": "1231504271088275456",
