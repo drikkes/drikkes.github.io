@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 29 12:43:17 +0000 2020",
+		"id": 1233645689105719300,
+		"id_str": "1233734485390364672",
+		"full_text": "Auweia. Schlimm harter Stoff. https://t.co/G9pXaoh1O5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G9pXaoh1O5",
+					"expanded_url": "https://youtu.be/gxIEt3KEohk",
+					"display_url": "youtu.be/gxIEt3KEohk",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5899392,
+			"id_str": "5899392",
+			"name": "Mathias Richel 🇪🇺",
+			"screen_name": "mathiasrichel",
+			"location": "Berlin, Germany",
+			"description": "Cruise Missile // Gründer Richel, Stauss GmbH // Strategist // Geboren in Frankfurt (Oder) // #wirsindderosten",
+			"url": "https://t.co/xRylLRjyT0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xRylLRjyT0",
+							"expanded_url": "http://richelstauss.de",
+							"display_url": "richelstauss.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10754,
+			"friends_count": 523,
+			"listed_count": 377,
+			"created_at": "Wed May 09 13:32:33 +0000 2007",
+			"favourites_count": 30172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057581877274517504/PxnYYlDZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057581877274517504/PxnYYlDZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5899392/1539254087",
+			"profile_link_color": "9494FC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D2D2D2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Auweia. Schlimm harter Stoff. https://t.co/G9pXaoh1O5"
+	},
+	{
 		"created_at": "Fri Feb 28 17:14:17 +0000 2020",
 		"id": 1233440297096536000,
 		"id_str": "1233440297096536064",
