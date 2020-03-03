@@ -1,6 +1,118 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 03 14:46:41 +0000 2020",
+		"id": 1234789136336400400,
+		"id_str": "1234852704821874690",
+		"full_text": "Niklas Weber über die langjährigen neurechten Verbindungen von Benjamin Hasselhorn, dem #Hohenzollern -Gutachter der @cducsubt  https://t.co/PJW7EbJYLR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hohenzollern",
+					"indices": [
+						88,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cducsubt",
+					"name": "CDU/CSU",
+					"id": 46085533,
+					"id_str": "46085533",
+					"indices": [
+						117,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PJW7EbJYLR",
+					"expanded_url": "https://www.sueddeutsche.de/kultur/benjamin-hasselhorn-hohenzollern-neue-rechte-1.4827695",
+					"display_url": "sueddeutsche.de/kultur/benjami…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245724532,
+			"id_str": "245724532",
+			"name": "Meredith Haaf",
+			"screen_name": "MeredithHaaf",
+			"location": "München",
+			"description": "Nice for what? \n\nSchreibt über family, politics, culture\nRedakteurin Meinung @SZ \nAutorin @dtv_verlag",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3038,
+			"friends_count": 1071,
+			"listed_count": 58,
+			"created_at": "Tue Feb 01 10:03:56 +0000 2011",
+			"favourites_count": 7953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157758513856307201/aQ0o6cLj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157758513856307201/aQ0o6cLj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245724532/1542723037",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Niklas Weber über die langjährigen neurechten Verbindungen von Benjamin Hasselhorn, dem #Hohenzollern -Gutachter der @cducsubt  https://t.co/PJW7EbJYLR"
+	},
+	{
 		"created_at": "Mon Mar 02 22:57:49 +0000 2020",
 		"id": 1234613912794017800,
 		"id_str": "1234613912794017792",
