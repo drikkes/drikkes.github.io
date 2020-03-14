@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 12:48:14 +0000 2020",
+		"id": 1238581220985974800,
+		"id_str": "1238809160277524481",
+		"full_text": "Ich wäre bereit für die Bekämpfung der Corona-Krise eine dauerhafte Verstaatlichung des Gesundheitswesens und eine Ausweitung der Vermögenssteuern hinzunehmen. https://t.co/i7P21aJ2RU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i7P21aJ2RU",
+					"expanded_url": "https://twitter.com/faznet/status/1238551915132264449",
+					"display_url": "twitter.com/faznet/status/…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 427192118,
+			"id_str": "427192118",
+			"name": "Arno Cao i.w.S.",
+			"screen_name": "arnoxcao",
+			"location": "Neukölln",
+			"description": "I put the fun in dysfunctional",
+			"url": "https://t.co/Mh99f8etVN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mh99f8etVN",
+							"expanded_url": "https://soundcloud.com/arnocao",
+							"display_url": "soundcloud.com/arnocao",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7690,
+			"friends_count": 216,
+			"listed_count": 32,
+			"created_at": "Sat Dec 03 06:57:42 +0000 2011",
+			"favourites_count": 146538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238713696437899264/8a8I5IRl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238713696437899264/8a8I5IRl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/427192118/1568289311",
+			"profile_link_color": "016075",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238551915132264400,
+		"quoted_status_id_str": "1238551915132264449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i7P21aJ2RU",
+			"expanded": "https://twitter.com/faznet/status/1238551915132264449",
+			"display": "twitter.com/faznet/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 13 19:46:02 +0000 2020",
+			"id": 1238551915132264400,
+			"id_str": "1238551915132264449",
+			"full_text": "Die Mehrheit der Deutschen ist bereit, für die Bekämpfung der #Coronavirus-Krise eine Aufweichung des Datenschutzes und eine Ausweitung der Vorratsdatenspeicherung hinzunehmen. https://t.co/YXI4DTHmTe #CoronaVirusDE https://t.co/BaYphyS4qY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				215
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Coronavirus",
+						"indices": [
+							62,
+							74
+						]
+					},
+					{
+						"text": "CoronaVirusDE",
+						"indices": [
+							201,
+							215
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YXI4DTHmTe",
+						"expanded_url": "https://buff.ly/3cT0WRs",
+						"display_url": "buff.ly/3cT0WRs",
+						"indices": [
+							177,
+							200
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1238551913215537200,
+						"id_str": "1238551913215537153",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/ETA4ZycXsAEdjf6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETA4ZycXsAEdjf6.jpg",
+						"url": "https://t.co/BaYphyS4qY",
+						"display_url": "pic.twitter.com/BaYphyS4qY",
+						"expanded_url": "https://twitter.com/faznet/status/1238551915132264449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1238551913215537200,
+						"id_str": "1238551913215537153",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/ETA4ZycXsAEdjf6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETA4ZycXsAEdjf6.jpg",
+						"url": "https://t.co/BaYphyS4qY",
+						"display_url": "pic.twitter.com/BaYphyS4qY",
+						"expanded_url": "https://twitter.com/faznet/status/1238551915132264449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18047862,
+				"id_str": "18047862",
+				"name": "Frankfurter Allgemeine",
+				"screen_name": "faznet",
+				"location": "Frankfurt am Main",
+				"description": "Die wichtigsten Nachrichten des Tages, die besten Faz.net-Artikel und Empfehlungen der Redaktion.\n\nImpressum: https://t.co/UeypcoqdNs\nDatenschutz: https://t.co/UBMvMgddMZ",
+				"url": "https://t.co/NoY75M1MaI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NoY75M1MaI",
+								"expanded_url": "https://www.faz.net",
+								"display_url": "faz.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UeypcoqdNs",
+								"expanded_url": "http://faz.net/impressum",
+								"display_url": "faz.net/impressum",
+								"indices": [
+									110,
+									133
+								]
+							},
+							{
+								"url": "https://t.co/UBMvMgddMZ",
+								"expanded_url": "http://faz.net/datenschutz",
+								"display_url": "faz.net/datenschutz",
+								"indices": [
+									147,
+									170
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 551927,
+				"friends_count": 296,
+				"listed_count": 5367,
+				"created_at": "Thu Dec 11 14:14:57 +0000 2008",
+				"favourites_count": 1469,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 168457,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1206956128682332162/HPVzEVk8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206956128682332162/HPVzEVk8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18047862/1571385198",
+				"profile_link_color": "C60000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 193,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 252,
+		"favorite_count": 1123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Ich wäre bereit für die Bekämpfung der Corona-Krise eine dauerhafte Verstaatlichung des Gesundheitswesens und eine Ausweitung der Vermögenssteuern hinzunehmen. https://t.co/i7P21aJ2RU"
+	},
+	{
 		"created_at": "Sat Mar 14 08:59:28 +0000 2020",
 		"id": 1238751588635811800,
 		"id_str": "1238751588635811843",
