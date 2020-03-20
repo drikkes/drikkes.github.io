@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 21:36:35 +0000 2020",
+		"id": 1241094987644838000,
+		"id_str": "1241116450338865155",
+		"full_text": "https://t.co/30H72BJrc7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/30H72BJrc7",
+					"expanded_url": "https://www.instagram.com/p/B999ydhnVqm/?igshid=rjkfre34cmvv",
+					"display_url": "instagram.com/p/B999ydhnVqm/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5263771,
+			"id_str": "5263771",
+			"name": "booldog",
+			"screen_name": "booldog",
+			"location": "Berlin",
+			"description": "Forgive my Laughter: I have a Condition.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7064,
+			"friends_count": 747,
+			"listed_count": 121,
+			"created_at": "Thu Apr 19 20:25:38 +0000 2007",
+			"favourites_count": 45953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2451381951/7aurw2p7fbs8o2w69q4z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2451381951/7aurw2p7fbs8o2w69q4z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5263771/1370622032",
+			"profile_link_color": "BBBBBB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/30H72BJrc7"
+	},
+	{
 		"created_at": "Fri Mar 20 17:51:41 +0000 2020",
 		"id": 1241059853960982500,
 		"id_str": "1241059853960982530",
