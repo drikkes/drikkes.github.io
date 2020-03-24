@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 13:56:58 +0000 2020",
+		"id": 1242450336620699600,
+		"id_str": "1242450336620699649",
+		"full_text": "So schlimm steht es um den Qualitätsjournalismus. (OMneG, dieser Schuh!) https://t.co/QsiPDB8fFg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QsiPDB8fFg",
+					"expanded_url": "https://twitter.com/tommorton/status/1242270558038962182",
+					"display_url": "twitter.com/tommorton/stat…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 850,
+			"friends_count": 162,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/556473927602806784/J9H4QXjx_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242270558038962200,
+		"quoted_status_id_str": "1242270558038962182",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QsiPDB8fFg",
+			"expanded": "https://twitter.com/tommorton/status/1242270558038962182",
+			"display": "twitter.com/tommorton/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 24 02:02:35 +0000 2020",
+			"id": 1242270558038962200,
+			"id_str": "1242270558038962182",
+			"full_text": "Democracy dies in darkness, sponsored by literally the worst shoes in the world https://t.co/6SfBvZnS1v",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1242270551936286700,
+						"id_str": "1242270551936286720",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/ET1ufDMXQAA-8Xh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ET1ufDMXQAA-8Xh.jpg",
+						"url": "https://t.co/6SfBvZnS1v",
+						"display_url": "pic.twitter.com/6SfBvZnS1v",
+						"expanded_url": "https://twitter.com/tommorton/status/1242270558038962182/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 449,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 792,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1703,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1242270551936286700,
+						"id_str": "1242270551936286720",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/ET1ufDMXQAA-8Xh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ET1ufDMXQAA-8Xh.jpg",
+						"url": "https://t.co/6SfBvZnS1v",
+						"display_url": "pic.twitter.com/6SfBvZnS1v",
+						"expanded_url": "https://twitter.com/tommorton/status/1242270558038962182/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 449,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 792,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1703,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6201602,
+				"id_str": "6201602",
+				"name": "Tom Morton",
+				"screen_name": "tommorton",
+				"location": "New York, NY",
+				"description": "US Chief Strategy Officer at @rga. Media, new economy, brands, marketing, design, culture, politics. Sometimes @drsamueljohnson & @balearicbaloney.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8470,
+				"friends_count": 2500,
+				"listed_count": 362,
+				"created_at": "Mon May 21 14:53:42 +0000 2007",
+				"favourites_count": 40463,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14276,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1044595210838204416/KxQxUfcf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044595210838204416/KxQxUfcf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6201602/1537886092",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 377,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "So schlimm steht es um den Qualitätsjournalismus. (OMneG, dieser Schuh!) https://t.co/QsiPDB8fFg"
+	},
+	{
 		"created_at": "Tue Mar 24 11:02:25 +0000 2020",
 		"id": 1242406410505379800,
 		"id_str": "1242406410505379842",
