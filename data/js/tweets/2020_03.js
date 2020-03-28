@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 28 08:42:16 +0000 2020",
+		"id": 1243528592157552600,
+		"id_str": "1243820692220579841",
+		"full_text": "Fleurop: Ihre Bestellung ist eingegangen\n\nIch: fuck",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 633162378,
+			"id_str": "633162378",
+			"name": "Timothy AT HOME Ententier",
+			"screen_name": "GalacticTimmy",
+			"location": "Hufflepuff Dormitory",
+			"description": "•Frybeuter\n•gut trainierter Affe\n•Streicheleinheit\n•Pixie Pause ultra\n•Er/He",
+			"url": "https://t.co/trjA8FxzQw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/trjA8FxzQw",
+							"expanded_url": "https://www.paypal.me/galactictimmy",
+							"display_url": "paypal.me/galactictimmy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8789,
+			"friends_count": 398,
+			"listed_count": 175,
+			"created_at": "Wed Jul 11 17:45:28 +0000 2012",
+			"favourites_count": 769305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 143497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E635",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235513696862056449/bYfjSSRV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235513696862056449/bYfjSSRV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/633162378/1556534463",
+			"profile_link_color": "519644",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 169,
+		"favorite_count": 2190,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "de",
+		"text": "Fleurop: Ihre Bestellung ist eingegangen\n\nIch: fuck"
+	},
+	{
 		"created_at": "Fri Mar 27 19:16:55 +0000 2020",
 		"id": 1243618019571576800,
 		"id_str": "1243618019571576833",
