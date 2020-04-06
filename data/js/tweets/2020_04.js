@@ -1,6 +1,154 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 18:36:08 +0000 2020",
+		"id": 1247119538933633000,
+		"id_str": "1247231632823779334",
+		"full_text": "See how @GoehringMarc brought his favorite #WadeGuyton artwork into #AnimalCrossing @animalcrossing #StayHome https://t.co/aCjRAkBA1R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WadeGuyton",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"text": "AnimalCrossing",
+					"indices": [
+						68,
+						83
+					]
+				},
+				{
+					"text": "StayHome",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoehringMarc",
+					"name": "Marc Goehring",
+					"id": 1151478091807678500,
+					"id_str": "1151478091807678465",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "animalcrossing",
+					"name": "Tom Nook",
+					"id": 1377451009,
+					"id_str": "1377451009",
+					"indices": [
+						84,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aCjRAkBA1R",
+					"expanded_url": "https://032c.com/wade-guyton-into-animal-crossing",
+					"display_url": "032c.com/wade-guyton-in…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14673707,
+			"id_str": "14673707",
+			"name": "032c",
+			"screen_name": "032c_Workshop",
+			"location": "Berlin",
+			"description": "",
+			"url": "http://t.co/vGJsGAdWKV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vGJsGAdWKV",
+							"expanded_url": "http://www.032c.com",
+							"display_url": "032c.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15439,
+			"friends_count": 222,
+			"listed_count": 364,
+			"created_at": "Tue May 06 14:13:55 +0000 2008",
+			"favourites_count": 1347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0E0E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000637125301/7f23b33ebd618f62685d5a254ea3ff1f_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000637125301/7f23b33ebd618f62685d5a254ea3ff1f_normal.png",
+			"profile_link_color": "F50A29",
+			"profile_sidebar_border_color": "D1CFD1",
+			"profile_sidebar_fill_color": "7A7A78",
+			"profile_text_color": "0F0E0E",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "See how @GoehringMarc brought his favorite #WadeGuyton artwork into #AnimalCrossing @animalcrossing #StayHome https://t.co/aCjRAkBA1R"
+	},
+	{
 		"created_at": "Mon Apr 06 15:46:42 +0000 2020",
 		"id": 1247188995706159000,
 		"id_str": "1247188995706159104",
