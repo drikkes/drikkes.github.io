@@ -1,6 +1,717 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 13:00:11 +0000 2020",
+		"id": 1247871864514502700,
+		"id_str": "1247871864514502658",
+		"full_text": "Wenn selbst die Branchenpresse deinen Firmennamen aus Buchstabensalat nicht so richtig draufhat… /cc @KimNotz @Horizont https://t.co/BzUW89xVI6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KimNotz",
+					"name": "Kim Alexandra Notz",
+					"id": 1694294442,
+					"id_str": "1694294442",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"screen_name": "Horizont",
+					"name": "HORIZONT",
+					"id": 17620455,
+					"id_str": "17620455",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247871859913351200,
+					"id_str": "1247871859913351170",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFU2FdXYAI8Pul.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVFU2FdXYAI8Pul.png",
+					"url": "https://t.co/BzUW89xVI6",
+					"display_url": "pic.twitter.com/BzUW89xVI6",
+					"expanded_url": "https://twitter.com/drikkes/status/1247871864514502658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 663,
+							"h": 207,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 663,
+							"h": 207,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 663,
+							"h": 207,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247871859913351200,
+					"id_str": "1247871859913351170",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFU2FdXYAI8Pul.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVFU2FdXYAI8Pul.png",
+					"url": "https://t.co/BzUW89xVI6",
+					"display_url": "pic.twitter.com/BzUW89xVI6",
+					"expanded_url": "https://twitter.com/drikkes/status/1247871864514502658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 663,
+							"h": 207,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 663,
+							"h": 207,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 663,
+							"h": 207,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 160,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Wenn selbst die Branchenpresse deinen Firmennamen aus Buchstabensalat nicht so richtig draufhat… /cc @KimNotz @Horizont https://t.co/BzUW89xVI6"
+	},
+	{
+		"created_at": "Wed Apr 08 12:52:18 +0000 2020",
+		"id": 1247869880365453300,
+		"id_str": "1247869880365453315",
+		"full_text": "@Nouveaubeton Ah, ich sehe. Deshalb fehlen in meiner Timeline wohl oft Deine Photos (also Screenshots), obwohl die Tweettexte schon geladen sind.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nouveaubeton",
+					"name": "Nouveaubéton",
+					"id": 995015327795875800,
+					"id_str": "995015327795875842",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1247869130679750700,
+		"in_reply_to_status_id_str": "1247869130679750657",
+		"in_reply_to_user_id": 995015327795875800,
+		"in_reply_to_user_id_str": "995015327795875842",
+		"in_reply_to_screen_name": "Nouveaubeton",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 160,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@Nouveaubeton Ah, ich sehe. Deshalb fehlen in meiner Timeline wohl oft Deine Photos (also Screenshots), obwohl die Tweettexte schon geladen sind."
+	},
+	{
+		"created_at": "Wed Apr 08 12:46:54 +0000 2020",
+		"id": 1247868523352920000,
+		"id_str": "1247868523352920065",
+		"full_text": "@Nouveaubeton Wieso hast Du Dein Tweety wieder gelöscht? https://t.co/od8JUkiCyv",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nouveaubeton",
+					"name": "Nouveaubéton",
+					"id": 995015327795875800,
+					"id_str": "995015327795875842",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247868519305412600,
+					"id_str": "1247868519305412611",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFRzouXgAMajkb.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVFRzouXgAMajkb.png",
+					"url": "https://t.co/od8JUkiCyv",
+					"display_url": "pic.twitter.com/od8JUkiCyv",
+					"expanded_url": "https://twitter.com/drikkes/status/1247868523352920065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 365,
+							"h": 125,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 125,
+							"h": 125,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 365,
+							"h": 125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 365,
+							"h": 125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247868519305412600,
+					"id_str": "1247868519305412611",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFRzouXgAMajkb.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVFRzouXgAMajkb.png",
+					"url": "https://t.co/od8JUkiCyv",
+					"display_url": "pic.twitter.com/od8JUkiCyv",
+					"expanded_url": "https://twitter.com/drikkes/status/1247868523352920065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 365,
+							"h": 125,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 125,
+							"h": 125,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 365,
+							"h": 125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 365,
+							"h": 125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1247867229577916400,
+		"in_reply_to_status_id_str": "1247867229577916417",
+		"in_reply_to_user_id": 995015327795875800,
+		"in_reply_to_user_id_str": "995015327795875842",
+		"in_reply_to_screen_name": "Nouveaubeton",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 160,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "@Nouveaubeton Wieso hast Du Dein Tweety wieder gelöscht? https://t.co/od8JUkiCyv"
+	},
+	{
+		"created_at": "Wed Apr 08 12:38:19 +0000 2020",
+		"id": 1247866363240202200,
+		"id_str": "1247866363240202240",
+		"full_text": "@gala Vielleicht solltet Ihr mal die Art und Weise überdenken, welche Infos sich Feeds und Previews aus Eurem Content ziehen. https://t.co/40vvslQOTC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gala",
+					"name": "Gala",
+					"id": 20772544,
+					"id_str": "20772544",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247866357565325300,
+					"id_str": "1247866357565325312",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFP1znXgAA0uDS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVFP1znXgAA0uDS.png",
+					"url": "https://t.co/40vvslQOTC",
+					"display_url": "pic.twitter.com/40vvslQOTC",
+					"expanded_url": "https://twitter.com/drikkes/status/1247866363240202240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 390,
+							"h": 275,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 390,
+							"h": 275,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247866357565325300,
+					"id_str": "1247866357565325312",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFP1znXgAA0uDS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVFP1znXgAA0uDS.png",
+					"url": "https://t.co/40vvslQOTC",
+					"display_url": "pic.twitter.com/40vvslQOTC",
+					"expanded_url": "https://twitter.com/drikkes/status/1247866363240202240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 390,
+							"h": 275,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 390,
+							"h": 275,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 20772544,
+		"in_reply_to_user_id_str": "20772544",
+		"in_reply_to_screen_name": "gala",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 160,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "@gala Vielleicht solltet Ihr mal die Art und Weise überdenken, welche Infos sich Feeds und Previews aus Eurem Content ziehen. https://t.co/40vvslQOTC"
+	},
+	{
 		"created_at": "Wed Apr 08 09:37:42 +0000 2020",
 		"id": 1247820909307723800,
 		"id_str": "1247820909307723776",
