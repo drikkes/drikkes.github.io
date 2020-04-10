@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 11:15:29 +0000 2020",
+		"id": 1248570292835934200,
+		"id_str": "1248570292835934210",
+		"full_text": "That‘s the spirit! https://t.co/SGM44gpGu1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SGM44gpGu1",
+					"expanded_url": "https://twitter.com/JordanUhl/status/1248374194447892483",
+					"display_url": "twitter.com/JordanUhl/stat…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 160,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248374194447892500,
+		"quoted_status_id_str": "1248374194447892483",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SGM44gpGu1",
+			"expanded": "https://twitter.com/JordanUhl/status/1248374194447892483",
+			"display": "twitter.com/JordanUhl/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 09 22:16:16 +0000 2020",
+			"id": 1248374194447892500,
+			"id_str": "1248374194447892483",
+			"full_text": "The interviewer here clutching his pearls as the guest tells him \"who cares\" about billionaires losing money if companies go under is something to behold \n\nhttps://t.co/XRzAQoKZ8c",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				179
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1248320136844583000,
+						"id_str": "1248320136844582912",
+						"indices": [
+							156,
+							179
+						],
+						"media_url": "http://pbs.twimg.com/media/EVLuM7YWoAcjFKj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVLuM7YWoAcjFKj.jpg",
+						"url": "https://t.co/XRzAQoKZ8c",
+						"display_url": "pic.twitter.com/XRzAQoKZ8c",
+						"expanded_url": "https://twitter.com/CNBC/status/1248323677898366978/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1248323677898367000,
+						"source_status_id_str": "1248323677898366978",
+						"source_user_id": 20402945,
+						"source_user_id_str": "20402945"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1248320136844583000,
+						"id_str": "1248320136844582912",
+						"indices": [
+							156,
+							179
+						],
+						"media_url": "http://pbs.twimg.com/media/EVLuM7YWoAcjFKj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVLuM7YWoAcjFKj.jpg",
+						"url": "https://t.co/XRzAQoKZ8c",
+						"display_url": "pic.twitter.com/XRzAQoKZ8c",
+						"expanded_url": "https://twitter.com/CNBC/status/1248323677898366978/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1248323677898367000,
+						"source_status_id_str": "1248323677898366978",
+						"source_user_id": 20402945,
+						"source_user_id_str": "20402945",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 157302,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1248320136844582912/vid/640x360/rfe2AUnYmUV6Wq2Z.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1248320136844582912/vid/480x270/uWIPmX-a0kmcsG3U.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1248320136844582912/pl/f2RaHufHNm6utkW7.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1248320136844582912/vid/1280x720/BkHeXuaYC5quiWEH.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Chamath Palihapitiya on the U.S. coronavirus response",
+							"description": "Chamath Palihapitiya, founder and CEO of investment firm Social Capital, said that the U.S. shouldn’t be bailing out billionaires and hedge funds during the coronavirus pandemic. ",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://cnb.cx/2Rpmjkh"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 20402945,
+								"id_str": "20402945",
+								"name": "CNBC",
+								"screen_name": "CNBC",
+								"location": "Englewood Cliffs, NJ",
+								"description": "First in business worldwide.",
+								"url": "https://t.co/fdcFKDtOzb",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/fdcFKDtOzb",
+												"expanded_url": "https://www.cnbc.com/",
+												"display_url": "cnbc.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 3543932,
+								"friends_count": 807,
+								"listed_count": 30230,
+								"created_at": "Mon Feb 09 00:03:41 +0000 2009",
+								"favourites_count": 597,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 346923,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "0D181F",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1185182366156894208/pKRddT3o_normal.png",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185182366156894208/pKRddT3o_normal.png",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/20402945/1533568341",
+								"profile_link_color": "2D648A",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "EAEBEA",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 68752979,
+				"id_str": "68752979",
+				"name": "jordan",
+				"screen_name": "JordanUhl",
+				"location": "Washington, D.C.",
+				"description": "no",
+				"url": "https://t.co/3Gc7lulrxa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3Gc7lulrxa",
+								"expanded_url": "https://theinsurgents.substack.com/",
+								"display_url": "theinsurgents.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 207292,
+				"friends_count": 6690,
+				"listed_count": 2210,
+				"created_at": "Tue Aug 25 17:33:14 +0000 2009",
+				"favourites_count": 261739,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 87928,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1207065380520370176/bQCrSJv5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207065380520370176/bQCrSJv5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/68752979/1577176607",
+				"profile_link_color": "4F65AF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9232,
+			"favorite_count": 31462,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That‘s the spirit! https://t.co/SGM44gpGu1"
+	},
+	{
 		"created_at": "Fri Apr 10 09:35:48 +0000 2020",
 		"id": 1248545207018295300,
 		"id_str": "1248545207018295297",
