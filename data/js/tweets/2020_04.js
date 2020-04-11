@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 08:44:43 +0000 2020",
+		"id": 1248894738532614100,
+		"id_str": "1248894738532614144",
+		"full_text": "@StGraunke Weiß nicht. Zehn Jahre nach dem Kevinismus wird in meiner Timeline seit Tagen/Wochen über vermeintlich protypische Maltes und Claudias hergezogen.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StGraunke",
+					"name": "Stefan Graunke",
+					"id": 14673413,
+					"id_str": "14673413",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1248891880638685200,
+		"in_reply_to_status_id_str": "1248891880638685184",
+		"in_reply_to_user_id": 14673413,
+		"in_reply_to_user_id_str": "14673413",
+		"in_reply_to_screen_name": "StGraunke",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 160,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5081,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@StGraunke Weiß nicht. Zehn Jahre nach dem Kevinismus wird in meiner Timeline seit Tagen/Wochen über vermeintlich protypische Maltes und Claudias hergezogen."
+	},
+	{
 		"created_at": "Fri Apr 10 18:37:13 +0000 2020",
 		"id": 1248681457419260000,
 		"id_str": "1248681457419259907",
