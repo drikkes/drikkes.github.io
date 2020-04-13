@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 11:13:37 +0000 2020",
+		"id": 1249453006355136500,
+		"id_str": "1249656985458487298",
+		"full_text": "@JimMFelton Seems like it fixed those search results... @JimMFelton https://t.co/QuvVSaMBML",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JimMFelton",
+					"name": "James Felton",
+					"id": 2904913023,
+					"id_str": "2904913023",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "JimMFelton",
+					"name": "James Felton",
+					"id": 2904913023,
+					"id_str": "2904913023",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249452697088131000,
+					"id_str": "1249452697088131078",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EVbym62XgAY5Mpe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVbym62XgAY5Mpe.jpg",
+					"url": "https://t.co/QuvVSaMBML",
+					"display_url": "pic.twitter.com/QuvVSaMBML",
+					"expanded_url": "https://twitter.com/HygieneReminder/status/1249453006355136512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1805,
+							"h": 932,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249452697088131000,
+					"id_str": "1249452697088131078",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EVbym62XgAY5Mpe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVbym62XgAY5Mpe.jpg",
+					"url": "https://t.co/QuvVSaMBML",
+					"display_url": "pic.twitter.com/QuvVSaMBML",
+					"expanded_url": "https://twitter.com/HygieneReminder/status/1249453006355136512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1805,
+							"h": 932,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249452193096269800,
+		"in_reply_to_status_id_str": "1249452193096269824",
+		"in_reply_to_user_id": 2904913023,
+		"in_reply_to_user_id_str": "2904913023",
+		"in_reply_to_screen_name": "JimMFelton",
+		"user": {
+			"id": 1194590007207575600,
+			"id_str": "1194590007207575552",
+			"name": "Hygiene Reminder",
+			"screen_name": "HygieneReminder",
+			"location": "",
+			"description": "🔴STAY INDOORS.\n🔴IF YOU HAVE TO GO OUTSIDE, STAY 2M APART FROM OTHERS.\n🔴CLEAN YOUR HANDS!🙌\n🔴CLEAN YOUR PHONE!📱\n🔴DON'T TOUCH YOUR FACE!💆‍♂️",
+			"url": "https://t.co/iSGt8cK9Ie",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iSGt8cK9Ie",
+							"expanded_url": "https://www.nhs.uk/conditions/coronavirus-covid-19/",
+							"display_url": "nhs.uk/conditions/cor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Wed Nov 13 12:17:21 +0000 2019",
+			"favourites_count": 260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226154391553613825/gG9GKUga_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226154391553613825/gG9GKUga_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JimMFelton Seems like it fixed those search results... @JimMFelton https://t.co/QuvVSaMBML"
+	},
+	{
 		"created_at": "Sun Apr 12 15:28:42 +0000 2020",
 		"id": 1249358789943459800,
 		"id_str": "1249358789943459841",
