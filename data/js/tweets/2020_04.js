@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 11:53:45 +0000 2020",
+		"id": 1250029473170423800,
+		"id_str": "1250029473170423810",
+		"full_text": "Scheiße, Mann, und wie ich aufatme! Einige nennen es \"alternatives Kreativesranking\", andere \"Fake Awards\". @wuv-Meldung auch von heute: https://t.co/l3HTLcnHdG https://t.co/3JAcr96XUk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wuv",
+					"name": "W&V",
+					"id": 34911230,
+					"id_str": "34911230",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l3HTLcnHdG",
+					"expanded_url": "https://www.wuv.de/karriere/werbebranche_in_grosser_angst_um_arbeitsplaetze",
+					"display_url": "wuv.de/karriere/werbe…",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/3JAcr96XUk",
+					"expanded_url": "https://twitter.com/wuv/status/1250010648588795906",
+					"display_url": "twitter.com/wuv/status/125…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 160,
+			"listed_count": 81,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250010648588796000,
+		"quoted_status_id_str": "1250010648588795906",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3JAcr96XUk",
+			"expanded": "https://twitter.com/wuv/status/1250010648588795906",
+			"display": "twitter.com/wuv/status/125…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 14 10:38:57 +0000 2020",
+			"id": 1250010648588796000,
+			"id_str": "1250010648588795906",
+			"full_text": "W&amp;V zieht Kreativranking in den Sommer vor! Deutschlands Kreative dürfen aufatmen: Wir veröffentlichen im August das alternative Kreativranking mit den Awards, die die Agenturen bereits beschickt haben. Damit gute Kreation trotz Virus sichtbar bleibt. https://t.co/IcnEkXuYK6 https://t.co/ZeWgsF8WfR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IcnEkXuYK6",
+						"expanded_url": "https://www.wuv.de/agenturen/w_v_zieht_kreativranking_in_den_sommer_vor",
+						"display_url": "wuv.de/agenturen/w_v_…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1250010471639498800,
+						"id_str": "1250010471639498752",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EVjt5q-XQAAwn9U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVjt5q-XQAAwn9U.jpg",
+						"url": "https://t.co/ZeWgsF8WfR",
+						"display_url": "pic.twitter.com/ZeWgsF8WfR",
+						"expanded_url": "https://twitter.com/wuv/status/1250010648588795906/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 677,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 677,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1250010471639498800,
+						"id_str": "1250010471639498752",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EVjt5q-XQAAwn9U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVjt5q-XQAAwn9U.jpg",
+						"url": "https://t.co/ZeWgsF8WfR",
+						"display_url": "pic.twitter.com/ZeWgsF8WfR",
+						"expanded_url": "https://twitter.com/wuv/status/1250010648588795906/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 677,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 677,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34911230,
+				"id_str": "34911230",
+				"name": "W&V",
+				"screen_name": "wuv",
+				"location": "Munich, Germany",
+				"description": "Germany's leading magazine for marketing, advertising and media  - since 1963. Impressum: https://t.co/qHUQExxPaG",
+				"url": "http://t.co/81JQil2CJO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/81JQil2CJO",
+								"expanded_url": "http://www.wuv.de",
+								"display_url": "wuv.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qHUQExxPaG",
+								"expanded_url": "https://www.wuv.de/info/impressum",
+								"display_url": "wuv.de/info/impressum",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 110410,
+				"friends_count": 15857,
+				"listed_count": 2545,
+				"created_at": "Fri Apr 24 12:24:00 +0000 2009",
+				"favourites_count": 885,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 41282,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8AC203",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2609554235/scf4w1q74u1gvualpt2v_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2609554235/scf4w1q74u1gvualpt2v_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34911230/1547052411",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "D2DADA",
+				"profile_sidebar_fill_color": "E6E6E6",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Scheiße, Mann, und wie ich aufatme! Einige nennen es \"alternatives Kreativesranking\", andere \"Fake Awards\". @wuv-Meldung auch von heute: https://t.co/l3HTLcnHdG https://t.co/3JAcr96XUk"
+	},
+	{
 		"created_at": "Tue Apr 14 10:29:41 +0000 2020",
 		"id": 1250008317298126800,
 		"id_str": "1250008317298126849",
