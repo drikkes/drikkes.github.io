@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 08:28:23 +0000 2020",
+		"id": 1249951845902102500,
+		"id_str": "1249977790520311808",
+		"full_text": "Ein wenig beachtetes Problem der #Uploadfilter: Präsident Macron postet eine Rede auf seinem offiziellen YouTube-Kanal. Viele Fernsehsender senden sie. @canalplus lässt daraufhin das Original auf Macrons Account als Urheberrechtsverletzung sperren: https://t.co/ULVoX7p6MN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Uploadfilter",
+					"indices": [
+						33,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "canalplus",
+					"name": "CANAL+",
+					"id": 326698989,
+					"id_str": "326698989",
+					"indices": [
+						152,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ULVoX7p6MN",
+					"expanded_url": "https://twitter.com/reesmarc/status/1249790692110540805",
+					"display_url": "twitter.com/reesmarc/statu…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14861745,
+			"id_str": "14861745",
+			"name": "Julia Reda",
+			"screen_name": "Senficon",
+			"location": "Europe",
+			"description": "Projektleitung control © @freiheitsrechte | Fellow @ShuttleworFdn | Fellow @BKCHarvard | former Member of the European Parliament",
+			"url": "https://t.co/bEIvgu01L3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bEIvgu01L3",
+							"expanded_url": "https://freiheitsrechte.org/urheberrecht/",
+							"display_url": "freiheitsrechte.org/urheberrecht/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109818,
+			"friends_count": 4077,
+			"listed_count": 1502,
+			"created_at": "Wed May 21 21:15:36 +0000 2008",
+			"favourites_count": 20700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 48889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637016870638350336/QrtPmoul_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637016870638350336/QrtPmoul_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14861745/1586780939",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249790692110540800,
+		"quoted_status_id_str": "1249790692110540805",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ULVoX7p6MN",
+			"expanded": "https://twitter.com/reesmarc/status/1249790692110540805",
+			"display": "twitter.com/reesmarc/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 13 20:04:55 +0000 2020",
+			"id": 1249790692110540800,
+			"id_str": "1249790692110540805",
+			"full_text": "Donc @canalplus :\n1) s’attribue les droits sur le discours de #Macron20h02 du 13 avril\n2) discours posté par le compte officiel de l’Elysée \n3) et obtient de YouTube son retrait de la plateforme. \nContinuez, vous êtes parfaits. https://t.co/44pErpLRMG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Macron20h02",
+						"indices": [
+							62,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "canalplus",
+						"name": "CANAL+",
+						"id": 326698989,
+						"id_str": "326698989",
+						"indices": [
+							5,
+							15
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1249790375864291300,
+						"id_str": "1249790375864291328",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/EVgluaUX0AAhxG-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVgluaUX0AAhxG-.jpg",
+						"url": "https://t.co/44pErpLRMG",
+						"display_url": "pic.twitter.com/44pErpLRMG",
+						"expanded_url": "https://twitter.com/reesmarc/status/1249790692110540805/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 924,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 524,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1613,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1249790375864291300,
+						"id_str": "1249790375864291328",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/EVgluaUX0AAhxG-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVgluaUX0AAhxG-.jpg",
+						"url": "https://t.co/44pErpLRMG",
+						"display_url": "pic.twitter.com/44pErpLRMG",
+						"expanded_url": "https://twitter.com/reesmarc/status/1249790692110540805/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 924,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 524,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1613,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20474834,
+				"id_str": "20474834",
+				"name": "marc rees",
+				"screen_name": "reesmarc",
+				"location": "marc@nextinpact.com/@rees.fr",
+				"description": "Réd'chef @nextinpact Droit (LCEN, #copieprivée, #Hadopi, renseignement, etc.) \nUn peu de tt à défaut de rien, un peu de rien à défaut de tt\nRT & ♡ ≠ endorsement",
+				"url": "http://t.co/musF4q2ldd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/musF4q2ldd",
+								"expanded_url": "http://www.nextinpact.com",
+								"display_url": "nextinpact.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26078,
+				"friends_count": 6660,
+				"listed_count": 962,
+				"created_at": "Mon Feb 09 22:44:57 +0000 2009",
+				"favourites_count": 13988,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 71882,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/602402515536207873/YMgIJI_F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/602402515536207873/YMgIJI_F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20474834/1566737757",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 598,
+			"favorite_count": 984,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 604,
+		"favorite_count": 1333,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Ein wenig beachtetes Problem der #Uploadfilter: Präsident Macron postet eine Rede auf seinem offiziellen YouTube-Kanal. Viele Fernsehsender senden sie. @canalplus lässt daraufhin das Original auf Macrons Account als Urheberrechtsverletzung sperren: https://t.co/ULVoX7p6MN"
+	},
+	{
 		"created_at": "Mon Apr 13 17:40:33 +0000 2020",
 		"id": 1249754362198610000,
 		"id_str": "1249754362198609923",
