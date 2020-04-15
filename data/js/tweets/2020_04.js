@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 18:17:23 +0000 2020",
+		"id": 1249798634465636400,
+		"id_str": "1250488404288167937",
+		"full_text": "God bless Mary Ruefle https://t.co/DavvHa5SGJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249798568799592400,
+					"id_str": "1249798568799592451",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EVgtLTYXYAMWqDP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVgtLTYXYAMWqDP.jpg",
+					"url": "https://t.co/DavvHa5SGJ",
+					"display_url": "pic.twitter.com/DavvHa5SGJ",
+					"expanded_url": "https://twitter.com/travisjnichols/status/1249798634465636352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1770,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249798568799592400,
+					"id_str": "1249798568799592451",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EVgtLTYXYAMWqDP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVgtLTYXYAMWqDP.jpg",
+					"url": "https://t.co/DavvHa5SGJ",
+					"display_url": "pic.twitter.com/DavvHa5SGJ",
+					"expanded_url": "https://twitter.com/travisjnichols/status/1249798634465636352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1770,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34093167,
+			"id_str": "34093167",
+			"name": "Travis Nichols",
+			"screen_name": "travisjnichols",
+			"location": "",
+			"description": "Author of https://t.co/wiAbcfFYpO & https://t.co/4ThVNOzdgQ. Media Director at @GreenpeaceUSA. Books curator @sweetmelrecords. Portrait by @candle_face",
+			"url": "https://t.co/Ubjyyfdy4J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ubjyyfdy4J",
+							"expanded_url": "http://coffeehousepress.org/authors/travis-nichols/",
+							"display_url": "coffeehousepress.org/authors/travis…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wiAbcfFYpO",
+							"expanded_url": "http://bit.ly/2x7mxCB",
+							"display_url": "bit.ly/2x7mxCB",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/4ThVNOzdgQ",
+							"expanded_url": "http://bit.ly/2CO2DSi",
+							"display_url": "bit.ly/2CO2DSi",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3268,
+			"friends_count": 995,
+			"listed_count": 96,
+			"created_at": "Tue Apr 21 23:40:13 +0000 2009",
+			"favourites_count": 17766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824199386196541441/YH-xIKGW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824199386196541441/YH-xIKGW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34093167/1485394429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 597,
+		"favorite_count": 2909,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "God bless Mary Ruefle https://t.co/DavvHa5SGJ"
+	},
+	{
 		"created_at": "Wed Apr 15 18:03:43 +0000 2020",
 		"id": 1250484966653415400,
 		"id_str": "1250484966653415425",
