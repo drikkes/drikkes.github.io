@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 12:58:37 +0000 2020",
+		"id": 1250342801885163500,
+		"id_str": "1250408183325249538",
+		"full_text": "#BritneySpears postet einen vermeintlichen Aufruf zum Generalstreik – und die Netzgemeinde flippt aus. Warum dürfen Pop-Stars nicht mehr einfach nur Pop-Stars sein, sondern müssen als politische Vorbilder taugen? Ein #Essay von @_jlorenz. https://t.co/d6S1EM93Kv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BritneySpears",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "Essay",
+					"indices": [
+						217,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_jlorenz",
+					"name": "Julia Lorenz",
+					"id": 3804242837,
+					"id_str": "3804242837",
+					"indices": [
+						228,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d6S1EM93Kv",
+					"expanded_url": "https://spex.de/genossin-spears-netzkultur-pop-politik/",
+					"display_url": "spex.de/genossin-spear…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14315894,
+			"id_str": "14315894",
+			"name": "SPEX Magazin",
+			"screen_name": "Spex",
+			"location": "Berlin, Germany",
+			"description": "SPEX - Magazin für Popkultur /\nJetzt abonnieren: https://t.co/mCiia21iYH",
+			"url": "http://t.co/G3HXQfNBIu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/G3HXQfNBIu",
+							"expanded_url": "http://www.spex.de",
+							"display_url": "spex.de",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mCiia21iYH",
+							"expanded_url": "https://spex.de/online-abo/",
+							"display_url": "spex.de/online-abo/",
+							"indices": [
+								49,
+								72
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28371,
+			"friends_count": 1601,
+			"listed_count": 815,
+			"created_at": "Sun Apr 06 15:21:40 +0000 2008",
+			"favourites_count": 3601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075782005172822017/KFkIpyqe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075782005172822017/KFkIpyqe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14315894/1549028051",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "262824",
+			"profile_sidebar_fill_color": "FAD400",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "#BritneySpears postet einen vermeintlichen Aufruf zum Generalstreik – und die Netzgemeinde flippt aus. Warum dürfen Pop-Stars nicht mehr einfach nur Pop-Stars sein, sondern müssen als politische Vorbilder taugen? Ein #Essay von @_jlorenz. https://t.co/d6S1EM93Kv"
+	},
+	{
 		"created_at": "Tue Apr 14 17:26:18 +0000 2020",
 		"id": 1250113163527323600,
 		"id_str": "1250113163527323648",
