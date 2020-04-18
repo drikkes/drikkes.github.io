@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 23:28:56 +0000 2020",
+		"id": 1251177372235239400,
+		"id_str": "1251291587423932422",
+		"full_text": "\"If this [a 5% drop in global carbon emissions] is all we get from shutting the entire world down, it illustrates the scope and scale of the climate challenge, which is fundamentally changing the way we make and use energy and products\" https://t.co/zYFOUE8jBm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zYFOUE8jBm",
+					"expanded_url": "https://www.eenews.net/stories/1062893583",
+					"display_url": "eenews.net/stories/106289…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 416715629,
+			"id_str": "416715629",
+			"name": "Maddie Stone",
+			"screen_name": "themadstone",
+			"location": "Philadelphia, PA",
+			"description": "Science journalist & PhD | Bylines at Gizmodo, Vice, Grist, National Geographic, The Atlantic, Washington Post, etc | Founder of Earther | Half Vulcan 🖖🏼",
+			"url": "https://t.co/g4OPCfiULx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g4OPCfiULx",
+							"expanded_url": "https://maddiestonewriting.com/",
+							"display_url": "maddiestonewriting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18485,
+			"friends_count": 1756,
+			"listed_count": 707,
+			"created_at": "Sun Nov 20 01:55:04 +0000 2011",
+			"favourites_count": 15918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210797512841293824/4hESuEB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210797512841293824/4hESuEB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/416715629/1559872061",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 754,
+		"favorite_count": 1524,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"If this [a 5% drop in global carbon emissions] is all we get from shutting the entire world down, it illustrates the scope and scale of the climate challenge, which is fundamentally changing the way we make and use energy and products\" https://t.co/zYFOUE8jBm"
+	},
+	{
 		"created_at": "Fri Apr 17 20:45:52 +0000 2020",
 		"id": 1251250550122918000,
 		"id_str": "1251250550122917890",
