@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 22 07:01:42 +0000 2020",
+		"id": 1252362569685151700,
+		"id_str": "1252855079582855172",
+		"full_text": "Was des fiqqes sind meine augen sehend https://t.co/NW8GtRc7Mv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1252362447706484700,
+					"id_str": "1252362447706484736",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252362447706484736/pu/img/Ao6XuB3OlWBI2GCf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252362447706484736/pu/img/Ao6XuB3OlWBI2GCf.jpg",
+					"url": "https://t.co/NW8GtRc7Mv",
+					"display_url": "pic.twitter.com/NW8GtRc7Mv",
+					"expanded_url": "https://twitter.com/kohldampfbolzen/status/1252362569685151751/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252362447706484700,
+					"id_str": "1252362447706484736",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252362447706484736/pu/img/Ao6XuB3OlWBI2GCf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252362447706484736/pu/img/Ao6XuB3OlWBI2GCf.jpg",
+					"url": "https://t.co/NW8GtRc7Mv",
+					"display_url": "pic.twitter.com/NW8GtRc7Mv",
+					"expanded_url": "https://twitter.com/kohldampfbolzen/status/1252362569685151751/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 57040,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252362447706484736/pu/vid/720x720/MUt6VHifOPUIarwU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1252362447706484736/pu/pl/thI_VMwBNoale04u.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252362447706484736/pu/vid/320x320/O9ZkxpDAS4DaY5gC.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252362447706484736/pu/vid/480x480/2oZqbw4WrFH8YSF0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1134936216145670100,
+			"id_str": "1134936216145670145",
+			"name": "Carlos Kohldampf",
+			"screen_name": "kohldampfbolzen",
+			"location": "",
+			"description": "der billige werbegeschenkkugelschreiber auf messen unter den Twitteraccounts| #goodvibesgang| #favesperris|F💚|",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 778,
+			"friends_count": 338,
+			"listed_count": 3,
+			"created_at": "Sat Jun 01 21:34:14 +0000 2019",
+			"favourites_count": 85535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249816887497822209/FwwoK15T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249816887497822209/FwwoK15T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1134936216145670145/1584463788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 588,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Was des fiqqes sind meine augen sehend https://t.co/NW8GtRc7Mv"
+	},
+	{
 		"created_at": "Tue Apr 21 18:49:24 +0000 2020",
 		"id": 1252670788169334800,
 		"id_str": "1252670788169334786",
