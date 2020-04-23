@@ -1,6 +1,96 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 09:07:32 +0000 2020",
+		"id": 1253235848994267100,
+		"id_str": "1253249133273645056",
+		"full_text": "Es laufen konkrete Gespräche mit zwei Nationen. Es kann sein, dass nach der Coronakrise da noch etwas kommt. #nationaltrainer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nationaltrainer",
+					"indices": [
+						109,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 524721510,
+			"id_str": "524721510",
+			"name": "Peter Neururer",
+			"screen_name": "Neururer_Zitate",
+			"location": "",
+			"description": "Der Pedda im Wortlaut. Legendäre Sprüche und aktuelle O-Töne. KEIN offizieller Account.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2990,
+			"friends_count": 382,
+			"listed_count": 30,
+			"created_at": "Wed Mar 14 20:55:27 +0000 2012",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000690610891/088d25eac0838ba2feaa80e8576b2329_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000690610891/088d25eac0838ba2feaa80e8576b2329_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/524721510/1429643583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de",
+		"text": "Es laufen konkrete Gespräche mit zwei Nationen. Es kann sein, dass nach der Coronakrise da noch etwas kommt. #nationaltrainer"
+	},
+	{
 		"created_at": "Thu Apr 23 07:02:56 +0000 2020",
 		"id": 1253217778787586000,
 		"id_str": "1253217778787586048",
