@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 18:38:38 +0000 2020",
+		"id": 1257108668492984300,
+		"id_str": "1257379120712949760",
+		"full_text": "Can’t remember the last time I saw a monkey ride-up on a motorcycle and try to steal a toddler. It’s been ages...https://t.co/PBRntxBnxw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256879731640680400,
+					"id_str": "1256879731640680448",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256879731640680448/pu/img/APXCAsG7aswNfyDC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256879731640680448/pu/img/APXCAsG7aswNfyDC.jpg",
+					"url": "https://t.co/PBRntxBnxw",
+					"display_url": "pic.twitter.com/PBRntxBnxw",
+					"expanded_url": "https://twitter.com/peteerh/status/1256879788343455744/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1256879788343455700,
+					"source_status_id_str": "1256879788343455744",
+					"source_user_id": 354161538,
+					"source_user_id_str": "354161538"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256879731640680400,
+					"id_str": "1256879731640680448",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256879731640680448/pu/img/APXCAsG7aswNfyDC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256879731640680448/pu/img/APXCAsG7aswNfyDC.jpg",
+					"url": "https://t.co/PBRntxBnxw",
+					"display_url": "pic.twitter.com/PBRntxBnxw",
+					"expanded_url": "https://twitter.com/peteerh/status/1256879788343455744/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1256879788343455700,
+					"source_status_id_str": "1256879788343455744",
+					"source_user_id": 354161538,
+					"source_user_id_str": "354161538",
+					"video_info": {
+						"aspect_ratio": [
+							11,
+							20
+						],
+						"duration_millis": 15227,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256879731640680448/pu/vid/352x640/Oe3_nHMUrJyO0gCm.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1256879731640680448/pu/pl/IC7ghxHpNegd986G.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1256879731640680448/pu/vid/320x580/OIxQuyjYcwwxHpZK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 354161538,
+							"id_str": "354161538",
+							"name": "ptr",
+							"screen_name": "peteerh",
+							"location": "Jakarta Capital Region, Indone",
+							"description": "Don’t take too hard for everything, just put on the right track for the best result. | ♋️",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 5941,
+							"friends_count": 1536,
+							"listed_count": 3,
+							"created_at": "Sat Aug 13 07:07:32 +0000 2011",
+							"favourites_count": 2189,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 49276,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "050305",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1246319015070441474/BmieDc06_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246319015070441474/BmieDc06_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/354161538/1583654188",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 324703658,
+			"id_str": "324703658",
+			"name": "Rex Chapman🏇🏼",
+			"screen_name": "RexChapman",
+			"location": "Lexington/Phoenix ",
+			"description": "I hold the microphone like a grudge",
+			"url": "https://t.co/WW075Yadro",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW075Yadro",
+							"expanded_url": "http://adultswim.com/streams",
+							"display_url": "adultswim.com/streams",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 695281,
+			"friends_count": 12312,
+			"listed_count": 2123,
+			"created_at": "Mon Jun 27 02:36:27 +0000 2011",
+			"favourites_count": 139545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 80226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E21F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/324703658/1539742514",
+			"profile_link_color": "2C12EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "100D14",
+			"profile_text_color": "EB0E20",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45423,
+		"favorite_count": 155411,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can’t remember the last time I saw a monkey ride-up on a motorcycle and try to steal a toddler. It’s been ages...https://t.co/PBRntxBnxw"
+	},
+	{
 		"created_at": "Mon May 04 15:59:36 +0000 2020",
 		"id": 1257339100895510500,
 		"id_str": "1257339100895510533",
