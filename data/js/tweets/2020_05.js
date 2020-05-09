@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 13:22:26 +0000 2020",
+		"id": 1259111487412584400,
+		"id_str": "1259111487412584448",
+		"full_text": "Seit Tagen geht mir dieser Flachwitz nicht aus dem Kopf. https://t.co/rEFK63RGc9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rEFK63RGc9",
+					"expanded_url": "https://twitter.com/Offparoletx/status/1256066038011252736",
+					"display_url": "twitter.com/Offparoletx/st…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 159,
+			"listed_count": 80,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1256066038011252700,
+		"quoted_status_id_str": "1256066038011252736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rEFK63RGc9",
+			"expanded": "https://twitter.com/Offparoletx/status/1256066038011252736",
+			"display": "twitter.com/Offparoletx/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 01 03:40:54 +0000 2020",
+			"id": 1256066038011252700,
+			"id_str": "1256066038011252736",
+			"full_text": "https://t.co/7AFsfxBhen",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1256066034550943700,
+						"id_str": "1256066034550943744",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/EW5xZ0vXsAAY8WL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW5xZ0vXsAAY8WL.jpg",
+						"url": "https://t.co/7AFsfxBhen",
+						"display_url": "pic.twitter.com/7AFsfxBhen",
+						"expanded_url": "https://twitter.com/Offparoletx/status/1256066038011252736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 339,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 192,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1241,
+								"h": 351,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1256066034550943700,
+						"id_str": "1256066034550943744",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/EW5xZ0vXsAAY8WL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW5xZ0vXsAAY8WL.jpg",
+						"url": "https://t.co/7AFsfxBhen",
+						"display_url": "pic.twitter.com/7AFsfxBhen",
+						"expanded_url": "https://twitter.com/Offparoletx/status/1256066038011252736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 339,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 192,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1241,
+								"h": 351,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2855172798,
+				"id_str": "2855172798",
+				"name": "marc eckō",
+				"screen_name": "Offparoletx",
+				"location": "",
+				"description": "Club Offparole. https://t.co/90LPQkhTPY",
+				"url": "https://t.co/mQugHhAgXH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mQugHhAgXH",
+								"expanded_url": "http://theoffparoles.bigcartel.com",
+								"display_url": "theoffparoles.bigcartel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/90LPQkhTPY",
+								"expanded_url": "http://instagram.com/offparole",
+								"display_url": "instagram.com/offparole",
+								"indices": [
+									16,
+									39
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3005,
+				"friends_count": 588,
+				"listed_count": 18,
+				"created_at": "Tue Oct 14 05:48:01 +0000 2014",
+				"favourites_count": 34041,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42818,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164880331616530432/5bu3LTv6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164880331616530432/5bu3LTv6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855172798/1581902212",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46161,
+			"favorite_count": 203182,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Seit Tagen geht mir dieser Flachwitz nicht aus dem Kopf. https://t.co/rEFK63RGc9"
+	},
+	{
 		"created_at": "Sat May 09 12:06:28 +0000 2020",
 		"id": 1259092371121287200,
 		"id_str": "1259092371121287168",
