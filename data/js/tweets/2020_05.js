@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 10 11:34:40 +0000 2020",
+		"id": 1259405275926335500,
+		"id_str": "1259446755944513536",
+		"full_text": "2010 hatten wir enthüllt, wie die \"Bunte\" unter Chefredakteurin Riekel eine Agentur bezahlte, die das Privatleben von Politikern ausforschte. In der Corona-Krise  beklagt sich Riekel über ein \"Volk der Denunzianten\". Keine Pointe https://t.co/xLnCaJmnky https://t.co/QCTDHxqOVb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xLnCaJmnky",
+					"expanded_url": "https://mailchi.mp/uebermedien/newsletter-12-november-3143605?e=4cf296259b",
+					"display_url": "mailchi.mp/uebermedien/ne…",
+					"indices": [
+						230,
+						253
+					]
+				},
+				{
+					"url": "https://t.co/QCTDHxqOVb",
+					"expanded_url": "https://www.stern.de/politik/deutschland/spitzeleien-bei-muentefering-und-lafontaine-die-falschen-dementis-der-cmk-3898602.html",
+					"display_url": "stern.de/politik/deutsc…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253526843,
+			"id_str": "253526843",
+			"name": "Hans-Martin Tillack",
+			"screen_name": "hmtillack",
+			"location": "hmtillack@protonmail.com",
+			"description": "Reporter, STERN Berlin\n\nberlin.investigativ@stern.de",
+			"url": "https://t.co/mXNITmj8kE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mXNITmj8kE",
+							"expanded_url": "http://www.stern.de/hans-martin-tillack-3005718.html",
+							"display_url": "stern.de/hans-martin-ti…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4250,
+			"friends_count": 988,
+			"listed_count": 163,
+			"created_at": "Thu Feb 17 12:30:30 +0000 2011",
+			"favourites_count": 1667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B3BA8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638624490902192129/4OE5b2F__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638624490902192129/4OE5b2F__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253526843/1495450515",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "2010 hatten wir enthüllt, wie die \"Bunte\" unter Chefredakteurin Riekel eine Agentur bezahlte, die das Privatleben von Politikern ausforschte. In der Corona-Krise  beklagt sich Riekel über ein \"Volk der Denunzianten\". Keine Pointe https://t.co/xLnCaJmnky https://t.co/QCTDHxqOVb"
+	},
+	{
 		"created_at": "Sun May 10 08:18:16 +0000 2020",
 		"id": 1259397328622030800,
 		"id_str": "1259397328622030848",
