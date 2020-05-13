@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 15:26:21 +0000 2020",
+		"id": 1260564415830732800,
+		"id_str": "1260592225530056706",
+		"full_text": "How to Build an Art Museum in Animal Crossing /via ⁦@thisaintanika⁩  https://t.co/Hg1fqu0S28",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisaintanika",
+					"name": "anika meier",
+					"id": 242211879,
+					"id_str": "242211879",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hg1fqu0S28",
+					"expanded_url": "http://blogs.getty.edu/iris/how-to-build-an-art-museum-in-animal-crossing/",
+					"display_url": "blogs.getty.edu/iris/how-to-bu…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14287222,
+			"id_str": "14287222",
+			"name": "Marcus Bösch",
+			"screen_name": "m_boesch",
+			"location": "Berlin, Deutschland",
+			"description": "Digital & spatial storytelling. Consulting & facilitation. Currently working with @dw_akademie @KoerberGP @GoogleNewsInit Co-founder @vragments @thegoodevilcom",
+			"url": "https://t.co/r1OUBoOM2J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r1OUBoOM2J",
+							"expanded_url": "http://www.marcus-boesch.de",
+							"display_url": "marcus-boesch.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4289,
+			"friends_count": 1996,
+			"listed_count": 348,
+			"created_at": "Wed Apr 02 20:31:01 +0000 2008",
+			"favourites_count": 9662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021892786050744320/oZaDCcud_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021892786050744320/oZaDCcud_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14287222/1559138821",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "0E120A",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "504141",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to Build an Art Museum in Animal Crossing /via ⁦@thisaintanika⁩  https://t.co/Hg1fqu0S28"
+	},
+	{
 		"created_at": "Wed May 13 08:57:09 +0000 2020",
 		"id": 1260494278205284400,
 		"id_str": "1260494278205284352",
