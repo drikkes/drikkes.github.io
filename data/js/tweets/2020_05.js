@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 18:31:35 +0000 2020",
+		"id": 1263537942510932000,
+		"id_str": "1263537942510931969",
+		"full_text": "Die Kirche im Dorf oder den Dom in Kölle lassen. https://t.co/UjQvsmaqMI https://t.co/6vHxkyBDAu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UjQvsmaqMI",
+					"expanded_url": "https://twitter.com/ChristophKappes/status/1263403859617202177",
+					"display_url": "twitter.com/ChristophKappe…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1263537938165633000,
+					"id_str": "1263537938165633025",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EYj9D2yXkAEvhC8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYj9D2yXkAEvhC8.jpg",
+					"url": "https://t.co/6vHxkyBDAu",
+					"display_url": "pic.twitter.com/6vHxkyBDAu",
+					"expanded_url": "https://twitter.com/drikkes/status/1263537942510931969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 437,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 595,
+							"h": 437,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 595,
+							"h": 437,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263537938165633000,
+					"id_str": "1263537938165633025",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EYj9D2yXkAEvhC8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYj9D2yXkAEvhC8.jpg",
+					"url": "https://t.co/6vHxkyBDAu",
+					"display_url": "pic.twitter.com/6vHxkyBDAu",
+					"expanded_url": "https://twitter.com/drikkes/status/1263537942510931969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 595,
+							"h": 437,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 595,
+							"h": 437,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 595,
+							"h": 437,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 160,
+			"listed_count": 79,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.90173557,
+				6.98450411
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.98450411,
+				50.90173557
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263403859617202200,
+		"quoted_status_id_str": "1263403859617202177",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UjQvsmaqMI",
+			"expanded": "https://twitter.com/ChristophKappes/status/1263403859617202177",
+			"display": "twitter.com/ChristophKappe…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 21 09:38:47 +0000 2020",
+			"id": 1263403859617202200,
+			"id_str": "1263403859617202177",
+			"full_text": "Zum ALDI-Schweinepreis-Aufreger: hier der Preisverfall bei Schweinefleisch. Ursachen: Wegfall des Gastro-Verbrauches, Druck von Weltmarkt (US-Preis nur 50%). Mit Tierhaltung hat das zunächst nichts zu tun. https://t.co/sUr5CmhzRE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1263403434142838800,
+						"id_str": "1263403434142838786",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/EYiCusQXsAI40b1.png",
+						"media_url_https": "https://pbs.twimg.com/media/EYiCusQXsAI40b1.png",
+						"url": "https://t.co/sUr5CmhzRE",
+						"display_url": "pic.twitter.com/sUr5CmhzRE",
+						"expanded_url": "https://twitter.com/ChristophKappes/status/1263403859617202177/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 595,
+								"h": 437,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 595,
+								"h": 437,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 595,
+								"h": 437,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1263403434142838800,
+						"id_str": "1263403434142838786",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/EYiCusQXsAI40b1.png",
+						"media_url_https": "https://pbs.twimg.com/media/EYiCusQXsAI40b1.png",
+						"url": "https://t.co/sUr5CmhzRE",
+						"display_url": "pic.twitter.com/sUr5CmhzRE",
+						"expanded_url": "https://twitter.com/ChristophKappes/status/1263403859617202177/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 595,
+								"h": 437,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 595,
+								"h": 437,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 595,
+								"h": 437,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19961453,
+				"id_str": "19961453",
+				"name": "Christoph Kappes",
+				"screen_name": "ChristophKappes",
+				"location": "Hamburg/München, Germany",
+				"description": "Follow you & follow me, ahaaa. Ich habe meine Meinung nur, solange ich keine bessere habe. Made with ❤ in Paris.",
+				"url": "https://t.co/gwZFd0Jjrq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gwZFd0Jjrq",
+								"expanded_url": "http://www.christophkappes.de",
+								"display_url": "christophkappes.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8573,
+				"friends_count": 3155,
+				"listed_count": 420,
+				"created_at": "Tue Feb 03 09:14:01 +0000 2009",
+				"favourites_count": 50082,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 63658,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFCC4D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1252696800856813569/va3EPXb7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252696800856813569/va3EPXb7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19961453/1585818583",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C9CCC8",
+				"profile_text_color": "6B696B",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Die Kirche im Dorf oder den Dom in Kölle lassen. https://t.co/UjQvsmaqMI https://t.co/6vHxkyBDAu"
+	},
+	{
 		"created_at": "Thu May 21 14:56:28 +0000 2020",
 		"id": 1263483806025203700,
 		"id_str": "1263483806025203713",
