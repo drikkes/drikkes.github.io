@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 31 12:52:16 +0000 2020",
+		"id": 1267076428824273000,
+		"id_str": "1267076428824272896",
+		"full_text": "Wie man Werbung für Spotify macht, ohne seinen Tweet als Anzeige kenntlich machen zu müssen. 👇 https://t.co/D7qhRl9BHF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D7qhRl9BHF",
+					"expanded_url": "https://twitter.com/Mohrenpost/status/1267039636511232009",
+					"display_url": "twitter.com/Mohrenpost/sta…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 160,
+			"listed_count": 79,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91699219,
+				6.96575382
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96575382,
+				50.91699219
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1267039636511232000,
+		"quoted_status_id_str": "1267039636511232009",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D7qhRl9BHF",
+			"expanded": "https://twitter.com/Mohrenpost/status/1267039636511232009",
+			"display": "twitter.com/Mohrenpost/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 31 10:26:04 +0000 2020",
+			"id": 1267039636511232000,
+			"id_str": "1267039636511232009",
+			"full_text": "Ich höre freiwillig einen Podcast! Weil es süß ist, wie @f_karig (völlig zurecht) @samelou anfanboyt. Weil ich manchmal Pause klicke, um mir eine furchteinflössende Formulierung von Samira zu notieren. Und weil die beiden viel heiterer sind, als sie auf diesem Foto aussehen. ❣️ https://t.co/rqHPO1bx9N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "f_karig",
+						"name": "Friedemann Karig",
+						"id": 172712387,
+						"id_str": "172712387",
+						"indices": [
+							56,
+							64
+						]
+					},
+					{
+						"screen_name": "samelou",
+						"name": "Samira El Ouassil",
+						"id": 275140490,
+						"id_str": "275140490",
+						"indices": [
+							82,
+							90
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1267039631549386800,
+						"id_str": "1267039631549386752",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EZVt1PLX0AA_hI2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZVt1PLX0AA_hI2.jpg",
+						"url": "https://t.co/rqHPO1bx9N",
+						"display_url": "pic.twitter.com/rqHPO1bx9N",
+						"expanded_url": "https://twitter.com/Mohrenpost/status/1267039636511232009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 444,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 784,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1721,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1267039631549386800,
+						"id_str": "1267039631549386752",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EZVt1PLX0AA_hI2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZVt1PLX0AA_hI2.jpg",
+						"url": "https://t.co/rqHPO1bx9N",
+						"display_url": "pic.twitter.com/rqHPO1bx9N",
+						"expanded_url": "https://twitter.com/Mohrenpost/status/1267039636511232009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 444,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 784,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1721,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 367044023,
+				"id_str": "367044023",
+				"name": "Carline Mohr",
+				"screen_name": "Mohrenpost",
+				"location": "Berlin-Neukölln ",
+				"description": "Leiterin digitale Kommunikation Willy-Brandt-Haus · früher: Spiegel Online | Bild · Lieblingstochter von @ilsemohr · Ein ❤️ für schlechte Witze & guten Rotwein",
+				"url": "https://t.co/I2CwdqGA52",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I2CwdqGA52",
+								"expanded_url": "http://www.mohrenpost.de",
+								"display_url": "mohrenpost.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27783,
+				"friends_count": 2691,
+				"listed_count": 409,
+				"created_at": "Sat Sep 03 08:31:50 +0000 2011",
+				"favourites_count": 62938,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16927,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1246697761434632192/WeP-Bids_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246697761434632192/WeP-Bids_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/367044023/1497173350",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Wie man Werbung für Spotify macht, ohne seinen Tweet als Anzeige kenntlich machen zu müssen. 👇 https://t.co/D7qhRl9BHF"
+	},
+	{
 		"created_at": "Sun May 31 11:42:00 +0000 2020",
 		"id": 1266980228666196000,
 		"id_str": "1267058746209042432",
