@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 02 22:53:33 +0000 2020",
+		"id": 1267945424452812800,
+		"id_str": "1267952524729950208",
+		"full_text": "You don't \"brand\" a fucking revolution:\nhttps://t.co/1X28R2c7ed",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1X28R2c7ed",
+					"expanded_url": "https://www.vulture.com/2020/06/the-revolution-will-not-be-branded.html",
+					"display_url": "vulture.com/2020/06/the-re…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1267603394354720800,
+		"in_reply_to_status_id_str": "1267603394354720768",
+		"in_reply_to_user_id": 21574612,
+		"in_reply_to_user_id_str": "21574612",
+		"in_reply_to_screen_name": "copyranter",
+		"user": {
+			"id": 21574612,
+			"id_str": "21574612",
+			"name": "Mark Duffy",
+			"screen_name": "copyranter",
+			"location": "New York City",
+			"description": "Copywriter/Ad Critic. CLIO, One Show, Bobcat Pin. A \"creative silo\". Anger issues. Drummer. My hockey wrist shot is better than yours. Tips—copyranter@gmail",
+			"url": "https://t.co/S1xuV8ndjf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S1xuV8ndjf",
+							"expanded_url": "https://medium.com/@copyranter",
+							"display_url": "medium.com/@copyranter",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22996,
+			"friends_count": 0,
+			"listed_count": 1151,
+			"created_at": "Sun Feb 22 16:11:04 +0000 2009",
+			"favourites_count": 280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/718156299205214209/boWz9GXH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/718156299205214209/boWz9GXH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21574612/1398339554",
+			"profile_link_color": "41B7D1",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F5F0F0",
+			"profile_text_color": "080808",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You don't \"brand\" a fucking revolution:\nhttps://t.co/1X28R2c7ed"
+	},
+	{
 		"created_at": "Tue Jun 02 20:11:29 +0000 2020",
 		"id": 1267911737308786700,
 		"id_str": "1267911737308786688",
