@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 09:51:49 +0000 2020",
+		"id": 1268480567877697500,
+		"id_str": "1268480567877697542",
+		"full_text": "Yay! https://t.co/j4rRqIUJR5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j4rRqIUJR5",
+					"expanded_url": "https://twitter.com/runjewels/status/1268211342311165952",
+					"display_url": "twitter.com/runjewels/stat…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 160,
+			"listed_count": 79,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268211342311166000,
+		"quoted_status_id_str": "1268211342311165952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j4rRqIUJR5",
+			"expanded": "https://twitter.com/runjewels/status/1268211342311165952",
+			"display": "twitter.com/runjewels/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 03 16:02:00 +0000 2020",
+			"id": 1268211342311166000,
+			"id_str": "1268211342311165952",
+			"full_text": "Run The Jewels 4 is out now - FREE on our website and avail everywhere you listen to music.\n\n4️⃣: https://t.co/lVVpCDq2xp https://t.co/KNaPMfPKuJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lVVpCDq2xp",
+						"expanded_url": "https://lnk.to/getRTJ4",
+						"display_url": "lnk.to/getRTJ4",
+						"indices": [
+							98,
+							121
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1268211214028386300,
+						"id_str": "1268211214028386310",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/EZmXYUBUMAYWS4I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZmXYUBUMAYWS4I.jpg",
+						"url": "https://t.co/KNaPMfPKuJ",
+						"display_url": "pic.twitter.com/KNaPMfPKuJ",
+						"expanded_url": "https://twitter.com/runjewels/status/1268211342311165952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1268211214028386300,
+						"id_str": "1268211214028386310",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/EZmXYUBUMAYWS4I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZmXYUBUMAYWS4I.jpg",
+						"url": "https://t.co/KNaPMfPKuJ",
+						"display_url": "pic.twitter.com/KNaPMfPKuJ",
+						"expanded_url": "https://twitter.com/runjewels/status/1268211342311165952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1268211242176442400,
+						"id_str": "1268211242176442371",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/EZmXZ84VcAMGc-n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZmXZ84VcAMGc-n.jpg",
+						"url": "https://t.co/KNaPMfPKuJ",
+						"display_url": "pic.twitter.com/KNaPMfPKuJ",
+						"expanded_url": "https://twitter.com/runjewels/status/1268211342311165952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1268211254360866800,
+						"id_str": "1268211254360866816",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/EZmXaqRVAAAMOBl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZmXaqRVAAAMOBl.jpg",
+						"url": "https://t.co/KNaPMfPKuJ",
+						"display_url": "pic.twitter.com/KNaPMfPKuJ",
+						"expanded_url": "https://twitter.com/runjewels/status/1268211342311165952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2252616702,
+				"id_str": "2252616702",
+				"name": "Run The Jewels",
+				"screen_name": "runjewels",
+				"location": "",
+				"description": "Official. Killer Mike + El-P = Run The Jewels.",
+				"url": "https://t.co/lXPms5w86U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lXPms5w86U",
+								"expanded_url": "http://www.runthejewels.com",
+								"display_url": "runthejewels.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 183597,
+				"friends_count": 40,
+				"listed_count": 862,
+				"created_at": "Wed Dec 18 22:25:16 +0000 2013",
+				"favourites_count": 778,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9907,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DA1A27",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1268217066638606336/POHbefQs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268217066638606336/POHbefQs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2252616702/1591201413",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10609,
+			"favorite_count": 26032,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Yay! https://t.co/j4rRqIUJR5"
+	},
+	{
 		"created_at": "Thu Jun 04 08:17:38 +0000 2020",
 		"id": 1268456867786825700,
 		"id_str": "1268456867786825728",
