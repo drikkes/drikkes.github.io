@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 14:25:25 +0000 2020",
+		"id": 1273260466794619000,
+		"id_str": "1273260466794618880",
+		"full_text": "Hat keine zwei Jahre gedauert, bis mir aufgefallen ist, woran mich dieser unsägliche Aufmacher von @diezeit/@zeitonline damals erinnert hat. https://t.co/UYNs7sviMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DIEZEIT",
+					"name": "DIE ZEIT",
+					"id": 1081459807,
+					"id_str": "1081459807",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"screen_name": "zeitonline",
+					"name": "ZEIT ONLINE",
+					"id": 5715752,
+					"id_str": "5715752",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273260457302929400,
+					"id_str": "1273260457302929409",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EauHo9AXsAEygeT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EauHo9AXsAEygeT.png",
+					"url": "https://t.co/UYNs7sviMO",
+					"display_url": "pic.twitter.com/UYNs7sviMO",
+					"expanded_url": "https://twitter.com/drikkes/status/1273260466794618880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273260457302929400,
+					"id_str": "1273260457302929409",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EauHo9AXsAEygeT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EauHo9AXsAEygeT.png",
+					"url": "https://t.co/UYNs7sviMO",
+					"display_url": "pic.twitter.com/UYNs7sviMO",
+					"expanded_url": "https://twitter.com/drikkes/status/1273260466794618880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273260456698937300,
+					"id_str": "1273260456698937344",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EauHo6wXgAA_Rj0.png",
+					"media_url_https": "https://pbs.twimg.com/media/EauHo6wXgAA_Rj0.png",
+					"url": "https://t.co/UYNs7sviMO",
+					"display_url": "pic.twitter.com/UYNs7sviMO",
+					"expanded_url": "https://twitter.com/drikkes/status/1273260466794618880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 848,
+			"friends_count": 160,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Hat keine zwei Jahre gedauert, bis mir aufgefallen ist, woran mich dieser unsägliche Aufmacher von @diezeit/@zeitonline damals erinnert hat. https://t.co/UYNs7sviMO"
+	},
+	{
 		"created_at": "Wed Jun 17 13:39:12 +0000 2020",
 		"id": 1273248835389751300,
 		"id_str": "1273248835389751296",
