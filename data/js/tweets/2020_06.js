@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 21 01:15:09 +0000 2020",
+		"id": 1274389216630366200,
+		"id_str": "1274511141155340288",
+		"full_text": "Adbusting - Mit Geheimdienst, Polizei und Terrorabwehrzentrum gegen ein paar veränderte Plakate https://t.co/B0zU462Mja",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B0zU462Mja",
+					"expanded_url": "https://netzpolitik.org/2020/mit-geheimdienst-polizei-und-terrorabwehrzentrum-gegen-ein-paar-veraenderte-plakate/",
+					"display_url": "netzpolitik.org/2020/mit-gehei…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5375902,
+			"id_str": "5375902",
+			"name": "Ar@m B@rtholl",
+			"screen_name": "arambartholl",
+			"location": "Berlin",
+			"description": "",
+			"url": "https://t.co/Y66cDmCiCA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y66cDmCiCA",
+							"expanded_url": "http://arambartholl.com",
+							"display_url": "arambartholl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7932,
+			"friends_count": 2192,
+			"listed_count": 325,
+			"created_at": "Sat Apr 21 09:05:45 +0000 2007",
+			"favourites_count": 9059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160665696046669824/cSLo29Vs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160665696046669824/cSLo29Vs_normal.jpg",
+			"profile_link_color": "787878",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4DBEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Adbusting - Mit Geheimdienst, Polizei und Terrorabwehrzentrum gegen ein paar veränderte Plakate https://t.co/B0zU462Mja"
+	},
+	{
 		"created_at": "Sun Jun 21 00:46:47 +0000 2020",
 		"id": 1274504000042348500,
 		"id_str": "1274504000042348544",
