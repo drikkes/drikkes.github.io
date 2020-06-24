@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 24 18:15:04 +0000 2020",
+		"id": 1275810900763689000,
+		"id_str": "1275854974547906568",
+		"full_text": "Hier das Protokoll wie #AfD und #CDU/#CSU mit #Seehofer im Bundestagsausschuss für Inneres und Heimat über die Pressefreiheit in Deutschland diskutieren. Enjoy: https://t.co/0NXPMoM89I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AfD",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "CDU",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "CSU",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "Seehofer",
+					"indices": [
+						46,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1275810895277576200,
+					"id_str": "1275810895277576192",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EbSXP-2X0AAbY4N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbSXP-2X0AAbY4N.jpg",
+					"url": "https://t.co/0NXPMoM89I",
+					"display_url": "pic.twitter.com/0NXPMoM89I",
+					"expanded_url": "https://twitter.com/mamjahid/status/1275810900763688961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 958,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 958,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275810895277576200,
+					"id_str": "1275810895277576192",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EbSXP-2X0AAbY4N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbSXP-2X0AAbY4N.jpg",
+					"url": "https://t.co/0NXPMoM89I",
+					"display_url": "pic.twitter.com/0NXPMoM89I",
+					"expanded_url": "https://twitter.com/mamjahid/status/1275810900763688961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 958,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 958,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1275810895256604700,
+					"id_str": "1275810895256604674",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EbSXP-xX0AI2ZFI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbSXP-xX0AI2ZFI.jpg",
+					"url": "https://t.co/0NXPMoM89I",
+					"display_url": "pic.twitter.com/0NXPMoM89I",
+					"expanded_url": "https://twitter.com/mamjahid/status/1275810900763688961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 513,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1275810895281754000,
+					"id_str": "1275810895281754112",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EbSXP-3XkAADRnN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbSXP-3XkAADRnN.jpg",
+					"url": "https://t.co/0NXPMoM89I",
+					"display_url": "pic.twitter.com/0NXPMoM89I",
+					"expanded_url": "https://twitter.com/mamjahid/status/1275810900763688961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 591,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 652,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 652,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2275086535,
+			"id_str": "2275086535",
+			"name": "Mohamed Amjahid",
+			"screen_name": "mamjahid",
+			"location": "Neukölln, Berlin",
+			"description": "Autor. 2020 Fellow @ThomasMannHouse. abonniert auf human rights, equity & T. \n\n\"Liebster Satire-Account bei Twitter\" von Julian R. 🤡",
+			"url": "https://t.co/1jLRXJvqt5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1jLRXJvqt5",
+							"expanded_url": "https://mamjahid.net",
+							"display_url": "mamjahid.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14178,
+			"friends_count": 1242,
+			"listed_count": 183,
+			"created_at": "Fri Jan 03 20:56:24 +0000 2014",
+			"favourites_count": 13900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169581343300300801/A37hNxU5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169581343300300801/A37hNxU5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2275086535/1528921492",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3078869807f9dd36",
+			"url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+			"place_type": "city",
+			"name": "Berlin",
+			"full_name": "Berlin, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							13.088304,
+							52.338079
+						],
+						[
+							13.760909,
+							52.338079
+						],
+						[
+							13.760909,
+							52.675323
+						],
+						[
+							13.088304,
+							52.675323
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 467,
+		"favorite_count": 1310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Hier das Protokoll wie #AfD und #CDU/#CSU mit #Seehofer im Bundestagsausschuss für Inneres und Heimat über die Pressefreiheit in Deutschland diskutieren. Enjoy: https://t.co/0NXPMoM89I"
+	},
+	{
 		"created_at": "Wed Jun 24 14:39:17 +0000 2020",
 		"id": 1275800670751395800,
 		"id_str": "1275800670751395840",
