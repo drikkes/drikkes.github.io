@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 06 21:54:43 +0000 2020",
+		"id": 1279873693431275500,
+		"id_str": "1280258902345633793",
+		"full_text": "@sophsa @MooseAllain https://t.co/ijGLgQwI8r",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sophsa",
+					"name": "sophia 💅🏻",
+					"id": 2185347326,
+					"id_str": "2185347326",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "MooseAllain",
+					"name": "Moose Allain Ꙭ",
+					"id": 23993642,
+					"id_str": "23993642",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1279873682949759000,
+					"id_str": "1279873682949758978",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EcMGVWWXYAIIL-P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcMGVWWXYAIIL-P.jpg",
+					"url": "https://t.co/ijGLgQwI8r",
+					"display_url": "pic.twitter.com/ijGLgQwI8r",
+					"expanded_url": "https://twitter.com/Higgledy_pigg/status/1279873693431275524/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 650,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 650,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279873682949759000,
+					"id_str": "1279873682949758978",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EcMGVWWXYAIIL-P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcMGVWWXYAIIL-P.jpg",
+					"url": "https://t.co/ijGLgQwI8r",
+					"display_url": "pic.twitter.com/ijGLgQwI8r",
+					"expanded_url": "https://twitter.com/Higgledy_pigg/status/1279873693431275524/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 650,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 650,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1279831375642800000,
+		"in_reply_to_status_id_str": "1279831375642800130",
+		"in_reply_to_user_id": 2185347326,
+		"in_reply_to_user_id_str": "2185347326",
+		"in_reply_to_screen_name": "sophsa",
+		"user": {
+			"id": 2447230231,
+			"id_str": "2447230231",
+			"name": "Higgledy Pigg",
+			"screen_name": "Higgledy_pigg",
+			"location": "Cheshire",
+			"description": "lapsed vegetarian, hate motorbikes, loathe religion, pro Police, #BlueLivesMatter, any #ACABers can fuck right off, part time insomniac",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 339,
+			"listed_count": 3,
+			"created_at": "Wed Apr 16 13:23:45 +0000 2014",
+			"favourites_count": 2981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/510652546453884928/7PqlB6L9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/510652546453884928/7PqlB6L9_normal.jpeg",
+			"profile_link_color": "001EFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4436,
+		"favorite_count": 28427,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@sophsa @MooseAllain https://t.co/ijGLgQwI8r"
+	},
+	{
 		"created_at": "Mon Jul 06 19:39:12 +0000 2020",
 		"id": 1280224801332826000,
 		"id_str": "1280224801332826112",
