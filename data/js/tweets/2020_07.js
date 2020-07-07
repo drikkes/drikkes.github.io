@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 14:40:00 +0000 2020",
+		"id": 1280471627973619700,
+		"id_str": "1280511893287862283",
+		"full_text": "Le magasin Tati emblématique du boulevard Barbès à Paris sera bientôt fermé, son activité ayant été fortement affectée par la crise du Covid-19, a annoncé aujourd'hui le groupe GPG, qui avait repris l'enseigne en 2017 #AFP https://t.co/YiGrAh5Xgc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AFP",
+					"indices": [
+						218,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280452972296757200,
+					"id_str": "1280452972296757250",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUVMbVXYAI7jXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUVMbVXYAI7jXR.jpg",
+					"url": "https://t.co/YiGrAh5Xgc",
+					"display_url": "pic.twitter.com/YiGrAh5Xgc",
+					"expanded_url": "https://twitter.com/afpfr/status/1280471627973619713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280452972296757200,
+					"id_str": "1280452972296757250",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EcUVMbVXYAI7jXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcUVMbVXYAI7jXR.jpg",
+					"url": "https://t.co/YiGrAh5Xgc",
+					"display_url": "pic.twitter.com/YiGrAh5Xgc",
+					"expanded_url": "https://twitter.com/afpfr/status/1280471627973619713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 338985020,
+			"id_str": "338985020",
+			"name": "Agence France-Presse",
+			"screen_name": "afpfr",
+			"location": "Paris",
+			"description": "Morceaux choisis des fils d'actu, coulisses & RT des 1.700 journalistes de l'AFP à travers le monde. Ailleurs sur Twitter: https://t.co/4pIm8k2HLC",
+			"url": "https://t.co/nidDu0He8m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nidDu0He8m",
+							"expanded_url": "http://www.afp.com",
+							"display_url": "afp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4pIm8k2HLC",
+							"expanded_url": "http://u.afp.com/AFPTwitter",
+							"display_url": "u.afp.com/AFPTwitter",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3483944,
+			"friends_count": 1379,
+			"listed_count": 14462,
+			"created_at": "Wed Jul 20 12:07:59 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 434813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272769405575925767/uRtKtfhk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272769405575925767/uRtKtfhk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/338985020/1590777330",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Le magasin Tati emblématique du boulevard Barbès à Paris sera bientôt fermé, son activité ayant été fortement affectée par la crise du Covid-19, a annoncé aujourd'hui le groupe GPG, qui avait repris l'enseigne en 2017 #AFP https://t.co/YiGrAh5Xgc"
+	},
+	{
 		"created_at": "Tue Jul 07 10:43:06 +0000 2020",
 		"id": 1280452275455000600,
 		"id_str": "1280452275455000576",
