@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 11:38:29 +0000 2020",
+		"id": 1280828600028139500,
+		"id_str": "1280828600028139520",
+		"full_text": "All except the Marvels and the Pixars. https://t.co/p30U6djO5B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p30U6djO5B",
+					"expanded_url": "https://twitter.com/BobbyBeltTX/status/1280292064433930241",
+					"display_url": "twitter.com/BobbyBeltTX/st…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 852,
+			"friends_count": 160,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2c5a3a763832db84",
+			"url": "https://api.twitter.com/1.1/geo/id/2c5a3a763832db84.json",
+			"place_type": "neighborhood",
+			"name": "Neustadt-Süd",
+			"full_name": "Neustadt-Süd, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.9239777,
+							50.915033
+						],
+						[
+							6.973335,
+							50.915033
+						],
+						[
+							6.973335,
+							50.9381396
+						],
+						[
+							6.9239777,
+							50.9381396
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280292064433930200,
+		"quoted_status_id_str": "1280292064433930241",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p30U6djO5B",
+			"expanded": "https://twitter.com/BobbyBeltTX/status/1280292064433930241",
+			"display": "twitter.com/BobbyBeltTX/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 07 00:06:29 +0000 2020",
+			"id": 1280292064433930200,
+			"id_str": "1280292064433930241",
+			"full_text": "These 50 movies have the most number of IMDb user votes. It's a good working list of the 50 most common movies people have seen.\n\nHow many of the 50 have you seen? https://t.co/g7TLLy0Tec",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1280291749752160300,
+						"id_str": "1280291749752160256",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/EcSCkCjXQAA_vYl.png",
+						"media_url_https": "https://pbs.twimg.com/media/EcSCkCjXQAA_vYl.png",
+						"url": "https://t.co/g7TLLy0Tec",
+						"display_url": "pic.twitter.com/g7TLLy0Tec",
+						"expanded_url": "https://twitter.com/BobbyBeltTX/status/1280292064433930241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 404,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1220,
+								"h": 724,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 712,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1280291749752160300,
+						"id_str": "1280291749752160256",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/EcSCkCjXQAA_vYl.png",
+						"media_url_https": "https://pbs.twimg.com/media/EcSCkCjXQAA_vYl.png",
+						"url": "https://t.co/g7TLLy0Tec",
+						"display_url": "pic.twitter.com/g7TLLy0Tec",
+						"expanded_url": "https://twitter.com/BobbyBeltTX/status/1280292064433930241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 404,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1220,
+								"h": 724,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 712,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31077897,
+				"id_str": "31077897",
+				"name": "Bobby Belt",
+				"screen_name": "BobbyBeltTX",
+				"location": "",
+				"description": "@NFLNetwork field producer | Co-Host, The 'Boys & Girl Podcast on @TheHerdNow with @SlaterNFL | NFL Draft research/news | Recess is the best show in TV history",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19701,
+				"friends_count": 585,
+				"listed_count": 394,
+				"created_at": "Tue Apr 14 07:12:50 +0000 2009",
+				"favourites_count": 13712,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 78698,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278504293822279680/AhJvk84w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278504293822279680/AhJvk84w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31077897/1589324798",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 685,
+			"favorite_count": 4684,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All except the Marvels and the Pixars. https://t.co/p30U6djO5B"
+	},
+	{
 		"created_at": "Tue Jul 07 14:40:00 +0000 2020",
 		"id": 1280471627973619700,
 		"id_str": "1280511893287862283",
