@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 19:00:25 +0000 2020",
+		"id": 1282750895634018300,
+		"id_str": "1282751754787065858",
+		"full_text": "damn these 1918 bros had good style.  also wear a mask. https://t.co/SRnP7xoWNQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SRnP7xoWNQ",
+					"expanded_url": "https://twitter.com/h3h3productions/status/1282750043179499520",
+					"display_url": "twitter.com/h3h3production…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154221292,
+			"id_str": "154221292",
+			"name": "Casey Neistat",
+			"screen_name": "Casey",
+			"location": "nyc",
+			"description": "family + work",
+			"url": "https://t.co/G29ueAVHlb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G29ueAVHlb",
+							"expanded_url": "http://www.youtube.com/caseyneistat",
+							"display_url": "youtube.com/caseyneistat",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2073555,
+			"friends_count": 2370,
+			"listed_count": 4404,
+			"created_at": "Thu Jun 10 17:54:33 +0000 2010",
+			"favourites_count": 47662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "616161",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/481123524329734146/jk4aTqws_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154221292/1403543694",
+			"profile_link_color": "943D3D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282750043179499500,
+		"quoted_status_id_str": "1282750043179499520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SRnP7xoWNQ",
+			"expanded": "https://twitter.com/h3h3productions/status/1282750043179499520",
+			"display": "twitter.com/h3h3production…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 13 18:53:37 +0000 2020",
+			"id": 1282750043179499500,
+			"id_str": "1282750043179499520",
+			"full_text": "1918 during the Spanish Flu, and here we are 100 years later, dumber than ever. https://t.co/u6yXWdCEmf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1282749818918457300,
+						"id_str": "1282749818918457344",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec0-KfxU0AAiZwu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec0-KfxU0AAiZwu.jpg",
+						"url": "https://t.co/u6yXWdCEmf",
+						"display_url": "pic.twitter.com/u6yXWdCEmf",
+						"expanded_url": "https://twitter.com/h3h3productions/status/1282750043179499520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1282749818918457300,
+						"id_str": "1282749818918457344",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec0-KfxU0AAiZwu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec0-KfxU0AAiZwu.jpg",
+						"url": "https://t.co/u6yXWdCEmf",
+						"display_url": "pic.twitter.com/u6yXWdCEmf",
+						"expanded_url": "https://twitter.com/h3h3productions/status/1282750043179499520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1187330941,
+				"id_str": "1187330941",
+				"name": "Ethan Klein",
+				"screen_name": "h3h3productions",
+				"location": "Los Angeles, CA",
+				"description": "Host of @TheH3Podcast / Co-Founder of @TeddyFresh / #HELP\n(Podcast Booking Inquiries: podcast@h3h3productions.com) (Business Inquiries: workwithh3@gmail.com)",
+				"url": "https://t.co/YxV35MJzgz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YxV35MJzgz",
+								"expanded_url": "http://youtube.com/h3h3productions",
+								"display_url": "youtube.com/h3h3productions",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2436818,
+				"friends_count": 475,
+				"listed_count": 1218,
+				"created_at": "Sat Feb 16 20:09:02 +0000 2013",
+				"favourites_count": 23372,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9402,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1269104882130096129/-CW6_OR4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269104882130096129/-CW6_OR4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1187330941/1591810636",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1290,
+			"favorite_count": 6364,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 289,
+		"favorite_count": 2577,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "damn these 1918 bros had good style.  also wear a mask. https://t.co/SRnP7xoWNQ"
+	},
+	{
 		"created_at": "Mon Jul 13 10:54:18 +0000 2020",
 		"id": 1282629418079453200,
 		"id_str": "1282629418079453186",
