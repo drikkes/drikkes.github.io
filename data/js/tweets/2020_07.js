@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 17 14:59:13 +0000 2020",
+		"id": 1284064402862411800,
+		"id_str": "1284140606311280641",
+		"full_text": "Sanifair Millionär CYPHER 💙\nVielen Dank an Drangsal, Leoniden, cashmiri, Testo, Fibel, Shelter Boy, the toten Crackhuren im Kofferraum, Von Wegen Lisbeth, Mia Morgan, Kummer, Swutscher, CHILDREN, Fatoni, Steiner &amp; Madlaina, grim104, Rikas &amp;Lance Butters\nhttps://t.co/x0rEfEnYhl https://t.co/7GozIrY8ny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x0rEfEnYhl",
+					"expanded_url": "https://blond.lnk.to/SanifairMillionaerCYPHER",
+					"display_url": "blond.lnk.to/SanifairMillio…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1284064347086565400,
+					"id_str": "1284064347086565384",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1284064347086565384/pu/img/KuscfA3IiWtu_8zr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1284064347086565384/pu/img/KuscfA3IiWtu_8zr.jpg",
+					"url": "https://t.co/7GozIrY8ny",
+					"display_url": "pic.twitter.com/7GozIrY8ny",
+					"expanded_url": "https://twitter.com/blondofficial1/status/1284064402862411778/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284064347086565400,
+					"id_str": "1284064347086565384",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1284064347086565384/pu/img/KuscfA3IiWtu_8zr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1284064347086565384/pu/img/KuscfA3IiWtu_8zr.jpg",
+					"url": "https://t.co/7GozIrY8ny",
+					"display_url": "pic.twitter.com/7GozIrY8ny",
+					"expanded_url": "https://twitter.com/blondofficial1/status/1284064402862411778/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 14315,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1284064347086565384/pu/vid/360x640/sbXfgoSnHIGr08JC.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1284064347086565384/pu/vid/320x568/eWBDtAfwO-VGeZIF.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1284064347086565384/pu/vid/720x1280/V1MQcKeLsuQivCIm.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1284064347086565384/pu/pl/8qdP5wIrQVGIgPVC.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1056522604595630100,
+			"id_str": "1056522604595630080",
+			"name": "blond.official",
+			"screen_name": "blondofficial1",
+			"location": "Chemnitz, Sachsen",
+			"description": "Las Vegas Glamour aus Chemnitz https://t.co/7EtUm80nYJ",
+			"url": "https://t.co/ke5JudYhaI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ke5JudYhaI",
+							"expanded_url": "http://blond-band.de",
+							"display_url": "blond-band.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7EtUm80nYJ",
+							"expanded_url": "https://blond.lnk.to/martinisprite",
+							"display_url": "blond.lnk.to/martinisprite",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1139,
+			"friends_count": 116,
+			"listed_count": 2,
+			"created_at": "Sun Oct 28 12:26:32 +0000 2018",
+			"favourites_count": 223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204369159544553472/yAxeYyWe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204369159544553472/yAxeYyWe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1056522604595630080/1583320062",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Sanifair Millionär CYPHER 💙\nVielen Dank an Drangsal, Leoniden, cashmiri, Testo, Fibel, Shelter Boy, the toten Crackhuren im Kofferraum, Von Wegen Lisbeth, Mia Morgan, Kummer, Swutscher, CHILDREN, Fatoni, Steiner &amp; Madlaina, grim104, Rikas &amp;Lance Butters\nhttps://t.co/x0rEfEnYhl https://t.co/7GozIrY8ny"
+	},
+	{
 		"created_at": "Fri Jul 17 14:06:39 +0000 2020",
 		"id": 1284127376037814300,
 		"id_str": "1284127376037814272",
