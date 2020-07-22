@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 22 19:41:05 +0000 2020",
+		"id": 1285982217743880200,
+		"id_str": "1286023479356207112",
+		"full_text": "TIL https://t.co/gYtNoEaRHc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1285982211565650000,
+					"id_str": "1285982211565649920",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/Edi6AgvXgAAGJ-W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edi6AgvXgAAGJ-W.jpg",
+					"url": "https://t.co/gYtNoEaRHc",
+					"display_url": "pic.twitter.com/gYtNoEaRHc",
+					"expanded_url": "https://twitter.com/ManningKrull/status/1285982217743880193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 596,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 856,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 856,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285982211565650000,
+					"id_str": "1285982211565649920",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/Edi6AgvXgAAGJ-W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edi6AgvXgAAGJ-W.jpg",
+					"url": "https://t.co/gYtNoEaRHc",
+					"display_url": "pic.twitter.com/gYtNoEaRHc",
+					"expanded_url": "https://twitter.com/ManningKrull/status/1285982217743880193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 596,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 856,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 856,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35176285,
+			"id_str": "35176285",
+			"name": "Manning Krull",
+			"screen_name": "ManningKrull",
+			"location": "New Orleans kind of? ",
+			"description": "STAY HOME! WEAR A MASK WHEN YOU GO OUT! Skeletons, paper mâché, illustration, pixel art, spooky stuff, Halloween, Mardi Gras, Paris, French, francophilia.",
+			"url": "https://t.co/btxv81twnW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/btxv81twnW",
+							"expanded_url": "http://www.manningkrull.com",
+							"display_url": "manningkrull.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1018,
+			"friends_count": 696,
+			"listed_count": 49,
+			"created_at": "Sat Apr 25 08:19:08 +0000 2009",
+			"favourites_count": 50636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087714545181822978/bSfY2ohe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087714545181822978/bSfY2ohe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35176285/1548163921",
+			"profile_link_color": "FE5967",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "5D3B69",
+			"profile_text_color": "222222",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 397,
+		"favorite_count": 1090,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "TIL https://t.co/gYtNoEaRHc"
+	},
+	{
 		"created_at": "Wed Jul 22 13:39:01 +0000 2020",
 		"id": 1285932362367414300,
 		"id_str": "1285932362367414272",
