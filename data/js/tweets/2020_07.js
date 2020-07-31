@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 30 23:12:20 +0000 2020",
+		"id": 1288965657195946000,
+		"id_str": "1288975747118501888",
+		"full_text": "„Es gibt keinen äußeren Grund für diese Begrenzungen – außer der Tatsache, dass die Begrenzung einen Wert schafft.“\n\n@dvg über ein rätsel, das mir ebenfalls keine ruhe lässt. https://t.co/OHe5ezjYx1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvg",
+					"name": "Dirk von Gehlen",
+					"id": 1727601,
+					"id_str": "1727601",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OHe5ezjYx1",
+					"expanded_url": "https://www.dirkvongehlen.de/netz/weniger-schafft-mehr-das-prinzip-steigerung-durch-begrenzung-digitale-august-notizen/",
+					"display_url": "dirkvongehlen.de/netz/weniger-s…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5751892,
+			"id_str": "5751892",
+			"name": "Michael Seemann",
+			"screen_name": "mspro",
+			"location": "berlin, germany",
+			"description": "thinking into the internet. english: @mspro_en book: https://t.co/2wu7Xglk8V theory: https://t.co/SjV5VRYArr podcast: https://t.co/lr1Q1uuW0Q",
+			"url": "https://t.co/ESZuNZz1Ey",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ESZuNZz1Ey",
+							"expanded_url": "http://michaelseemann.de",
+							"display_url": "michaelseemann.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2wu7Xglk8V",
+							"expanded_url": "http://dasneuespiel.de",
+							"display_url": "dasneuespiel.de",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/SjV5VRYArr",
+							"expanded_url": "http://ctrl-verlust.net",
+							"display_url": "ctrl-verlust.net",
+							"indices": [
+								85,
+								108
+							]
+						},
+						{
+							"url": "https://t.co/lr1Q1uuW0Q",
+							"expanded_url": "http://planetb.viertausendhertz.de",
+							"display_url": "planetb.viertausendhertz.de",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20024,
+			"friends_count": 1147,
+			"listed_count": 878,
+			"created_at": "Thu May 03 21:55:36 +0000 2007",
+			"favourites_count": 12217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 91190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092791306458402819/ki1UcibE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092791306458402819/ki1UcibE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5751892/1387209394",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "„Es gibt keinen äußeren Grund für diese Begrenzungen – außer der Tatsache, dass die Begrenzung einen Wert schafft.“\n\n@dvg über ein rätsel, das mir ebenfalls keine ruhe lässt. https://t.co/OHe5ezjYx1"
+	},
+	{
 		"created_at": "Thu Jul 30 18:53:40 +0000 2020",
 		"id": 1288910652103434200,
 		"id_str": "1288910652103434240",
