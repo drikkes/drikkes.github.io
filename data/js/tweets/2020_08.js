@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 11 13:30:51 +0000 2020",
+		"id": 1293178065317585000,
+		"id_str": "1293178065317584901",
+		"full_text": "So, genug auf Volksparteien eingedroschen für heute. Was mich in Köln gerade wirklich nervt sind diese anbiedernden Volt-Plakate überall. https://t.co/m1myvguKfv https://t.co/jXSCwccMqO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m1myvguKfv",
+					"expanded_url": "https://www.voltdeutschland.org/koeln/kommunalwahl2020",
+					"display_url": "voltdeutschland.org/koeln/kommunal…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293178059827245000,
+					"id_str": "1293178059827245056",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EfJKmAdU8AAp-BM.png",
+					"media_url_https": "https://pbs.twimg.com/media/EfJKmAdU8AAp-BM.png",
+					"url": "https://t.co/jXSCwccMqO",
+					"display_url": "pic.twitter.com/jXSCwccMqO",
+					"expanded_url": "https://twitter.com/drikkes/status/1293178065317584901/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 421,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 421,
+							"h": 431,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 421,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293178059827245000,
+					"id_str": "1293178059827245056",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EfJKmAdU8AAp-BM.png",
+					"media_url_https": "https://pbs.twimg.com/media/EfJKmAdU8AAp-BM.png",
+					"url": "https://t.co/jXSCwccMqO",
+					"display_url": "pic.twitter.com/jXSCwccMqO",
+					"expanded_url": "https://twitter.com/drikkes/status/1293178065317584901/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 421,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 421,
+							"h": 431,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 421,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 850,
+			"friends_count": 159,
+			"listed_count": 0,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "So, genug auf Volksparteien eingedroschen für heute. Was mich in Köln gerade wirklich nervt sind diese anbiedernden Volt-Plakate überall. https://t.co/m1myvguKfv https://t.co/jXSCwccMqO"
+	},
+	{
 		"created_at": "Tue Aug 11 11:53:42 +0000 2020",
 		"id": 1293153618045141000,
 		"id_str": "1293153618045140994",
