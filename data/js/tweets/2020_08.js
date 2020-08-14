@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 08:06:17 +0000 2020",
+		"id": 1294183547314544600,
+		"id_str": "1294183547314544641",
+		"full_text": "@politgezwitsche @fdp_koeln Wenn selbst eine PS-Postille wie @amsonline die Pariser Pläne zur Streichung von 60.000 Parkplätzen \"wahrscheinlich alternativlos\" nennt, dann sollte die @fdp_koeln vielleicht mal ihre Forderung überdenken. https://t.co/nZyhHuQsLH",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "politgezwitsche",
+					"name": "Politgezwitsche",
+					"id": 1036958292445147100,
+					"id_str": "1036958292445147136",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "fdp_koeln",
+					"name": "FDP Köln #werkölnliebt",
+					"id": 223410479,
+					"id_str": "223410479",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "amsonline",
+					"name": "auto motor und sport",
+					"id": 19709978,
+					"id_str": "19709978",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"screen_name": "fdp_koeln",
+					"name": "FDP Köln #werkölnliebt",
+					"id": 223410479,
+					"id_str": "223410479",
+					"indices": [
+						182,
+						192
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nZyhHuQsLH",
+					"expanded_url": "https://www.auto-motor-und-sport.de/verkehr/paris-verkehrswende-hidalgo-autos-raus/",
+					"display_url": "auto-motor-und-sport.de/verkehr/paris-…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1293971342749053000,
+		"in_reply_to_status_id_str": "1293971342749052931",
+		"in_reply_to_user_id": 1036958292445147100,
+		"in_reply_to_user_id_str": "1036958292445147136",
+		"in_reply_to_screen_name": "politgezwitsche",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 159,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "@politgezwitsche @fdp_koeln Wenn selbst eine PS-Postille wie @amsonline die Pariser Pläne zur Streichung von 60.000 Parkplätzen \"wahrscheinlich alternativlos\" nennt, dann sollte die @fdp_koeln vielleicht mal ihre Forderung überdenken. https://t.co/nZyhHuQsLH"
+	},
+	{
+		"created_at": "Fri Aug 14 08:00:05 +0000 2020",
+		"id": 1294181990774853600,
+		"id_str": "1294181990774853632",
+		"full_text": "@politgezwitsche @fdp_koeln Autos sind für mich Umweltverschmutzung, ob sie gerade Parkplätze suchen oder ohne Tempolimit über die Autobahn brettern. Je weniger Parkplätze, desto weniger Leute kaufen Autos. Simple as that.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "politgezwitsche",
+					"name": "Politgezwitsche",
+					"id": 1036958292445147100,
+					"id_str": "1036958292445147136",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "fdp_koeln",
+					"name": "FDP Köln #werkölnliebt",
+					"id": 223410479,
+					"id_str": "223410479",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1293971342749053000,
+		"in_reply_to_status_id_str": "1293971342749052931",
+		"in_reply_to_user_id": 1036958292445147100,
+		"in_reply_to_user_id_str": "1036958292445147136",
+		"in_reply_to_screen_name": "politgezwitsche",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 159,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@politgezwitsche @fdp_koeln Autos sind für mich Umweltverschmutzung, ob sie gerade Parkplätze suchen oder ohne Tempolimit über die Autobahn brettern. Je weniger Parkplätze, desto weniger Leute kaufen Autos. Simple as that."
+	},
+	{
+		"created_at": "Fri Aug 14 07:54:31 +0000 2020",
+		"id": 1294180589457813500,
+		"id_str": "1294180589457813506",
+		"full_text": "🏀 Es tut mir wirklich leid für die Phoenix @Suns.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Suns",
+					"name": "8-0",
+					"id": 18481113,
+					"id_str": "18481113",
+					"indices": [
+						43,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://drikk.es/\" rel=\"nofollow\">meinGehirn</a>",
+		"in_reply_to_status_id": 1294115656384708600,
+		"in_reply_to_status_id_str": "1294115656384708609",
+		"in_reply_to_user_id": 18481113,
+		"in_reply_to_user_id_str": "18481113",
+		"in_reply_to_screen_name": "Suns",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 159,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "🏀 Es tut mir wirklich leid für die Phoenix @Suns."
+	},
+	{
 		"created_at": "Thu Aug 13 19:55:27 +0000 2020",
 		"id": 1293999628506083300,
 		"id_str": "1293999628506083328",
