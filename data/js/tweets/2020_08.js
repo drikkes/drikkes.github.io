@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 19:19:47 +0000 2020",
+		"id": 1294353042456957000,
+		"id_str": "1294353042456956928",
+		"full_text": "https://t.co/iqpp4jnIOX https://t.co/OOTvjjjx6L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iqpp4jnIOX",
+					"expanded_url": "https://webb.game/",
+					"display_url": "webb.game",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/OOTvjjjx6L",
+					"expanded_url": "https://twitter.com/thisaintanika/status/1294233958679490560",
+					"display_url": "twitter.com/thisaintanika/…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 159,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1294233958679490600,
+		"quoted_status_id_str": "1294233958679490560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OOTvjjjx6L",
+			"expanded": "https://twitter.com/thisaintanika/status/1294233958679490560",
+			"display": "twitter.com/thisaintanika/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 14 11:26:36 +0000 2020",
+			"id": 1294233958679490600,
+			"id_str": "1294233958679490560",
+			"full_text": "ich stell mich mal an und versuche ins berghain zu kommen\n\nwer kommt mit?\n\n📍 https://t.co/xUvfERmXRj\n🗓 14. august, 19 uhr \n💭 https://t.co/z8nrSc582E\n\n#exerciseinhopelessnostalgia @koeniggalerie https://t.co/OHg3sUhkwe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "exerciseinhopelessnostalgia",
+						"indices": [
+							150,
+							178
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "koeniggalerie",
+						"name": "KÖNIG GALERIE",
+						"id": 1516815372,
+						"id_str": "1516815372",
+						"indices": [
+							179,
+							193
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xUvfERmXRj",
+						"expanded_url": "https://webb.game/",
+						"display_url": "webb.game",
+						"indices": [
+							77,
+							100
+						]
+					},
+					{
+						"url": "https://t.co/z8nrSc582E",
+						"expanded_url": "https://www.koeniggalerie.com/exhibitions/30644/exercise-in-hopeless-nostalgia-world-wide-webb/",
+						"display_url": "koeniggalerie.com/exhibitions/30…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1294233901427306500,
+						"id_str": "1294233901427306498",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294233901427306498/pu/img/TvtXmaEYyhq5R3Gf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294233901427306498/pu/img/TvtXmaEYyhq5R3Gf.jpg",
+						"url": "https://t.co/OHg3sUhkwe",
+						"display_url": "pic.twitter.com/OHg3sUhkwe",
+						"expanded_url": "https://twitter.com/thisaintanika/status/1294233958679490560/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 764,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 406,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 716,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1294233901427306500,
+						"id_str": "1294233901427306498",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294233901427306498/pu/img/TvtXmaEYyhq5R3Gf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294233901427306498/pu/img/TvtXmaEYyhq5R3Gf.jpg",
+						"url": "https://t.co/OHg3sUhkwe",
+						"display_url": "pic.twitter.com/OHg3sUhkwe",
+						"expanded_url": "https://twitter.com/thisaintanika/status/1294233958679490560/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 764,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 406,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 716,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								191,
+								320
+							],
+							"duration_millis": 14003,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1294233901427306498/pu/vid/720x1206/oEphtruoLBVeMCqm.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1294233901427306498/pu/vid/360x602/FZW76_WLmGSKmCrK.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1294233901427306498/pu/pl/-Sg-uzS_fcY5rv0N.m3u8?tag=10"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1294233901427306498/pu/vid/320x536/y_lqbo4hzjK4SI-G.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 242211879,
+				"id_str": "242211879",
+				"name": "anika meier",
+				"screen_name": "thisaintanika",
+				"location": "Hamburg",
+				"description": "Columnist: @MonopolMagazin. Book: Virtual Normality. The Female Gaze in the Age of the Internet. Curator: SURPRISINGLY THIS RATHER WORKS @koeniggalerie",
+				"url": "https://t.co/6c0V31vPgJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6c0V31vPgJ",
+								"expanded_url": "https://instagram.com/anika",
+								"display_url": "instagram.com/anika",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3609,
+				"friends_count": 1276,
+				"listed_count": 116,
+				"created_at": "Mon Jan 24 06:34:26 +0000 2011",
+				"favourites_count": 13970,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12218,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FBFBEF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1274806479950884872/4svBi6nc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274806479950884872/4svBi6nc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/242211879/1546423715",
+				"profile_link_color": "616161",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "7A7A7A",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/iqpp4jnIOX https://t.co/OOTvjjjx6L"
+	},
+	{
 		"created_at": "Fri Aug 14 17:34:50 +0000 2020",
 		"id": 1294326628429029400,
 		"id_str": "1294326628429029379",
