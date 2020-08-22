@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 22 15:17:29 +0000 2020",
+		"id": 1296600573769388000,
+		"id_str": "1297191167650664448",
+		"full_text": "For reference: only about 20% of people on the planet have ever flown https://t.co/ccgfTvh2so\n\n#privilege",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "privilege",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ccgfTvh2so",
+					"expanded_url": "https://www.cnbc.com/2017/12/07/boeing-ceo-80-percent-of-people-never-flown-for-us-that-means-growth.html",
+					"display_url": "cnbc.com/2017/12/07/boe…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1296599072841912300,
+		"in_reply_to_status_id_str": "1296599072841912325",
+		"in_reply_to_user_id": 61016265,
+		"in_reply_to_user_id_str": "61016265",
+		"in_reply_to_screen_name": "DinaPomeranz",
+		"user": {
+			"id": 61016265,
+			"id_str": "61016265",
+			"name": "Dina D. Pomeranz",
+			"screen_name": "DinaPomeranz",
+			"location": "Zurich",
+			"description": "Economics prof @econ_uzh, formerly @HarvardHBS.\nBoard member @EvidenceAction, fellow @CGDev, faculty affiliate @JPAL @cepr_org @The_IGC, council member @EEAnews",
+			"url": "https://t.co/wMFmkt9Dwz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wMFmkt9Dwz",
+							"expanded_url": "https://www.econ.uzh.ch/en/people/faculty/pomeranz.html",
+							"display_url": "econ.uzh.ch/en/people/facu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58443,
+			"friends_count": 7812,
+			"listed_count": 1171,
+			"created_at": "Tue Jul 28 20:54:19 +0000 2009",
+			"favourites_count": 89569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230603211226177552/kaqj_FJK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230603211226177552/kaqj_FJK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61016265/1448425966",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For reference: only about 20% of people on the planet have ever flown https://t.co/ccgfTvh2so\n\n#privilege"
+	},
+	{
 		"created_at": "Sat Aug 22 09:25:17 +0000 2020",
 		"id": 1297102531693174800,
 		"id_str": "1297102531693174785",
