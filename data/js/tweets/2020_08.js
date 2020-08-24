@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 24 12:44:27 +0000 2020",
+		"id": 1297833705742971000,
+		"id_str": "1297877428598120449",
+		"full_text": "ich werde alles dafür tun um zu verhindern, dass Raumfahrt jemals günstig wird, ich möchte nicht verleben wie irgendwelche Reiseveranstalter Flüge zur ISS mit \"ALL inclusive ;)\" bewerben",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969750482,
+			"id_str": "969750482",
+			"name": "E L   H O T Z O",
+			"screen_name": "elhotzo",
+			"location": "BI",
+			"description": "Liebhaber von Hunden und dieser einen zu starken Düse im Freibad\n\nlebendiges satire meme\n\nhe/him\n\nwichtigegeschaefte.elhotzo@heavygermanshit.de",
+			"url": "https://t.co/ihhNeQmCtH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ihhNeQmCtH",
+							"expanded_url": "https://www.heavygermanshit.de/sebastianhotz",
+							"display_url": "heavygermanshit.de/sebastianhotz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56512,
+			"friends_count": 370,
+			"listed_count": 45,
+			"created_at": "Sun Nov 25 09:49:59 +0000 2012",
+			"favourites_count": 76942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954348751799373825/_rztgdVC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954348751799373825/_rztgdVC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969750482/1561321672",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de",
+		"text": "ich werde alles dafür tun um zu verhindern, dass Raumfahrt jemals günstig wird, ich möchte nicht verleben wie irgendwelche Reiseveranstalter Flüge zur ISS mit \"ALL inclusive ;)\" bewerben"
+	},
+	{
 		"created_at": "Mon Aug 24 09:30:27 +0000 2020",
 		"id": 1297828610720567300,
 		"id_str": "1297828610720567302",
