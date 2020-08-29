@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 29 15:38:37 +0000 2020",
+		"id": 1299473541532799000,
+		"id_str": "1299733199464132608",
+		"full_text": "BREAKING: Client Sticking With Story That She Chose Agency With Lowest Bid Because Of Their Strategic Vision For The Brand",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37009612,
+			"id_str": "37009612",
+			"name": "ADWEAK",
+			"screen_name": "adweak",
+			"location": "United States",
+			"description": "AdWeak the book is out. Best-of tweets plus some new stuff: https://t.co/AAV4kmLhxj",
+			"url": "https://t.co/043thsr4te",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/043thsr4te",
+							"expanded_url": "http://adweakstudio.com",
+							"display_url": "adweakstudio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AAV4kmLhxj",
+							"expanded_url": "http://bit.ly/AdweakTheBook",
+							"display_url": "bit.ly/AdweakTheBook",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 76350,
+			"friends_count": 0,
+			"listed_count": 1047,
+			"created_at": "Fri May 01 18:42:37 +0000 2009",
+			"favourites_count": 3361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030164750326411265/Zx6ar39Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030164750326411265/Zx6ar39Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37009612/1594748202",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 560,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING: Client Sticking With Story That She Chose Agency With Lowest Bid Because Of Their Strategic Vision For The Brand"
+	},
+	{
 		"created_at": "Sat Aug 29 15:10:19 +0000 2020",
 		"id": 1299441147761352700,
 		"id_str": "1299726077150015492",
