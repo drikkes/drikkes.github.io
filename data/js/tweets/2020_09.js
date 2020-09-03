@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 03 08:53:51 +0000 2020",
+		"id": 1301431997269598200,
+		"id_str": "1301443276764045313",
+		"full_text": "Pascha in Köln gibt auf: Europas größtes Bordell ist pleite https://t.co/vevutJv8fw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vevutJv8fw",
+					"expanded_url": "https://www.n-tv.de/panorama/Europas-groesstes-Bordell-ist-pleite-article22012699.html?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=ntvde",
+					"display_url": "n-tv.de/panorama/Europ…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19232587,
+			"id_str": "19232587",
+			"name": "ntv Nachrichten",
+			"screen_name": "ntvde",
+			"location": "Deutschland",
+			"description": "#WirBleibenDran • Mehr von #ntv: @ntv_EIL • @ntvde_politik •  @teleboerse • @ntvde_Sport • @ntvde_Auto • @ntvpodcast • https://t.co/inxPDStJz0",
+			"url": "https://t.co/dHVpiPYeV1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dHVpiPYeV1",
+							"expanded_url": "https://n-tv.de",
+							"display_url": "n-tv.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/inxPDStJz0",
+							"expanded_url": "http://ntv.de/impressum",
+							"display_url": "ntv.de/impressum",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 654360,
+			"friends_count": 34227,
+			"listed_count": 4693,
+			"created_at": "Tue Jan 20 11:53:45 +0000 2009",
+			"favourites_count": 11942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 271262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E5E5E5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175720547428261888/_yIXrbEp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175720547428261888/_yIXrbEp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19232587/1569148598",
+			"profile_link_color": "4682B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Pascha in Köln gibt auf: Europas größtes Bordell ist pleite https://t.co/vevutJv8fw"
+	},
+	{
 		"created_at": "Wed Sep 02 08:41:59 +0000 2020",
 		"id": 1301077901014696000,
 		"id_str": "1301077901014695938",
