@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 15:49:49 +0000 2020",
+		"id": 1304084675409969200,
+		"id_str": "1304084675409969153",
+		"full_text": "Geile Rabatt-Idee von @Lumannski: Je mehr Klimaerwärmung, desto billiger die Flugtickets. https://t.co/qad3zm3mEf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lumannski",
+					"name": "LLR",
+					"id": 19120874,
+					"id_str": "19120874",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qad3zm3mEf",
+					"expanded_url": "https://twitter.com/eurowings/status/1303633146848698371",
+					"display_url": "twitter.com/eurowings/stat…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 161,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91700408,
+				6.96594031
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96594031,
+				50.91700408
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1303633146848698400,
+		"quoted_status_id_str": "1303633146848698371",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qad3zm3mEf",
+			"expanded": "https://twitter.com/eurowings/status/1303633146848698371",
+			"display": "twitter.com/eurowings/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 09 09:55:37 +0000 2020",
+			"id": 1303633146848698400,
+			"id_str": "1303633146848698371",
+			"full_text": "Temperature up, prices down: We offer for the first time a \"temperature discount\" of 23.1% on all italian destinations - corresponding to the average temperature in Italy in September. https://t.co/GZQBry0WIo https://t.co/xW2hiUdISG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GZQBry0WIo",
+						"expanded_url": "http://eurowin.gs/3k1dAAB",
+						"display_url": "eurowin.gs/3k1dAAB",
+						"indices": [
+							185,
+							208
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1303633137344413700,
+						"id_str": "1303633137344413696",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/EhdvbnTXgAAecmC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhdvbnTXgAAecmC.jpg",
+						"url": "https://t.co/xW2hiUdISG",
+						"display_url": "pic.twitter.com/xW2hiUdISG",
+						"expanded_url": "https://twitter.com/eurowings/status/1303633146848698371/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1303633137344413700,
+						"id_str": "1303633137344413696",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/EhdvbnTXgAAecmC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhdvbnTXgAAecmC.jpg",
+						"url": "https://t.co/xW2hiUdISG",
+						"display_url": "pic.twitter.com/xW2hiUdISG",
+						"expanded_url": "https://twitter.com/eurowings/status/1303633146848698371/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26462022,
+				"id_str": "26462022",
+				"name": "Eurowings",
+				"screen_name": "eurowings",
+				"location": "Cologne (CGN), Germany",
+				"description": "Welcome to our official Eurowings Twitter! ✈️\nWe're here to help you between 6am-12am.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90865,
+				"friends_count": 123,
+				"listed_count": 1180,
+				"created_at": "Wed Mar 25 09:24:10 +0000 2009",
+				"favourites_count": 5478,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 59045,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080393674499018752/VnttA-Vf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080393674499018752/VnttA-Vf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26462022/1599142246",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Geile Rabatt-Idee von @Lumannski: Je mehr Klimaerwärmung, desto billiger die Flugtickets. https://t.co/qad3zm3mEf"
+	},
+	{
 		"created_at": "Thu Sep 10 13:00:39 +0000 2020",
 		"id": 1304042102125473800,
 		"id_str": "1304042102125473793",
