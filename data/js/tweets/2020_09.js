@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 11 14:44:39 +0000 2020",
+		"id": 1304430660946288600,
+		"id_str": "1304430660946288642",
+		"full_text": "Verstehe den strategischen Ansatz aus der SPD, @OlafScholz nicht als einziges dumm dastehen zu lassen. https://t.co/z7Zz1iG2sb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OlafScholz",
+					"name": "Olaf Scholz",
+					"id": 38150247,
+					"id_str": "38150247",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/z7Zz1iG2sb",
+					"expanded_url": "https://twitter.com/andre_meister/status/1304368161605771264",
+					"display_url": "twitter.com/andre_meister/…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 161,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.9169936,
+				6.965942
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.965942,
+				50.9169936
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1304368161605771300,
+		"quoted_status_id_str": "1304368161605771264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z7Zz1iG2sb",
+			"expanded": "https://twitter.com/andre_meister/status/1304368161605771264",
+			"display": "twitter.com/andre_meister/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 11 10:36:18 +0000 2020",
+			"id": 1304368161605771300,
+			"id_str": "1304368161605771264",
+			"full_text": "Die Landesregierung von Mecklenburg-Vorpommern fordert die Wiedereinführung der Vorratsdatenspeicherung. Unterzeichnet ist der Antrag von Ministerpräsidentin @ManuelaSchwesig, SPD. https://t.co/aZnvqv8duE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ManuelaSchwesig",
+						"name": "Manuela Schwesig",
+						"id": 1627905570,
+						"id_str": "1627905570",
+						"indices": [
+							158,
+							174
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aZnvqv8duE",
+						"expanded_url": "https://twitter.com/bundesrat/status/1304042440261799936",
+						"display_url": "twitter.com/bundesrat/stat…",
+						"indices": [
+							181,
+							204
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 251742878,
+				"id_str": "251742878",
+				"name": "Andre Meister",
+				"screen_name": "andre_meister",
+				"location": "",
+				"description": "Investigativer Journalist @netzpolitik_org.\n📧 andre@netzpolitik.org 🔑 F357F8BEDAE63B278752624B18204ADEF72538E6.\nDMs sind unverschlüsselt und nicht löschbar.",
+				"url": "https://t.co/6tx6dH10c2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6tx6dH10c2",
+								"expanded_url": "https://netzpolitik.org/author/andre/",
+								"display_url": "netzpolitik.org/author/andre/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6196,
+				"friends_count": 831,
+				"listed_count": 104,
+				"created_at": "Sun Feb 13 19:20:46 +0000 2011",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1586,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1049693946207723521/QPzvHOg-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049693946207723521/QPzvHOg-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/251742878/1487697916",
+				"profile_link_color": "3399CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1304042440261800000,
+			"quoted_status_id_str": "1304042440261799936",
+			"quoted_status_permalink": {
+				"url": "https://t.co/aZnvqv8duE",
+				"expanded": "https://twitter.com/bundesrat/status/1304042440261799936",
+				"display": "twitter.com/bundesrat/stat…"
+			},
+			"retweet_count": 75,
+			"favorite_count": 82,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Verstehe den strategischen Ansatz aus der SPD, @OlafScholz nicht als einziges dumm dastehen zu lassen. https://t.co/z7Zz1iG2sb"
+	},
+	{
 		"created_at": "Fri Sep 11 10:19:34 +0000 2020",
 		"id": 1304363951912890400,
 		"id_str": "1304363951912890369",
