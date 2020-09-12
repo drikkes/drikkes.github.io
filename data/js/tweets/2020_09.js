@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 12 10:32:31 +0000 2020",
+		"id": 1304662789420650500,
+		"id_str": "1304729598333276160",
+		"full_text": "https://t.co/cGyPOHXu43",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1304662678091239400,
+					"id_str": "1304662678091239425",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EhsXyxdWkAELmAZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhsXyxdWkAELmAZ.jpg",
+					"url": "https://t.co/cGyPOHXu43",
+					"display_url": "pic.twitter.com/cGyPOHXu43",
+					"expanded_url": "https://twitter.com/milk_elangelo/status/1304662789420650496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304662678091239400,
+					"id_str": "1304662678091239425",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EhsXyxdWkAELmAZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhsXyxdWkAELmAZ.jpg",
+					"url": "https://t.co/cGyPOHXu43",
+					"display_url": "pic.twitter.com/cGyPOHXu43",
+					"expanded_url": "https://twitter.com/milk_elangelo/status/1304662789420650496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 870001616858079200,
+			"id_str": "870001616858079233",
+			"name": "Barista, Barista! Antifascista!",
+			"screen_name": "milk_elangelo",
+			"location": "",
+			"description": "\\\\ Papa \\\\ Politik \\\\ Poesie \\\\ Pinselstriche                \n\\\\ Pointen \\\\ Punkverräter \\\\ Pour Over \\\\ Probat \\\\ Provokateur\n( #baristabaristaantifascista )",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 478,
+			"listed_count": 6,
+			"created_at": "Wed May 31 19:38:44 +0000 2017",
+			"favourites_count": 7367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286404648555941890/3pUEj9nG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286404648555941890/3pUEj9nG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870001616858079233/1591175217",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9e3fc7e881000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9e3fc7e881000.json",
+			"place_type": "poi",
+			"name": "Bahnhof Sechtem",
+			"full_name": "Bahnhof Sechtem",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.9573292622758505,
+							50.79553984002275
+						],
+						[
+							6.9573292622758505,
+							50.79553984002275
+						],
+						[
+							6.9573292622758505,
+							50.79553984002275
+						],
+						[
+							6.9573292622758505,
+							50.79553984002275
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 1093,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/cGyPOHXu43"
+	},
+	{
 		"created_at": "Sat Sep 12 01:36:28 +0000 2020",
 		"id": 1304594697499881500,
 		"id_str": "1304594697499881472",
