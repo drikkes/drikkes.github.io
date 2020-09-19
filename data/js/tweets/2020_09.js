@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 19 18:21:16 +0000 2020",
+		"id": 1307369919198232600,
+		"id_str": "1307384277190017030",
+		"full_text": "Michel Gondry 2020 https://t.co/1PF8xgE5YI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1PF8xgE5YI",
+					"expanded_url": "https://twitter.com/nwilliams030/status/1307314641211666435",
+					"display_url": "twitter.com/nwilliams030/s…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14233899,
+			"id_str": "14233899",
+			"name": "Gabriel Yoran",
+			"screen_name": "GabrielBerlin",
+			"location": "Berlin, Deutschland",
+			"description": "",
+			"url": "https://t.co/nsfTQOJ5Rj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nsfTQOJ5Rj",
+							"expanded_url": "http://yoran.com",
+							"display_url": "yoran.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5807,
+			"friends_count": 1361,
+			"listed_count": 249,
+			"created_at": "Thu Mar 27 09:18:55 +0000 2008",
+			"favourites_count": 182789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 125672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "875022",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300010090087559168/O2JeCTe7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300010090087559168/O2JeCTe7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14233899/1598781534",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EAD4CD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3078869807f9dd36",
+			"url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+			"place_type": "city",
+			"name": "Berlin",
+			"full_name": "Berlin, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							13.088304,
+							52.338079
+						],
+						[
+							13.760909,
+							52.338079
+						],
+						[
+							13.760909,
+							52.675323
+						],
+						[
+							13.088304,
+							52.675323
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1307314641211666400,
+		"quoted_status_id_str": "1307314641211666435",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1PF8xgE5YI",
+			"expanded": "https://twitter.com/nwilliams030/status/1307314641211666435",
+			"display": "twitter.com/nwilliams030/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 19 13:44:33 +0000 2020",
+			"id": 1307314641211666400,
+			"id_str": "1307314641211666435",
+			"full_text": "https://t.co/P8GXFp6oyJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1307314533485207600,
+						"id_str": "1307314533485207554",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1307314533485207554/pu/img/jIXttU7-p1Awat7E.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1307314533485207554/pu/img/jIXttU7-p1Awat7E.jpg",
+						"url": "https://t.co/P8GXFp6oyJ",
+						"display_url": "pic.twitter.com/P8GXFp6oyJ",
+						"expanded_url": "https://twitter.com/nwilliams030/status/1307314641211666435/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 576,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 576,
+								"h": 576,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1307314533485207600,
+						"id_str": "1307314533485207554",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1307314533485207554/pu/img/jIXttU7-p1Awat7E.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1307314533485207554/pu/img/jIXttU7-p1Awat7E.jpg",
+						"url": "https://t.co/P8GXFp6oyJ",
+						"display_url": "pic.twitter.com/P8GXFp6oyJ",
+						"expanded_url": "https://twitter.com/nwilliams030/status/1307314641211666435/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 576,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 576,
+								"h": 576,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 58600,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1307314533485207554/pu/pl/QM7YQ5HEr8puMWg3.m3u8?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1307314533485207554/pu/vid/320x320/8MnJSK06LVRQU0Vs.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1307314533485207554/pu/vid/480x480/aqYrYYct-aBbEKCn.mp4?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1307314533485207554/pu/vid/576x576/nGWcXZp_-jg4V2qA.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1343248315,
+				"id_str": "1343248315",
+				"name": "nicole",
+				"screen_name": "nwilliams030",
+				"location": "DC 🔜 NYC",
+				"description": "22. design + machine learning + philosophy + ☧ VC @compoundvc Best tweets: https://t.co/NHnW4DtNbx",
+				"url": "https://t.co/rwy3HUN4gG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rwy3HUN4gG",
+								"expanded_url": "https://linktr.ee/nwilliams030",
+								"display_url": "linktr.ee/nwilliams030",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NHnW4DtNbx",
+								"expanded_url": "https://twitter.com/search?q=from%3Anwilliams030%20min_faves%3A50&src",
+								"display_url": "twitter.com/search?q=from%…",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10250,
+				"friends_count": 2513,
+				"listed_count": 197,
+				"created_at": "Thu Apr 11 01:13:17 +0000 2013",
+				"favourites_count": 106785,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27716,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0EEBD1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1306249588035256322/lEP9gbOO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306249588035256322/lEP9gbOO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1343248315/1543198243",
+				"profile_link_color": "C4C4C4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 70,
+			"favorite_count": 517,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Michel Gondry 2020 https://t.co/1PF8xgE5YI"
+	},
+	{
 		"created_at": "Sat Sep 19 18:02:00 +0000 2020",
 		"id": 1307379428662685700,
 		"id_str": "1307379428662685698",
