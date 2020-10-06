@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 15:59:47 +0000 2020",
+		"id": 1313509265844457500,
+		"id_str": "1313509265844457473",
+		"full_text": "@GabrielBerlin Genuß ist ein Stockphoto? https://t.co/U901uJlyti",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GabrielBerlin",
+					"name": "Gabriel Yoran 🌈",
+					"id": 14233899,
+					"id_str": "14233899",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U901uJlyti",
+					"expanded_url": "https://www.google.com/search?tbs=sbi:AMhZZisbqrkHKho39pkGOhF9zUtoIyRJjSVoH_1rXh-M2Zx86yJUJOgG6uuZMvd9waIYBywQd6QcUiVYhah_1ut6Tyj0o0uEonB3KR9SwBwqjpzWKoPQdkLVXfl7NPZVS_1E76swEGELmhEPGt2hg2RQ1Op8_1U2Gjm9gjlggY39jQzCrVMJiGtnnmrcngPzEJrDc7im_1Bst1miBp9Il6zaEQpOyYaZykLhKN6p-Du9YQMzdLxNmXrGWIFoIcXwjN39lbrwTOtBWc_1Ec1Q50YhhgdNaVt18vU1IS1gUb6292VwjPwjEcXMgbdkiabGld81Gfmf1_1EEalJ6eCSVo1hfqHKObFVLlPKKm56A&newwindow=1&sa=X&ved=2ahUKEwiwhtKQqqDsAhVGDOwKHc9DB84Q9Q8oAHoECAEQLg",
+					"display_url": "google.com/search?tbs=sbi…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1313499397594939400,
+		"in_reply_to_status_id_str": "1313499397594939394",
+		"in_reply_to_user_id": 14233899,
+		"in_reply_to_user_id_str": "14233899",
+		"in_reply_to_screen_name": "GabrielBerlin",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 157,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "@GabrielBerlin Genuß ist ein Stockphoto? https://t.co/U901uJlyti"
+	},
+	{
 		"created_at": "Tue Oct 06 15:10:14 +0000 2020",
 		"id": 1313496795721412600,
 		"id_str": "1313496795721412610",
