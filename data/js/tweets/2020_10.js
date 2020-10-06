@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 16:46:56 +0000 2020",
+		"id": 1313521130045669400,
+		"id_str": "1313521130045669376",
+		"full_text": "@martingommel @GabrielBerlin @krautreporter @SPIEGEL_Wissen Sorry, ist ne Berufskrankheit, da zu meckern.  Graphiker suche jeden Woche Bilder zu meinen Texten raus. (Weil ich auch die Bildunterschriften und Alt-Texte liefere, habe ich als Texter bei der Bildauswahl Mitspracherecht.)",
+		"truncated": false,
+		"display_text_range": [
+			60,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martingommel",
+					"name": "Martin Gommel",
+					"id": 192822115,
+					"id_str": "192822115",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "GabrielBerlin",
+					"name": "Gabriel Yoran 🏳️‍🌈",
+					"id": 14233899,
+					"id_str": "14233899",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "krautreporter",
+					"name": "Krautreporter",
+					"id": 19488465,
+					"id_str": "19488465",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "SPIEGEL_Wissen",
+					"name": "SPIEGEL Wissen",
+					"id": 17876003,
+					"id_str": "17876003",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1313514290897453000,
+		"in_reply_to_status_id_str": "1313514290897453057",
+		"in_reply_to_user_id": 192822115,
+		"in_reply_to_user_id_str": "192822115",
+		"in_reply_to_screen_name": "martingommel",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 157,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@martingommel @GabrielBerlin @krautreporter @SPIEGEL_Wissen Sorry, ist ne Berufskrankheit, da zu meckern.  Graphiker suche jeden Woche Bilder zu meinen Texten raus. (Weil ich auch die Bildunterschriften und Alt-Texte liefere, habe ich als Texter bei der Bildauswahl Mitspracherecht.)"
+	},
+	{
 		"created_at": "Tue Oct 06 15:59:47 +0000 2020",
 		"id": 1313509265844457500,
 		"id_str": "1313509265844457473",
