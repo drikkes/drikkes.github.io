@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 15:11:27 +0000 2020",
+		"id": 1313859490916241400,
+		"id_str": "1313859490916241414",
+		"full_text": "AD Bonustrack https://t.co/p2d69raxIz https://t.co/iKn09HHDBd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p2d69raxIz",
+					"expanded_url": "https://youtu.be/eJOkrA3VB7c",
+					"display_url": "youtu.be/eJOkrA3VB7c",
+					"indices": [
+						14,
+						37
+					]
+				},
+				{
+					"url": "https://t.co/iKn09HHDBd",
+					"expanded_url": "https://twitter.com/silvestah/status/1313856231451303938",
+					"display_url": "twitter.com/silvestah/stat…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 157,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313856231451304000,
+		"quoted_status_id_str": "1313856231451303938",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iKn09HHDBd",
+			"expanded": "https://twitter.com/silvestah/status/1313856231451303938",
+			"display": "twitter.com/silvestah/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 07 14:58:30 +0000 2020",
+			"id": 1313856231451304000,
+			"id_str": "1313856231451303938",
+			"full_text": "Manchmal liefert das Internet einfach &lt;3\nhttps://t.co/16DRLXHfo8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/16DRLXHfo8",
+						"expanded_url": "https://www.youtube.com/watch?v=8oF3H5IWTtU",
+						"display_url": "youtube.com/watch?v=8oF3H5…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4868677415,
+				"id_str": "4868677415",
+				"name": "silvestah",
+				"screen_name": "silvestah",
+				"location": "Neukölln, Berlin",
+				"description": "Der gefährlichste Mensch der Welt.",
+				"url": "https://t.co/1lIYYditoU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1lIYYditoU",
+								"expanded_url": "https://derbe.de",
+								"display_url": "derbe.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 781,
+				"friends_count": 547,
+				"listed_count": 6,
+				"created_at": "Mon Feb 01 09:38:40 +0000 2016",
+				"favourites_count": 13802,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1845,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1285607769593262081/2vD6w4ah_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285607769593262081/2vD6w4ah_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4868677415/1574725263",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AD Bonustrack https://t.co/p2d69raxIz https://t.co/iKn09HHDBd"
+	},
+	{
 		"created_at": "Wed Oct 07 14:45:36 +0000 2020",
 		"id": 1313852985768804400,
 		"id_str": "1313852985768804359",
