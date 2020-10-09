@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 07:03:00 +0000 2020",
+		"id": 1314461341948825600,
+		"id_str": "1314461341948825601",
+		"full_text": "Okay, ist wohl doch kein geschmackloser PR-Gag, wie ich gestern Abend noch dachte. https://t.co/ITMD7lRaWk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ITMD7lRaWk",
+					"expanded_url": "https://twitter.com/DWDL/status/1314350974010564611",
+					"display_url": "twitter.com/DWDL/status/13…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 157,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314350974010564600,
+		"quoted_status_id_str": "1314350974010564611",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ITMD7lRaWk",
+			"expanded": "https://twitter.com/DWDL/status/1314350974010564611",
+			"display": "twitter.com/DWDL/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 08 23:44:26 +0000 2020",
+			"id": 1314350974010564600,
+			"id_str": "1314350974010564611",
+			"full_text": "#Wendler-GAU bei #Pocher: „Als wäre Merkel zurückgetreten“ - über einen denkwürdigen Abend in Privatfernsehdeutschland https://t.co/UkI64RPRwz https://t.co/jsHTQnLqey",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Wendler",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "Pocher",
+						"indices": [
+							17,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UkI64RPRwz",
+						"expanded_url": "https://www.dwdl.de/magazin/79744/wendlergau_bei_pocher_als_waere_merkel_zurueckgetreten/",
+						"display_url": "dwdl.de/magazin/79744/…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1314350920671559700,
+						"id_str": "1314350920671559681",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej2DMtjWAAEdE3j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ej2DMtjWAAEdE3j.jpg",
+						"url": "https://t.co/jsHTQnLqey",
+						"display_url": "pic.twitter.com/jsHTQnLqey",
+						"expanded_url": "https://twitter.com/DWDL/status/1314350974010564611/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1314350920671559700,
+						"id_str": "1314350920671559681",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej2DMtjWAAEdE3j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ej2DMtjWAAEdE3j.jpg",
+						"url": "https://t.co/jsHTQnLqey",
+						"display_url": "pic.twitter.com/jsHTQnLqey",
+						"expanded_url": "https://twitter.com/DWDL/status/1314350974010564611/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14332395,
+				"id_str": "14332395",
+				"name": "Medienmagazin DWDL",
+				"screen_name": "DWDL",
+				"location": "Cologne",
+				"description": "Hier twittert das Team von DWDL.de über den Redaktionsalltag, die Medien und besondere Events",
+				"url": "https://t.co/wYZ1nhAOg8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wYZ1nhAOg8",
+								"expanded_url": "http://www.dwdl.de",
+								"display_url": "dwdl.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 95427,
+				"friends_count": 131,
+				"listed_count": 1801,
+				"created_at": "Tue Apr 08 13:58:28 +0000 2008",
+				"favourites_count": 2204,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 68152,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "339933",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1293429197289988097/-sO9LPjW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293429197289988097/-sO9LPjW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14332395/1597212527",
+				"profile_link_color": "267F26",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C2D7C0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 81,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Okay, ist wohl doch kein geschmackloser PR-Gag, wie ich gestern Abend noch dachte. https://t.co/ITMD7lRaWk"
+	},
+	{
 		"created_at": "Thu Oct 08 21:42:59 +0000 2020",
 		"id": 1314320410352267300,
 		"id_str": "1314320410352267266",
