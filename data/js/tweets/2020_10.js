@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 10:52:15 +0000 2020",
+		"id": 1315606200353009700,
+		"id_str": "1315606200353009665",
+		"full_text": "So könnt gehen #diezukunftderprintmedien https://t.co/JPvOpIkZrb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "diezukunftderprintmedien",
+					"indices": [
+						15,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JPvOpIkZrb",
+					"expanded_url": "https://twitter.com/DWDL/status/1315595769517428736",
+					"display_url": "twitter.com/DWDL/status/13…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 157,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91702271,
+				6.96582173
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96582173,
+				50.91702271
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1315595769517428700,
+		"quoted_status_id_str": "1315595769517428736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JPvOpIkZrb",
+			"expanded": "https://twitter.com/DWDL/status/1315595769517428736",
+			"display": "twitter.com/DWDL/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 12 10:10:48 +0000 2020",
+			"id": 1315595769517428700,
+			"id_str": "1315595769517428736",
+			"full_text": "Funke will mit dem vierteljährlich erscheinenden Heft \"Streaming\" für mehr Übersicht im Streaming-Wust sorgen https://t.co/xdUoYRdlIZ https://t.co/075p3FaP99",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xdUoYRdlIZ",
+						"expanded_url": "https://www.dwdl.de/nachrichten/79780/funke_bringt_streamingwegweiser_an_den_kiosk/",
+						"display_url": "dwdl.de/nachrichten/79…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1315595729327583200,
+						"id_str": "1315595729327583240",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/EkHvWHKXcAgBtNu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkHvWHKXcAgBtNu.jpg",
+						"url": "https://t.co/075p3FaP99",
+						"display_url": "pic.twitter.com/075p3FaP99",
+						"expanded_url": "https://twitter.com/DWDL/status/1315595769517428736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1315595729327583200,
+						"id_str": "1315595729327583240",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/EkHvWHKXcAgBtNu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkHvWHKXcAgBtNu.jpg",
+						"url": "https://t.co/075p3FaP99",
+						"display_url": "pic.twitter.com/075p3FaP99",
+						"expanded_url": "https://twitter.com/DWDL/status/1315595769517428736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14332395,
+				"id_str": "14332395",
+				"name": "Medienmagazin DWDL",
+				"screen_name": "DWDL",
+				"location": "Cologne",
+				"description": "Hier twittert das Team von DWDL.de über den Redaktionsalltag, die Medien und besondere Events",
+				"url": "https://t.co/wYZ1nhAOg8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wYZ1nhAOg8",
+								"expanded_url": "http://www.dwdl.de",
+								"display_url": "dwdl.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 95444,
+				"friends_count": 132,
+				"listed_count": 1801,
+				"created_at": "Tue Apr 08 13:58:28 +0000 2008",
+				"favourites_count": 2206,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 68189,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "339933",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1293429197289988097/-sO9LPjW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293429197289988097/-sO9LPjW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14332395/1597212527",
+				"profile_link_color": "267F26",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C2D7C0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "So könnt gehen #diezukunftderprintmedien https://t.co/JPvOpIkZrb"
+	},
+	{
 		"created_at": "Sun Oct 11 19:09:40 +0000 2020",
 		"id": 1315368992480080000,
 		"id_str": "1315368992480079877",
