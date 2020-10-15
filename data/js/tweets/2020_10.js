@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 11:22:30 +0000 2020",
+		"id": 1316358296975048700,
+		"id_str": "1316700977261686785",
+		"full_text": "Doing some research on MSCHF for newsletter 16 https://t.co/Zb3fhPfQRM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316358266360914000,
+					"id_str": "1316358266360913920",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316358266360913920/pu/img/onrr0jxBEutAU6HV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316358266360913920/pu/img/onrr0jxBEutAU6HV.jpg",
+					"url": "https://t.co/Zb3fhPfQRM",
+					"display_url": "pic.twitter.com/Zb3fhPfQRM",
+					"expanded_url": "https://twitter.com/tiktoktiktokti7/status/1316358296975048705/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316358266360914000,
+					"id_str": "1316358266360913920",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316358266360913920/pu/img/onrr0jxBEutAU6HV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316358266360913920/pu/img/onrr0jxBEutAU6HV.jpg",
+					"url": "https://t.co/Zb3fhPfQRM",
+					"display_url": "pic.twitter.com/Zb3fhPfQRM",
+					"expanded_url": "https://twitter.com/tiktoktiktokti7/status/1316358296975048705/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 21130,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316358266360913920/pu/vid/576x1024/SKrft7oaxj6JTpzk.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316358266360913920/pu/vid/320x568/3VJlehdhZPVo0qZF.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316358266360913920/pu/vid/360x640/-8liehB1qVcyMgQq.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1316358266360913920/pu/pl/sXXqV0kLP8MPxUOM.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1296755045380358100,
+			"id_str": "1296755045380358145",
+			"name": "tiktoktiktoktiktok",
+			"screen_name": "tiktoktiktokti7",
+			"location": "",
+			"description": "TikTok stuff for a substack newsletter by @m_boesch. Basically just a collection of material. Whatever. Nice to meet you 🦑",
+			"url": "https://t.co/JcTY6wyZ6W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JcTY6wyZ6W",
+							"expanded_url": "http://tiktoktiktoktiktok.substack.com",
+							"display_url": "tiktoktiktoktiktok.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18,
+			"friends_count": 0,
+			"listed_count": 1,
+			"created_at": "Fri Aug 21 10:24:42 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296755279212707840/T-VYFeG5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296755279212707840/T-VYFeG5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1296755045380358145/1598005617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Doing some research on MSCHF for newsletter 16 https://t.co/Zb3fhPfQRM"
+	},
+	{
 		"created_at": "Wed Oct 14 20:10:22 +0000 2020",
 		"id": 1316397099177607200,
 		"id_str": "1316471429643337732",
