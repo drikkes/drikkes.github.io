@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 23 09:20:41 +0000 2020",
+		"id": 1319569421007003600,
+		"id_str": "1319569421007003648",
+		"full_text": "Genf – Verkehr ist Krieg und Soldaten sind Mörder. https://t.co/f1kCmonrHF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f1kCmonrHF",
+					"expanded_url": "https://twitter.com/otti76/status/1319178204226162688",
+					"display_url": "twitter.com/otti76/status/…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 157,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319178204226162700,
+		"quoted_status_id_str": "1319178204226162688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f1kCmonrHF",
+			"expanded": "https://twitter.com/otti76/status/1319178204226162688",
+			"display": "twitter.com/otti76/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 22 07:26:07 +0000 2020",
+			"id": 1319178204226162700,
+			"id_str": "1319178204226162688",
+			"full_text": "2 Menschen übern Haufen fahren und töten - 1500€\nHierfür Verständnis vom Richter erhalten, der ja auch schon mal \"einem unachtsamen Moment beim Öffnen der Fahrertür einen Radler aus dem Sattel geschubst zu haben.\" - unbezahlbar #autojustiz #motorisiertegewalt #kiel https://t.co/1HMatVp8k9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "autojustiz",
+						"indices": [
+							228,
+							239
+						]
+					},
+					{
+						"text": "motorisiertegewalt",
+						"indices": [
+							240,
+							259
+						]
+					},
+					{
+						"text": "kiel",
+						"indices": [
+							260,
+							265
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1319178145631772700,
+						"id_str": "1319178145631772672",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek6piL3XIAA9XgP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek6piL3XIAA9XgP.jpg",
+						"url": "https://t.co/1HMatVp8k9",
+						"display_url": "pic.twitter.com/1HMatVp8k9",
+						"expanded_url": "https://twitter.com/otti76/status/1319178204226162688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 643,
+								"h": 559,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 643,
+								"h": 559,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 643,
+								"h": 559,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1319178145631772700,
+						"id_str": "1319178145631772672",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek6piL3XIAA9XgP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek6piL3XIAA9XgP.jpg",
+						"url": "https://t.co/1HMatVp8k9",
+						"display_url": "pic.twitter.com/1HMatVp8k9",
+						"expanded_url": "https://twitter.com/otti76/status/1319178204226162688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 643,
+								"h": 559,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 643,
+								"h": 559,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 643,
+								"h": 559,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37246500,
+				"id_str": "37246500",
+				"name": "Otti",
+				"screen_name": "otti76",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55,
+				"friends_count": 388,
+				"listed_count": 0,
+				"created_at": "Sat May 02 17:58:41 +0000 2009",
+				"favourites_count": 3048,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 524,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/898616906491588608/62oSvzdj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/898616906491588608/62oSvzdj_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 266,
+			"favorite_count": 720,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Genf – Verkehr ist Krieg und Soldaten sind Mörder. https://t.co/f1kCmonrHF"
+	},
+	{
 		"created_at": "Fri Oct 23 09:07:24 +0000 2020",
 		"id": 1319526469203353600,
 		"id_str": "1319566080214532099",
