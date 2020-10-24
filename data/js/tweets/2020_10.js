@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 24 08:20:37 +0000 2020",
+		"id": 1319876660250972200,
+		"id_str": "1319916693255278592",
+		"full_text": "It made me wonder what it is about mid-century modern houses and why they are the backdrop to so many tech videos. https://t.co/e4Dg8Fl5LS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e4Dg8Fl5LS",
+					"expanded_url": "https://iknowaspot.substack.com/p/-living-in-a-material-world",
+					"display_url": "iknowaspot.substack.com/p/-living-in-a…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14287222,
+			"id_str": "14287222",
+			"name": "Marcus Bösch",
+			"screen_name": "m_boesch",
+			"location": "Berlin, Deutschland",
+			"description": "Workshops & Facilitation. Co-founder @vragments @thegoodevilcom Bred & fed @dwnews Understanding TikTok Newsletter https://t.co/JcTY6wQAvw  🦑",
+			"url": "https://t.co/1iUAbVNIM4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1iUAbVNIM4",
+							"expanded_url": "https://www.marcus-boesch.de",
+							"display_url": "marcus-boesch.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JcTY6wQAvw",
+							"expanded_url": "http://tiktoktiktoktiktok.substack.com",
+							"display_url": "tiktoktiktoktiktok.substack.com",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4335,
+			"friends_count": 1508,
+			"listed_count": 342,
+			"created_at": "Wed Apr 02 20:31:01 +0000 2008",
+			"favourites_count": 10996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021892786050744320/oZaDCcud_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021892786050744320/oZaDCcud_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14287222/1559138821",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "0E120A",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "504141",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It made me wonder what it is about mid-century modern houses and why they are the backdrop to so many tech videos. https://t.co/e4Dg8Fl5LS"
+	},
+	{
 		"created_at": "Fri Oct 23 18:56:02 +0000 2020",
 		"id": 1319714214626414600,
 		"id_str": "1319714214626414594",
