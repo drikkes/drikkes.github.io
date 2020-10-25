@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 25 10:46:29 +0000 2020",
+		"id": 1320315421300564000,
+		"id_str": "1320315789841485825",
+		"full_text": "Sport im Bild 14 1922 https://t.co/fYYhdh9JxD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320315418230345700,
+					"id_str": "1320315418230345730",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/ElKz4KcXUAIeoKF.png",
+					"media_url_https": "https://pbs.twimg.com/media/ElKz4KcXUAIeoKF.png",
+					"url": "https://t.co/fYYhdh9JxD",
+					"display_url": "pic.twitter.com/fYYhdh9JxD",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1320315421300563968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 712,
+							"h": 491,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 712,
+							"h": 491,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320315418230345700,
+					"id_str": "1320315418230345730",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/ElKz4KcXUAIeoKF.png",
+					"media_url_https": "https://pbs.twimg.com/media/ElKz4KcXUAIeoKF.png",
+					"url": "https://t.co/fYYhdh9JxD",
+					"display_url": "pic.twitter.com/fYYhdh9JxD",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1320315421300563968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 712,
+							"h": 491,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 712,
+							"h": 491,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/spinfo/autoChirp\" rel=\"nofollow\">autoChirper</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966765831140139000,
+			"id_str": "966765831140139009",
+			"name": "Die Reklame",
+			"screen_name": "Die_Reklame",
+			"location": "",
+			"description": "Historische Werbung. Von @moritz_hoffmann, @CJahnz und @mschfr, Technik von @auto_chirp. Keine Verbindung zu den Firmen, keine Nostalgie für Rassist:innen.",
+			"url": "https://t.co/3Yb5ujzitv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Yb5ujzitv",
+							"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+							"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7010,
+			"friends_count": 71,
+			"listed_count": 46,
+			"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966771425242644480/z4Nl4xWd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+			"profile_link_color": "1A1A1A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Sport im Bild 14 1922 https://t.co/fYYhdh9JxD"
+	},
+	{
 		"created_at": "Sat Oct 24 17:37:47 +0000 2020",
 		"id": 1320056909773394000,
 		"id_str": "1320056909773393920",
