@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 27 12:03:40 +0000 2020",
+		"id": 1321059989415436300,
+		"id_str": "1321059989415436288",
+		"full_text": "Stelle mir bei solchen Tweets ja immer vor, wie das Social-Media-Team dahinter diskutiert, welcher der Gesichtsausdrücke aus dem Bildervorratsordner am besten zur Message passt. https://t.co/zw3m9CqOTQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zw3m9CqOTQ",
+					"expanded_url": "https://twitter.com/OlafScholz/status/1321039268240908288",
+					"display_url": "twitter.com/OlafScholz/sta…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 846,
+			"friends_count": 157,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321039268240908300,
+		"quoted_status_id_str": "1321039268240908288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zw3m9CqOTQ",
+			"expanded": "https://twitter.com/OlafScholz/status/1321039268240908288",
+			"display": "twitter.com/OlafScholz/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 27 10:41:19 +0000 2020",
+			"id": 1321039268240908300,
+			"id_str": "1321039268240908288",
+			"full_text": "Der dramatische Anstieg der Infektionszahlen ist sehr besorgniserregend. Jetzt sind schnelle und entschlossene Schritte nötig, um diese neue Infektionswelle zu brechen. Die zusätzlichen Maßnahmen sollten zielgerichtet, zeitlich befristet und fokussiert sein. Und sie sollten... https://t.co/8Uv7pIJsWo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1321039263908188200,
+						"id_str": "1321039263908188160",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/ElVGNhuXUAAw9qm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElVGNhuXUAAw9qm.jpg",
+						"url": "https://t.co/8Uv7pIJsWo",
+						"display_url": "pic.twitter.com/8Uv7pIJsWo",
+						"expanded_url": "https://twitter.com/OlafScholz/status/1321039268240908288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 541,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 636,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 636,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1321039263908188200,
+						"id_str": "1321039263908188160",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/ElVGNhuXUAAw9qm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElVGNhuXUAAw9qm.jpg",
+						"url": "https://t.co/8Uv7pIJsWo",
+						"display_url": "pic.twitter.com/8Uv7pIJsWo",
+						"expanded_url": "https://twitter.com/OlafScholz/status/1321039268240908288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 541,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 636,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 636,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38150247,
+				"id_str": "38150247",
+				"name": "Olaf Scholz",
+				"screen_name": "OlafScholz",
+				"location": "Berlin, Deutschland",
+				"description": "Bundesminister der Finanzen @BMF_Bund, Vizekanzler, Kanzlerkandidat der SPD. Hier twittert das Team Olaf Scholz.",
+				"url": "https://t.co/j68OAv6x0e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/j68OAv6x0e",
+								"expanded_url": "http://www.olafscholz.de",
+								"display_url": "olafscholz.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 97364,
+				"friends_count": 1209,
+				"listed_count": 1067,
+				"created_at": "Wed May 06 10:08:02 +0000 2009",
+				"favourites_count": 179,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4969,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EEEEEE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1020245829750272000/_dt807gl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020245829750272000/_dt807gl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38150247/1575566990",
+				"profile_link_color": "E2001A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 174,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Stelle mir bei solchen Tweets ja immer vor, wie das Social-Media-Team dahinter diskutiert, welcher der Gesichtsausdrücke aus dem Bildervorratsordner am besten zur Message passt. https://t.co/zw3m9CqOTQ"
+	},
+	{
 		"created_at": "Mon Oct 26 02:48:36 +0000 2020",
 		"id": 1320557914386534400,
 		"id_str": "1320557914386534403",
