@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 28 12:04:21 +0000 2020",
+		"id": 1321422550900084700,
+		"id_str": "1321422550900084738",
+		"full_text": "@HektoChantal @KendallJenner @heronpreston @MoonOralCare Great xmas present?",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HektoChantal",
+					"name": "Hektor Chantal",
+					"id": 19731078,
+					"id_str": "19731078",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "KendallJenner",
+					"name": "Kendall",
+					"id": 157140968,
+					"id_str": "157140968",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "heronpreston",
+					"name": "Heron Preston",
+					"id": 6454182,
+					"id_str": "6454182",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "MoonOralCare",
+					"name": "MOON",
+					"id": 966165036950470700,
+					"id_str": "966165036950470656",
+					"indices": [
+						43,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1321421979631706000,
+		"in_reply_to_status_id_str": "1321421979631706118",
+		"in_reply_to_user_id": 19731078,
+		"in_reply_to_user_id_str": "19731078",
+		"in_reply_to_screen_name": "HektoChantal",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 846,
+			"friends_count": 157,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HektoChantal @KendallJenner @heronpreston @MoonOralCare Great xmas present?"
+	},
+	{
 		"created_at": "Wed Oct 28 07:58:07 +0000 2020",
 		"id": 1321360583883690000,
 		"id_str": "1321360583883689984",
