@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 10:27:41 +0000 2020",
+		"id": 1323934939822305300,
+		"id_str": "1323934939822305280",
+		"full_text": "Falls Ihr Euch nicht zwischen @CNN, @nytimes, @Reuters oder @washingtonpost entscheiden könnt: Die @nypost die wirklich interessanten #Election2020 news. https://t.co/dlqQqc81Xh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Election2020",
+					"indices": [
+						134,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CNN",
+					"name": "CNN",
+					"id": 759251,
+					"id_str": "759251",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"screen_name": "Reuters",
+					"name": "Reuters",
+					"id": 1652541,
+					"id_str": "1652541",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "nypost",
+					"name": "New York Post",
+					"id": 17469289,
+					"id_str": "17469289",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323934935439335400,
+					"id_str": "1323934935439335424",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/El-PzyyXYAARnwV.png",
+					"media_url_https": "https://pbs.twimg.com/media/El-PzyyXYAARnwV.png",
+					"url": "https://t.co/dlqQqc81Xh",
+					"display_url": "pic.twitter.com/dlqQqc81Xh",
+					"expanded_url": "https://twitter.com/drikkes/status/1323934939822305280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 616,
+							"h": 306,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 616,
+							"h": 306,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 616,
+							"h": 306,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323934935439335400,
+					"id_str": "1323934935439335424",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/El-PzyyXYAARnwV.png",
+					"media_url_https": "https://pbs.twimg.com/media/El-PzyyXYAARnwV.png",
+					"url": "https://t.co/dlqQqc81Xh",
+					"display_url": "pic.twitter.com/dlqQqc81Xh",
+					"expanded_url": "https://twitter.com/drikkes/status/1323934939822305280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 616,
+							"h": 306,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 616,
+							"h": 306,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 616,
+							"h": 306,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 158,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Falls Ihr Euch nicht zwischen @CNN, @nytimes, @Reuters oder @washingtonpost entscheiden könnt: Die @nypost die wirklich interessanten #Election2020 news. https://t.co/dlqQqc81Xh"
+	},
+	{
 		"created_at": "Wed Nov 04 07:36:30 +0000 2020",
 		"id": 1323891859836592000,
 		"id_str": "1323891859836592129",
