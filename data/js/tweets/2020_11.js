@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 20:55:22 +0000 2020",
+		"id": 1325539074887708700,
+		"id_str": "1325542450899922951",
+		"full_text": "The G20 leaders who haven't acknowledged a Biden/Harris victory yet. \n\nBrazil: Jair Bolsonaro\nChina: Xi Jinping\nMexico: Andrés Manuel López Obrador\nRussia: Vladimir Putin\nTurkey: Recep Tayyip Erdoğan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11744152,
+			"id_str": "11744152",
+			"name": "Yashar Ali 🐘",
+			"screen_name": "yashar",
+			"location": "🐘🐘🐘🐘",
+			"description": "New York Magazine/HuffPost Contributor Email: currentyashar@gmail.com Direct Messages Open Text/Call/Signal/Confide/WhatsApp: 310-795-2497. Agents: UTA",
+			"url": "https://t.co/jzoyollwSI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jzoyollwSI",
+							"expanded_url": "https://linktr.ee/YasharAli",
+							"display_url": "linktr.ee/YasharAli",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698093,
+			"friends_count": 26431,
+			"listed_count": 5140,
+			"created_at": "Wed Jan 02 06:55:39 +0000 2008",
+			"favourites_count": 157235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 185867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239039865607479296/vOY7IFfL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239039865607479296/vOY7IFfL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11744152/1502224549",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "080708",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 590,
+		"favorite_count": 2491,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "The G20 leaders who haven't acknowledged a Biden/Harris victory yet. \n\nBrazil: Jair Bolsonaro\nChina: Xi Jinping\nMexico: Andrés Manuel López Obrador\nRussia: Vladimir Putin\nTurkey: Recep Tayyip Erdoğan"
+	},
+	{
 		"created_at": "Sun Nov 08 13:06:18 +0000 2020",
 		"id": 1325424407611904000,
 		"id_str": "1325424407611904000",
