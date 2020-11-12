@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 10:42:07 +0000 2020",
+		"id": 1326748637603516400,
+		"id_str": "1326837674016124929",
+		"full_text": "Currently obsessed with Leta Powell Drake, the greatest interviewer of all time. https://t.co/3oCYAd9vZD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326747993278648300,
+					"id_str": "1326747993278648320",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326747993278648320/pu/img/1_AxQITNT8rzuV9Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326747993278648320/pu/img/1_AxQITNT8rzuV9Z.jpg",
+					"url": "https://t.co/3oCYAd9vZD",
+					"display_url": "pic.twitter.com/3oCYAd9vZD",
+					"expanded_url": "https://twitter.com/JFrankensteiner/status/1326748637603516417/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326747993278648300,
+					"id_str": "1326747993278648320",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326747993278648320/pu/img/1_AxQITNT8rzuV9Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326747993278648320/pu/img/1_AxQITNT8rzuV9Z.jpg",
+					"url": "https://t.co/3oCYAd9vZD",
+					"display_url": "pic.twitter.com/3oCYAd9vZD",
+					"expanded_url": "https://twitter.com/JFrankensteiner/status/1326748637603516417/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 134234,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1326747993278648320/pu/pl/AO2adm7BNhFAOYuY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326747993278648320/pu/vid/480x360/0c6b812TfZRsW8A5.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326747993278648320/pu/vid/640x480/6CqOgtKtSUG6YGZu.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326747993278648320/pu/vid/360x270/t3oIrWozu9MwID5n.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 817488540988829700,
+			"id_str": "817488540988829697",
+			"name": "John Frankensteiner",
+			"screen_name": "JFrankensteiner",
+			"location": "New York, USA",
+			"description": "That Nirvana song from The Beavis and Butthead Experience",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11563,
+			"friends_count": 321,
+			"listed_count": 117,
+			"created_at": "Fri Jan 06 21:50:31 +0000 2017",
+			"favourites_count": 42759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817489442432811008/0-ImUjd4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817489442432811008/0-ImUjd4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/817488540988829697/1572029397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4722,
+		"favorite_count": 25566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Currently obsessed with Leta Powell Drake, the greatest interviewer of all time. https://t.co/3oCYAd9vZD"
+	},
+	{
 		"created_at": "Wed Nov 11 15:42:03 +0000 2020",
 		"id": 1326550766622929000,
 		"id_str": "1326550766622928896",
