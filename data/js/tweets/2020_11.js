@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 16 00:20:55 +0000 2020",
+		"id": 1328130894826233900,
+		"id_str": "1328130894826233856",
+		"full_text": "„die weltweit größte Freihandelszone der Welt“ https://t.co/EgqrtkqJFj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EgqrtkqJFj",
+					"expanded_url": "https://twitter.com/_FriedrichMerz/status/1328091045805121538",
+					"display_url": "twitter.com/_FriedrichMerz…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 846,
+			"friends_count": 157,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1328091045805121500,
+		"quoted_status_id_str": "1328091045805121538",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EgqrtkqJFj",
+			"expanded": "https://twitter.com/_FriedrichMerz/status/1328091045805121538",
+			"display": "twitter.com/_FriedrichMerz…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 15 21:42:34 +0000 2020",
+			"id": 1328091045805121500,
+			"id_str": "1328091045805121538",
+			"full_text": "#China hat heute die weltweit größte #Freihandelszone der Welt auf die Beine gestellt und wir diskutieren hier ernsthaft über korrektes Gendern in Gesetzesentwürfen? Wir können doch die Welt um uns herum nicht völlig ausblenden! (tm) #AnneWill #Merz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "China",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "Freihandelszone",
+						"indices": [
+							37,
+							53
+						]
+					},
+					{
+						"text": "AnneWill",
+						"indices": [
+							234,
+							243
+						]
+					},
+					{
+						"text": "Merz",
+						"indices": [
+							244,
+							249
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1059395748289232900,
+				"id_str": "1059395748289232896",
+				"name": "Friedrich Merz",
+				"screen_name": "_FriedrichMerz",
+				"location": "Deutschland",
+				"description": "Kandidat für den Vorsitz der @CDU Deutschlands Vizepräsident des Wirtschaftsrates der CDU e.V. Hier twittern Friedrich Merz (FM) und sein Team (tm)",
+				"url": "https://t.co/j6wprKuWmu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/j6wprKuWmu",
+								"expanded_url": "http://www.friedrich-merz.de",
+								"display_url": "friedrich-merz.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 111234,
+				"friends_count": 444,
+				"listed_count": 406,
+				"created_at": "Mon Nov 05 10:43:23 +0000 2018",
+				"favourites_count": 359,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 726,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1310507509728399360/Au5E5gs5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310507509728399360/Au5E5gs5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1059395748289232896/1601284313",
+				"profile_link_color": "F8D200",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 318,
+			"favorite_count": 2633,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "„die weltweit größte Freihandelszone der Welt“ https://t.co/EgqrtkqJFj"
+	},
+	{
 		"created_at": "Sun Nov 15 14:35:48 +0000 2020",
 		"id": 1327983643986374700,
 		"id_str": "1327983643986374656",
