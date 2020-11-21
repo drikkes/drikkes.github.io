@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 21 01:06:15 +0000 2020",
+		"id": 1329885179842879500,
+		"id_str": "1329954241599971329",
+		"full_text": "These people are doing God's work. I've been worried about losing Flash history for a while now. \"Flash Animations Live Forever at the Internet Archive\" https://t.co/WUXrlcJheS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WUXrlcJheS",
+					"expanded_url": "http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/",
+					"display_url": "blog.archive.org/2020/11/19/fla…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 882990352248037400,
+			"id_str": "882990352248037377",
+			"name": "@artnome",
+			"screen_name": "artnome",
+			"location": "Massachusetts, USA",
+			"description": "Writing on art and tech for Art in America, Harvard Data Science Review, and others. Featured presenter at Christie's & Sotheby's. Founded https://t.co/8lByFHXxew.",
+			"url": "https://t.co/6Pt8QlASCt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Pt8QlASCt",
+							"expanded_url": "http://www.artnome.com",
+							"display_url": "artnome.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8lByFHXxew",
+							"expanded_url": "http://Artnome.com",
+							"display_url": "Artnome.com",
+							"indices": [
+								139,
+								162
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5455,
+			"friends_count": 718,
+			"listed_count": 194,
+			"created_at": "Thu Jul 06 15:51:19 +0000 2017",
+			"favourites_count": 18006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320693850223087616/Qlp5wCfl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320693850223087616/Qlp5wCfl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/882990352248037377/1605842580",
+			"profile_link_color": "9A3ED6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These people are doing God's work. I've been worried about losing Flash history for a while now. \"Flash Animations Live Forever at the Internet Archive\" https://t.co/WUXrlcJheS"
+	},
+	{
 		"created_at": "Fri Nov 20 18:15:30 +0000 2020",
 		"id": 1329850875305742300,
 		"id_str": "1329850875305742337",
