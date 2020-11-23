@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 23 13:53:00 +0000 2020",
+		"id": 1330813330097836000,
+		"id_str": "1330871975498158080",
+		"full_text": "#TheQueensGambitNetflix - Berlin film locations. Nice detective work by André Schulz from @ChessBase \n\nThe Queen’s Gambit in Berlin https://t.co/j2NFd14bVk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheQueensGambitNetflix",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChessBase",
+					"name": "ChessBase",
+					"id": 23406806,
+					"id_str": "23406806",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j2NFd14bVk",
+					"expanded_url": "https://en.chessbase.com/post/the-queen-s-gambit-in-berlin",
+					"display_url": "en.chessbase.com/post/the-queen…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 499173831,
+			"id_str": "499173831",
+			"name": "Daniel King",
+			"screen_name": "DanielKingChess",
+			"location": "London",
+			"description": "Grandmaster.\nAll chess and no play.",
+			"url": "http://t.co/oWyI4hT4kF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oWyI4hT4kF",
+							"expanded_url": "http://danielking.biz",
+							"display_url": "danielking.biz",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15125,
+			"friends_count": 250,
+			"listed_count": 378,
+			"created_at": "Tue Feb 21 21:12:01 +0000 2012",
+			"favourites_count": 1624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2340130851/ouyfxfw0lztakmmi8s50_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2340130851/ouyfxfw0lztakmmi8s50_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "#TheQueensGambitNetflix - Berlin film locations. Nice detective work by André Schulz from @ChessBase \n\nThe Queen’s Gambit in Berlin https://t.co/j2NFd14bVk"
+	},
+	{
 		"created_at": "Mon Nov 23 10:25:03 +0000 2020",
 		"id": 1330819645020975000,
 		"id_str": "1330819645020975106",
