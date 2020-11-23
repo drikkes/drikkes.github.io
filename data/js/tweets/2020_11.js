@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 23 10:25:03 +0000 2020",
+		"id": 1330819645020975000,
+		"id_str": "1330819645020975106",
+		"full_text": "\"Smartphones über Ultraschall fernsteuern – ein technisches Schlupfloch, das wohl auch legal ist.\" Aber es nicht sein sollte. Für sowas kann man sich als Werber auf die Schulter klopfen. Braucht sich dann aber nicht zu wundern, daß einen sonst niemand mag. https://t.co/aLY1Il4QQB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aLY1Il4QQB",
+					"expanded_url": "https://twitter.com/wuv/status/1330799984854364161",
+					"display_url": "twitter.com/wuv/status/133…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 157,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1330799984854364200,
+		"quoted_status_id_str": "1330799984854364161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aLY1Il4QQB",
+			"expanded": "https://twitter.com/wuv/status/1330799984854364161",
+			"display": "twitter.com/wuv/status/133…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 23 09:06:56 +0000 2020",
+			"id": 1330799984854364200,
+			"id_str": "1330799984854364161",
+			"full_text": "Joyn hat sich mit Kolle Rebbe und German Wahnsinn eine Marketing-Aktion ausgedacht, bei der sich Passanten plötzlich in der kriminellen Welt der Serie \"Mocro Maffia\" wiederfinden. @JoynDeutschland @kollerebbe #medien #marketing https://t.co/wosMnEd3yD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "medien",
+						"indices": [
+							209,
+							216
+						]
+					},
+					{
+						"text": "marketing",
+						"indices": [
+							217,
+							227
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JoynDeutschland",
+						"name": "Joyn",
+						"id": 1127998191255814100,
+						"id_str": "1127998191255814145",
+						"indices": [
+							180,
+							196
+						]
+					},
+					{
+						"screen_name": "kollerebbe",
+						"name": "Kolle Rebbe",
+						"id": 323092171,
+						"id_str": "323092171",
+						"indices": [
+							197,
+							208
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wosMnEd3yD",
+						"expanded_url": "https://www.wuv.de/medien/gefaehrliche_begegnung_mit_der_mocro_maffia",
+						"display_url": "wuv.de/medien/gefaehr…",
+						"indices": [
+							228,
+							251
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34911230,
+				"id_str": "34911230",
+				"name": "W&V",
+				"screen_name": "wuv",
+				"location": "Munich, Germany",
+				"description": "W&V ist die Informationsplattform der Kommunikationsbranche für Interessierte in Marketing, Agenturen und Medien. Impressum: https://t.co/2hMvFk3DdB",
+				"url": "https://t.co/ukQQkIqZSw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ukQQkIqZSw",
+								"expanded_url": "https://www.wuv.de/",
+								"display_url": "wuv.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2hMvFk3DdB",
+								"expanded_url": "http://wuv.de/info/impressum",
+								"display_url": "wuv.de/info/impressum",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 109689,
+				"friends_count": 15501,
+				"listed_count": 2472,
+				"created_at": "Fri Apr 24 12:24:00 +0000 2009",
+				"favourites_count": 915,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44715,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8AC203",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2609554235/scf4w1q74u1gvualpt2v_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2609554235/scf4w1q74u1gvualpt2v_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34911230/1547052411",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "D2DADA",
+				"profile_sidebar_fill_color": "E6E6E6",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "\"Smartphones über Ultraschall fernsteuern – ein technisches Schlupfloch, das wohl auch legal ist.\" Aber es nicht sein sollte. Für sowas kann man sich als Werber auf die Schulter klopfen. Braucht sich dann aber nicht zu wundern, daß einen sonst niemand mag. https://t.co/aLY1Il4QQB"
+	},
+	{
 		"created_at": "Mon Nov 23 09:21:01 +0000 2020",
 		"id": 1330803531780067300,
 		"id_str": "1330803531780067330",
