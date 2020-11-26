@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 25 23:40:46 +0000 2020",
+		"id": 1331742373479653400,
+		"id_str": "1331744670934765570",
+		"full_text": "#Maradona und Fidel Castro teilen sich jetzt den Todestag. Castro starb vor vier Jahren am 25.11. #RIPMaradona https://t.co/3wDCc4IjTV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Maradona",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "RIPMaradona",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1331742368882696200,
+					"id_str": "1331742368882696196",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EntMoO2XIAQeA6H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EntMoO2XIAQeA6H.jpg",
+					"url": "https://t.co/3wDCc4IjTV",
+					"display_url": "pic.twitter.com/3wDCc4IjTV",
+					"expanded_url": "https://twitter.com/AngelaRichter_/status/1331742373479653376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 472,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 315,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331742368882696200,
+					"id_str": "1331742368882696196",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EntMoO2XIAQeA6H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EntMoO2XIAQeA6H.jpg",
+					"url": "https://t.co/3wDCc4IjTV",
+					"display_url": "pic.twitter.com/3wDCc4IjTV",
+					"expanded_url": "https://twitter.com/AngelaRichter_/status/1331742373479653376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 472,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 315,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171851402,
+			"id_str": "171851402",
+			"name": "Angela Richter 🐘",
+			"screen_name": "AngelaRichter_",
+			"location": "Berlin Dubrovnik",
+			"description": "German-croatian theatre director & author & Freedom of Information aficionado @Supernerds_tv Member of Advisory Panel at @diem_25 https://t.co/MKGNwQHVAi",
+			"url": "https://t.co/JMa1fAJlAU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JMa1fAJlAU",
+							"expanded_url": "http://www.supernerds.tv",
+							"display_url": "supernerds.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MKGNwQHVAi",
+							"expanded_url": "https://diem25.org/ap/",
+							"display_url": "diem25.org/ap/",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5149,
+			"friends_count": 1536,
+			"listed_count": 106,
+			"created_at": "Wed Jul 28 09:35:59 +0000 2010",
+			"favourites_count": 15896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF77FF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184723215404457984/DSiHmBEH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184723215404457984/DSiHmBEH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/171851402/1568394587",
+			"profile_link_color": "663399",
+			"profile_sidebar_border_color": "005BC5",
+			"profile_sidebar_fill_color": "001449",
+			"profile_text_color": "FF3507",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "#Maradona und Fidel Castro teilen sich jetzt den Todestag. Castro starb vor vier Jahren am 25.11. #RIPMaradona https://t.co/3wDCc4IjTV"
+	},
+	{
 		"created_at": "Wed Nov 25 18:22:01 +0000 2020",
 		"id": 1331664452140363800,
 		"id_str": "1331664452140363777",
