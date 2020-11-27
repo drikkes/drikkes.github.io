@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 27 19:25:58 +0000 2020",
+		"id": 1332405320807800800,
+		"id_str": "1332405320807800834",
+		"full_text": "Auch durch die Lyricsfunktion bei Apple Music ist der Fritz voll der English-Crack. https://t.co/3v1IF4GlPo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1332405257855512600,
+					"id_str": "1332405257855512577",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1332405257855512577/pu/img/V-1wPYADjkoMoYvn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1332405257855512577/pu/img/V-1wPYADjkoMoYvn.jpg",
+					"url": "https://t.co/3v1IF4GlPo",
+					"display_url": "pic.twitter.com/3v1IF4GlPo",
+					"expanded_url": "https://twitter.com/drikkes/status/1332405320807800834/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1058,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332405257855512600,
+					"id_str": "1332405257855512577",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1332405257855512577/pu/img/V-1wPYADjkoMoYvn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1332405257855512577/pu/img/V-1wPYADjkoMoYvn.jpg",
+					"url": "https://t.co/3v1IF4GlPo",
+					"display_url": "pic.twitter.com/3v1IF4GlPo",
+					"expanded_url": "https://twitter.com/drikkes/status/1332405320807800834/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1058,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							375,
+							529
+						],
+						"duration_millis": 38047,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1332405257855512577/pu/vid/320x450/VyfsXk2kJpHGEicI.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1332405257855512577/pu/vid/360x506/54O1NvOGdm9yFPnP.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1332405257855512577/pu/vid/720x1014/0vAjp0zNZnQhUWOb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1332405257855512577/pu/pl/y6jhUvZOsjf3CSaT.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. https://t.co/pAb0SRWGFm",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pAb0SRWGFm",
+							"expanded_url": "http://drikk.es",
+							"display_url": "drikk.es",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 157,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Auch durch die Lyricsfunktion bei Apple Music ist der Fritz voll der English-Crack. https://t.co/3v1IF4GlPo"
+	},
+	{
 		"created_at": "Fri Nov 27 14:40:01 +0000 2020",
 		"id": 1332333359943610400,
 		"id_str": "1332333359943610369",
