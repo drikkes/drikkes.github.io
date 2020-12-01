@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 01 14:28:30 +0000 2020",
+		"id": 1333760063832543200,
+		"id_str": "1333780013414400002",
+		"full_text": "Bitte weitersagen: Im SFB 1472 \"Transformationen des Populären\" sind 11 Promotionsstellen, 2 PostDocs sowie 5 SHKs bzw. WHBs ausgeschrieben. Weitere Infos: https://t.co/k1SuPqVDnV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k1SuPqVDnV",
+					"expanded_url": "https://popkultur.uni-siegen.de/sfb1472/",
+					"display_url": "popkultur.uni-siegen.de/sfb1472/",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3502399401,
+			"id_str": "3502399401",
+			"name": "Populäre Kulturen",
+			"screen_name": "Pop_UniSiegen",
+			"location": "Siegen, Deutschland",
+			"description": "Forschungsstelle Populäre Kulturen an der Univ. Siegen. Ab 1.1.2021: DFG-Sonderforschungsbereich 1472 \"Transformationen des Populären\".\n\nhttps://t.co/tttsdsY1g3",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tttsdsY1g3",
+							"expanded_url": "http://popkultur.uni-siegen.de",
+							"display_url": "popkultur.uni-siegen.de",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1693,
+			"friends_count": 222,
+			"listed_count": 13,
+			"created_at": "Mon Aug 31 14:07:18 +0000 2015",
+			"favourites_count": 3415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/639462961950662656/u2YZNX9X_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/639462961950662656/u2YZNX9X_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3502399401/1441295630",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Bitte weitersagen: Im SFB 1472 \"Transformationen des Populären\" sind 11 Promotionsstellen, 2 PostDocs sowie 5 SHKs bzw. WHBs ausgeschrieben. Weitere Infos: https://t.co/k1SuPqVDnV"
+	},
+	{
 		"created_at": "Tue Dec 01 13:06:01 +0000 2020",
 		"id": 1333759256764571600,
 		"id_str": "1333759256764571651",
