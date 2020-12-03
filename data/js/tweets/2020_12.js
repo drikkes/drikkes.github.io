@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 21:31:41 +0000 2020",
+		"id": 1334611286072684500,
+		"id_str": "1334611286072684546",
+		"full_text": "@Dora_Xplorer_ Hmm … geshokkelter Brims! https://t.co/2AinYeUDET",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dora_Xplorer_",
+					"name": "🐼 Pan(da)dora 🏡 ᵗᵒˢˢ ᵃ ᶜᵒⁱⁿ ᵗᵒ ʸᵒᵘʳ ʷⁱᵗᶜʰᵉʳ 🐺",
+					"id": 60663416,
+					"id_str": "60663416",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334611257098375200,
+					"id_str": "1334611257098375169",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EoV93gSWEAEbOoZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EoV93gSWEAEbOoZ.jpg",
+					"url": "https://t.co/2AinYeUDET",
+					"display_url": "pic.twitter.com/2AinYeUDET",
+					"expanded_url": "https://twitter.com/drikkes/status/1334611286072684546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334611257098375200,
+					"id_str": "1334611257098375169",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EoV93gSWEAEbOoZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EoV93gSWEAEbOoZ.jpg",
+					"url": "https://t.co/2AinYeUDET",
+					"display_url": "pic.twitter.com/2AinYeUDET",
+					"expanded_url": "https://twitter.com/drikkes/status/1334611286072684546/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 366,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							61
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EoV93gSWEAEbOoZ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1334608875425816600,
+		"in_reply_to_status_id_str": "1334608875425816594",
+		"in_reply_to_user_id": 60663416,
+		"in_reply_to_user_id_str": "60663416",
+		"in_reply_to_screen_name": "Dora_Xplorer_",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 157,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Dora_Xplorer_ Hmm … geshokkelter Brims! https://t.co/2AinYeUDET"
+	},
+	{
 		"created_at": "Thu Dec 03 21:04:08 +0000 2020",
 		"id": 1334604355396378600,
 		"id_str": "1334604355396378624",
