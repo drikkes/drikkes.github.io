@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 20:07:35 +0000 2020",
+		"id": 1336764451236835300,
+		"id_str": "1336764451236835336",
+		"full_text": "Doberman Trash! https://t.co/yfGcQVuDZI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yfGcQVuDZI",
+					"expanded_url": "https://twitter.com/clemensetz/status/1336744397497655296",
+					"display_url": "twitter.com/clemensetz/sta…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 843,
+			"friends_count": 157,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336744397497655300,
+		"quoted_status_id_str": "1336744397497655296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yfGcQVuDZI",
+			"expanded": "https://twitter.com/clemensetz/status/1336744397497655296",
+			"display": "twitter.com/clemensetz/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 09 18:47:54 +0000 2020",
+			"id": 1336744397497655300,
+			"id_str": "1336744397497655296",
+			"full_text": "Hab Listen mit alten anagrammen entdeckt (ca2013)\n\nGuenter Grass = Sturer Gesang Kathrin Passig = A spark insight\nThomas Pynchon = Shy con-phantom\nThomas Bernhard = Doberman Thrash\nVladimir Nabokov = A labor vivid monk\nSamuel Beckett = Bemale Stuecke\nPeter Handke = Dankt per Ehe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1336743658125746200,
+			"in_reply_to_status_id_str": "1336743658125746178",
+			"in_reply_to_user_id": 167907769,
+			"in_reply_to_user_id_str": "167907769",
+			"in_reply_to_screen_name": "clemensetz",
+			"user": {
+				"id": 167907769,
+				"id_str": "167907769",
+				"name": "clemens setz",
+				"screen_name": "clemensetz",
+				"location": "",
+				"description": "Erhalte mehr Tools",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7630,
+				"friends_count": 394,
+				"listed_count": 65,
+				"created_at": "Sat Jul 17 21:16:59 +0000 2010",
+				"favourites_count": 44980,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9313,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1189241340045004800/TyVwVZCh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189241340045004800/TyVwVZCh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/167907769/1542616800",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Doberman Trash! https://t.co/yfGcQVuDZI"
+	},
+	{
 		"created_at": "Wed Dec 09 15:58:37 +0000 2020",
 		"id": 1336701795196956700,
 		"id_str": "1336701795196956674",
