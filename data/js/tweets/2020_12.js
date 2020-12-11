@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 22:16:22 +0000 2020",
+		"id": 1337374330263490600,
+		"id_str": "1337521637244235776",
+		"full_text": "Zoom! Power shoulders are back thanks to video meetings https://t.co/MbGGlzGO2S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MbGGlzGO2S",
+					"expanded_url": "https://www.theguardian.com/fashion/2020/dec/11/zoom-power-shoulders-back-thanks-video-meetings-waist-up?utm_source=dlvr.it&utm_medium=twitter",
+					"display_url": "theguardian.com/fashion/2020/d…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308442339,
+			"id_str": "308442339",
+			"name": "Guardian Fashion",
+			"screen_name": "GuardianFashion",
+			"location": "",
+			"description": "The Twitter home of the @Guardian's Fashion team. Instagram: @guardianfashion",
+			"url": "http://t.co/RnMJXd5ISR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/RnMJXd5ISR",
+							"expanded_url": "http://theguardian.com/fashion",
+							"display_url": "theguardian.com/fashion",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41392,
+			"friends_count": 880,
+			"listed_count": 543,
+			"created_at": "Tue May 31 12:29:35 +0000 2011",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061928551711195136/5OSAuMU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061928551711195136/5OSAuMU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/308442339/1542018479",
+			"profile_link_color": "005689",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Zoom! Power shoulders are back thanks to video meetings https://t.co/MbGGlzGO2S"
+	},
+	{
 		"created_at": "Fri Dec 11 15:26:46 +0000 2020",
 		"id": 1337418555424379000,
 		"id_str": "1337418555424378882",
