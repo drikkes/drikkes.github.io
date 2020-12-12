@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 12 07:06:52 +0000 2020",
+		"id": 1337282919119925200,
+		"id_str": "1337655141000998912",
+		"full_text": "Today is the 40th anniversary of the death of the Dowager Duchess of Brunswick, born Princess Viktoria Luise of Prussia, the only daughter and last surviving child of Wilhelm II, the last German Emperor.\n\nKing Felipe VI of Spain is Viktoria Luise’s great-grandson. https://t.co/7iEJPGEPNJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337282897263386600,
+					"id_str": "1337282897263386625",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo77tbeW4AEh9mr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo77tbeW4AEh9mr.jpg",
+					"url": "https://t.co/7iEJPGEPNJ",
+					"display_url": "pic.twitter.com/7iEJPGEPNJ",
+					"expanded_url": "https://twitter.com/RoyalArjan/status/1337282919119925250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 595,
+							"h": 830,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 595,
+							"h": 830,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337282897263386600,
+					"id_str": "1337282897263386625",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo77tbeW4AEh9mr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo77tbeW4AEh9mr.jpg",
+					"url": "https://t.co/7iEJPGEPNJ",
+					"display_url": "pic.twitter.com/7iEJPGEPNJ",
+					"expanded_url": "https://twitter.com/RoyalArjan/status/1337282919119925250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 595,
+							"h": 830,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 595,
+							"h": 830,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337282897292746800,
+					"id_str": "1337282897292746753",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo77tblW4AEpqYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo77tblW4AEpqYe.jpg",
+					"url": "https://t.co/7iEJPGEPNJ",
+					"display_url": "pic.twitter.com/7iEJPGEPNJ",
+					"expanded_url": "https://twitter.com/RoyalArjan/status/1337282919119925250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337282897309540400,
+					"id_str": "1337282897309540353",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo77tbpXIAEoPEV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo77tbpXIAEoPEV.jpg",
+					"url": "https://t.co/7iEJPGEPNJ",
+					"display_url": "pic.twitter.com/7iEJPGEPNJ",
+					"expanded_url": "https://twitter.com/RoyalArjan/status/1337282919119925250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121663011,
+			"id_str": "121663011",
+			"name": "RoyalArjan",
+			"screen_name": "RoyalArjan",
+			"location": "",
+			"description": "European royalty from the 19th century onwards | Queen Victoria and her descendants | King Christian IX of Denmark and his descendants",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6396,
+			"friends_count": 1954,
+			"listed_count": 61,
+			"created_at": "Wed Mar 10 05:50:17 +0000 2010",
+			"favourites_count": 20958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317018848558747649/TrawrNgZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317018848558747649/TrawrNgZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121663011/1589700104",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is the 40th anniversary of the death of the Dowager Duchess of Brunswick, born Princess Viktoria Luise of Prussia, the only daughter and last surviving child of Wilhelm II, the last German Emperor.\n\nKing Felipe VI of Spain is Viktoria Luise’s great-grandson. https://t.co/7iEJPGEPNJ"
+	},
+	{
 		"created_at": "Fri Dec 11 23:59:15 +0000 2020",
 		"id": 1337547527105650700,
 		"id_str": "1337547527105650689",
