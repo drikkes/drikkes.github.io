@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 13 13:52:20 +0000 2020",
+		"id": 1338119567726571500,
+		"id_str": "1338119567726571521",
+		"full_text": "pov: ur drik https://t.co/lFZxgtIjrq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338119556133490700,
+					"id_str": "1338119556133490688",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EpH0pYpXEAAHVE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpH0pYpXEAAHVE9.jpg",
+					"url": "https://t.co/lFZxgtIjrq",
+					"display_url": "pic.twitter.com/lFZxgtIjrq",
+					"expanded_url": "https://twitter.com/drikkes/status/1338119567726571521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 630,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338119556133490700,
+					"id_str": "1338119556133490688",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EpH0pYpXEAAHVE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpH0pYpXEAAHVE9.jpg",
+					"url": "https://t.co/lFZxgtIjrq",
+					"display_url": "pic.twitter.com/lFZxgtIjrq",
+					"expanded_url": "https://twitter.com/drikkes/status/1338119567726571521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 630,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338119554074095600,
+					"id_str": "1338119554074095616",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EpH0pQ-XMAA2tXt.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpH0pQ-XMAA2tXt.png",
+					"url": "https://t.co/lFZxgtIjrq",
+					"display_url": "pic.twitter.com/lFZxgtIjrq",
+					"expanded_url": "https://twitter.com/drikkes/status/1338119567726571521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338119555487555600,
+					"id_str": "1338119555487555587",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EpH0pWPW4AMB5aK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpH0pWPW4AMB5aK.jpg",
+					"url": "https://t.co/lFZxgtIjrq",
+					"display_url": "pic.twitter.com/lFZxgtIjrq",
+					"expanded_url": "https://twitter.com/drikkes/status/1338119567726571521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338119554736779300,
+					"id_str": "1338119554736779266",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EpH0pTcW8AIW-K-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpH0pTcW8AIW-K-.png",
+					"url": "https://t.co/lFZxgtIjrq",
+					"display_url": "pic.twitter.com/lFZxgtIjrq",
+					"expanded_url": "https://twitter.com/drikkes/status/1338119567726571521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 843,
+			"friends_count": 157,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "sl",
+		"text": "pov: ur drik https://t.co/lFZxgtIjrq"
+	},
+	{
 		"created_at": "Sun Dec 13 09:53:56 +0000 2020",
 		"id": 1338059570061734000,
 		"id_str": "1338059570061733888",
