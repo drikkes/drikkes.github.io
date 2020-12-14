@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 20:48:19 +0000 2020",
+		"id": 1338573963316891600,
+		"id_str": "1338586640261017601",
+		"full_text": "pornhub users upset by this news finally using tissues for their intended purpose\nhttps://t.co/PRlwxoNTby",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PRlwxoNTby",
+					"expanded_url": "https://www.vice.com/en/article/jgqjjy/pornhub-suspended-all-unverified-videos-content",
+					"display_url": "vice.com/en/article/jgq…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26871300,
+			"id_str": "26871300",
+			"name": "yoyoha",
+			"screen_name": "yoyoha",
+			"location": "Columbus, Ohio",
+			"description": "i'm just a boy, standing in front of the internet, asking it to love him.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76575,
+			"friends_count": 1788,
+			"listed_count": 2587,
+			"created_at": "Thu Mar 26 22:26:59 +0000 2009",
+			"favourites_count": 98748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836199926589763585/yf4wzysA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836199926589763585/yf4wzysA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26871300/1541728463",
+			"profile_link_color": "9E9E9E",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "CDD6DE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "pornhub users upset by this news finally using tissues for their intended purpose\nhttps://t.co/PRlwxoNTby"
+	},
+	{
 		"created_at": "Mon Dec 14 17:41:44 +0000 2020",
 		"id": 1338539684432146400,
 		"id_str": "1338539684432146433",
