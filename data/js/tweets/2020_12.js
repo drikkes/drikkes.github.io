@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 10:05:45 +0000 2020",
+		"id": 1339149710251188200,
+		"id_str": "1339149710251188228",
+		"full_text": "As in: Wir sind @BusinessPunkMag-Abonennten. https://t.co/0UVJCJxYcn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BusinessPunkMag",
+					"name": "Business Punk",
+					"id": 76700084,
+					"id_str": "76700084",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0UVJCJxYcn",
+					"expanded_url": "https://twitter.com/fdpxhain/status/1338763159918817283",
+					"display_url": "twitter.com/fdpxhain/statu…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 157,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91701869,
+				6.96583965
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96583965,
+				50.91701869
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338763159918817300,
+		"quoted_status_id_str": "1338763159918817283",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0UVJCJxYcn",
+			"expanded": "https://twitter.com/fdpxhain/status/1338763159918817283",
+			"display": "twitter.com/fdpxhain/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 15 08:29:44 +0000 2020",
+			"id": 1338763159918817300,
+			"id_str": "1338763159918817283",
+			"full_text": "Wir sind Punk! Trefft unsere Abgeordnete digital unter @frau_miersch, @hzl_fk (beide BVV) und @BuBernd (AGH)! https://t.co/zrG0lZptMU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frau_miersch",
+						"name": "Marlene Heihsel",
+						"id": 702585716669354000,
+						"id_str": "702585716669353984",
+						"indices": [
+							55,
+							68
+						]
+					},
+					{
+						"screen_name": "hzl_fk",
+						"name": "Michael Heihsel",
+						"id": 702563897354674200,
+						"id_str": "702563897354674176",
+						"indices": [
+							70,
+							77
+						]
+					},
+					{
+						"screen_name": "BuBernd",
+						"name": "Bernd Schlömer",
+						"id": 276438100,
+						"id_str": "276438100",
+						"indices": [
+							94,
+							102
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1338763155707744300,
+						"id_str": "1338763155707744256",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/EpQ9_z5XUAAm5NS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpQ9_z5XUAAm5NS.jpg",
+						"url": "https://t.co/zrG0lZptMU",
+						"display_url": "pic.twitter.com/zrG0lZptMU",
+						"expanded_url": "https://twitter.com/fdpxhain/status/1338763159918817283/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 227,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1338763155707744300,
+						"id_str": "1338763155707744256",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/EpQ9_z5XUAAm5NS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpQ9_z5XUAAm5NS.jpg",
+						"url": "https://t.co/zrG0lZptMU",
+						"display_url": "pic.twitter.com/zrG0lZptMU",
+						"expanded_url": "https://twitter.com/fdpxhain/status/1338763159918817283/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 227,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4876378443,
+				"id_str": "4876378443",
+				"name": "FDP Friedrichshain-Kreuzberg",
+				"screen_name": "fdpxhain",
+				"location": "Berlin, Germany",
+				"description": "Hier twittern die Freien Demokraten aus Friedrichshain-Kreuzberg. #xhain #berlin #fdp",
+				"url": "https://t.co/bZjQ1cV8PS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bZjQ1cV8PS",
+								"expanded_url": "http://www.fdp-fk.de",
+								"display_url": "fdp-fk.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 994,
+				"friends_count": 605,
+				"listed_count": 33,
+				"created_at": "Thu Feb 04 14:16:06 +0000 2016",
+				"favourites_count": 2945,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2468,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810447084230942721/_p5PceHO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810447084230942721/_p5PceHO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4876378443/1608020897",
+				"profile_link_color": "E5007D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 227,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "As in: Wir sind @BusinessPunkMag-Abonennten. https://t.co/0UVJCJxYcn"
+	},
+	{
 		"created_at": "Tue Dec 15 23:09:29 +0000 2020",
 		"id": 1338984555592691700,
 		"id_str": "1338984555592691715",
