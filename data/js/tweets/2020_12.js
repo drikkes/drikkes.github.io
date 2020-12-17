@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 23:53:42 +0000 2020",
+		"id": 1339290988552941600,
+		"id_str": "1339358070028316672",
+		"full_text": "BREAKING: Our Friend George Tannenbaum Knows All https://t.co/sQra0jTUJW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sQra0jTUJW",
+					"expanded_url": "https://adaged.blogspot.com/2020/12/215-marketing-predictions-for-2021.html",
+					"display_url": "adaged.blogspot.com/2020/12/215-ma…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37009612,
+			"id_str": "37009612",
+			"name": "ADWEAK",
+			"screen_name": "adweak",
+			"location": "United States",
+			"description": "We work with brands and agencies who want to create stuff that's interesting. adweakeditor@gmail.com",
+			"url": "https://t.co/043thsr4te",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/043thsr4te",
+							"expanded_url": "http://adweakstudio.com",
+							"display_url": "adweakstudio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78809,
+			"friends_count": 0,
+			"listed_count": 1048,
+			"created_at": "Fri May 01 18:42:37 +0000 2009",
+			"favourites_count": 3344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030164750326411265/Zx6ar39Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030164750326411265/Zx6ar39Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37009612/1604425876",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BREAKING: Our Friend George Tannenbaum Knows All https://t.co/sQra0jTUJW"
+	},
+	{
 		"created_at": "Wed Dec 16 21:53:43 +0000 2020",
 		"id": 1339327873551896600,
 		"id_str": "1339327873551896577",
