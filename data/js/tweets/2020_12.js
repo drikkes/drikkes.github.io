@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 20 11:04:34 +0000 2020",
+		"id": 1339433117879177200,
+		"id_str": "1340614061130715136",
+		"full_text": "I’m excited to announce my participation in SKY ANY COLOUR, an ACRONYM®-curated, online group exhibition. The project brings together a diverse range of global creatives, with the express purpose of exploring humanity's increasingly complex relationship with the future. https://t.co/N4MOh6CsN0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339433075780931600,
+					"id_str": "1339433075780931584",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339433075780931584/pu/img/swthXvfxB5jObaPn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339433075780931584/pu/img/swthXvfxB5jObaPn.jpg",
+					"url": "https://t.co/N4MOh6CsN0",
+					"display_url": "pic.twitter.com/N4MOh6CsN0",
+					"expanded_url": "https://twitter.com/KimJungGiUS/status/1339433117879177216/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339433075780931600,
+					"id_str": "1339433075780931584",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339433075780931584/pu/img/swthXvfxB5jObaPn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339433075780931584/pu/img/swthXvfxB5jObaPn.jpg",
+					"url": "https://t.co/N4MOh6CsN0",
+					"display_url": "pic.twitter.com/N4MOh6CsN0",
+					"expanded_url": "https://twitter.com/KimJungGiUS/status/1339433117879177216/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339433075780931584/pu/vid/478x270/Rhlhi7m0piUH9gQj.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1339433075780931584/pu/pl/q9yeQx502rCtFBEU.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339433075780931584/pu/vid/720x406/6tnn2QyMiV5rZNcI.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474587939,
+			"id_str": "2474587939",
+			"name": "Kim Jung Gi US",
+			"screen_name": "KimJungGiUS",
+			"location": "",
+			"description": "For inquiries and booking contact@kimjunggius.com",
+			"url": "https://t.co/U2DNPmungP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U2DNPmungP",
+							"expanded_url": "http://www.kimjunggius.com",
+							"display_url": "kimjunggius.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143534,
+			"friends_count": 210,
+			"listed_count": 1127,
+			"created_at": "Fri May 02 21:49:12 +0000 2014",
+			"favourites_count": 2392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149842434412597248/1EZEnMge_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149842434412597248/1EZEnMge_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474587939/1534995866",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 276,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m excited to announce my participation in SKY ANY COLOUR, an ACRONYM®-curated, online group exhibition. The project brings together a diverse range of global creatives, with the express purpose of exploring humanity's increasingly complex relationship with the future. https://t.co/N4MOh6CsN0"
+	},
+	{
 		"created_at": "Sun Dec 20 09:57:21 +0000 2020",
 		"id": 1340597147666968600,
 		"id_str": "1340597147666968583",
