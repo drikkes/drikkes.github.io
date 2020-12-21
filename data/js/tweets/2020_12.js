@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 18:21:56 +0000 2020",
+		"id": 1341014735265927200,
+		"id_str": "1341086518505578497",
+		"full_text": "\"Amsterdam is the first city in the world that wants to ban advertising from the fossil fuel industry and ads for air travel from the city.\"\nhttps://t.co/jO4VYnf5a1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jO4VYnf5a1",
+					"expanded_url": "https://verbiedfossielereclame.nl/amsterdam-wants-to-ban-fossil-fuel-ads/",
+					"display_url": "verbiedfossielereclame.nl/amsterdam-want…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1006419421244678100,
+			"id_str": "1006419421244678144",
+			"name": "Greta Thunberg",
+			"screen_name": "GretaThunberg",
+			"location": "Sverige",
+			"description": "Climate and environmental activist with Asperger’s \nBorn at 375ppm\n#ClimateStrike #FridaysForFuture #SchoolStrike4Climate #FaceTheClimateEmergency",
+			"url": "https://t.co/LA8lYvULhX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LA8lYvULhX",
+							"expanded_url": "http://ClimateEmergencyEU.org",
+							"display_url": "ClimateEmergencyEU.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4452241,
+			"friends_count": 2275,
+			"listed_count": 9473,
+			"created_at": "Tue Jun 12 06:14:23 +0000 2018",
+			"favourites_count": 17783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283714958681931782/KLhY7JDB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283714958681931782/KLhY7JDB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1006419421244678144/1559499911",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1107,
+		"favorite_count": 6747,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Amsterdam is the first city in the world that wants to ban advertising from the fossil fuel industry and ads for air travel from the city.\"\nhttps://t.co/jO4VYnf5a1"
+	},
+	{
 		"created_at": "Mon Dec 21 15:22:49 +0000 2020",
 		"id": 1341041441007693800,
 		"id_str": "1341041441007693827",
