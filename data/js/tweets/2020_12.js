@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 12:43:06 +0000 2020",
+		"id": 1341772867151773700,
+		"id_str": "1342088411633639429",
+		"full_text": "This is mind-blowing: the digital adverts by Clear Channel have been hacked for the first time ever. Instead of adverts, passers-by saw and could contribute to a collective writing pad. No idea how they've done this but big, big bravo to @liegesanspub!  https://t.co/4By4f9zWDa https://t.co/oGFAoa46R0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liegesanspub",
+					"name": "Liège sans pub",
+					"id": 780496159072714800,
+					"id_str": "780496159072714752",
+					"indices": [
+						238,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4By4f9zWDa",
+					"expanded_url": "https://bxl.indymedia.org/spip.php?article28610=&lang=fr",
+					"display_url": "bxl.indymedia.org/spip.php?artic…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341772729469558800,
+					"id_str": "1341772729469558785",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep7vMD1W4AE0_dJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep7vMD1W4AE0_dJ.jpg",
+					"url": "https://t.co/oGFAoa46R0",
+					"display_url": "pic.twitter.com/oGFAoa46R0",
+					"expanded_url": "https://twitter.com/DistortedAd/status/1341772867151773698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 405,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 405,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 405,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341772729469558800,
+					"id_str": "1341772729469558785",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep7vMD1W4AE0_dJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep7vMD1W4AE0_dJ.jpg",
+					"url": "https://t.co/oGFAoa46R0",
+					"display_url": "pic.twitter.com/oGFAoa46R0",
+					"expanded_url": "https://twitter.com/DistortedAd/status/1341772867151773698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 405,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 405,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 405,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341772795487940600,
+					"id_str": "1341772795487940609",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep7vP5xXcAEbYdn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep7vP5xXcAEbYdn.jpg",
+					"url": "https://t.co/oGFAoa46R0",
+					"display_url": "pic.twitter.com/oGFAoa46R0",
+					"expanded_url": "https://twitter.com/DistortedAd/status/1341772867151773698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 615,
+							"h": 462,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 615,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 615,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3188490303,
+			"id_str": "3188490303",
+			"name": "AdDistortion",
+			"screen_name": "DistortedAd",
+			"location": "",
+			"description": "All news related to the subverting, hijacking & hacking of advertising spaces. \n\nFor a history of #Subvertising: https://t.co/63U5phOYPO",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/63U5phOYPO",
+							"expanded_url": "http://bit.ly/2FKoPiv",
+							"display_url": "bit.ly/2FKoPiv",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1649,
+			"friends_count": 66,
+			"listed_count": 22,
+			"created_at": "Mon Apr 20 22:09:42 +0000 2015",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/590613492576739329/qPx_zez2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/590613492576739329/qPx_zez2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188490303/1595004830",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is mind-blowing: the digital adverts by Clear Channel have been hacked for the first time ever. Instead of adverts, passers-by saw and could contribute to a collective writing pad. No idea how they've done this but big, big bravo to @liegesanspub!  https://t.co/4By4f9zWDa https://t.co/oGFAoa46R0"
+	},
+	{
 		"created_at": "Thu Dec 24 09:24:21 +0000 2020",
 		"id": 1342038393727946800,
 		"id_str": "1342038393727946752",
