@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 29 09:24:11 +0000 2020",
+		"id": 1343850291016454100,
+		"id_str": "1343850291016454144",
+		"full_text": "Who put the Barsch in Nachbarschaft? https://t.co/nD8SgXx4Tv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nD8SgXx4Tv",
+					"expanded_url": "https://twitter.com/zufallsshirt/status/1343807214134448129",
+					"display_url": "twitter.com/zufallsshirt/s…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 158,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1343807214134448000,
+		"quoted_status_id_str": "1343807214134448129",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nD8SgXx4Tv",
+			"expanded": "https://twitter.com/zufallsshirt/status/1343807214134448129",
+			"display": "twitter.com/zufallsshirt/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 29 06:33:01 +0000 2020",
+			"id": 1343807214134448000,
+			"id_str": "1343807214134448129",
+			"full_text": "Wir können nicht wirklich erwarten, dass in einem Land, das keine Ahnung von Nachbarschaftlichkeit hat oder das die Originalität vernachlässigt, ein Wollstoff zur Pefektion gebracht wird.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://zufallsshirt.de\" rel=\"nofollow\">Zufallsshirt</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275471034,
+				"id_str": "275471034",
+				"name": "Zufallsshirt",
+				"screen_name": "zufallsshirt",
+				"location": "Berlin",
+				"description": "Mehr Shirts als Atome im Universum! Eine Weltverbesserungsmaßnahme von @kathrinpassig",
+				"url": "http://t.co/AllXUQ7nWq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AllXUQ7nWq",
+								"expanded_url": "http://zufallsshirt.de",
+								"display_url": "zufallsshirt.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 845,
+				"friends_count": 166,
+				"listed_count": 26,
+				"created_at": "Fri Apr 01 10:23:46 +0000 2011",
+				"favourites_count": 35,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16556,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877922940280606720/8OdlbSPa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877922940280606720/8OdlbSPa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275471034/1457899275",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Who put the Barsch in Nachbarschaft? https://t.co/nD8SgXx4Tv"
+	},
+	{
 		"created_at": "Mon Dec 28 21:20:51 +0000 2020",
 		"id": 1343668257493028900,
 		"id_str": "1343668257493028864",
