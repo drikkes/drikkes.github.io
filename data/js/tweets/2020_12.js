@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 30 20:25:49 +0000 2020",
+		"id": 1344379185075257300,
+		"id_str": "1344379185075257345",
+		"full_text": "Gei. Ler. Tüpp. https://t.co/EenRpgjxod",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EenRpgjxod",
+					"expanded_url": "https://twitter.com/historyogi/status/1344125603365015552",
+					"display_url": "twitter.com/historyogi/sta…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 158,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1344125603365015600,
+		"quoted_status_id_str": "1344125603365015552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EenRpgjxod",
+			"expanded": "https://twitter.com/historyogi/status/1344125603365015552",
+			"display": "twitter.com/historyogi/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 30 03:38:11 +0000 2020",
+			"id": 1344125603365015600,
+			"id_str": "1344125603365015552",
+			"full_text": "How it started:        How it's going: https://t.co/6lgboVAoEX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1344125597279088600,
+						"id_str": "1344125597279088640",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EqdLG_dUcAAReG_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqdLG_dUcAAReG_.jpg",
+						"url": "https://t.co/6lgboVAoEX",
+						"display_url": "pic.twitter.com/6lgboVAoEX",
+						"expanded_url": "https://twitter.com/historyogi/status/1344125603365015552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 916,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 519,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1564,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1344125597279088600,
+						"id_str": "1344125597279088640",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EqdLG_dUcAAReG_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqdLG_dUcAAReG_.jpg",
+						"url": "https://t.co/6lgboVAoEX",
+						"display_url": "pic.twitter.com/6lgboVAoEX",
+						"expanded_url": "https://twitter.com/historyogi/status/1344125603365015552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 916,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 519,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1564,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1344125600638779400,
+						"id_str": "1344125600638779392",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EqdLHL-VQAAlYoL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqdLHL-VQAAlYoL.jpg",
+						"url": "https://t.co/6lgboVAoEX",
+						"display_url": "pic.twitter.com/6lgboVAoEX",
+						"expanded_url": "https://twitter.com/historyogi/status/1344125603365015552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 585,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1012,
+								"h": 871,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1012,
+								"h": 871,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3223239390,
+				"id_str": "3223239390",
+				"name": "Dhevarajan Devadas",
+				"screen_name": "historyogi",
+				"location": "Singapore",
+				"description": "MA Student in History & Tutor @NUSingapore | @ips_sg & @unimelb alumni | History & Foreign Policy Junkie | Ultimate LEGO & Marvel fan. 🇸🇬🇦🇺 | He/Him",
+				"url": "https://t.co/kMRS2o1pHZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kMRS2o1pHZ",
+								"expanded_url": "http://historyogi.org",
+								"display_url": "historyogi.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4258,
+				"friends_count": 422,
+				"listed_count": 77,
+				"created_at": "Fri May 22 13:04:43 +0000 2015",
+				"favourites_count": 22650,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 90944,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1288310116240900096/nAI-wFUT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288310116240900096/nAI-wFUT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3223239390/1544353773",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3605,
+			"favorite_count": 16315,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tr",
+		"text": "Gei. Ler. Tüpp. https://t.co/EenRpgjxod"
+	},
+	{
 		"created_at": "Wed Dec 30 15:56:39 +0000 2020",
 		"id": 1344311445182427100,
 		"id_str": "1344311445182427138",
