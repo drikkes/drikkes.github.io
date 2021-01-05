@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 05 11:20:42 +0000 2021",
+		"id": 1346416326693298200,
+		"id_str": "1346416326693298176",
+		"full_text": "Endlich werden Frauen nicht nur mit-, sondern überwiegend gemeint. https://t.co/tfs2CgqoUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tfs2CgqoUq",
+					"expanded_url": "https://twitter.com/BettiKohlrausch/status/1346303543934939137",
+					"display_url": "twitter.com/BettiKohlrausc…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 158,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1346303543934939100,
+		"quoted_status_id_str": "1346303543934939137",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tfs2CgqoUq",
+			"expanded": "https://twitter.com/BettiKohlrausch/status/1346303543934939137",
+			"display": "twitter.com/BettiKohlrausc…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 05 03:52:32 +0000 2021",
+			"id": 1346303543934939100,
+			"id_str": "1346303543934939137",
+			"full_text": "„Das Gesundheitsministerium ist grundsätzlich der Auffassung, dass ein Arbeitnehmer zuhause arbeiten und auf seine Kinder aufpassen kann.“  Das bedeutet faktisch für die Eltern - meist Mütter - viele Stunden Mehrarbeit am Tag.  https://t.co/p68dk7r3vX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/p68dk7r3vX",
+						"expanded_url": "https://www.tagesschau.de/inland/corona-elternurlaub-hintergrund-101.html",
+						"display_url": "tagesschau.de/inland/corona-…",
+						"indices": [
+							228,
+							251
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 949004661851349000,
+				"id_str": "949004661851348993",
+				"name": "Bettina Kohlrausch",
+				"screen_name": "BettiKohlrausch",
+				"location": "Hannover, Deutschland",
+				"description": "Director at @wsiinstitut | Professor for social transformation @unipb | feminist | digital transformation of labour and qualification, right wing populism",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1643,
+				"friends_count": 508,
+				"listed_count": 28,
+				"created_at": "Thu Jan 04 19:48:37 +0000 2018",
+				"favourites_count": 3322,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1494,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1256115649841172482/2vszGvA5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256115649841172482/2vszGvA5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/949004661851348993/1585813565",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 82,
+			"favorite_count": 264,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Endlich werden Frauen nicht nur mit-, sondern überwiegend gemeint. https://t.co/tfs2CgqoUq"
+	},
+	{
 		"created_at": "Mon Jan 04 14:49:48 +0000 2021",
 		"id": 1346106560678916000,
 		"id_str": "1346106560678916097",
