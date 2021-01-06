@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 06 21:52:08 +0000 2021",
+		"id": 1346916789733781500,
+		"id_str": "1346937622392803331",
+		"full_text": "„Bild“-Chef-Clown @AlecSchoenburg gestern in @Bild. https://t.co/DDWApbNtg7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlecSchoenburg",
+					"name": "Alexander Schoenburg",
+					"id": 284765351,
+					"id_str": "284765351",
+					"indices": [
+						18,
+						33
+					]
+				},
+				{
+					"screen_name": "BILD",
+					"name": "BILD",
+					"id": 9204502,
+					"id_str": "9204502",
+					"indices": [
+						45,
+						50
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346916784285380600,
+					"id_str": "1346916784285380609",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/ErE1rdVXcAExVCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErE1rdVXcAExVCp.jpg",
+					"url": "https://t.co/DDWApbNtg7",
+					"display_url": "pic.twitter.com/DDWApbNtg7",
+					"expanded_url": "https://twitter.com/niggi/status/1346916789733781514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 888,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346916784285380600,
+					"id_str": "1346916784285380609",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/ErE1rdVXcAExVCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErE1rdVXcAExVCp.jpg",
+					"url": "https://t.co/DDWApbNtg7",
+					"display_url": "pic.twitter.com/DDWApbNtg7",
+					"expanded_url": "https://twitter.com/niggi/status/1346916789733781514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 888,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14247715,
+			"id_str": "14247715",
+			"name": "Stefan Niggemeier",
+			"screen_name": "niggi",
+			"location": "Berlin",
+			"description": "Medienjournalist, Gründer @uebermedien",
+			"url": "https://t.co/nBkTt47CiR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nBkTt47CiR",
+							"expanded_url": "http://uebermedien.de",
+							"display_url": "uebermedien.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305722,
+			"friends_count": 1120,
+			"listed_count": 1752,
+			"created_at": "Fri Mar 28 22:57:46 +0000 2008",
+			"favourites_count": 15740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "323232",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743375669028065280/-4l1JAGe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743375669028065280/-4l1JAGe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14247715/1562530924",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "323232",
+			"profile_sidebar_fill_color": "323232",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 1433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "„Bild“-Chef-Clown @AlecSchoenburg gestern in @Bild. https://t.co/DDWApbNtg7"
+	},
+	{
 		"created_at": "Wed Jan 06 06:42:49 +0000 2021",
 		"id": 1346708786225045500,
 		"id_str": "1346708786225045504",
