@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 07:19:16 +0000 2021",
+		"id": 1347080347146711000,
+		"id_str": "1347080347146711042",
+		"full_text": "@lyssaslounge @mspro https://t.co/wdZUTSq4xz",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lyssaslounge",
+					"name": "Katharina Borchert",
+					"id": 2513671,
+					"id_str": "2513671",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "mspro",
+					"name": "Michael Seemann",
+					"id": 5751892,
+					"id_str": "5751892",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wdZUTSq4xz",
+					"expanded_url": "https://twitter.com/Remy_Anne/status/1326246667083870208",
+					"display_url": "twitter.com/Remy_Anne/stat…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1347051592378241000,
+		"in_reply_to_status_id_str": "1347051592378241025",
+		"in_reply_to_user_id": 2513671,
+		"in_reply_to_user_id_str": "2513671",
+		"in_reply_to_screen_name": "lyssaslounge",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 158,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326246667083870200,
+		"quoted_status_id_str": "1326246667083870208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wdZUTSq4xz",
+			"expanded": "https://twitter.com/Remy_Anne/status/1326246667083870208",
+			"display": "twitter.com/Remy_Anne/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 10 19:33:40 +0000 2020",
+			"id": 1326246667083870200,
+			"id_str": "1326246667083870208",
+			"full_text": "it’s not actually a coup unless it comes from the coup d'état region of france, otherwise it’s just a sparkling authoritarian takeover",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 243360075,
+				"id_str": "243360075",
+				"name": "rémy anne",
+				"screen_name": "Remy_Anne",
+				"location": "Los Angeles, CA",
+				"description": "three cats in a trench coat pretending to be a writer | essays @failedarch, @womensmediacntr, @restlessnetwork, etc.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12270,
+				"friends_count": 1329,
+				"listed_count": 67,
+				"created_at": "Wed Jan 26 21:46:03 +0000 2011",
+				"favourites_count": 39469,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1274,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E8F8FB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1300875352303050752/RFyUH7DP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300875352303050752/RFyUH7DP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/243360075/1558338315",
+				"profile_link_color": "00BEA3",
+				"profile_sidebar_border_color": "FF9800",
+				"profile_sidebar_fill_color": "FFF200",
+				"profile_text_color": "FF385F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18542,
+			"favorite_count": 93619,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@lyssaslounge @mspro https://t.co/wdZUTSq4xz"
+	},
+	{
 		"created_at": "Wed Jan 06 21:52:08 +0000 2021",
 		"id": 1346916789733781500,
 		"id_str": "1346937622392803331",
