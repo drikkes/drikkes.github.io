@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 09 09:09:23 +0000 2021",
+		"id": 1347793273797144600,
+		"id_str": "1347832831435821057",
+		"full_text": "aha https://t.co/0FPDm2OK16",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0FPDm2OK16",
+					"expanded_url": "https://www.thetrumparchive.com/",
+					"display_url": "thetrumparchive.com",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1347792030831960000,
+		"in_reply_to_status_id_str": "1347792030831960064",
+		"in_reply_to_user_id": 1487011,
+		"in_reply_to_user_id_str": "1487011",
+		"in_reply_to_screen_name": "kosmar",
+		"user": {
+			"id": 1487011,
+			"id_str": "1487011",
+			"name": "θθθθθθ–θθθθθθ",
+			"screen_name": "kosmar",
+			"location": "Berlin, Germany",
+			"description": "Markus Angermeier·digital native since 1998·design·frontend·ui·ux·prototypes·logos·lettering·teaching·RT≠ack·opinions are yours·parody account·antifascist",
+			"url": "https://t.co/5rmBb936rr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5rmBb936rr",
+							"expanded_url": "https://link.to.it/kosmar",
+							"display_url": "link.to.it/kosmar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7935,
+			"friends_count": 5526,
+			"listed_count": 483,
+			"created_at": "Mon Mar 19 10:00:56 +0000 2007",
+			"favourites_count": 23805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2228570189/kosmar_150_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2228570189/kosmar_150_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1487011/1348087304",
+			"profile_link_color": "F83E00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "555555",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "aha https://t.co/0FPDm2OK16"
+	},
+	{
 		"created_at": "Fri Jan 08 14:08:50 +0000 2021",
 		"id": 1347545805289349000,
 		"id_str": "1347545805289349122",
