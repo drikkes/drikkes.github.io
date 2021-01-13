@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 13 16:22:55 +0000 2021",
+		"id": 1338632376662904800,
+		"id_str": "1349391487323287555",
+		"full_text": "Which PS/2 mouse are you today https://t.co/A0uYnjyRx1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338632372514779100,
+					"id_str": "1338632372514779137",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EpPHDOiU8AE2_a-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpPHDOiU8AE2_a-.jpg",
+					"url": "https://t.co/A0uYnjyRx1",
+					"display_url": "pic.twitter.com/A0uYnjyRx1",
+					"expanded_url": "https://twitter.com/FroyoTam/status/1338632376662904834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 533,
+							"h": 770,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 533,
+							"h": 770,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338632372514779100,
+					"id_str": "1338632372514779137",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EpPHDOiU8AE2_a-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpPHDOiU8AE2_a-.jpg",
+					"url": "https://t.co/A0uYnjyRx1",
+					"display_url": "pic.twitter.com/A0uYnjyRx1",
+					"expanded_url": "https://twitter.com/FroyoTam/status/1338632376662904834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 533,
+							"h": 770,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 533,
+							"h": 770,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338632372510576600,
+					"id_str": "1338632372510576641",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EpPHDOhU0AEc-dt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpPHDOhU0AEc-dt.jpg",
+					"url": "https://t.co/A0uYnjyRx1",
+					"display_url": "pic.twitter.com/A0uYnjyRx1",
+					"expanded_url": "https://twitter.com/FroyoTam/status/1338632376662904834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 813,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 813,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338632372510605300,
+					"id_str": "1338632372510605314",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EpPHDOhVQAIAs9X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpPHDOhVQAIAs9X.jpg",
+					"url": "https://t.co/A0uYnjyRx1",
+					"display_url": "pic.twitter.com/A0uYnjyRx1",
+					"expanded_url": "https://twitter.com/FroyoTam/status/1338632376662904834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338632372518940700,
+					"id_str": "1338632372518940675",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EpPHDOjUcAMHEJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpPHDOjUcAMHEJv.jpg",
+					"url": "https://t.co/A0uYnjyRx1",
+					"display_url": "pic.twitter.com/A0uYnjyRx1",
+					"expanded_url": "https://twitter.com/FroyoTam/status/1338632376662904834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 809,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 809,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 988005656,
+			"id_str": "988005656",
+			"name": "Froyo Tam 💽 #BlackLivesMatter",
+			"screen_name": "FroyoTam",
+			"location": "commissions closed ",
+			"description": "she/her, 24 / insta: @FroyoTam / i run CARI, @y2k_aesthetic, @genxsoftclub, https://t.co/cNelBFRMLs / part of @ArteLabore / 💗 @jel1luvs0u1 / ACAB / pfp is carbuncle 🍛",
+			"url": "https://t.co/ekc5EitNka",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ekc5EitNka",
+							"expanded_url": "http://froyotam.info",
+							"display_url": "froyotam.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cNelBFRMLs",
+							"expanded_url": "http://digicam.love",
+							"display_url": "digicam.love",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8279,
+			"friends_count": 1099,
+			"listed_count": 53,
+			"created_at": "Tue Dec 04 04:17:21 +0000 2012",
+			"favourites_count": 16171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339714161341820934/AV9056xP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339714161341820934/AV9056xP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/988005656/1599351603",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 188,
+		"favorite_count": 1134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Which PS/2 mouse are you today https://t.co/A0uYnjyRx1"
+	},
+	{
 		"created_at": "Wed Jan 13 11:28:01 +0000 2021",
 		"id": 1349317273685790700,
 		"id_str": "1349317273685790720",
