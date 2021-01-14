@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 14 21:07:48 +0000 2021",
+		"id": 1349718772098109400,
+		"id_str": "1349825567743475718",
+		"full_text": "THE BEARD IS A BROOKLYN NET.\n\nWELCOME TO BROOKLYN, JAMES HARDEN. https://t.co/kFgVEd8qtU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349718704863502300,
+					"id_str": "1349718704863502338",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/ErsqAs4W4AIqcpU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErsqAs4W4AIqcpU.jpg",
+					"url": "https://t.co/kFgVEd8qtU",
+					"display_url": "pic.twitter.com/kFgVEd8qtU",
+					"expanded_url": "https://twitter.com/BrooklynNets/status/1349718772098109442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349718704863502300,
+					"id_str": "1349718704863502338",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/ErsqAs4W4AIqcpU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErsqAs4W4AIqcpU.jpg",
+					"url": "https://t.co/kFgVEd8qtU",
+					"display_url": "pic.twitter.com/kFgVEd8qtU",
+					"expanded_url": "https://twitter.com/BrooklynNets/status/1349718772098109442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18552281,
+			"id_str": "18552281",
+			"name": "Brooklyn Nets",
+			"screen_name": "BrooklynNets",
+			"location": "Brooklyn, NY",
+			"description": "▪️▫️ #BrooklynTogether ▫️▪️",
+			"url": "https://t.co/K5zHlE8Utn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K5zHlE8Utn",
+							"expanded_url": "https://netsstore.com/collections/classic-edition",
+							"display_url": "netsstore.com/collections/cl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1238109,
+			"friends_count": 2567,
+			"listed_count": 6357,
+			"created_at": "Fri Jan 02 13:56:08 +0000 2009",
+			"favourites_count": 12026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 87071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349203254148800514/q_pQh3qR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349203254148800514/q_pQh3qR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18552281/1608578741",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C4CED4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11667,
+		"favorite_count": 62451,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THE BEARD IS A BROOKLYN NET.\n\nWELCOME TO BROOKLYN, JAMES HARDEN. https://t.co/kFgVEd8qtU"
+	},
+	{
 		"created_at": "Thu Jan 14 17:14:56 +0000 2021",
 		"id": 1349766965607477200,
 		"id_str": "1349766965607477252",
