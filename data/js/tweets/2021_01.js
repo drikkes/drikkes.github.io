@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 16 10:27:31 +0000 2021",
+		"id": 1350109088320020500,
+		"id_str": "1350389211480936448",
+		"full_text": "CDU: \"Hey FridaysForFuture, can I copy your Homework?\" \n#wegenmorgen https://t.co/1UUHfpjixw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wegenmorgen",
+					"indices": [
+						56,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350109071731527700,
+					"id_str": "1350109071731527683",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EryNDCyXEAMEUGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EryNDCyXEAMEUGU.jpg",
+					"url": "https://t.co/1UUHfpjixw",
+					"display_url": "pic.twitter.com/1UUHfpjixw",
+					"expanded_url": "https://twitter.com/jonas_dau/status/1350109088320020480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 327,
+							"h": 459,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 327,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 327,
+							"h": 459,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350109071731527700,
+					"id_str": "1350109071731527683",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EryNDCyXEAMEUGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EryNDCyXEAMEUGU.jpg",
+					"url": "https://t.co/1UUHfpjixw",
+					"display_url": "pic.twitter.com/1UUHfpjixw",
+					"expanded_url": "https://twitter.com/jonas_dau/status/1350109088320020480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 327,
+							"h": 459,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 327,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 327,
+							"h": 459,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1350109085081989000,
+					"id_str": "1350109085081989120",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EryND0hW8AAd9uc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EryND0hW8AAd9uc.jpg",
+					"url": "https://t.co/1UUHfpjixw",
+					"display_url": "pic.twitter.com/1UUHfpjixw",
+					"expanded_url": "https://twitter.com/jonas_dau/status/1350109088320020480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1224799476298190800,
+			"id_str": "1224799476298190850",
+			"name": "Jonas Dau",
+			"screen_name": "jonas_dau",
+			"location": "",
+			"description": "Antifaschist und Klima-Aktivist.\n\nAktiv fürs Bündnis Winsen bleibt bunt.\n\nMacht manchmal Dinge für @fridayforfuture\n\nThreema-ID:DH9URXCM\n\n(he/him)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109,
+			"friends_count": 472,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 20:58:53 +0000 2020",
+			"favourites_count": 421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283148251508682762/H7UNkH9V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283148251508682762/H7UNkH9V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1224799476298190850/1584569718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 290,
+		"favorite_count": 1959,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CDU: \"Hey FridaysForFuture, can I copy your Homework?\" \n#wegenmorgen https://t.co/1UUHfpjixw"
+	},
+	{
 		"created_at": "Sat Jan 16 09:27:32 +0000 2021",
 		"id": 1350374113714593800,
 		"id_str": "1350374113714593792",
