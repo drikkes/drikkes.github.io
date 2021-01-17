@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 17 15:51:07 +0000 2021",
+		"id": 1350833037110628400,
+		"id_str": "1350833037110628357",
+		"full_text": "@m_boesch @spreeblick @kosmar @TwitterSpaces @joinClubhouse OK. Aber was von beiden sich durchsetzt oder ob beide in ein paar Monaten nicht mehr interessieren, da würde ich keine Vorhersage machen.",
+		"truncated": false,
+		"display_text_range": [
+			60,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "m_boesch",
+					"name": "Marcus Bösch",
+					"id": 14287222,
+					"id_str": "14287222",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "spreeblick",
+					"name": "Johnny Haeusler",
+					"id": 3782931,
+					"id_str": "3782931",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "kosmar",
+					"name": "Ach, wissen Sie, ich weiß ja nicht.",
+					"id": 1487011,
+					"id_str": "1487011",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"screen_name": "TwitterSpaces",
+					"name": "Spaces",
+					"id": 1065249714214457300,
+					"id_str": "1065249714214457345",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "joinClubhouse",
+					"name": "Clubhouse",
+					"id": 1242240513811480600,
+					"id_str": "1242240513811480576",
+					"indices": [
+						45,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1350828193620615200,
+		"in_reply_to_status_id_str": "1350828193620615168",
+		"in_reply_to_user_id": 14287222,
+		"in_reply_to_user_id_str": "14287222",
+		"in_reply_to_screen_name": "m_boesch",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 158,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@m_boesch @spreeblick @kosmar @TwitterSpaces @joinClubhouse OK. Aber was von beiden sich durchsetzt oder ob beide in ein paar Monaten nicht mehr interessieren, da würde ich keine Vorhersage machen."
+	},
+	{
+		"created_at": "Sun Jan 17 15:24:11 +0000 2021",
+		"id": 1350826255491457000,
+		"id_str": "1350826255491457027",
+		"full_text": "Ob die Heilige Katholische Kirche Beichtrooms aufmacht? https://t.co/VIZdCGAuaE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350826251091652600,
+					"id_str": "1350826251091652608",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Er8ZUYGXMAAu7eF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er8ZUYGXMAAu7eF.jpg",
+					"url": "https://t.co/VIZdCGAuaE",
+					"display_url": "pic.twitter.com/VIZdCGAuaE",
+					"expanded_url": "https://twitter.com/drikkes/status/1350826255491457027/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350826251091652600,
+					"id_str": "1350826251091652608",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Er8ZUYGXMAAu7eF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er8ZUYGXMAAu7eF.jpg",
+					"url": "https://t.co/VIZdCGAuaE",
+					"display_url": "pic.twitter.com/VIZdCGAuaE",
+					"expanded_url": "https://twitter.com/drikkes/status/1350826255491457027/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 158,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "255115bcb65f5da6",
+			"url": "https://api.twitter.com/1.1/geo/id/255115bcb65f5da6.json",
+			"place_type": "neighborhood",
+			"name": "Bayenthal",
+			"full_name": "Bayenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.960374,
+							50.903919
+						],
+						[
+							6.979611,
+							50.903919
+						],
+						[
+							6.979611,
+							50.917496
+						],
+						[
+							6.960374,
+							50.917496
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Ob die Heilige Katholische Kirche Beichtrooms aufmacht? https://t.co/VIZdCGAuaE"
+	},
+	{
 		"created_at": "Sun Jan 17 11:34:14 +0000 2021",
 		"id": 1350768389086699500,
 		"id_str": "1350768389086699521",
