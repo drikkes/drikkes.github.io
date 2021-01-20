@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 06:43:19 +0000 2021",
+		"id": 1325275427355553800,
+		"id_str": "1351782339131682829",
+		"full_text": "https://t.co/J22pgQ09dA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325275424549605400,
+					"id_str": "1325275424549605376",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmRS-h3VkAADLl6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmRS-h3VkAADLl6.jpg",
+					"url": "https://t.co/J22pgQ09dA",
+					"display_url": "pic.twitter.com/J22pgQ09dA",
+					"expanded_url": "https://twitter.com/scienceshitpost/status/1325275427355553794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325275424549605400,
+					"id_str": "1325275424549605376",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmRS-h3VkAADLl6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmRS-h3VkAADLl6.jpg",
+					"url": "https://t.co/J22pgQ09dA",
+					"display_url": "pic.twitter.com/J22pgQ09dA",
+					"expanded_url": "https://twitter.com/scienceshitpost/status/1325275427355553794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1217558172929380400,
+			"id_str": "1217558172929380352",
+			"name": "Science Diagrams that Look Like Shitposts",
+			"screen_name": "scienceshitpost",
+			"location": "",
+			"description": "Please check out the Facebook group of the same name! \nSupport me on Ko-Fi! - https://t.co/ahLS7oZECs\nBusiness Contact: luker31415@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ahLS7oZECs",
+							"expanded_url": "http://Ko-fi.com/scienceshitposts",
+							"display_url": "Ko-fi.com/scienceshitpos…",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 755157,
+			"friends_count": 1,
+			"listed_count": 941,
+			"created_at": "Wed Jan 15 21:25:05 +0000 2020",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217559274903093248/CAC6lRPN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217559274903093248/CAC6lRPN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1217558172929380352/1579123764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5640,
+		"favorite_count": 45093,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/J22pgQ09dA"
+	},
+	{
 		"created_at": "Tue Jan 19 19:06:39 +0000 2021",
 		"id": 1351607019573305300,
 		"id_str": "1351607019573305344",
