@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 23 10:53:44 +0000 2021",
+		"id": 1352827764076851200,
+		"id_str": "1352932523161120769",
+		"full_text": "https://t.co/SgxsKgMbeU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352827761522565000,
+					"id_str": "1352827761522565121",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EsY1rnfW4AEOl4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsY1rnfW4AEOl4D.jpg",
+					"url": "https://t.co/SgxsKgMbeU",
+					"display_url": "pic.twitter.com/SgxsKgMbeU",
+					"expanded_url": "https://twitter.com/MarkBrooksArt/status/1352827764076851201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 427,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 1406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352827761522565000,
+					"id_str": "1352827761522565121",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EsY1rnfW4AEOl4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsY1rnfW4AEOl4D.jpg",
+					"url": "https://t.co/SgxsKgMbeU",
+					"display_url": "pic.twitter.com/SgxsKgMbeU",
+					"expanded_url": "https://twitter.com/MarkBrooksArt/status/1352827764076851201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 427,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 1406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18072740,
+			"id_str": "18072740",
+			"name": "⛄️❄️Mark ’baby it’s cold outside’ Brooks❄️⛄️",
+			"screen_name": "MarkBrooksArt",
+			"location": "Atlanta, GA",
+			"description": "Artist for Marvel and DC,and constant annoyance for @brideofdiablo. Eisner and Ringo nominee, SDCC Inkpot winner and NYT best selling artist. Also adorable!",
+			"url": "https://t.co/P2JNGUF2km",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P2JNGUF2km",
+							"expanded_url": "http://instagram.com/markbrooksart",
+							"display_url": "instagram.com/markbrooksart",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28616,
+			"friends_count": 1038,
+			"listed_count": 706,
+			"created_at": "Fri Dec 12 08:09:52 +0000 2008",
+			"favourites_count": 7740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314713856388861952/RkwH39eb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314713856388861952/RkwH39eb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18072740/1575432131",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "2B7191",
+			"profile_text_color": "081238",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1396,
+		"favorite_count": 9885,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/SgxsKgMbeU"
+	},
+	{
 		"created_at": "Fri Jan 22 19:06:30 +0000 2021",
 		"id": 1352694143299051500,
 		"id_str": "1352694143299051520",
