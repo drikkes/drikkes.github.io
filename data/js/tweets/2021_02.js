@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 03 15:53:51 +0000 2021",
+		"id": 1356994317303316500,
+		"id_str": "1356994317303316481",
+		"full_text": "Richtig so. https://t.co/Oy2D7wbWNK https://t.co/qT99YgZWzM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Oy2D7wbWNK",
+					"expanded_url": "https://www.ksta.de/sport/1-fc-koeln/1--fc-koeln-nach-kritik--fc-verzichtet-auf-kommunikationschef-esser-38011908",
+					"display_url": "ksta.de/sport/1-fc-koe…",
+					"indices": [
+						12,
+						35
+					]
+				},
+				{
+					"url": "https://t.co/qT99YgZWzM",
+					"expanded_url": "https://twitter.com/pauneu/status/1356966208369745920",
+					"display_url": "twitter.com/pauneu/status/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 843,
+			"friends_count": 159,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.9170093,
+				6.96586882
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96586882,
+				50.9170093
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1356966208369746000,
+		"quoted_status_id_str": "1356966208369745920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qT99YgZWzM",
+			"expanded": "https://twitter.com/pauneu/status/1356966208369745920",
+			"display": "twitter.com/pauneu/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 03 14:02:09 +0000 2021",
+			"id": 1356966208369746000,
+			"id_str": "1356966208369745920",
+			"full_text": "Halt die Fresse du Bild-Jockel https://t.co/Vd9EJBUCbX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1356966204582289400,
+						"id_str": "1356966204582289409",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/EtTpktRWYAEAXcl.png",
+						"media_url_https": "https://pbs.twimg.com/media/EtTpktRWYAEAXcl.png",
+						"url": "https://t.co/Vd9EJBUCbX",
+						"display_url": "pic.twitter.com/Vd9EJBUCbX",
+						"expanded_url": "https://twitter.com/pauneu/status/1356966208369745920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 521,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 521,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1356966204582289400,
+						"id_str": "1356966204582289409",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/EtTpktRWYAEAXcl.png",
+						"media_url_https": "https://pbs.twimg.com/media/EtTpktRWYAEAXcl.png",
+						"url": "https://t.co/Vd9EJBUCbX",
+						"display_url": "pic.twitter.com/Vd9EJBUCbX",
+						"expanded_url": "https://twitter.com/pauneu/status/1356966208369745920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 521,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 521,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14164472,
+				"id_str": "14164472",
+				"name": "Paule",
+				"screen_name": "pauneu",
+				"location": "Colonia",
+				"description": "professioneller Kölner // Information Artist by Design / Halbjurist by Accident / Skeptiker by Birth #beteiligung #verkehrswende #humanscale",
+				"url": "https://t.co/TEeuyY1Fcn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TEeuyY1Fcn",
+								"expanded_url": "http://pauneu.de",
+								"display_url": "pauneu.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1346,
+				"friends_count": 254,
+				"listed_count": 135,
+				"created_at": "Mon Mar 17 17:27:54 +0000 2008",
+				"favourites_count": 3730,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15559,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000148730214/5c79718061ea26739bebd266844ce9de_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000148730214/5c79718061ea26739bebd266844ce9de_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14164472/1431519920",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Richtig so. https://t.co/Oy2D7wbWNK https://t.co/qT99YgZWzM"
+	},
+	{
 		"created_at": "Tue Feb 02 23:24:57 +0000 2021",
 		"id": 1356745453409304600,
 		"id_str": "1356745453409304581",
