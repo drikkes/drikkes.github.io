@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 17 07:00:07 +0000 2021",
+		"id": 1361933428858499000,
+		"id_str": "1361933428858499077",
+		"full_text": "Logo Leak https://t.co/kUCgmQ8cCC https://t.co/tRh5mZDmkd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kUCgmQ8cCC",
+					"expanded_url": "https://twitter.com/DWDL/status/1361781121135050752",
+					"display_url": "twitter.com/DWDL/status/13…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1361933421950472200,
+					"id_str": "1361933421950472194",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EuaPOz8XEAIuI0a.png",
+					"media_url_https": "https://pbs.twimg.com/media/EuaPOz8XEAIuI0a.png",
+					"url": "https://t.co/tRh5mZDmkd",
+					"display_url": "pic.twitter.com/tRh5mZDmkd",
+					"expanded_url": "https://twitter.com/drikkes/status/1361933428858499077/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1158,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361933421950472200,
+					"id_str": "1361933421950472194",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EuaPOz8XEAIuI0a.png",
+					"media_url_https": "https://pbs.twimg.com/media/EuaPOz8XEAIuI0a.png",
+					"url": "https://t.co/tRh5mZDmkd",
+					"display_url": "pic.twitter.com/tRh5mZDmkd",
+					"expanded_url": "https://twitter.com/drikkes/status/1361933428858499077/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1158,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 159,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91699219,
+				6.96570583
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96570583,
+				50.91699219
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361781121135050800,
+		"quoted_status_id_str": "1361781121135050752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kUCgmQ8cCC",
+			"expanded": "https://twitter.com/DWDL/status/1361781121135050752",
+			"display": "twitter.com/DWDL/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 16 20:54:54 +0000 2021",
+			"id": 1361781121135050800,
+			"id_str": "1361781121135050752",
+			"full_text": "Goodbye TVNow: Streamingdienst der Mediengruppe RTL Deutschland wird als RTL+ neu positioniert; Teil eines umfassenden Umbaus der Markenarchitektur. DWDL exklusiv https://t.co/ouGIfDhrg0 https://t.co/MRryHJxxRQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ouGIfDhrg0",
+						"expanded_url": "https://www.dwdl.de/nachrichten/81569/fokussierung_auf_die_kernmarke_aus_tvnow_wird_rtl/",
+						"display_url": "dwdl.de/nachrichten/81…",
+						"indices": [
+							163,
+							186
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1361781002423705600,
+						"id_str": "1361781002423705605",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/EuYEm09XIAUJEJj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuYEm09XIAUJEJj.jpg",
+						"url": "https://t.co/MRryHJxxRQ",
+						"display_url": "pic.twitter.com/MRryHJxxRQ",
+						"expanded_url": "https://twitter.com/DWDL/status/1361781121135050752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1361781002423705600,
+						"id_str": "1361781002423705605",
+						"indices": [
+							187,
+							210
+						],
+						"media_url": "http://pbs.twimg.com/media/EuYEm09XIAUJEJj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuYEm09XIAUJEJj.jpg",
+						"url": "https://t.co/MRryHJxxRQ",
+						"display_url": "pic.twitter.com/MRryHJxxRQ",
+						"expanded_url": "https://twitter.com/DWDL/status/1361781121135050752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14332395,
+				"id_str": "14332395",
+				"name": "Medienmagazin DWDL",
+				"screen_name": "DWDL",
+				"location": "Cologne",
+				"description": "Hier twittert das Team von DWDL.de über den Redaktionsalltag, die Medien und besondere Events",
+				"url": "https://t.co/wYZ1nhAOg8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wYZ1nhAOg8",
+								"expanded_url": "http://www.dwdl.de",
+								"display_url": "dwdl.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 96620,
+				"friends_count": 134,
+				"listed_count": 1799,
+				"created_at": "Tue Apr 08 13:58:28 +0000 2008",
+				"favourites_count": 2321,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 70043,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "339933",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1293429197289988097/-sO9LPjW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293429197289988097/-sO9LPjW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14332395/1597212527",
+				"profile_link_color": "267F26",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C2D7C0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "eu",
+		"text": "Logo Leak https://t.co/kUCgmQ8cCC https://t.co/tRh5mZDmkd"
+	},
+	{
 		"created_at": "Tue Feb 16 23:29:37 +0000 2021",
 		"id": 1361820056708128800,
 		"id_str": "1361820056708128770",
