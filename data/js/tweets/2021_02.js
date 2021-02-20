@@ -1,6 +1,161 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 20 20:01:58 +0000 2021",
+		"id": 1363186606090281000,
+		"id_str": "1363217353052454912",
+		"full_text": "@drikkes @threadreaderapp https://t.co/RMBDJIjnHX",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drikkes",
+					"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+					"id": 15378060,
+					"id_str": "15378060",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "threadreaderapp",
+					"name": "Thread Reader App",
+					"id": 895814938995957800,
+					"id_str": "895814938995957760",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RMBDJIjnHX",
+					"expanded_url": "https://pluralistic.net/2021/02/20/escape-velocity/#trustbusting-time",
+					"display_url": "pluralistic.net/2021/02/20/esc…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1363186109199614000,
+		"in_reply_to_status_id_str": "1363186109199613953",
+		"in_reply_to_user_id": 15378060,
+		"in_reply_to_user_id_str": "15378060",
+		"in_reply_to_screen_name": "drikkes",
+		"user": {
+			"id": 2729061,
+			"id_str": "2729061",
+			"name": "Cory Doctorow #BLM",
+			"screen_name": "doctorow",
+			"location": "Beautiful Downtown Burbank",
+			"description": "Author, journalist, activist. My latest is ATTACK SURFACE https://t.co/dUvTAmF4hQ Books: https://t.co/x4ih0Xrx8f Blog: https://t.co/ECPLW3AJGU",
+			"url": "https://t.co/x4ih0Xrx8f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4ih0Xrx8f",
+							"expanded_url": "http://craphound.com",
+							"display_url": "craphound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dUvTAmF4hQ",
+							"expanded_url": "https://us.macmillan.com/books/9781250757531",
+							"display_url": "us.macmillan.com/books/97812507…",
+							"indices": [
+								58,
+								81
+							]
+						},
+						{
+							"url": "https://t.co/x4ih0Xrx8f",
+							"expanded_url": "http://craphound.com",
+							"display_url": "craphound.com",
+							"indices": [
+								89,
+								112
+							]
+						},
+						{
+							"url": "https://t.co/ECPLW3AJGU",
+							"expanded_url": "http://pluralistic.net",
+							"display_url": "pluralistic.net",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 454672,
+			"friends_count": 2067,
+			"listed_count": 12620,
+			"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+			"favourites_count": 159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 320362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212281151676731392/waDhlI-A_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212281151676731392/waDhlI-A_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1603464886",
+			"profile_link_color": "3F3FC4",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@drikkes @threadreaderapp https://t.co/RMBDJIjnHX"
+	},
+	{
 		"created_at": "Sat Feb 20 17:57:49 +0000 2021",
 		"id": 1363186109199614000,
 		"id_str": "1363186109199613953",
