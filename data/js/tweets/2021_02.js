@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 20 16:52:15 +0000 2021",
+		"id": 1362869305310802000,
+		"id_str": "1363169607700406273",
+		"full_text": "Couldn't help myself. Draw an iceberg and see how it would actually float in water: https://t.co/HSqRwjVVk7 https://t.co/ziobrmDknV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HSqRwjVVk7",
+					"expanded_url": "https://joshdata.me/iceberger.html",
+					"display_url": "joshdata.me/iceberger.html",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/ziobrmDknV",
+					"expanded_url": "https://twitter.com/GlacialMeg/status/1362557149147058178",
+					"display_url": "twitter.com/GlacialMeg/sta…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 352686442,
+			"id_str": "352686442",
+			"name": "Joshua Tauberer",
+			"screen_name": "JoshData",
+			"location": "Washington, DC",
+			"description": "Founded @GovTrack. Head of product development at a software company. Also @Mailinabox, @JoshDataTurtle. I aspire to be you at least once.",
+			"url": "https://t.co/gTvYayvqUv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gTvYayvqUv",
+							"expanded_url": "https://joshdata.me",
+							"display_url": "joshdata.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5140,
+			"friends_count": 121,
+			"listed_count": 344,
+			"created_at": "Wed Aug 10 23:36:07 +0000 2011",
+			"favourites_count": 5055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235338415773757441/wmvQ64li_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235338415773757441/wmvQ64li_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/352686442/1507156518",
+			"profile_link_color": "667788",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "242424",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1362557149147058200,
+		"quoted_status_id_str": "1362557149147058178",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ziobrmDknV",
+			"expanded": "https://twitter.com/GlacialMeg/status/1362557149147058178",
+			"display": "twitter.com/GlacialMeg/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 19 00:18:34 +0000 2021",
+			"id": 1362557149147058200,
+			"id_str": "1362557149147058178",
+			"full_text": "Today I channeled my energy into this very unofficial but passionate petition for scientists to start drawing icebergs in their stable orientations. I went to the trouble of painting a stable iceberg with my watercolors, so plz hear me out.\n\n(1/4) https://t.co/rtkCYub38b",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1362547879974342700,
+						"id_str": "1362547879974342661",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/Eui-E-dVEAUb9Z7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eui-E-dVEAUb9Z7.jpg",
+						"url": "https://t.co/rtkCYub38b",
+						"display_url": "pic.twitter.com/rtkCYub38b",
+						"expanded_url": "https://twitter.com/GlacialMeg/status/1362557149147058178/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1482,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 868,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 492,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1362547879974342700,
+						"id_str": "1362547879974342661",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/Eui-E-dVEAUb9Z7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eui-E-dVEAUb9Z7.jpg",
+						"url": "https://t.co/rtkCYub38b",
+						"display_url": "pic.twitter.com/rtkCYub38b",
+						"expanded_url": "https://twitter.com/GlacialMeg/status/1362557149147058178/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1482,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 868,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 492,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 860454033710035000,
+				"id_str": "860454033710034948",
+				"name": "Megan Thompson-Munson",
+				"screen_name": "GlacialMeg",
+				"location": "Boulder, CO",
+				"description": "PhD student @CUBoulderATOC • Glaciologist and climate scientist • @UWGG @UMassGeo alumna • she/her/hers",
+				"url": "https://t.co/gnpAkwVwVS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gnpAkwVwVS",
+								"expanded_url": "https://www.colorado.edu/lab/icesheetclimate/megan-thompson-munson",
+								"display_url": "colorado.edu/lab/icesheetcl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1250,
+				"friends_count": 452,
+				"listed_count": 15,
+				"created_at": "Fri May 05 11:20:02 +0000 2017",
+				"favourites_count": 1867,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 201,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1137665055737012224/KYkANidC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137665055737012224/KYkANidC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/860454033710034948/1528486433",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2429,
+			"favorite_count": 13925,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1765,
+		"favorite_count": 4517,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Couldn't help myself. Draw an iceberg and see how it would actually float in water: https://t.co/HSqRwjVVk7 https://t.co/ziobrmDknV"
+	},
+	{
 		"created_at": "Sat Feb 20 13:10:33 +0000 2021",
 		"id": 1363113813957050400,
 		"id_str": "1363113813957050370",
