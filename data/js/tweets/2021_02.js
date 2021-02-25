@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 07:13:28 +0000 2021",
+		"id": 1364835890930081800,
+		"id_str": "1364835890930081792",
+		"full_text": "Kaugummis sind Essen, oder? https://t.co/JPZzdQvAjA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JPZzdQvAjA",
+					"expanded_url": "https://twitter.com/Koeln/status/1364619638328463362",
+					"display_url": "twitter.com/Koeln/status/1…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 159,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242912774881189888/5hMWLi-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91699219,
+				6.96586582
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96586582,
+				50.91699219
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364619638328463400,
+		"quoted_status_id_str": "1364619638328463362",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JPZzdQvAjA",
+			"expanded": "https://twitter.com/Koeln/status/1364619638328463362",
+			"display": "twitter.com/Koeln/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 24 16:54:09 +0000 2021",
+			"id": 1364619638328463400,
+			"id_str": "1364619638328463362",
+			"full_text": "Bitte beachtet, dass ab morgen eine Maskenpflicht zu bestimmten Zeiten in einigen #Köln|er Parks gilt. Bleibt gesund! 😷 👍 https://t.co/nrgvKWnYJt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Köln",
+						"indices": [
+							82,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1364619632494190600,
+						"id_str": "1364619632494190593",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/EvAaU2BXIAEcxij.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvAaU2BXIAEcxij.jpg",
+						"url": "https://t.co/nrgvKWnYJt",
+						"display_url": "pic.twitter.com/nrgvKWnYJt",
+						"expanded_url": "https://twitter.com/Koeln/status/1364619638328463362/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1364619632494190600,
+						"id_str": "1364619632494190593",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/EvAaU2BXIAEcxij.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvAaU2BXIAEcxij.jpg",
+						"url": "https://t.co/nrgvKWnYJt",
+						"display_url": "pic.twitter.com/nrgvKWnYJt",
+						"expanded_url": "https://twitter.com/Koeln/status/1364619638328463362/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://app.socialhub.io/\" rel=\"nofollow\">SocialHub by maloon</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1171286929,
+				"id_str": "1171286929",
+				"name": "Stadt Köln",
+				"screen_name": "Koeln",
+				"location": "Köln, Deutschland",
+				"description": "Offizieller Account der Stadt Köln. Hier twittern wir Neuigkeiten aus der Stadtverwaltung. Impressum: https://t.co/Uld2VAPfYO",
+				"url": "https://t.co/QXGCRnCxUg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QXGCRnCxUg",
+								"expanded_url": "http://www.stadt.koeln",
+								"display_url": "stadt.koeln",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Uld2VAPfYO",
+								"expanded_url": "http://stadt-koeln.de/impressum",
+								"display_url": "stadt-koeln.de/impressum",
+								"indices": [
+									102,
+									125
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 38013,
+				"friends_count": 441,
+				"listed_count": 212,
+				"created_at": "Tue Feb 12 08:05:57 +0000 2013",
+				"favourites_count": 2188,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9887,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1194933452119904256/ltlH0Pnz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194933452119904256/ltlH0Pnz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1171286929/1613564110",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 123,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Kaugummis sind Essen, oder? https://t.co/JPZzdQvAjA"
+	},
+	{
 		"created_at": "Wed Feb 24 15:16:07 +0000 2021",
 		"id": 1364594965389717500,
 		"id_str": "1364594965389717505",
