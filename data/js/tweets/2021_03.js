@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 19 13:11:20 +0000 2021",
+		"id": 1372850708270215200,
+		"id_str": "1372898484110643204",
+		"full_text": "NFTs are a bubble? Wait until the porn industry gets into it.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16009605,
+			"id_str": "16009605",
+			"name": "Father Bronques",
+			"screen_name": "bronques",
+			"location": "LNPTV",
+			"description": "Make art not content.",
+			"url": "https://t.co/GJi1BjCh1Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GJi1BjCh1Z",
+							"expanded_url": "https://learn.lastnightsparty.tv/p/enroll",
+							"display_url": "learn.lastnightsparty.tv/p/enroll",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9517,
+			"friends_count": 0,
+			"listed_count": 253,
+			"created_at": "Wed Aug 27 09:14:09 +0000 2008",
+			"favourites_count": 1411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118921492501282816/d4RjANnr_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118921492501282816/d4RjANnr_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16009605/1546730373",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "NFTs are a bubble? Wait until the porn industry gets into it."
+	},
+	{
 		"created_at": "Fri Mar 19 13:09:27 +0000 2021",
 		"id": 1372898010720518100,
 		"id_str": "1372898010720518148",
