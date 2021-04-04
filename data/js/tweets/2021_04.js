@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 03 23:36:53 +0000 2021",
+		"id": 1378468412591112200,
+		"id_str": "1378491726013337603",
+		"full_text": "Lol https://t.co/qoYTEgGv1f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1378468410024202200,
+					"id_str": "1378468410024202247",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/EyFNtymXEAcYubB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyFNtymXEAcYubB.jpg",
+					"url": "https://t.co/qoYTEgGv1f",
+					"display_url": "pic.twitter.com/qoYTEgGv1f",
+					"expanded_url": "https://twitter.com/dickebuerste53/status/1378468412591112195/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1378468410024202200,
+					"id_str": "1378468410024202247",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/EyFNtymXEAcYubB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyFNtymXEAcYubB.jpg",
+					"url": "https://t.co/qoYTEgGv1f",
+					"display_url": "pic.twitter.com/qoYTEgGv1f",
+					"expanded_url": "https://twitter.com/dickebuerste53/status/1378468412591112195/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 782527230,
+			"id_str": "782527230",
+			"name": "Deutsches Finanz Fernsehen",
+			"screen_name": "dickebuerste53",
+			"location": "Doggenclub",
+			"description": "Shakira-Fan",
+			"url": "https://t.co/csrmAplqxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csrmAplqxK",
+							"expanded_url": "https://curiouscat.me/heidi_kabel",
+							"display_url": "curiouscat.me/heidi_kabel",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1693,
+			"friends_count": 809,
+			"listed_count": 56,
+			"created_at": "Sun Aug 26 14:20:46 +0000 2012",
+			"favourites_count": 116418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/907400666922045440/2ibCq8Bu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/907400666922045440/2ibCq8Bu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/782527230/1613677031",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Lol https://t.co/qoYTEgGv1f"
+	},
+	{
 		"created_at": "Sat Apr 03 12:48:03 +0000 2021",
 		"id": 1378328443998384000,
 		"id_str": "1378328443998384132",
