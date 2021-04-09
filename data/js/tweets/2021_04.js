@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 09 22:38:57 +0000 2021",
+		"id": 1380651474527604700,
+		"id_str": "1380651474527604740",
+		"full_text": "@the_fesxh @janboehm Ach, Kunstfreiheit heißt also, etwas quellenlos zu posten? https://t.co/aLp68LzFKp",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "the_fesxh",
+					"name": "🔴🔴🔴𝙶𝚛𝚒𝚗𝚍𝚖𝚊𝚜𝚝𝚎𝚛 𝙵𝚎𝚜𝚌𝚑",
+					"id": 1120584159720824800,
+					"id_str": "1120584159720824832",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "janboehm",
+					"name": "🔴🔴🔴 Jan Böhmermann 🦠🤨",
+					"id": 19072286,
+					"id_str": "19072286",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aLp68LzFKp",
+					"expanded_url": "https://twitter.com/formschub/status/1380175611340193795",
+					"display_url": "twitter.com/formschub/stat…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1380457398163357700,
+		"in_reply_to_status_id_str": "1380457398163357696",
+		"in_reply_to_user_id": 1120584159720824800,
+		"in_reply_to_user_id_str": "1120584159720824832",
+		"in_reply_to_screen_name": "the_fesxh",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 839,
+			"friends_count": 160,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91696167,
+				6.96591502
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96591502,
+				50.91696167
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1380175611340193800,
+		"quoted_status_id_str": "1380175611340193795",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aLp68LzFKp",
+			"expanded": "https://twitter.com/formschub/status/1380175611340193795",
+			"display": "twitter.com/formschub/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 08 15:08:02 +0000 2021",
+			"id": 1380175611340193800,
+			"id_str": "1380175611340193795",
+			"full_text": "Egal, eigentlich wollte ich die App vorhin eher in 𝙪𝙢𝙜𝙚𝙠𝙚𝙝𝙧𝙩𝙚𝙧 Richtung nutzen, um mal zu sehen, was passiert, wenn man das Alter einiger Politiker an ihr gelegentliches Verhalten anpasst …\n(now playing: Grönemeyer – »Kinder an die Macht«) https://t.co/FJxZNANPKJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1380175374982725600,
+						"id_str": "1380175374982725633",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/EydeMOmWQAEOLhK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EydeMOmWQAEOLhK.jpg",
+						"url": "https://t.co/FJxZNANPKJ",
+						"display_url": "pic.twitter.com/FJxZNANPKJ",
+						"expanded_url": "https://twitter.com/formschub/status/1380175611340193795/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1199,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1380175374982725600,
+						"id_str": "1380175374982725633",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/EydeMOmWQAEOLhK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EydeMOmWQAEOLhK.jpg",
+						"url": "https://t.co/FJxZNANPKJ",
+						"display_url": "pic.twitter.com/FJxZNANPKJ",
+						"expanded_url": "https://twitter.com/formschub/status/1380175611340193795/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1199,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1380109538918072300,
+			"in_reply_to_status_id_str": "1380109538918072320",
+			"in_reply_to_user_id": 12911512,
+			"in_reply_to_user_id_str": "12911512",
+			"in_reply_to_screen_name": "formschub",
+			"user": {
+				"id": 12911512,
+				"id_str": "12911512",
+				"name": "Lockdown der Herzen",
+				"screen_name": "formschub",
+				"location": "Hamburg, Germany",
+				"description": "Wer viele Wörter kennt, hat mehr zum Spielen.",
+				"url": "https://t.co/feqsVrBkhy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/feqsVrBkhy",
+								"expanded_url": "http://tempoherz.de",
+								"display_url": "tempoherz.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7039,
+				"friends_count": 445,
+				"listed_count": 525,
+				"created_at": "Thu Jan 31 16:43:26 +0000 2008",
+				"favourites_count": 27244,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47797,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6F8AAB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1379200180801703936/K1X7z8gY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379200180801703936/K1X7z8gY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12911512/1348608240",
+				"profile_link_color": "3E4861",
+				"profile_sidebar_border_color": "07162E",
+				"profile_sidebar_fill_color": "07162E",
+				"profile_text_color": "806457",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 475,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "@the_fesxh @janboehm Ach, Kunstfreiheit heißt also, etwas quellenlos zu posten? https://t.co/aLp68LzFKp"
+	},
+	{
 		"created_at": "Fri Apr 09 10:50:58 +0000 2021",
 		"id": 1380473305598156800,
 		"id_str": "1380473305598156801",
