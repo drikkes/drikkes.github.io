@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 11 15:05:53 +0000 2021",
+		"id": 1381182024740929500,
+		"id_str": "1381262234270187520",
+		"full_text": "Das passt. Kinos müssen geschlossen bleiben, aber man kann Kinosäle mieten, um Gottesdienste abzuhalten. Absurdistan. https://t.co/9zxZA3m1au",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9zxZA3m1au",
+					"expanded_url": "https://twitter.com/nicebastard/status/1381179000366727169",
+					"display_url": "twitter.com/nicebastard/st…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17782233,
+			"id_str": "17782233",
+			"name": "Thomas Stadler",
+			"screen_name": "RAStadler",
+			"location": "München",
+			"description": "Blogger, Medienrechtler, Fachanwalt für IT-Recht und für Gewerblichen Rechtsschutz bei SSB Rechtsanwälte. Impressum: https://t.co/AnmckllKzg…",
+			"url": "https://t.co/mUk3vIMZNQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUk3vIMZNQ",
+							"expanded_url": "https://www.internet-law.de",
+							"display_url": "internet-law.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AnmckllKzg",
+							"expanded_url": "http://internet-law.de/impressum-date",
+							"display_url": "internet-law.de/impressum-date",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17509,
+			"friends_count": 1234,
+			"listed_count": 689,
+			"created_at": "Mon Dec 01 16:26:00 +0000 2008",
+			"favourites_count": 15748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "270EAA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/65986753/thomasneu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/65986753/thomasneu_normal.jpg",
+			"profile_link_color": "B40900",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1381179000366727200,
+		"quoted_status_id_str": "1381179000366727169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9zxZA3m1au",
+			"expanded": "https://twitter.com/nicebastard/status/1381179000366727169",
+			"display": "twitter.com/nicebastard/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 11 09:35:09 +0000 2021",
+			"id": 1381179000366727200,
+			"id_str": "1381179000366727169",
+			"full_text": "Ich wundere mich schon länger, was da jeden Sonntagvormittag für ein Menschenauflauf im und vor dem Astor Arri Kino ist. Heute habe ich mal gefragt: Gottesdienste der Hillsong Church",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15483126,
+				"id_str": "15483126",
+				"name": "Dorin Popa",
+				"screen_name": "NiceBastard",
+				"location": "Munich",
+				"description": "Journalist, helfende Hand am Wedekindplatz und Türsteher, sobald die Bars wieder geöffnet haben",
+				"url": "https://t.co/kiCcpowLZZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kiCcpowLZZ",
+								"expanded_url": "http://www.dorinpopa.de",
+								"display_url": "dorinpopa.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4452,
+				"friends_count": 1860,
+				"listed_count": 428,
+				"created_at": "Fri Jul 18 16:48:13 +0000 2008",
+				"favourites_count": 56941,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 269108,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D61B15",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1094979290884698113/DBxWLEh5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094979290884698113/DBxWLEh5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15483126/1398237130",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "37439688c6302728",
+				"url": "https://api.twitter.com/1.1/geo/id/37439688c6302728.json",
+				"place_type": "city",
+				"name": "Munich",
+				"full_name": "Munich, Germany",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								11.360589,
+								48.061634
+							],
+							[
+								11.722918,
+								48.061634
+							],
+							[
+								11.722918,
+								48.248124
+							],
+							[
+								11.360589,
+								48.248124
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 60,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Das passt. Kinos müssen geschlossen bleiben, aber man kann Kinosäle mieten, um Gottesdienste abzuhalten. Absurdistan. https://t.co/9zxZA3m1au"
+	},
+	{
 		"created_at": "Sun Apr 11 10:57:42 +0000 2021",
 		"id": 1381199776939704300,
 		"id_str": "1381199776939704322",
