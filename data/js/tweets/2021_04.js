@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 14 15:55:51 +0000 2021",
+		"id": 1382361969475399700,
+		"id_str": "1382361969475399686",
+		"full_text": "Screenshot von \n@Refinery29 \nAber seit Verkündung der \"globalen Content Stretegie\" geht der auf deutschen Site ohnehin nicht mehr viel, was? https://t.co/jI3HUjcsjz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Refinery29",
+					"name": "Refinery29",
+					"id": 19546942,
+					"id_str": "19546942",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382360917330002000,
+					"id_str": "1382360917330001920",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey8h7iTWgAASvsJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ey8h7iTWgAASvsJ.png",
+					"url": "https://t.co/jI3HUjcsjz",
+					"display_url": "pic.twitter.com/jI3HUjcsjz",
+					"expanded_url": "https://twitter.com/drikkes/status/1382361969475399686/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 570,
+							"h": 140,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 140,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 140,
+							"h": 140,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382360917330002000,
+					"id_str": "1382360917330001920",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey8h7iTWgAASvsJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ey8h7iTWgAASvsJ.png",
+					"url": "https://t.co/jI3HUjcsjz",
+					"display_url": "pic.twitter.com/jI3HUjcsjz",
+					"expanded_url": "https://twitter.com/drikkes/status/1382361969475399686/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 570,
+							"h": 140,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 570,
+							"h": 140,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 140,
+							"h": 140,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 839,
+			"friends_count": 160,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Screenshot von \n@Refinery29 \nAber seit Verkündung der \"globalen Content Stretegie\" geht der auf deutschen Site ohnehin nicht mehr viel, was? https://t.co/jI3HUjcsjz"
+	},
+	{
 		"created_at": "Wed Apr 14 14:08:52 +0000 2021",
 		"id": 1382335048859451400,
 		"id_str": "1382335048859451393",
