@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 17 09:43:41 +0000 2021",
+		"id": 1383355474783793200,
+		"id_str": "1383355474783793157",
+		"full_text": "Immerhin konsequent. #Tradition https://t.co/9Tjwc4sCyi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Tradition",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Tjwc4sCyi",
+					"expanded_url": "https://twitter.com/julian0liver/status/1383273718323978247",
+					"display_url": "twitter.com/julian0liver/s…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 839,
+			"friends_count": 160,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91702271,
+				6.96592106
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96592106,
+				50.91702271
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1383273718323978200,
+		"quoted_status_id_str": "1383273718323978247",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9Tjwc4sCyi",
+			"expanded": "https://twitter.com/julian0liver/status/1383273718323978247",
+			"display": "twitter.com/julian0liver/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 17 04:18:49 +0000 2021",
+			"id": 1383273718323978200,
+			"id_str": "1383273718323978247",
+			"full_text": "Death cult update:\n\n\"they fear that dozens of other retired or retiring fossil-fueled power plants across New York could follow Greenidge’s example, gaining new life by repurposing as Bitcoin miners\" \nhttps://t.co/gpDn98XYsV (via @wearpants)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wearpants",
+						"name": "Pete Fein",
+						"id": 238017271,
+						"id_str": "238017271",
+						"indices": [
+							230,
+							240
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gpDn98XYsV",
+						"expanded_url": "https://www.nysfocus.com/2021/04/13/new-york-bitcoin-mining-threat/",
+						"display_url": "nysfocus.com/2021/04/13/new…",
+						"indices": [
+							201,
+							224
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 219152305,
+				"id_str": "219152305",
+				"name": "Julian Oliver",
+				"screen_name": "julian0liver",
+				"location": "Aotearoa",
+				"description": "Critical engineering, systems architecture, tech art, resilient infrastructure, environmental defense, bows and arrows https://t.co/e9TnMk6emV https://t.co/PxiZViNZww",
+				"url": "https://t.co/7zTDYbLawb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7zTDYbLawb",
+								"expanded_url": "https://julianoliver.com",
+								"display_url": "julianoliver.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/e9TnMk6emV",
+								"expanded_url": "http://julianoliver.com",
+								"display_url": "julianoliver.com",
+								"indices": [
+									119,
+									142
+								]
+							},
+							{
+								"url": "https://t.co/PxiZViNZww",
+								"expanded_url": "http://criticalengineering.org",
+								"display_url": "criticalengineering.org",
+								"indices": [
+									143,
+									166
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12513,
+				"friends_count": 1680,
+				"listed_count": 469,
+				"created_at": "Wed Nov 24 02:10:09 +0000 2010",
+				"favourites_count": 16102,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18866,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/703732422228180992/iqf5ltTd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/703732422228180992/iqf5ltTd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/219152305/1603775183",
+				"profile_link_color": "444444",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Immerhin konsequent. #Tradition https://t.co/9Tjwc4sCyi"
+	},
+	{
 		"created_at": "Sat Apr 17 07:43:49 +0000 2021",
 		"id": 1383325308279877600,
 		"id_str": "1383325308279877638",
