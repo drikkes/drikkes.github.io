@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 09:57:51 +0000 2021",
+		"id": 1384083816935878700,
+		"id_str": "1384083816935878658",
+		"full_text": "🆗 Vielleicht wähle ich im September das erste Mal grün. #ACAB https://t.co/8pztRzxAZp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACAB",
+					"indices": [
+						56,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8pztRzxAZp",
+					"expanded_url": "https://twitter.com/Sportkultur/status/1384072193793875972",
+					"display_url": "twitter.com/Sportkultur/st…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 838,
+			"friends_count": 160,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91701707,
+				6.96590133
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96590133,
+				50.91701707
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384072193793876000,
+		"quoted_status_id_str": "1384072193793875972",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8pztRzxAZp",
+			"expanded": "https://twitter.com/Sportkultur/status/1384072193793875972",
+			"display": "twitter.com/Sportkultur/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 19 09:11:40 +0000 2021",
+			"id": 1384072193793876000,
+			"id_str": "1384072193793875972",
+			"full_text": "Schon krass, dass die Städte schon voller Graffitis pro Annalena Charlotte Alma #Baerbock sind. #acab https://t.co/1dtVE5qLh8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Baerbock",
+						"indices": [
+							80,
+							89
+						]
+					},
+					{
+						"text": "acab",
+						"indices": [
+							96,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1384071509623275500,
+						"id_str": "1384071509623275521",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/EzU1tHLVgAEiXZv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzU1tHLVgAEiXZv.jpg",
+						"url": "https://t.co/1dtVE5qLh8",
+						"display_url": "pic.twitter.com/1dtVE5qLh8",
+						"expanded_url": "https://twitter.com/Sportkultur/status/1384072193793875972/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1620,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1384071509623275500,
+						"id_str": "1384071509623275521",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/EzU1tHLVgAEiXZv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzU1tHLVgAEiXZv.jpg",
+						"url": "https://t.co/1dtVE5qLh8",
+						"display_url": "pic.twitter.com/1dtVE5qLh8",
+						"expanded_url": "https://twitter.com/Sportkultur/status/1384072193793875972/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1620,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1384071576371400700,
+						"id_str": "1384071576371400707",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/EzU1w_1VEAMrrYM.png",
+						"media_url_https": "https://pbs.twimg.com/media/EzU1w_1VEAMrrYM.png",
+						"url": "https://t.co/1dtVE5qLh8",
+						"display_url": "pic.twitter.com/1dtVE5qLh8",
+						"expanded_url": "https://twitter.com/Sportkultur/status/1384072193793875972/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 519,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 441,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 519,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1384071655304036400,
+						"id_str": "1384071655304036352",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/EzU11l4VgAAyC6T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzU11l4VgAAyC6T.jpg",
+						"url": "https://t.co/1dtVE5qLh8",
+						"display_url": "pic.twitter.com/1dtVE5qLh8",
+						"expanded_url": "https://twitter.com/Sportkultur/status/1384072193793875972/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 395,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 262,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 395,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1384071759767298000,
+						"id_str": "1384071759767298050",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/EzU17rCUYAIqQa5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzU17rCUYAIqQa5.jpg",
+						"url": "https://t.co/1dtVE5qLh8",
+						"display_url": "pic.twitter.com/1dtVE5qLh8",
+						"expanded_url": "https://twitter.com/Sportkultur/status/1384072193793875972/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1592,
+								"h": 1144,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 862,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 159171318,
+				"id_str": "159171318",
+				"name": "Klaas",
+				"screen_name": "Sportkultur",
+				"location": "",
+				"description": "Lehrer und Journalist. \n\nSpricht über Schiedsrichter bei @CollinasErben und Fahrräder im @Dlf_Sport #Radfunk.\n\n\n\n\n\n#twlz",
+				"url": "http://t.co/xkHcIlcteN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xkHcIlcteN",
+								"expanded_url": "http://www.ReesesSportkultur.de",
+								"display_url": "ReesesSportkultur.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15857,
+				"friends_count": 855,
+				"listed_count": 304,
+				"created_at": "Thu Jun 24 17:17:50 +0000 2010",
+				"favourites_count": 22175,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 65889,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1338512913993175040/o7RAlG-d_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1338512913993175040/o7RAlG-d_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/159171318/1367499680",
+				"profile_link_color": "CC3200",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7DA93",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 73,
+			"favorite_count": 536,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "🆗 Vielleicht wähle ich im September das erste Mal grün. #ACAB https://t.co/8pztRzxAZp"
+	},
+	{
 		"created_at": "Mon Apr 19 07:14:44 +0000 2021",
 		"id": 1383756918238310400,
 		"id_str": "1384042767823761411",
