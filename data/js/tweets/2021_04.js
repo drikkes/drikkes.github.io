@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 20 14:50:48 +0000 2021",
+		"id": 1384519927579697200,
+		"id_str": "1384519927579697154",
+		"full_text": "Mir tun die Kollegen ein wenig leid, die heute meine Chats und Mails ertragen müssen, weil ich diesen Shortcuts übe. 💯👨‍💻 https://t.co/kwmNJNXTMw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kwmNJNXTMw",
+					"expanded_url": "https://twitter.com/arambartholl/status/1384470253854396418",
+					"display_url": "twitter.com/arambartholl/s…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 838,
+			"friends_count": 159,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91701323,
+				6.96586713
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96586713,
+				50.91701323
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384470253854396400,
+		"quoted_status_id_str": "1384470253854396418",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kwmNJNXTMw",
+			"expanded": "https://twitter.com/arambartholl/status/1384470253854396418",
+			"display": "twitter.com/arambartholl/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 20 11:33:25 +0000 2021",
+			"id": 1384470253854396400,
+			"id_str": "1384470253854396418",
+			"full_text": "EMOJI keyboard!! --&gt;\n⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️\nmac: Ctrl+Cmd+space\n⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️\nubuntu: Ctrl+.\n⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️\nwin: Win+.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1384469322303692800,
+			"in_reply_to_status_id_str": "1384469322303692801",
+			"in_reply_to_user_id": 5375902,
+			"in_reply_to_user_id_str": "5375902",
+			"in_reply_to_screen_name": "arambartholl",
+			"user": {
+				"id": 5375902,
+				"id_str": "5375902",
+				"name": "Ar@m B@rtholl",
+				"screen_name": "arambartholl",
+				"location": "Berlin",
+				"description": "art art artist: @dead_drops, speedshows, unlocklife, installation, sculpture, internet, curation #SkulpturProjekte2017 Prof @ HAW Hamburg, Kunst digitale Medien",
+				"url": "https://t.co/Y66cDmCiCA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y66cDmCiCA",
+								"expanded_url": "http://arambartholl.com",
+								"display_url": "arambartholl.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8040,
+				"friends_count": 2487,
+				"listed_count": 321,
+				"created_at": "Sat Apr 21 09:05:45 +0000 2007",
+				"favourites_count": 12962,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21633,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1160665696046669824/cSLo29Vs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160665696046669824/cSLo29Vs_normal.jpg",
+				"profile_link_color": "787878",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4DBEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "in"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Mir tun die Kollegen ein wenig leid, die heute meine Chats und Mails ertragen müssen, weil ich diesen Shortcuts übe. 💯👨‍💻 https://t.co/kwmNJNXTMw"
+	},
+	{
 		"created_at": "Tue Apr 20 08:34:47 +0000 2021",
 		"id": 1384425298566029300,
 		"id_str": "1384425298566029313",
