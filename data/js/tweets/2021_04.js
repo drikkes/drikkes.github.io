@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 20 06:09:18 +0000 2021",
+		"id": 1384388687581089800,
+		"id_str": "1384388687581089794",
+		"full_text": "Pferd heißt auf Russisch лошадь [loshad’]. Zufall? Ich denke nicht, Armin. https://t.co/scjuexL9tR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/scjuexL9tR",
+					"expanded_url": "https://twitter.com/le_matsch/status/1382703302450757634",
+					"display_url": "twitter.com/le_matsch/stat…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 839,
+			"friends_count": 160,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91702271,
+				6.96582846
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96582846,
+				50.91702271
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382703302450757600,
+		"quoted_status_id_str": "1382703302450757634",
+		"quoted_status_permalink": {
+			"url": "https://t.co/scjuexL9tR",
+			"expanded": "https://twitter.com/le_matsch/status/1382703302450757634",
+			"display": "twitter.com/le_matsch/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 15 14:32:11 +0000 2021",
+			"id": 1382703302450757600,
+			"id_str": "1382703302450757634",
+			"full_text": "Das Projekt Deutschland ist gescheitert\nhttps://t.co/JLoIshG9zl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1382617337623371800,
+						"id_str": "1382617337623371777",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1382617337623371777/pu/img/GtLiklveoxm_Anka.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1382617337623371777/pu/img/GtLiklveoxm_Anka.jpg",
+						"url": "https://t.co/JLoIshG9zl",
+						"display_url": "pic.twitter.com/JLoIshG9zl",
+						"expanded_url": "https://twitter.com/Westpol/status/1382619788103520260/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1382619788103520300,
+						"source_status_id_str": "1382619788103520260",
+						"source_user_id": 927897264651202600,
+						"source_user_id_str": "927897264651202560"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1382617337623371800,
+						"id_str": "1382617337623371777",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1382617337623371777/pu/img/GtLiklveoxm_Anka.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1382617337623371777/pu/img/GtLiklveoxm_Anka.jpg",
+						"url": "https://t.co/JLoIshG9zl",
+						"display_url": "pic.twitter.com/JLoIshG9zl",
+						"expanded_url": "https://twitter.com/Westpol/status/1382619788103520260/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1382619788103520300,
+						"source_status_id_str": "1382619788103520260",
+						"source_user_id": 927897264651202600,
+						"source_user_id_str": "927897264651202560",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 22560,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1382617337623371777/pu/pl/gOMoX2lvKu2-rYXa.m3u8?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1382617337623371777/pu/vid/540x540/DNLEx-MxANzljcci.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1382617337623371777/pu/vid/320x320/TrtCcn29tQYw5iQf.mp4?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1382617337623371777/pu/vid/720x720/DnWrU3E9R6PMPiyF.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 927897264651202600,
+								"id_str": "927897264651202560",
+								"name": "Westpol",
+								"screen_name": "Westpol",
+								"location": "Düsseldorf, Deutschland",
+								"description": "Landespolitik | Analysen | investigative Recherchen & NRW-Politikmagazin. SO, 19:30 @WDR MI/DO, 09:55 https://t.co/x09CcN8YOB https://t.co/ryAwIG8tEa",
+								"url": "https://t.co/WZt15qS5fa",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/WZt15qS5fa",
+												"expanded_url": "http://www.westpol.de",
+												"display_url": "westpol.de",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/x09CcN8YOB",
+												"expanded_url": "http://wdr.de/k/Impressum",
+												"display_url": "wdr.de/k/Impressum",
+												"indices": [
+													102,
+													125
+												]
+											},
+											{
+												"url": "https://t.co/ryAwIG8tEa",
+												"expanded_url": "http://wdr.de/k/datenschutz",
+												"display_url": "wdr.de/k/datenschutz",
+												"indices": [
+													126,
+													149
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 8477,
+								"friends_count": 1613,
+								"listed_count": 107,
+								"created_at": "Tue Nov 07 13:55:22 +0000 2017",
+								"favourites_count": 1956,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 4701,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/936532433750646784/pnylGjr5_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/936532433750646784/pnylGjr5_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/927897264651202560/1516008843",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1239583070925316000,
+				"id_str": "1239583070925316098",
+				"name": "Matschers 👑 🤝 🚢",
+				"screen_name": "le_matsch",
+				"location": "",
+				"description": "Ich bin hier in großen Teilen auch körperlich anwesend.\nPersonifizierter Erster Maat der maritimen Bubble.\nKleinschwanzsteuerzahler der Herzen",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1437,
+				"friends_count": 308,
+				"listed_count": 9,
+				"created_at": "Mon Mar 16 16:03:33 +0000 2020",
+				"favourites_count": 15860,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6471,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1270381241901162497/nWkpwFSg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270381241901162497/nWkpwFSg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1239583070925316098/1584377085",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 86,
+			"favorite_count": 669,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Pferd heißt auf Russisch лошадь [loshad’]. Zufall? Ich denke nicht, Armin. https://t.co/scjuexL9tR"
+	},
+	{
 		"created_at": "Mon Apr 19 15:36:01 +0000 2021",
 		"id": 1384168918261010400,
 		"id_str": "1384168918261010443",
