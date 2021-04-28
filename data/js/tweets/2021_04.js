@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 28 17:39:28 +0000 2021",
+		"id": 1387441058766807000,
+		"id_str": "1387461477808840707",
+		"full_text": "Direkt neue Styleguide in allen mittelständischen deutschen Unternehmen https://t.co/F6oZ6QOWGF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F6oZ6QOWGF",
+					"expanded_url": "https://twitter.com/heiseonline/status/1387436730479960064",
+					"display_url": "twitter.com/heiseonline/st…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 839239325657272300,
+			"id_str": "839239325657272320",
+			"name": "VVIO",
+			"screen_name": "Sussuvio",
+			"location": "CGN",
+			"description": "Wegen der Milch.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1873,
+			"friends_count": 244,
+			"listed_count": 5,
+			"created_at": "Tue Mar 07 22:20:22 +0000 2017",
+			"favourites_count": 74465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364340343974551559/rGiHEfgb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364340343974551559/rGiHEfgb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/839239325657272320/1508863201",
+			"profile_link_color": "212322",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1387436730479960000,
+		"quoted_status_id_str": "1387436730479960064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F6oZ6QOWGF",
+			"expanded": "https://twitter.com/heiseonline/status/1387436730479960064",
+			"display": "twitter.com/heiseonline/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 28 16:01:08 +0000 2021",
+			"id": 1387436730479960000,
+			"id_str": "1387436730479960064",
+			"full_text": "Byebye Calibri: Microsoft ändert seine Standard-Schriftart https://t.co/ftPp8d5TJ0 #Microsoft #Font",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Microsoft",
+						"indices": [
+							83,
+							93
+						]
+					},
+					{
+						"text": "Font",
+						"indices": [
+							94,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ftPp8d5TJ0",
+						"expanded_url": "https://www.heise.de/news/Byebye-Calibri-Microsoft-aendert-seine-Standard-Schriftart-6031157.html",
+						"display_url": "heise.de/news/Byebye-Ca…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.heise.de\" rel=\"nofollow\">heise Tweetfeeds</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3197921,
+				"id_str": "3197921",
+				"name": "heise online",
+				"screen_name": "heiseonline",
+				"location": "Hannover, Germany",
+				"description": "News rund um Technik, IT und Digitales. https://t.co/NJ0q0oZhRQ & https://t.co/58VAdnL8oE",
+				"url": "http://t.co/5ojHmmAo6O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5ojHmmAo6O",
+								"expanded_url": "http://www.heise.de",
+								"display_url": "heise.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NJ0q0oZhRQ",
+								"expanded_url": "http://heise.de/impressum.html",
+								"display_url": "heise.de/impressum.html",
+								"indices": [
+									40,
+									63
+								]
+							},
+							{
+								"url": "https://t.co/58VAdnL8oE",
+								"expanded_url": "http://heise.de/privacy",
+								"display_url": "heise.de/privacy",
+								"indices": [
+									66,
+									89
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 241280,
+				"friends_count": 33,
+				"listed_count": 5244,
+				"created_at": "Mon Apr 02 09:20:48 +0000 2007",
+				"favourites_count": 2228,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 146977,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/615190234758782976/P-Kawo-P_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/615190234758782976/P-Kawo-P_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3197921/1593415237",
+				"profile_link_color": "012469",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "no"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Direkt neue Styleguide in allen mittelständischen deutschen Unternehmen https://t.co/F6oZ6QOWGF"
+	},
+	{
 		"created_at": "Wed Apr 28 15:31:25 +0000 2021",
 		"id": 1387429251423641600,
 		"id_str": "1387429251423641601",
