@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 05 17:58:50 +0000 2021",
+		"id": 1389979032897429500,
+		"id_str": "1390003064959119364",
+		"full_text": "\"Manche sehen Nachhaltigkeit. Wir sehen unsere Verantwortung.\"\n\nUnd manche sehen jetzt halt gar nichts mehr, weil @adidas Werbung die Fenster verhängt \n\n\"impossible is nothing\" – stimmt, seh ich https://t.co/feIgyaMJwV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adidas",
+					"name": "adidas",
+					"id": 300114634,
+					"id_str": "300114634",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/feIgyaMJwV",
+					"expanded_url": "https://twitter.com/dominik_erhard/status/1389976882104479746",
+					"display_url": "twitter.com/dominik_erhard…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 275140490,
+			"id_str": "275140490",
+			"name": "Samira El Ouassil",
+			"screen_name": "samelou",
+			"location": "",
+			"description": "Hallo",
+			"url": "https://t.co/fVhvZtmiPY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fVhvZtmiPY",
+							"expanded_url": "https://bit.ly/2WJ4ZrR",
+							"display_url": "bit.ly/2WJ4ZrR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51009,
+			"friends_count": 1619,
+			"listed_count": 216,
+			"created_at": "Thu Mar 31 18:13:41 +0000 2011",
+			"favourites_count": 16023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095072230982209537/bnCetPtH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095072230982209537/bnCetPtH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/275140490/1398141285",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1389976882104479700,
+		"quoted_status_id_str": "1389976882104479746",
+		"quoted_status_permalink": {
+			"url": "https://t.co/feIgyaMJwV",
+			"expanded": "https://twitter.com/dominik_erhard/status/1389976882104479746",
+			"display": "twitter.com/dominik_erhard…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 05 16:14:47 +0000 2021",
+			"id": 1389976882104479700,
+			"id_str": "1389976882104479746",
+			"full_text": "Haha @adidas und Deutsche Boden Hausverwaltung\n\nOhne Ankündigung im Lockdown und Frühling alle Fenster zu verhängen, ist wirklich erbärmlich.\n\nSo halt nicht! https://t.co/u4W0Io0osv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "adidas",
+						"name": "adidas",
+						"id": 300114634,
+						"id_str": "300114634",
+						"indices": [
+							5,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1389976876001763300,
+						"id_str": "1389976876001763331",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/E0owmrQXoAMLyQW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0owmrQXoAMLyQW.jpg",
+						"url": "https://t.co/u4W0Io0osv",
+						"display_url": "pic.twitter.com/u4W0Io0osv",
+						"expanded_url": "https://twitter.com/dominik_erhard/status/1389976882104479746/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1389976876001763300,
+						"id_str": "1389976876001763331",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/E0owmrQXoAMLyQW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0owmrQXoAMLyQW.jpg",
+						"url": "https://t.co/u4W0Io0osv",
+						"display_url": "pic.twitter.com/u4W0Io0osv",
+						"expanded_url": "https://twitter.com/dominik_erhard/status/1389976882104479746/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1389976875968127000,
+						"id_str": "1389976875968126982",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/E0owmrIWYAYOVxe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0owmrIWYAYOVxe.jpg",
+						"url": "https://t.co/u4W0Io0osv",
+						"display_url": "pic.twitter.com/u4W0Io0osv",
+						"expanded_url": "https://twitter.com/dominik_erhard/status/1389976882104479746/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1389976875997536300,
+						"id_str": "1389976875997536266",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/E0owmrPXIAoOJuZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0owmrPXIAoOJuZ.jpg",
+						"url": "https://t.co/u4W0Io0osv",
+						"display_url": "pic.twitter.com/u4W0Io0osv",
+						"expanded_url": "https://twitter.com/dominik_erhard/status/1389976882104479746/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 686,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 686,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 552326664,
+				"id_str": "552326664",
+				"name": "Dominik Erhard",
+				"screen_name": "dominik_erhard",
+				"location": "Berlin, Deutschland",
+				"description": "Redakteur bei @philomagde",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 161,
+				"friends_count": 870,
+				"listed_count": 2,
+				"created_at": "Thu Apr 12 23:08:00 +0000 2012",
+				"favourites_count": 891,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 179,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1357964351102148608/h0E6jDSU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357964351102148608/h0E6jDSU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/552326664/1611441831",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 172,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 16,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "\"Manche sehen Nachhaltigkeit. Wir sehen unsere Verantwortung.\"\n\nUnd manche sehen jetzt halt gar nichts mehr, weil @adidas Werbung die Fenster verhängt \n\n\"impossible is nothing\" – stimmt, seh ich https://t.co/feIgyaMJwV"
+	},
+	{
 		"created_at": "Tue May 04 05:15:53 +0000 2021",
 		"id": 1389448675785678800,
 		"id_str": "1389448675785678849",
