@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 07 06:29:53 +0000 2021",
+		"id": 1390554462947840000,
+		"id_str": "1390554462947840000",
+		"full_text": "Ladies and Gentlemen, die Agentur, die bald für @_FriedrichMerz und @HGMaassen werben wird. https://t.co/aW4h27dPwN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_FriedrichMerz",
+					"name": "Friedrich Merz",
+					"id": 1059395748289232900,
+					"id_str": "1059395748289232896",
+					"indices": [
+						48,
+						63
+					]
+				},
+				{
+					"screen_name": "HGMaassen",
+					"name": "Hans-Georg Maaßen",
+					"id": 843210563190771700,
+					"id_str": "843210563190771713",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aW4h27dPwN",
+					"expanded_url": "https://twitter.com/Serviceplan/status/1390339405450293252",
+					"display_url": "twitter.com/Serviceplan/st…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 837,
+			"friends_count": 160,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380471925273690113/sIWdMDnY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91702271,
+				6.96593574
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96593574,
+				50.91702271
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390339405450293200,
+		"quoted_status_id_str": "1390339405450293252",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aW4h27dPwN",
+			"expanded": "https://twitter.com/Serviceplan/status/1390339405450293252",
+			"display": "twitter.com/Serviceplan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 06 16:15:20 +0000 2021",
+			"id": 1390339405450293200,
+			"id_str": "1390339405450293252",
+			"full_text": "YEAHHH! Herzlichen Glückwunsch an unsere Kolleg:innen Sandra Lizeth Valencia, Kai West Schlosser und Thao Vu Phuong zum #GrandPrix für @MeltdownFlags bei der \"Talent Award Show\" vom @ADC_GERMANY - wir freuen uns riesig mit euch! #WeWin #ADCFestival2021 #LetsNailIt https://t.co/HP8WVwr0XF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GrandPrix",
+						"indices": [
+							120,
+							130
+						]
+					},
+					{
+						"text": "WeWin",
+						"indices": [
+							229,
+							235
+						]
+					},
+					{
+						"text": "ADCFestival2021",
+						"indices": [
+							236,
+							252
+						]
+					},
+					{
+						"text": "LetsNailIt",
+						"indices": [
+							253,
+							264
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MeltdownFlags",
+						"name": "Meltdown Flags",
+						"id": 1197439415464927200,
+						"id_str": "1197439415464927232",
+						"indices": [
+							135,
+							149
+						]
+					},
+					{
+						"screen_name": "ADC_GERMANY",
+						"name": "ART DIRECTORS CLUB",
+						"id": 26752691,
+						"id_str": "26752691",
+						"indices": [
+							182,
+							194
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1390338279346684000,
+						"id_str": "1390338279346683907",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/E0t5THoWQAMC3o-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0t5THoWQAMC3o-.jpg",
+						"url": "https://t.co/HP8WVwr0XF",
+						"display_url": "pic.twitter.com/HP8WVwr0XF",
+						"expanded_url": "https://twitter.com/Serviceplan/status/1390339405450293252/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1390338279346684000,
+						"id_str": "1390338279346683907",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/E0t5THoWQAMC3o-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0t5THoWQAMC3o-.jpg",
+						"url": "https://t.co/HP8WVwr0XF",
+						"display_url": "pic.twitter.com/HP8WVwr0XF",
+						"expanded_url": "https://twitter.com/Serviceplan/status/1390339405450293252/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 164292711,
+				"id_str": "164292711",
+				"name": "Serviceplan Group",
+				"screen_name": "Serviceplan",
+				"location": "",
+				"description": "24 locations worldwide | One Agency Group | Building Best Brands \nhttps://t.co/lYitWcp5WK | https://t.co/6tN8hvjRJS",
+				"url": "https://t.co/XrQpZvrB7r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XrQpZvrB7r",
+								"expanded_url": "http://www.serviceplan.com",
+								"display_url": "serviceplan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lYitWcp5WK",
+								"expanded_url": "http://sp-url.com/imprint",
+								"display_url": "sp-url.com/imprint",
+								"indices": [
+									66,
+									89
+								]
+							},
+							{
+								"url": "https://t.co/6tN8hvjRJS",
+								"expanded_url": "http://sp-url.com/pp",
+								"display_url": "sp-url.com/pp",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7177,
+				"friends_count": 306,
+				"listed_count": 262,
+				"created_at": "Thu Jul 08 14:27:26 +0000 2010",
+				"favourites_count": 4469,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6533,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "303030",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1310499515217125377/ZWdHHb3Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310499515217125377/ZWdHHb3Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/164292711/1582013604",
+				"profile_link_color": "968282",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "37414B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Ladies and Gentlemen, die Agentur, die bald für @_FriedrichMerz und @HGMaassen werben wird. https://t.co/aW4h27dPwN"
+	},
+	{
 		"created_at": "Thu May 06 17:08:47 +0000 2021",
 		"id": 1390352856935436300,
 		"id_str": "1390352856935436290",
