@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 11 16:11:36 +0000 2021",
+		"id": 1392116421736505300,
+		"id_str": "1392150407053467654",
+		"full_text": "Daniel Strasberg (in Amerika bekannt als Dan Highway) in grosser, grosser Form.\nhttps://t.co/XBF3x3xIPd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XBF3x3xIPd",
+					"expanded_url": "https://www.republik.ch/2021/05/11/der-sinn-des-lebens",
+					"display_url": "republik.ch/2021/05/11/der…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245818487,
+			"id_str": "245818487",
+			"name": "Constantin Seibt",
+			"screen_name": "ConstSeibt",
+			"location": "",
+			"description": "Reporter & bis zum Sommer 18 Co-Chefredakteur der Republik",
+			"url": "https://t.co/EzWW6Pz2JT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EzWW6Pz2JT",
+							"expanded_url": "http://www.republik.ch",
+							"display_url": "republik.ch",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19199,
+			"friends_count": 448,
+			"listed_count": 298,
+			"created_at": "Tue Feb 01 14:56:10 +0000 2011",
+			"favourites_count": 3284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2185691598/CS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2185691598/CS_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Daniel Strasberg (in Amerika bekannt als Dan Highway) in grosser, grosser Form.\nhttps://t.co/XBF3x3xIPd"
+	},
+	{
 		"created_at": "Tue May 11 11:11:50 +0000 2021",
 		"id": 1392074966200459300,
 		"id_str": "1392074966200459265",
