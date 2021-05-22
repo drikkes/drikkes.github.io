@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 22 16:37:01 +0000 2021",
+		"id": 1396115430574628900,
+		"id_str": "1396143068701659147",
+		"full_text": "#branding https://t.co/m3JIvAXzEk https://t.co/eO6IknWGo1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "branding",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m3JIvAXzEk",
+					"expanded_url": "https://instagr.am/p/CPLbm-hny8c/",
+					"display_url": "instagr.am/p/CPLbm-hny8c/",
+					"indices": [
+						10,
+						33
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1396115429521821700,
+					"id_str": "1396115429521821698",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/E1__lhIXEAIU_aK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1__lhIXEAIU_aK.jpg",
+					"url": "https://t.co/eO6IknWGo1",
+					"display_url": "pic.twitter.com/eO6IknWGo1",
+					"expanded_url": "https://twitter.com/kosmar/status/1396115430574628865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1023,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1396115429521821700,
+					"id_str": "1396115429521821698",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/E1__lhIXEAIU_aK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1__lhIXEAIU_aK.jpg",
+					"url": "https://t.co/eO6IknWGo1",
+					"display_url": "pic.twitter.com/eO6IknWGo1",
+					"expanded_url": "https://twitter.com/kosmar/status/1396115430574628865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1023,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1487011,
+			"id_str": "1487011",
+			"name": "🔴🟡🟢",
+			"screen_name": "kosmar",
+			"location": "Berlin, Germany",
+			"description": "Markus Angermeier·digital since 1998·design·frontend·ui·ux·prototypes·logos·\nlettering·teaching·RT≠ack·opinions are yours·parody account·antifascist·human",
+			"url": "https://t.co/bpQtH9Pq6K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bpQtH9Pq6K",
+							"expanded_url": "https://link.to.it/k",
+							"display_url": "link.to.it/k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7879,
+			"friends_count": 5681,
+			"listed_count": 483,
+			"created_at": "Mon Mar 19 10:00:56 +0000 2007",
+			"favourites_count": 32140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2228570189/kosmar_150_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2228570189/kosmar_150_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1487011/1348087304",
+			"profile_link_color": "F83E00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "555555",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#branding https://t.co/m3JIvAXzEk https://t.co/eO6IknWGo1"
+	},
+	{
 		"created_at": "Sat May 22 14:31:53 +0000 2021",
 		"id": 1396111576931917800,
 		"id_str": "1396111576931917826",
