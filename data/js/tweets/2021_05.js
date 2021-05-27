@@ -1,6 +1,159 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 27 20:20:31 +0000 2021",
+		"id": 1397930424723067000,
+		"id_str": "1398011255089250304",
+		"full_text": "Heidi und Günther Klum streiten um die Markenrechte von Leni Klum. https://t.co/g8ERAEH65b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g8ERAEH65b",
+					"expanded_url": "https://www.turi2.de/aktuell/heidi-und-guenther-klum-streiten-um-die-markenrechte-von-leni-klum/",
+					"display_url": "turi2.de/aktuell/heidi-…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14324983,
+			"id_str": "14324983",
+			"name": "turi2",
+			"screen_name": "turi2",
+			"location": "Germany",
+			"description": "Der Kommunikationsclub: https://t.co/4nkU0usKiH, https://t.co/fD6aR6TI3X, https://t.co/IV0lFqmWZ7, https://t.co/EGxIK01UGf, https://t.co/YJjdWvV655",
+			"url": "https://t.co/dGJcRix4fn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dGJcRix4fn",
+							"expanded_url": "http://www.turi2.de/",
+							"display_url": "turi2.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4nkU0usKiH",
+							"expanded_url": "http://turi2.de/edition14",
+							"display_url": "turi2.de/edition14",
+							"indices": [
+								24,
+								47
+							]
+						},
+						{
+							"url": "https://t.co/fD6aR6TI3X",
+							"expanded_url": "http://turi2.de/newsletter",
+							"display_url": "turi2.de/newsletter",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/IV0lFqmWZ7",
+							"expanded_url": "http://turi2.de/koepfe",
+							"display_url": "turi2.de/koepfe",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/EGxIK01UGf",
+							"expanded_url": "http://turi2.tv",
+							"display_url": "turi2.tv",
+							"indices": [
+								99,
+								122
+							]
+						},
+						{
+							"url": "https://t.co/YJjdWvV655",
+							"expanded_url": "http://turi2.de/clubraum",
+							"display_url": "turi2.de/clubraum",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 45382,
+			"friends_count": 1671,
+			"listed_count": 1448,
+			"created_at": "Mon Apr 07 17:27:13 +0000 2008",
+			"favourites_count": 1344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/699520580597522434/XYdiAJnQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/699520580597522434/XYdiAJnQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14324983/1619517844",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FF0000",
+			"profile_sidebar_fill_color": "F7F2F2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Heidi und Günther Klum streiten um die Markenrechte von Leni Klum. https://t.co/g8ERAEH65b"
+	},
+	{
 		"created_at": "Thu May 27 19:27:22 +0000 2021",
 		"id": 1397997877331476500,
 		"id_str": "1397997877331476485",
