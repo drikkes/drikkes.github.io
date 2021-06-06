@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 06 13:30:19 +0000 2021",
+		"id": 1401525230284255200,
+		"id_str": "1401531902838849536",
+		"full_text": "Slavoj Zizek seems pretty excited about the money he’s saving on cream cheese this week at Kaufland. https://t.co/VakQ8lrsXG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401525219391676400,
+					"id_str": "1401525219391676419",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/E3M3wu2XoAMU2DP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3M3wu2XoAMU2DP.jpg",
+					"url": "https://t.co/VakQ8lrsXG",
+					"display_url": "pic.twitter.com/VakQ8lrsXG",
+					"expanded_url": "https://twitter.com/manwithoutatan/status/1401525230284255235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1535,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401525219391676400,
+					"id_str": "1401525219391676419",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/E3M3wu2XoAMU2DP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3M3wu2XoAMU2DP.jpg",
+					"url": "https://t.co/VakQ8lrsXG",
+					"display_url": "pic.twitter.com/VakQ8lrsXG",
+					"expanded_url": "https://twitter.com/manwithoutatan/status/1401525230284255235/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1535,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 378332141,
+			"id_str": "378332141",
+			"name": "Dr. Bodie A. Ashton",
+			"screen_name": "manwithoutatan",
+			"location": "Germany",
+			"description": "historian | postdoctoral fellow @unierfurt | editor @AncillaryReview | australian by birth | german by choice | very bisexual | he/she/they — anything goes 💜",
+			"url": "https://t.co/sSNHVl3uQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sSNHVl3uQh",
+							"expanded_url": "http://bodie-ashton.de",
+							"display_url": "bodie-ashton.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8012,
+			"friends_count": 1390,
+			"listed_count": 46,
+			"created_at": "Fri Sep 23 01:13:00 +0000 2011",
+			"favourites_count": 23428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FA743E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1370358534542659589/TgUbsMXp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370358534542659589/TgUbsMXp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/378332141/1615553910",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "FFDD00",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 332,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Slavoj Zizek seems pretty excited about the money he’s saving on cream cheese this week at Kaufland. https://t.co/VakQ8lrsXG"
+	},
+	{
 		"created_at": "Sun Jun 06 11:56:30 +0000 2021",
 		"id": 1401508292447375400,
 		"id_str": "1401508292447375369",
