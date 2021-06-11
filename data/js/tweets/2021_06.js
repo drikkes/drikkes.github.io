@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 07:02:14 +0000 2021",
+		"id": 1403080527473696800,
+		"id_str": "1403246176204464128",
+		"full_text": "Political cigarettes from old Turkey. https://t.co/trVuN8T6sr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403080518367858700,
+					"id_str": "1403080518367858698",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/E3i-TDCWUAo1EeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3i-TDCWUAo1EeG.jpg",
+					"url": "https://t.co/trVuN8T6sr",
+					"display_url": "pic.twitter.com/trVuN8T6sr",
+					"expanded_url": "https://twitter.com/kinikli88_ENG/status/1403080527473696774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 916,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403080518367858700,
+					"id_str": "1403080518367858698",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/E3i-TDCWUAo1EeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3i-TDCWUAo1EeG.jpg",
+					"url": "https://t.co/trVuN8T6sr",
+					"display_url": "pic.twitter.com/trVuN8T6sr",
+					"expanded_url": "https://twitter.com/kinikli88_ENG/status/1403080527473696774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 916,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 879080531845107700,
+			"id_str": "879080531845107712",
+			"name": "Suat KINIKLIOGLU",
+			"screen_name": "kinikli88_ENG",
+			"location": "Ankara ",
+			"description": "Former Member of the Turkish Parliament. For Turkish tweets pls follow @kinikli88",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2739,
+			"friends_count": 1398,
+			"listed_count": 36,
+			"created_at": "Sun Jun 25 20:55:06 +0000 2017",
+			"favourites_count": 6869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313597658443939841/uxhz6nls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313597658443939841/uxhz6nls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/879080531845107712/1602020856",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 221,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Political cigarettes from old Turkey. https://t.co/trVuN8T6sr"
+	},
+	{
 		"created_at": "Thu Jun 10 21:01:04 +0000 2021",
 		"id": 1403094887394910200,
 		"id_str": "1403094887394910209",
