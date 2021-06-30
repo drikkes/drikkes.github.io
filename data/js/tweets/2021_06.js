@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 09:08:11 +0000 2021",
+		"id": 1410163244820541400,
+		"id_str": "1410163244820541441",
+		"full_text": "Supersad! https://t.co/6gRilzwT98 😢💦🌊 https://t.co/rckZMGrYEc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6gRilzwT98",
+					"expanded_url": "https://www.smallvictori.es/",
+					"display_url": "smallvictori.es",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/rckZMGrYEc",
+					"expanded_url": "https://twitter.com/SMVIco/status/1400123130689908737",
+					"display_url": "twitter.com/SMVIco/status/…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 160,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1400123130689908700,
+		"quoted_status_id_str": "1400123130689908737",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rckZMGrYEc",
+			"expanded": "https://twitter.com/SMVIco/status/1400123130689908737",
+			"display": "twitter.com/SMVIco/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 02 16:12:22 +0000 2021",
+			"id": 1400123130689908700,
+			"id_str": "1400123130689908737",
+			"full_text": "We’ve got some sad news today: Small Victories will be shutting down on September 1, 2021.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1630654806,
+				"id_str": "1630654806",
+				"name": "Small Victories",
+				"screen_name": "SMVIco",
+				"location": "NYC",
+				"description": "Make websites from the files in your Dropbox. Choose a theme, drop in your files, share your site, customize if you want to.",
+				"url": "http://t.co/F8PQGRA15b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/F8PQGRA15b",
+								"expanded_url": "http://smallvictori.es",
+								"display_url": "smallvictori.es",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1082,
+				"friends_count": 158,
+				"listed_count": 16,
+				"created_at": "Mon Jul 29 16:01:26 +0000 2013",
+				"favourites_count": 328,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 793,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F26C4F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/730816157377126400/SUQ5L1k8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/730816157377126400/SUQ5L1k8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1630654806/1463065690",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Supersad! https://t.co/6gRilzwT98 😢💦🌊 https://t.co/rckZMGrYEc"
+	},
+	{
 		"created_at": "Wed Jun 30 07:35:34 +0000 2021",
 		"id": 1410139936351821800,
 		"id_str": "1410139936351821829",
