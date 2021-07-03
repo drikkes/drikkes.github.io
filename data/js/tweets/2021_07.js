@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 03 05:08:01 +0000 2021",
+		"id": 1411088493858771000,
+		"id_str": "1411189967636905984",
+		"full_text": "„Imagine if Bratwurst could not be moved from Dortmund to Düsseldorf…“ 🙄 https://t.co/E6zqd0D8qJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E6zqd0D8qJ",
+					"expanded_url": "https://twitter.com/andrew_adonis/status/1410980415138152459",
+					"display_url": "twitter.com/andrew_adonis/…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20010934,
+			"id_str": "20010934",
+			"name": "Anja Negendanck",
+			"screen_name": "anegend",
+			"location": "Cologne, Germany",
+			"description": "digital strategy @WDR丨@fortuna_koeln supporter丨love cheese | will one day move to New Zealand丨most definitely not a morning person",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1575,
+			"friends_count": 1140,
+			"listed_count": 73,
+			"created_at": "Tue Feb 03 22:46:39 +0000 2009",
+			"favourites_count": 8388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992520948015337479/LV59pNI__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992520948015337479/LV59pNI__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20010934/1534258146",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1410980415138152400,
+		"quoted_status_id_str": "1410980415138152459",
+		"quoted_status_permalink": {
+			"url": "https://t.co/E6zqd0D8qJ",
+			"expanded": "https://twitter.com/andrew_adonis/status/1410980415138152459",
+			"display": "twitter.com/andrew_adonis/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 02 15:15:20 +0000 2021",
+			"id": 1410980415138152400,
+			"id_str": "1410980415138152459",
+			"full_text": "Where Boris Johnson describes to the Chancellor of Germany the disastrous consequences for the UK of the Brexit he negotiated https://t.co/Zm3TzjI1j5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1410958550474576000,
+						"id_str": "1410958550474575873",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/E5S8HwIXMAQX4Qu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5S8HwIXMAQX4Qu.jpg",
+						"url": "https://t.co/Zm3TzjI1j5",
+						"display_url": "pic.twitter.com/Zm3TzjI1j5",
+						"expanded_url": "https://twitter.com/SkyNews/status/1410959436278022147/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1410959436278022100,
+						"source_status_id_str": "1410959436278022147",
+						"source_user_id": 7587032,
+						"source_user_id_str": "7587032"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1410958550474576000,
+						"id_str": "1410958550474575873",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/E5S8HwIXMAQX4Qu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5S8HwIXMAQX4Qu.jpg",
+						"url": "https://t.co/Zm3TzjI1j5",
+						"display_url": "pic.twitter.com/Zm3TzjI1j5",
+						"expanded_url": "https://twitter.com/SkyNews/status/1410959436278022147/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1410959436278022100,
+						"source_status_id_str": "1410959436278022147",
+						"source_user_id": 7587032,
+						"source_user_id_str": "7587032",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 82320,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1410958550474575873/vid/480x270/8ri3hX7w8CWeeNMG.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1410958550474575873/vid/1280x720/EJy9JK8LX2r7ptCc.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1410958550474575873/vid/640x360/q-Tk77doPXbr1d-K.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1410958550474575873/pl/Q_C8oMjhUFJHor-i.m3u8?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://news.sky.com/"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 7587032,
+								"id_str": "7587032",
+								"name": "Sky News",
+								"screen_name": "SkyNews",
+								"location": "London, UK",
+								"description": "We take you to the heart of the stories that shape our world. \n\nFor breaking news, follow @SkyNewsBreak",
+								"url": "https://t.co/SnOv0usOtw",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/SnOv0usOtw",
+												"expanded_url": "http://news.sky.com/",
+												"display_url": "news.sky.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 7170719,
+								"friends_count": 25,
+								"listed_count": 27734,
+								"created_at": "Thu Jul 19 14:42:53 +0000 2007",
+								"favourites_count": 1,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 468469,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": true,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1400331605974077442/kelepCgF_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1400331605974077442/kelepCgF_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/7587032/1622700167",
+								"profile_link_color": "385FAC",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "EDEDED",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 420366322,
+				"id_str": "420366322",
+				"name": "Andrew Adonis",
+				"screen_name": "Andrew_Adonis",
+				"location": "",
+				"description": "Chair of @euromove. My Prospect newsletter https://t.co/4xmzn11bQc. Latest 📖 ‘Ernest Bevin’",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4xmzn11bQc",
+								"expanded_url": "https://www.prospectmagazine.co.uk/politics/sign-up-to-the-insider",
+								"display_url": "prospectmagazine.co.uk/politics/sign-…",
+								"indices": [
+									43,
+									66
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 150663,
+				"friends_count": 669,
+				"listed_count": 1214,
+				"created_at": "Thu Nov 24 14:46:03 +0000 2011",
+				"favourites_count": 5435,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45723,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EEEEEE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1374880784574734341/6JM-E2RU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374880784574734341/6JM-E2RU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/420366322/1570124483",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "9E291C",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 602,
+			"favorite_count": 2216,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "„Imagine if Bratwurst could not be moved from Dortmund to Düsseldorf…“ 🙄 https://t.co/E6zqd0D8qJ"
+	},
+	{
 		"created_at": "Fri Jul 02 23:04:52 +0000 2021",
 		"id": 1411098577456271400,
 		"id_str": "1411098577456271361",
