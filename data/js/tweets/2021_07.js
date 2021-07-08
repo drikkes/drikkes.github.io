@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 19:28:25 +0000 2021",
+		"id": 1412366669532610600,
+		"id_str": "1413218433123209219",
+		"full_text": "Vor zwei Jahren haben @shacklington, @Anna50350721 &amp; ich fünf Notizbücher auf eine Reise durch Europa geschickt. Wir wussten nicht, ob wir sie je wiedersehen. Sie waren in über 12 Ländern, haben Krieg, Corona und Brexit erlebt und sind alle wieder hier. https://t.co/EUKJYxdW36",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shacklington",
+					"name": "Rosie Shackleton",
+					"id": 2757043175,
+					"id_str": "2757043175",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "Anna50350721",
+					"name": "Annadie50350721ste",
+					"id": 1173508876752380000,
+					"id_str": "1173508876752379904",
+					"indices": [
+						37,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EUKJYxdW36",
+					"expanded_url": "https://wanderbuch.de",
+					"display_url": "wanderbuch.de",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1067793727089983500,
+			"id_str": "1067793727089983489",
+			"name": "die balint",
+			"screen_name": "b_iuditha",
+			"location": "Dortmund, Deutschland",
+			"description": "Klasse, Arbeit, Ökonomie in Literatur, Kunst & Kultur @ Fritz-Hüser-Institut für Literatur & Kultur der Arbeitswelt. Auch sowas wie https://t.co/URuJROPvMU",
+			"url": "https://t.co/voN6k4tAGV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/voN6k4tAGV",
+							"expanded_url": "http://fhi.dortmund.de",
+							"display_url": "fhi.dortmund.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/URuJROPvMU",
+							"expanded_url": "http://wanderbuch.de",
+							"display_url": "wanderbuch.de",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 956,
+			"friends_count": 493,
+			"listed_count": 7,
+			"created_at": "Wed Nov 28 14:53:57 +0000 2018",
+			"favourites_count": 11192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118031586316955649/F03vSr_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118031586316955649/F03vSr_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1067793727089983489/1555394479",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Vor zwei Jahren haben @shacklington, @Anna50350721 &amp; ich fünf Notizbücher auf eine Reise durch Europa geschickt. Wir wussten nicht, ob wir sie je wiedersehen. Sie waren in über 12 Ländern, haben Krieg, Corona und Brexit erlebt und sind alle wieder hier. https://t.co/EUKJYxdW36"
+	},
+	{
 		"created_at": "Thu Jul 08 18:19:22 +0000 2021",
 		"id": 1413201056834756600,
 		"id_str": "1413201056834756617",
