@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 08:01:17 +0000 2021",
+		"id": 1414132672474009600,
+		"id_str": "1414132672474009602",
+		"full_text": "Alte Maklerweisheit: „Immobilienpreise werden nur durch drei Faktoren bestimmt – Lage, Lage, Lage.“ https://t.co/eGmRZ4OhVL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eGmRZ4OhVL",
+					"expanded_url": "https://twitter.com/baudrillardbae/status/1413902440185876487",
+					"display_url": "twitter.com/baudrillardbae…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 160,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91699219,
+				6.96574119
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96574119,
+				50.91699219
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413902440185876500,
+		"quoted_status_id_str": "1413902440185876487",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eGmRZ4OhVL",
+			"expanded": "https://twitter.com/baudrillardbae/status/1413902440185876487",
+			"display": "twitter.com/baudrillardbae…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 10 16:46:25 +0000 2021",
+			"id": 1413902440185876500,
+			"id_str": "1413902440185876487",
+			"full_text": "burj al babas ist ein geisterdorf in bolu/türkei wo fast 600 identische minischlösser gebaut bzw nicht fertiggestellt worden sind und niemand wollte sie kaufen… i wonder why…maybe weils aussieht als wäre in disneyland ein reaktorunfall passiert… https://t.co/RvPHNikffN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1413902434968219600,
+						"id_str": "1413902434968219648",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/E58wxf9XMAAVSMu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E58wxf9XMAAVSMu.jpg",
+						"url": "https://t.co/RvPHNikffN",
+						"display_url": "pic.twitter.com/RvPHNikffN",
+						"expanded_url": "https://twitter.com/baudrillardbae/status/1413902440185876487/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1413902434968219600,
+						"id_str": "1413902434968219648",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/E58wxf9XMAAVSMu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E58wxf9XMAAVSMu.jpg",
+						"url": "https://t.co/RvPHNikffN",
+						"display_url": "pic.twitter.com/RvPHNikffN",
+						"expanded_url": "https://twitter.com/baudrillardbae/status/1413902440185876487/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1017741402812317700,
+				"id_str": "1017741402812317696",
+				"name": "corli soprano",
+				"screen_name": "baudrillardbae",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16769,
+				"friends_count": 928,
+				"listed_count": 33,
+				"created_at": "Fri Jul 13 12:03:53 +0000 2018",
+				"favourites_count": 119153,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30148,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1198721502503407616/i76CsyAm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198721502503407616/i76CsyAm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1017741402812317696/1575637596",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 146,
+			"favorite_count": 2711,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Alte Maklerweisheit: „Immobilienpreise werden nur durch drei Faktoren bestimmt – Lage, Lage, Lage.“ https://t.co/eGmRZ4OhVL"
+	},
+	{
 		"created_at": "Sat Jul 10 11:18:49 +0000 2021",
 		"id": 1413819997625983000,
 		"id_str": "1413819997625982977",
