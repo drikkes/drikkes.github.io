@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 19 13:30:08 +0000 2021",
+		"id": 1417114532980342800,
+		"id_str": "1417114532980342784",
+		"full_text": "- Wie ist der Nachname?\n- Spree.\n- …\n- Wie der Fluß.\n- Haha, Sie müßten nach Berlin…\n- Nein. https://t.co/ozkEP6vzd7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ozkEP6vzd7",
+					"expanded_url": "https://twitter.com/GabrielBerlin/status/1111935245400637440",
+					"display_url": "twitter.com/GabrielBerlin/…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 153,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91709169,
+				6.96590798
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96590798,
+				50.91709169
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1111935245400637400,
+		"quoted_status_id_str": "1111935245400637440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ozkEP6vzd7",
+			"expanded": "https://twitter.com/GabrielBerlin/status/1111935245400637440",
+			"display": "twitter.com/GabrielBerlin/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 30 10:16:35 +0000 2019",
+			"id": 1111935245400637400,
+			"id_str": "1111935245400637440",
+			"full_text": "- Wie ist der Nachname?\n- Yoran. Ypsilon, O wie Otto, R wie Richard, A wie Anton, N wie Nordpol\n- (sucht J)\n- Mit Ypsilon\n- Ich hab Sie nicht im System\n- Der erste Buchstabe ist ein Ypsilon\n- Ah! (sucht J) https://t.co/NI9P0Idio9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NI9P0Idio9",
+						"expanded_url": "https://twitter.com/LichtblauQ/status/1111932915271811072",
+						"display_url": "twitter.com/LichtblauQ/sta…",
+						"indices": [
+							206,
+							229
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14233899,
+				"id_str": "14233899",
+				"name": "Gabriel Yoran 🏳️‍🌈",
+				"screen_name": "GabrielBerlin",
+				"location": "Berlin, Deutschland",
+				"description": "„Lustiger Zeitgenosse auf Twitter“ (SZ). Co-Founder @joinsteady, @steganos. Autor „The Interfact“ (tba), „Klassik verstehen“, „Aussprachehilfen“. er/ihm",
+				"url": "https://t.co/AsPjODbLYa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AsPjODbLYa",
+								"expanded_url": "https://steadyhq.com/de/schleichwege/about",
+								"display_url": "steadyhq.com/de/schleichweg…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7750,
+				"friends_count": 1521,
+				"listed_count": 260,
+				"created_at": "Thu Mar 27 09:18:55 +0000 2008",
+				"favourites_count": 196587,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 136334,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "875022",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1408894034899316738/dkXcsSSy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408894034899316738/dkXcsSSy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14233899/1614791764",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EAD4CD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3078869807f9dd36",
+				"url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+				"place_type": "city",
+				"name": "Berlin",
+				"full_name": "Berlin, Germany",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								13.088304,
+								52.338079
+							],
+							[
+								13.760909,
+								52.338079
+							],
+							[
+								13.760909,
+								52.675323
+							],
+							[
+								13.088304,
+								52.675323
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1111932915271811100,
+			"quoted_status_id_str": "1111932915271811072",
+			"quoted_status_permalink": {
+				"url": "https://t.co/NI9P0Idio9",
+				"expanded": "https://twitter.com/LichtblauQ/status/1111932915271811072",
+				"display": "twitter.com/LichtblauQ/sta…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "- Wie ist der Nachname?\n- Spree.\n- …\n- Wie der Fluß.\n- Haha, Sie müßten nach Berlin…\n- Nein. https://t.co/ozkEP6vzd7"
+	},
+	{
 		"created_at": "Mon Jul 19 11:36:22 +0000 2021",
 		"id": 1417085905349881900,
 		"id_str": "1417085905349881858",
