@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 01:28:24 +0000 2021",
+		"id": 1417657679212912600,
+		"id_str": "1417657679212912642",
+		"full_text": "@DAZN_DE @dazngroup #time2rise @DAZN_DE_Help Waaas??? https://t.co/62S1vDubL6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "time2rise",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DAZN_DE",
+					"name": "DAZN DE",
+					"id": 725354412684750800,
+					"id_str": "725354412684750848",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "dazngroup",
+					"name": "DAZN",
+					"id": 743012834481692700,
+					"id_str": "743012834481692672",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "DAZN_DE_Help",
+					"name": "DAZN HELP DE",
+					"id": 796754454280278000,
+					"id_str": "796754454280278017",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417657673902928000,
+					"id_str": "1417657673902927874",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/E6yIJLIXMAIx9kw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6yIJLIXMAIx9kw.jpg",
+					"url": "https://t.co/62S1vDubL6",
+					"display_url": "pic.twitter.com/62S1vDubL6",
+					"expanded_url": "https://twitter.com/drikkes/status/1417657679212912642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 715,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 715,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417657673902928000,
+					"id_str": "1417657673902927874",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/E6yIJLIXMAIx9kw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6yIJLIXMAIx9kw.jpg",
+					"url": "https://t.co/62S1vDubL6",
+					"display_url": "pic.twitter.com/62S1vDubL6",
+					"expanded_url": "https://twitter.com/drikkes/status/1417657679212912642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 715,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 715,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 725354412684750800,
+		"in_reply_to_user_id_str": "725354412684750848",
+		"in_reply_to_screen_name": "DAZN_DE",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 153,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91702271,
+				6.96580366
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96580366,
+				50.91702271
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@DAZN_DE @dazngroup #time2rise @DAZN_DE_Help Waaas??? https://t.co/62S1vDubL6"
+	},
+	{
 		"created_at": "Tue Jul 20 13:51:29 +0000 2021",
 		"id": 1417482296526086100,
 		"id_str": "1417482296526086154",
