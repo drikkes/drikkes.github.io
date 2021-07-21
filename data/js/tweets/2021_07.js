@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 06:36:34 +0000 2021",
+		"id": 1417691482199412700,
+		"id_str": "1417735233278038018",
+		"full_text": "C H A M P I O N S 🏆 \n\nThe @Bucks claim their first title since 1971! #NBAFinals https://t.co/80WGLIzDr8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NBAFinals",
+					"indices": [
+						69,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bucks",
+					"name": "Milwaukee Bucks",
+					"id": 15900167,
+					"id_str": "15900167",
+					"indices": [
+						26,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417691476058849300,
+					"id_str": "1417691476058849285",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E6ym4t-WQAUMfSn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6ym4t-WQAUMfSn.jpg",
+					"url": "https://t.co/80WGLIzDr8",
+					"display_url": "pic.twitter.com/80WGLIzDr8",
+					"expanded_url": "https://twitter.com/espn/status/1417691482199412739/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417691476058849300,
+					"id_str": "1417691476058849285",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E6ym4t-WQAUMfSn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6ym4t-WQAUMfSn.jpg",
+					"url": "https://t.co/80WGLIzDr8",
+					"display_url": "pic.twitter.com/80WGLIzDr8",
+					"expanded_url": "https://twitter.com/espn/status/1417691482199412739/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2557521,
+			"id_str": "2557521",
+			"name": "ESPN",
+			"screen_name": "espn",
+			"location": "",
+			"description": "Serving sports fans. Anytime. Anywhere.  ⤵️",
+			"url": "https://t.co/ciRHekHbrq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ciRHekHbrq",
+							"expanded_url": "https://es.pn/397IcNY",
+							"display_url": "es.pn/397IcNY",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37169792,
+			"friends_count": 366,
+			"listed_count": 59021,
+			"created_at": "Tue Mar 27 20:46:16 +0000 2007",
+			"favourites_count": 1841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 122759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C8C8C8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2557521/1616426713",
+			"profile_link_color": "CC0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4924,
+		"favorite_count": 20929,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "C H A M P I O N S 🏆 \n\nThe @Bucks claim their first title since 1971! #NBAFinals https://t.co/80WGLIzDr8"
+	},
+	{
 		"created_at": "Wed Jul 21 05:03:16 +0000 2021",
 		"id": 1417711754843500500,
 		"id_str": "1417711754843500549",
