@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 07:38:40 +0000 2021",
+		"id": 1423008368927596500,
+		"id_str": "1423186679767216128",
+		"full_text": "A thread full of Miami Vice bit players. https://t.co/p2wFdWLn3h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p2wFdWLn3h",
+					"expanded_url": "https://twitter.com/DannyDutch/status/1422825829189496833",
+					"display_url": "twitter.com/DannyDutch/sta…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5409812,
+			"id_str": "5409812",
+			"name": "John Dodds",
+			"screen_name": "johndodds",
+			"location": "",
+			"description": "Maximising pith since 2007.",
+			"url": "http://t.co/wHe6LSYzkE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wHe6LSYzkE",
+							"expanded_url": "http://makemarketinghistory.blogspot.com/",
+							"display_url": "makemarketinghistory.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 933,
+			"friends_count": 1858,
+			"listed_count": 52,
+			"created_at": "Sun Apr 22 19:20:51 +0000 2007",
+			"favourites_count": 3448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/52234212/john_pub_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/52234212/john_pub_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1422825829189496800,
+		"quoted_status_id_str": "1422825829189496833",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p2wFdWLn3h",
+			"expanded": "https://twitter.com/DannyDutch/status/1422825829189496833",
+			"display": "twitter.com/DannyDutch/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 04 07:44:47 +0000 2021",
+			"id": 1422825829189496800,
+			"id_str": "1422825829189496833",
+			"full_text": "Al Bundy as a Miami Vice Coke Dealer (1984) https://t.co/Ql6Vrk5UWa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1422825824688935000,
+						"id_str": "1422825824688934917",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/E77kjJHWEAU5ElY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E77kjJHWEAU5ElY.jpg",
+						"url": "https://t.co/Ql6Vrk5UWa",
+						"display_url": "pic.twitter.com/Ql6Vrk5UWa",
+						"expanded_url": "https://twitter.com/DannyDutch/status/1422825829189496833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 746,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 495,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 746,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1422825824688935000,
+						"id_str": "1422825824688934917",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/E77kjJHWEAU5ElY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E77kjJHWEAU5ElY.jpg",
+						"url": "https://t.co/Ql6Vrk5UWa",
+						"display_url": "pic.twitter.com/Ql6Vrk5UWa",
+						"expanded_url": "https://twitter.com/DannyDutch/status/1422825829189496833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 746,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 495,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 746,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20857273,
+				"id_str": "20857273",
+				"name": "Daniel Holland🎗",
+				"screen_name": "DannyDutch",
+				"location": "United Kingdom",
+				"description": "In love with art, nice words, music, design, history and imaginative heists. ▪️ DannyDutch on Instagram ▪️Cover Art by Angus, age 9",
+				"url": "https://t.co/DznChgF88T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DznChgF88T",
+								"expanded_url": "https://www.etsy.com/uk/shop/DannyDutch",
+								"display_url": "etsy.com/uk/shop/DannyD…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51147,
+				"friends_count": 2696,
+				"listed_count": 488,
+				"created_at": "Sat Feb 14 16:52:47 +0000 2009",
+				"favourites_count": 41953,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 84190,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1404800608448692230/Vu6R-Hbv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1404800608448692230/Vu6R-Hbv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20857273/1603580696",
+				"profile_link_color": "11A0D4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5088,
+			"favorite_count": 29370,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A thread full of Miami Vice bit players. https://t.co/p2wFdWLn3h"
+	},
+	{
 		"created_at": "Wed Aug 04 20:54:39 +0000 2021",
 		"id": 1423024605099438000,
 		"id_str": "1423024605099438086",
