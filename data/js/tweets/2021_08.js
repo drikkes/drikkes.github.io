@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 05:42:09 +0000 2021",
+		"id": 1421123608668164000,
+		"id_str": "1423519745538772995",
+		"full_text": "me: I got a ghost I need busted\nfriend: call the ghostbusters \nme: do they have a website or app?\nfriend: no you gotta call\nme: well I guess I’m stuck with this fuckin ghost then",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 202181866,
+			"id_str": "202181866",
+			"name": "J. L. Westover",
+			"screen_name": "MrLovenstein",
+			"location": "",
+			"description": "support me and my silly comics HERE ♥ https://t.co/sHmXCbuEwp",
+			"url": "https://t.co/guaC92QZEN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/guaC92QZEN",
+							"expanded_url": "https://tapas.io/series/MrLovenstein",
+							"display_url": "tapas.io/series/MrLoven…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sHmXCbuEwp",
+							"expanded_url": "http://patreon.com/mrlovenstein",
+							"display_url": "patreon.com/mrlovenstein",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 108365,
+			"friends_count": 249,
+			"listed_count": 649,
+			"created_at": "Wed Oct 13 13:45:20 +0000 2010",
+			"favourites_count": 11826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113041657421815808/4ht7qEz7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113041657421815808/4ht7qEz7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/202181866/1622033664",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 286,
+		"favorite_count": 1735,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "me: I got a ghost I need busted\nfriend: call the ghostbusters \nme: do they have a website or app?\nfriend: no you gotta call\nme: well I guess I’m stuck with this fuckin ghost then"
+	},
+	{
 		"created_at": "Thu Aug 05 15:05:30 +0000 2021",
 		"id": 1423299127174127600,
 		"id_str": "1423299127174127618",
