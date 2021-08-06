@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 06:23:30 +0000 2021",
+		"id": 1423526607285899300,
+		"id_str": "1423530151200055299",
+		"full_text": "EIL: RTL Deutschland übernimmt Gruner + Jahr für 230 Millionen Euro, der Sitz des Verlags bleibt aber weiter in Hamburg. Ziel sei ein \"nationaler Cross-Media-Champion\". Mehr gleich bei DWDL https://t.co/Moedq4GQex https://t.co/pduWmW9Q7d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Moedq4GQex",
+					"expanded_url": "https://www.dwdl.de/nachrichten/83955/fusion_kommt_rtl_uebernimmt_gruner__jahr/",
+					"display_url": "dwdl.de/nachrichten/83…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423526600142991400,
+					"id_str": "1423526600142991370",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Fh5pHXsAonWye.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Fh5pHXsAonWye.jpg",
+					"url": "https://t.co/pduWmW9Q7d",
+					"display_url": "pic.twitter.com/pduWmW9Q7d",
+					"expanded_url": "https://twitter.com/DWDL/status/1423526607285899267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423526600142991400,
+					"id_str": "1423526600142991370",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Fh5pHXsAonWye.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Fh5pHXsAonWye.jpg",
+					"url": "https://t.co/pduWmW9Q7d",
+					"display_url": "pic.twitter.com/pduWmW9Q7d",
+					"expanded_url": "https://twitter.com/DWDL/status/1423526607285899267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14332395,
+			"id_str": "14332395",
+			"name": "Medienmagazin DWDL",
+			"screen_name": "DWDL",
+			"location": "Cologne",
+			"description": "Hier twittert das Team von DWDL.de über den Redaktionsalltag, die Medien und besondere Events",
+			"url": "https://t.co/2GjpHo72Ge",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2GjpHo72Ge",
+							"expanded_url": "http://www.dwdl.de",
+							"display_url": "dwdl.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97342,
+			"friends_count": 133,
+			"listed_count": 1812,
+			"created_at": "Tue Apr 08 13:58:28 +0000 2008",
+			"favourites_count": 2429,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "339933",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408294275121659904/eBoZd8VK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408294275121659904/eBoZd8VK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14332395/1597212527",
+			"profile_link_color": "267F26",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C2D7C0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "EIL: RTL Deutschland übernimmt Gruner + Jahr für 230 Millionen Euro, der Sitz des Verlags bleibt aber weiter in Hamburg. Ziel sei ein \"nationaler Cross-Media-Champion\". Mehr gleich bei DWDL https://t.co/Moedq4GQex https://t.co/pduWmW9Q7d"
+	},
+	{
 		"created_at": "Fri Aug 06 05:42:09 +0000 2021",
 		"id": 1421123608668164000,
 		"id_str": "1423519745538772995",
