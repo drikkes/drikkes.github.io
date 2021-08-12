@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 21:11:44 +0000 2021",
+		"id": 1425928008003694600,
+		"id_str": "1425928008003694596",
+		"full_text": "https://t.co/wkJvYKwTNp https://t.co/13NRnwGyau",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wkJvYKwTNp",
+					"expanded_url": "https://twitter.com/MissChocolatBee/status/1425853022303891457",
+					"display_url": "twitter.com/MissChocolatBe…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425927978018615300,
+					"id_str": "1425927978018615300",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E8np8O0XMAQ-4Yo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8np8O0XMAQ-4Yo.jpg",
+					"url": "https://t.co/13NRnwGyau",
+					"display_url": "pic.twitter.com/13NRnwGyau",
+					"expanded_url": "https://twitter.com/drikkes/status/1425928008003694596/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 170,
+							"h": 170,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 170,
+							"h": 170,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 170,
+							"h": 170,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425927978018615300,
+					"id_str": "1425927978018615300",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E8np8O0XMAQ-4Yo.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8np8O0XMAQ-4Yo.jpg",
+					"url": "https://t.co/13NRnwGyau",
+					"display_url": "pic.twitter.com/13NRnwGyau",
+					"expanded_url": "https://twitter.com/drikkes/status/1425928008003694596/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 170,
+							"h": 170,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 170,
+							"h": 170,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 170,
+							"h": 170,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E8np8O0XMAQ-4Yo.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 153,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.92071533,
+				6.96394006
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96394006,
+				50.92071533
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1425853022303891500,
+		"quoted_status_id_str": "1425853022303891457",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wkJvYKwTNp",
+			"expanded": "https://twitter.com/MissChocolatBee/status/1425853022303891457",
+			"display": "twitter.com/MissChocolatBe…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 12 16:13:46 +0000 2021",
+			"id": 1425853022303891500,
+			"id_str": "1425853022303891457",
+			"full_text": "Post a movie you’ve seen more than 5 times. No explanations. https://t.co/ELKBBIUVf9 https://t.co/ik7h55EOe7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ELKBBIUVf9",
+						"expanded_url": "https://twitter.com/Lam3th/status/1425562077175951363",
+						"display_url": "twitter.com/Lam3th/status/…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1425853015039348700,
+						"id_str": "1425853015039348741",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/E8mlwz9XEAUEcNR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8mlwz9XEAUEcNR.jpg",
+						"url": "https://t.co/ik7h55EOe7",
+						"display_url": "pic.twitter.com/ik7h55EOe7",
+						"expanded_url": "https://twitter.com/MissChocolatBee/status/1425853022303891457/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 244,
+								"h": 120,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 244,
+								"h": 120,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 244,
+								"h": 120,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 120,
+								"h": 120,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1425853015039348700,
+						"id_str": "1425853015039348741",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/E8mlwz9XEAUEcNR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8mlwz9XEAUEcNR.jpg",
+						"url": "https://t.co/ik7h55EOe7",
+						"display_url": "pic.twitter.com/ik7h55EOe7",
+						"expanded_url": "https://twitter.com/MissChocolatBee/status/1425853022303891457/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 244,
+								"h": 120,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 244,
+								"h": 120,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 244,
+								"h": 120,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 120,
+								"h": 120,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								61,
+								30
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/E8mlwz9XEAUEcNR.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 493423964,
+				"id_str": "493423964",
+				"name": "Miss Bee",
+				"screen_name": "MissChocolatBee",
+				"location": "Wonderland",
+				"description": "★ Le fabuleux destin de Miss Bee ★ Books - Music - Movies - Art ★  If you say run, I'll run with you. And if you say hide, we'll hide. (David Bowie) 💜",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 997,
+				"friends_count": 1530,
+				"listed_count": 36,
+				"created_at": "Wed Feb 15 19:50:10 +0000 2012",
+				"favourites_count": 132955,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 63258,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1407871824571023366/Y22D1ab8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407871824571023366/Y22D1ab8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/493423964/1516570558",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1425562077175951400,
+			"quoted_status_id_str": "1425562077175951363",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ELKBBIUVf9",
+				"expanded": "https://twitter.com/Lam3th/status/1425562077175951363",
+				"display": "twitter.com/Lam3th/status/…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/wkJvYKwTNp https://t.co/13NRnwGyau"
+	},
+	{
 		"created_at": "Thu Aug 12 11:13:48 +0000 2021",
 		"id": 1425777535321784300,
 		"id_str": "1425777535321784320",
