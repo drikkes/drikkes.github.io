@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 15 16:14:11 +0000 2021",
+		"id": 1426920610798653400,
+		"id_str": "1426940293048410121",
+		"full_text": "https://t.co/7pEuf8Ux1o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1426920600744890400,
+					"id_str": "1426920600744890378",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E81wueoWEAoT92X.png",
+					"media_url_https": "https://pbs.twimg.com/media/E81wueoWEAoT92X.png",
+					"url": "https://t.co/7pEuf8Ux1o",
+					"display_url": "pic.twitter.com/7pEuf8Ux1o",
+					"expanded_url": "https://twitter.com/MschFr/status/1426920610798653440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 711,
+							"h": 834,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 711,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426920600744890400,
+					"id_str": "1426920600744890378",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E81wueoWEAoT92X.png",
+					"media_url_https": "https://pbs.twimg.com/media/E81wueoWEAoT92X.png",
+					"url": "https://t.co/7pEuf8Ux1o",
+					"display_url": "pic.twitter.com/7pEuf8Ux1o",
+					"expanded_url": "https://twitter.com/MschFr/status/1426920610798653440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 711,
+							"h": 834,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 711,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1426918755590983700,
+		"in_reply_to_status_id_str": "1426918755590983681",
+		"in_reply_to_user_id": 41667393,
+		"in_reply_to_user_id_str": "41667393",
+		"in_reply_to_screen_name": "MschFr",
+		"user": {
+			"id": 41667393,
+			"id_str": "41667393",
+			"name": "Michael",
+			"screen_name": "MschFr",
+			"location": "Freiburg im Breisgau",
+			"description": "irgendwas mit Geschichte und Fahrrädern im Schwarzwald | #freiburg | TweetDelete 3 months",
+			"url": "http://t.co/RY12dvOw2L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/RY12dvOw2L",
+							"expanded_url": "http://www.schmalenstroer.net",
+							"display_url": "schmalenstroer.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384,
+			"friends_count": 1070,
+			"listed_count": 77,
+			"created_at": "Thu May 21 20:17:57 +0000 2009",
+			"favourites_count": 1877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325764157141082112/-OJQKykL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325764157141082112/-OJQKykL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41667393/1347977026",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/7pEuf8Ux1o"
+	},
+	{
 		"created_at": "Sat Aug 14 11:30:24 +0000 2021",
 		"id": 1426506485878689800,
 		"id_str": "1426506485878689794",
