@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 20:22:41 +0000 2021",
+		"id": 1427631754823807000,
+		"id_str": "1427727604908531713",
+		"full_text": "New trailer of \"Star Wars : Visions\", an anthology series of 9 animated short films by various japanese anime creators. Coming on September 22 to Disney+.\nhttps://t.co/qLBTNiM051 https://t.co/O36xCfHhzy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qLBTNiM051",
+					"expanded_url": "https://www.youtube.com/watch?v=jtAsl-0o3O0",
+					"display_url": "youtube.com/watch?v=jtAsl-…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427630402538193000,
+					"id_str": "1427630402538192903",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E8_3rDtVUAA5YYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8_3rDtVUAA5YYa.jpg",
+					"url": "https://t.co/O36xCfHhzy",
+					"display_url": "pic.twitter.com/O36xCfHhzy",
+					"expanded_url": "https://twitter.com/catsuka/status/1427631754823806993/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427630402538193000,
+					"id_str": "1427630402538192903",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E8_3rDtVUAA5YYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8_3rDtVUAA5YYa.jpg",
+					"url": "https://t.co/O36xCfHhzy",
+					"display_url": "pic.twitter.com/O36xCfHhzy",
+					"expanded_url": "https://twitter.com/catsuka/status/1427631754823806993/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 95596,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427630402538192903/pu/vid/480x270/uOZtuKg-IDIVq0MP.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427630402538192903/pu/vid/640x360/6YlGS7MLXl_l_FsI.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427630402538192903/pu/vid/1280x720/LzndPZmSkBrLgSqz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1427630402538192903/pu/pl/1SvNyxJiaVxOzq0N.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40436619,
+			"id_str": "40436619",
+			"name": "Catsuka",
+			"screen_name": "catsuka",
+			"location": "France",
+			"description": "Catsuka is a website about animation (since 2000) run by one guy.\n20th anniversary page : https://t.co/gCCNCeukpM\nPatreon : https://t.co/qMJIbYTNTw",
+			"url": "https://t.co/cPQ2DsOlf6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cPQ2DsOlf6",
+							"expanded_url": "https://www.catsuka.com",
+							"display_url": "catsuka.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gCCNCeukpM",
+							"expanded_url": "http://catsuka.com/20years/",
+							"display_url": "catsuka.com/20years/",
+							"indices": [
+								90,
+								113
+							]
+						},
+						{
+							"url": "https://t.co/qMJIbYTNTw",
+							"expanded_url": "http://patreon.com/catsuka",
+							"display_url": "patreon.com/catsuka",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 109904,
+			"friends_count": 401,
+			"listed_count": 1045,
+			"created_at": "Sat May 16 09:07:20 +0000 2009",
+			"favourites_count": 3957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877998712810860545/s69vpm3k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877998712810860545/s69vpm3k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40436619/1398196951",
+			"profile_link_color": "DC4620",
+			"profile_sidebar_border_color": "36403E",
+			"profile_sidebar_fill_color": "B5C2BF",
+			"profile_text_color": "12312B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1850,
+		"favorite_count": 6819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New trailer of \"Star Wars : Visions\", an anthology series of 9 animated short films by various japanese anime creators. Coming on September 22 to Disney+.\nhttps://t.co/qLBTNiM051 https://t.co/O36xCfHhzy"
+	},
+	{
 		"created_at": "Tue Aug 17 16:53:38 +0000 2021",
 		"id": 1427674995455631400,
 		"id_str": "1427674995455631360",
