@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 16:53:38 +0000 2021",
+		"id": 1427674995455631400,
+		"id_str": "1427674995455631360",
+		"full_text": "Wer möchte sich nicht gerade davon \"inspirieren\" lassen, was sich jemand von Stöer unter \"mutigem Marketing\" vorstellt. https://t.co/0mEuO4LzyC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0mEuO4LzyC",
+					"expanded_url": "https://twitter.com/GWAnews/status/1427536730752704513",
+					"display_url": "twitter.com/GWAnews/status…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 153,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1427536730752704500,
+		"quoted_status_id_str": "1427536730752704513",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0mEuO4LzyC",
+			"expanded": "https://twitter.com/GWAnews/status/1427536730752704513",
+			"display": "twitter.com/GWAnews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 17 07:44:13 +0000 2021",
+			"id": 1427536730752704500,
+			"id_str": "1427536730752704513",
+			"full_text": "Marketing Community BBQ Rheinland am 2.9. live in Düsseldorf! Sommerfest von Marketing Club Düsseldorf, @mckoelnbonn &amp; GWA. U.a. mit Input von Christian v.d. Brincken @stroeercore &amp; Silke Reuter (Haus Rabenhorst). Kostenfreie Anmeldung für Mitglieder: &gt;https://t.co/SCyBHaBeap&lt;",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				291
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mckoelnbonn",
+						"name": "Marketing-Club Koeln/Bonn e.V.",
+						"id": 872082972496756700,
+						"id_str": "872082972496756736",
+						"indices": [
+							104,
+							116
+						]
+					},
+					{
+						"screen_name": "stroeercore",
+						"name": "Ströer CORE",
+						"id": 1358715288443879400,
+						"id_str": "1358715288443879424",
+						"indices": [
+							171,
+							183
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SCyBHaBeap",
+						"expanded_url": "https://bit.ly/3gbl84h",
+						"display_url": "bit.ly/3gbl84h",
+						"indices": [
+							264,
+							287
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26013256,
+				"id_str": "26013256",
+				"name": "GWA News",
+				"screen_name": "GWAnews",
+				"location": "Frankfurt, Germany",
+				"description": "Neuigkeiten vom GWA und GWA Mitgliedsagenturen. Jobangebote von GWA Agenturen gibt es unter @connect_me_now",
+				"url": "http://t.co/q9nHBZCf8H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/q9nHBZCf8H",
+								"expanded_url": "http://www.gwa.de",
+								"display_url": "gwa.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1768,
+				"friends_count": 373,
+				"listed_count": 102,
+				"created_at": "Mon Mar 23 14:44:12 +0000 2009",
+				"favourites_count": 937,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9599,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EEEEEE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1349657044647874561/NfEwLlSJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349657044647874561/NfEwLlSJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26013256/1610618291",
+				"profile_link_color": "007BB8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BFD4E7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Wer möchte sich nicht gerade davon \"inspirieren\" lassen, was sich jemand von Stöer unter \"mutigem Marketing\" vorstellt. https://t.co/0mEuO4LzyC"
+	},
+	{
 		"created_at": "Tue Aug 17 15:19:53 +0000 2021",
 		"id": 1427651404546678800,
 		"id_str": "1427651404546678788",
