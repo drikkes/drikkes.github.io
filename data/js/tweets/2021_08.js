@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 24 08:04:06 +0000 2021",
+		"id": 1430078448081543200,
+		"id_str": "1430078448081543169",
+		"full_text": "Echt jetzt? https://t.co/m2DRRkQQGv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m2DRRkQQGv",
+					"expanded_url": "https://twitter.com/Die_Gruenen/status/1430048659312455697",
+					"display_url": "twitter.com/Die_Gruenen/st…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 153,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91707663,
+				6.96592438
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96592438,
+				50.91707663
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1430048659312455700,
+		"quoted_status_id_str": "1430048659312455697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m2DRRkQQGv",
+			"expanded": "https://twitter.com/Die_Gruenen/status/1430048659312455697",
+			"display": "twitter.com/Die_Gruenen/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 24 06:05:44 +0000 2021",
+			"id": 1430048659312455700,
+			"id_str": "1430048659312455697",
+			"full_text": "Jetzt alles geben, den Aufbruch leben – wir sind bereit. \"Ein schöner Land\" ist möglich.\n👉 GRÜN wählen am 26. September #btw21 oder schon heute per Briefwahl. Für ein klimaneutrales, gerechteres Morgen für alle. https://t.co/Ba434nNc4K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				211
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "btw21",
+						"indices": [
+							120,
+							126
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1430047161899790300,
+						"id_str": "1430047161899790362",
+						"indices": [
+							212,
+							235
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430047161899790362/pu/img/4RQGGTJfjATiKGSt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430047161899790362/pu/img/4RQGGTJfjATiKGSt.jpg",
+						"url": "https://t.co/Ba434nNc4K",
+						"display_url": "pic.twitter.com/Ba434nNc4K",
+						"expanded_url": "https://twitter.com/Die_Gruenen/status/1430048659312455697/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1430047161899790300,
+						"id_str": "1430047161899790362",
+						"indices": [
+							212,
+							235
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430047161899790362/pu/img/4RQGGTJfjATiKGSt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430047161899790362/pu/img/4RQGGTJfjATiKGSt.jpg",
+						"url": "https://t.co/Ba434nNc4K",
+						"display_url": "pic.twitter.com/Ba434nNc4K",
+						"expanded_url": "https://twitter.com/Die_Gruenen/status/1430048659312455697/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 60000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1430047161899790362/pu/vid/540x540/71FUD3JyyyInGI4B.mp4?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1430047161899790362/pu/vid/720x720/XeV3DeyqqM6aih1Z.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1430047161899790362/pu/vid/320x320/cT3YYnPJgCT0Me1Z.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1430047161899790362/pu/pl/WALff4g_saGgsmHa.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14553288,
+				"id_str": "14553288",
+				"name": "BÜNDNIS 90/DIE GRÜNEN",
+				"screen_name": "Die_Gruenen",
+				"location": "Deutschland",
+				"description": "Alles ist drin.\nKomm in unser Wahlkampfteam. Denn nur #MitDir wird's wir. ⬇",
+				"url": "https://t.co/IC7QnI2sIt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IC7QnI2sIt",
+								"expanded_url": "http://www.gruene.de/mitdir",
+								"display_url": "gruene.de/mitdir",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 590394,
+				"friends_count": 6117,
+				"listed_count": 2980,
+				"created_at": "Sun Apr 27 00:06:25 +0000 2008",
+				"favourites_count": 3246,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20590,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1383098271443353611/BgF1-aeb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383098271443353611/BgF1-aeb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14553288/1622738300",
+				"profile_link_color": "097D1C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 189,
+			"favorite_count": 767,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Echt jetzt? https://t.co/m2DRRkQQGv"
+	},
+	{
 		"created_at": "Tue Aug 24 06:41:58 +0000 2021",
 		"id": 1430057779167998000,
 		"id_str": "1430057779167997961",
