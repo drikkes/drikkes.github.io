@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 29 19:31:41 +0000 2021",
+		"id": 1432050036938985500,
+		"id_str": "1432063424549343238",
+		"full_text": "https://t.co/pdI3hoyFU6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1432050031914143700,
+					"id_str": "1432050031914143746",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E9-p6qzUUAIu8Ht.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9-p6qzUUAIu8Ht.jpg",
+					"url": "https://t.co/pdI3hoyFU6",
+					"display_url": "pic.twitter.com/pdI3hoyFU6",
+					"expanded_url": "https://twitter.com/BrandsOwned/status/1432050036938985474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 714,
+							"h": 995,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 995,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432050031914143700,
+					"id_str": "1432050031914143746",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E9-p6qzUUAIu8Ht.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9-p6qzUUAIu8Ht.jpg",
+					"url": "https://t.co/pdI3hoyFU6",
+					"display_url": "pic.twitter.com/pdI3hoyFU6",
+					"expanded_url": "https://twitter.com/BrandsOwned/status/1432050036938985474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 714,
+							"h": 995,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 995,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1357450860247224300,
+			"id_str": "1357450860247224321",
+			"name": "brands getting owned",
+			"screen_name": "BrandsOwned",
+			"location": "",
+			"description": "dismantling capitalism one L at a time. dm submissions or @ me.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 250841,
+			"friends_count": 0,
+			"listed_count": 220,
+			"created_at": "Thu Feb 04 22:08:12 +0000 2021",
+			"favourites_count": 923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357451673036226561/jngPQJC2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357451673036226561/jngPQJC2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1357450860247224321/1620188388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 311,
+		"favorite_count": 4159,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/pdI3hoyFU6"
+	},
+	{
 		"created_at": "Sun Aug 29 14:28:17 +0000 2021",
 		"id": 1431957810724618200,
 		"id_str": "1431987069568667657",
