@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 15:43:32 +0000 2021",
+		"id": 1433807002078093300,
+		"id_str": "1433817948074938368",
+		"full_text": "✨ @disneyplus To Create @KarlLagerfeld Series ‘Kaiser Karl’: https://t.co/SLQ5PfO6B8 https://t.co/T68PZWUU9x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "disneyplus",
+					"name": "Disney+",
+					"id": 985916593065476100,
+					"id_str": "985916593065476096",
+					"indices": [
+						2,
+						13
+					]
+				},
+				{
+					"screen_name": "KarlLagerfeld",
+					"name": "KARL LAGERFELD",
+					"id": 465723566,
+					"id_str": "465723566",
+					"indices": [
+						24,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SLQ5PfO6B8",
+					"expanded_url": "http://bit.ly/3BF182r",
+					"display_url": "bit.ly/3BF182r",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433423648891842600,
+					"id_str": "1433423648891842563",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/E-SLNszXsAMsAuD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-SLNszXsAMsAuD.jpg",
+					"url": "https://t.co/T68PZWUU9x",
+					"display_url": "pic.twitter.com/T68PZWUU9x",
+					"expanded_url": "https://twitter.com/vmagazine/status/1433807002078093313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 911,
+							"h": 605,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 911,
+							"h": 605,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433423648891842600,
+					"id_str": "1433423648891842563",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/E-SLNszXsAMsAuD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-SLNszXsAMsAuD.jpg",
+					"url": "https://t.co/T68PZWUU9x",
+					"display_url": "pic.twitter.com/T68PZWUU9x",
+					"expanded_url": "https://twitter.com/vmagazine/status/1433807002078093313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 911,
+							"h": 605,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 911,
+							"h": 605,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25326324,
+			"id_str": "25326324",
+			"name": "V Magazine",
+			"screen_name": "vmagazine",
+			"location": "New York, NY",
+			"description": "Where pop culture meets fashion.",
+			"url": "https://t.co/rSKYUd6Zkp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rSKYUd6Zkp",
+							"expanded_url": "http://www.vmagazine.com",
+							"display_url": "vmagazine.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 899495,
+			"friends_count": 695,
+			"listed_count": 5907,
+			"created_at": "Thu Mar 19 16:07:54 +0000 2009",
+			"favourites_count": 2859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323375796787023874/9OyRm5rE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323375796787023874/9OyRm5rE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25326324/1630085746",
+			"profile_link_color": "F5C0C8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨ @disneyplus To Create @KarlLagerfeld Series ‘Kaiser Karl’: https://t.co/SLQ5PfO6B8 https://t.co/T68PZWUU9x"
+	},
+	{
 		"created_at": "Fri Sep 03 14:00:29 +0000 2021",
 		"id": 1433792012805984300,
 		"id_str": "1433792012805984288",
