@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 09:17:33 +0000 2021",
+		"id": 1437707080006357000,
+		"id_str": "1437707080006356996",
+		"full_text": "Why, exactly? https://t.co/DsatrfeSZt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DsatrfeSZt",
+					"expanded_url": "https://twitter.com/VVFriedman/status/1437572249398173705",
+					"display_url": "twitter.com/VVFriedman/sta…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 821,
+			"friends_count": 154,
+			"listed_count": 0,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91723619,
+				6.96617866
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96617866,
+				50.91723619
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1437572249398173700,
+		"quoted_status_id_str": "1437572249398173705",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DsatrfeSZt",
+			"expanded": "https://twitter.com/VVFriedman/status/1437572249398173705",
+			"display": "twitter.com/VVFriedman/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 14 00:21:47 +0000 2021",
+			"id": 1437572249398173700,
+			"id_str": "1437572249398173705",
+			"full_text": "Alexandria Ocasio-Cortez attending the $35,000-a-ticket #MetGala in a Brother Vellies gown blaring \"Tax the Rich\" is a complicated proposition. https://t.co/prxOojWxwx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MetGala",
+						"indices": [
+							56,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1437572226719563800,
+						"id_str": "1437572226719563779",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/E_NIUtiWQAMINmC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_NIUtiWQAMINmC.jpg",
+						"url": "https://t.co/prxOojWxwx",
+						"display_url": "pic.twitter.com/prxOojWxwx",
+						"expanded_url": "https://twitter.com/VVFriedman/status/1437572249398173705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 531,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 680,
+								"h": 531,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 531,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1437572226719563800,
+						"id_str": "1437572226719563779",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/E_NIUtiWQAMINmC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_NIUtiWQAMINmC.jpg",
+						"url": "https://t.co/prxOojWxwx",
+						"display_url": "pic.twitter.com/prxOojWxwx",
+						"expanded_url": "https://twitter.com/VVFriedman/status/1437572249398173705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 531,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 680,
+								"h": 531,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 531,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28175824,
+				"id_str": "28175824",
+				"name": "Vanessa Friedman",
+				"screen_name": "VVFriedman",
+				"location": "",
+				"description": "New York Times and INYT fashion director/critic, FT alumna, mother (of 3), flying trapezer, slow-but-happy bike rider, views are all my own",
+				"url": "https://t.co/UmqCI5RSM5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UmqCI5RSM5",
+								"expanded_url": "http://www.nytimes.com",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 168353,
+				"friends_count": 400,
+				"listed_count": 1105,
+				"created_at": "Wed Apr 01 19:36:57 +0000 2009",
+				"favourites_count": 7762,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14307,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000049147877/f8f3b0e8ea12e91072ca533416334fcf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000049147877/f8f3b0e8ea12e91072ca533416334fcf_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2891,
+			"favorite_count": 15220,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why, exactly? https://t.co/DsatrfeSZt"
+	},
+	{
 		"created_at": "Tue Sep 14 07:32:05 +0000 2021",
 		"id": 1437680535678201900,
 		"id_str": "1437680535678201857",
