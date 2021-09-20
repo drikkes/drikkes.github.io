@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 19:56:54 +0000 2021",
+		"id": 1440042303222009900,
+		"id_str": "1440042303222009857",
+		"full_text": "„Miamification“ https://t.co/OU4Y7mb0KO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OU4Y7mb0KO",
+					"expanded_url": "https://germanistik.uni-greifswald.de/institut/arbeitsbereiche/neuere-deutsche-literatur/dfg-projekt-schreibweisen-der-gegenwart/schreibweisen-blog/n/pastellaesthetiken-ueber-miami-in-der-deutschsprachigen-gegenwartsliteratur-72837",
+					"display_url": "germanistik.uni-greifswald.de/institut/arbei…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 821,
+			"friends_count": 154,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "„Miamification“ https://t.co/OU4Y7mb0KO"
+	},
+	{
+		"created_at": "Mon Sep 20 19:40:06 +0000 2021",
+		"id": 1440034990423560200,
+		"id_str": "1440038075724283911",
+		"full_text": "Beans are conversations. https://t.co/PDQzhVvOej",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PDQzhVvOej",
+					"expanded_url": "https://twitter.com/eaonp/status/1440034720885051398",
+					"display_url": "twitter.com/eaonp/status/1…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116246631,
+			"id_str": "116246631",
+			"name": "Marcus John Henry Brown",
+			"screen_name": "MarcusJHBrown",
+			"location": "Munich",
+			"description": "Performance Artist. Born in England. Made in Germany.",
+			"url": "https://t.co/z1SX6FEtSC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z1SX6FEtSC",
+							"expanded_url": "https://www.marcusjohnhenrybrown.com/",
+							"display_url": "marcusjohnhenrybrown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3481,
+			"friends_count": 393,
+			"listed_count": 174,
+			"created_at": "Sun Feb 21 18:53:28 +0000 2010",
+			"favourites_count": 36365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222189445924958208/Pf3IAwUv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222189445924958208/Pf3IAwUv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116246631/1621428996",
+			"profile_link_color": "756033",
+			"profile_sidebar_border_color": "B2B2B2",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1440034720885051400,
+		"quoted_status_id_str": "1440034720885051398",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PDQzhVvOej",
+			"expanded": "https://twitter.com/eaonp/status/1440034720885051398",
+			"display": "twitter.com/eaonp/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 20 19:26:46 +0000 2021",
+			"id": 1440034720885051400,
+			"id_str": "1440034720885051398",
+			"full_text": "RISE OF THE IDIOTS https://t.co/vzwLchyrYx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				18
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1440034716082589700,
+						"id_str": "1440034716082589699",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/E_wH8dRVUAMf6lg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_wH8dRVUAMf6lg.jpg",
+						"url": "https://t.co/vzwLchyrYx",
+						"display_url": "pic.twitter.com/vzwLchyrYx",
+						"expanded_url": "https://twitter.com/eaonp/status/1440034720885051398/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1163,
+								"h": 968,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1163,
+								"h": 968,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 566,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1440034716082589700,
+						"id_str": "1440034716082589699",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/E_wH8dRVUAMf6lg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_wH8dRVUAMf6lg.jpg",
+						"url": "https://t.co/vzwLchyrYx",
+						"display_url": "pic.twitter.com/vzwLchyrYx",
+						"expanded_url": "https://twitter.com/eaonp/status/1440034720885051398/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1163,
+								"h": 968,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1163,
+								"h": 968,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 566,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1860101,
+				"id_str": "1860101",
+				"name": "𝙴𝙰𝙾𝙽✪𝙿𝚁𝙸𝚃𝙲𝙷𝙰𝚁𝙳",
+				"screen_name": "eaonp",
+				"location": "Nowhere, Boredom",
+				"description": "Fintech | Flâneur | Spin Doctor | SLOGANS'R'US | https://t.co/x0Ct2FdDjq | Shot By Both Sides https://t.co/XA3mqlb0IU | Sceptic | Ex-Superstar DJ | AberdeenFC",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/x0Ct2FdDjq",
+								"expanded_url": "http://artsciencetechnology.com",
+								"display_url": "artsciencetechnology.com",
+								"indices": [
+									49,
+									72
+								]
+							},
+							{
+								"url": "https://t.co/XA3mqlb0IU",
+								"expanded_url": "http://amzn.com/1655342916",
+								"display_url": "amzn.com/1655342916",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5043,
+				"friends_count": 1550,
+				"listed_count": 248,
+				"created_at": "Thu Mar 22 11:14:00 +0000 2007",
+				"favourites_count": 12788,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29699,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1419169770843250695/xwqg5QoG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419169770843250695/xwqg5QoG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1860101/1581640423",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beans are conversations. https://t.co/PDQzhVvOej"
+	},
+	{
 		"created_at": "Mon Sep 20 15:10:04 +0000 2021",
 		"id": 1439970120567230500,
 		"id_str": "1439970120567230464",
