@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 09:23:20 +0000 2021",
+		"id": 1437112099277353000,
+		"id_str": "1440245249683513345",
+		"full_text": "They forgot to add the throbbing cock vein to my mars bar. Day ruined. https://t.co/Tv51AvxgYV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437112096831979500,
+					"id_str": "1437112096831979522",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Gl1oIWQAIAxKt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Gl1oIWQAIAxKt.jpg",
+					"url": "https://t.co/Tv51AvxgYV",
+					"display_url": "pic.twitter.com/Tv51AvxgYV",
+					"expanded_url": "https://twitter.com/TungusBusko/status/1437112099277352960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437112096831979500,
+					"id_str": "1437112096831979522",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Gl1oIWQAIAxKt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Gl1oIWQAIAxKt.jpg",
+					"url": "https://t.co/Tv51AvxgYV",
+					"display_url": "pic.twitter.com/Tv51AvxgYV",
+					"expanded_url": "https://twitter.com/TungusBusko/status/1437112099277352960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1349763403657736200,
+			"id_str": "1349763403657736192",
+			"name": "Joelle Tungus",
+			"screen_name": "TungusBusko",
+			"location": "Glasgow, Scotland",
+			"description": "Enby Quarantrans☣️\n\n\nnsfw/sadboi alt: @BrumpoMootsOnly //\n\nI run a Trans-Twitter BloodBowl league, DM me about it 😊\n\nhe/she",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5294,
+			"friends_count": 1453,
+			"listed_count": 11,
+			"created_at": "Thu Jan 14 17:01:03 +0000 2021",
+			"favourites_count": 30792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440141079819407376/RvK8EROf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440141079819407376/RvK8EROf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1349763403657736192/1626188730",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8650,
+		"favorite_count": 80077,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They forgot to add the throbbing cock vein to my mars bar. Day ruined. https://t.co/Tv51AvxgYV"
+	},
+	{
 		"created_at": "Tue Sep 21 08:56:43 +0000 2021",
 		"id": 1440238551518433300,
 		"id_str": "1440238551518433286",
