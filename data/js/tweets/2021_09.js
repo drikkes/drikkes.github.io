@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 30 08:05:26 +0000 2021",
+		"id": 1443272571328290800,
+		"id_str": "1443487136792170498",
+		"full_text": "Haha! https://t.co/HbdVfEYWhn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HbdVfEYWhn",
+					"expanded_url": "https://www.sueddeutsche.de/panorama/daenemark-kuenstler-jens-haaning-leerer-bilderrahmen-1.5425698",
+					"display_url": "sueddeutsche.de/panorama/daene…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3068271,
+			"id_str": "3068271",
+			"name": "Holger Klein",
+			"screen_name": "holgi",
+			"location": "Berlin",
+			"description": "Ich werde von etwas als Behausung benutzt!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39585,
+			"friends_count": 1311,
+			"listed_count": 898,
+			"created_at": "Sat Mar 31 17:56:00 +0000 2007",
+			"favourites_count": 1038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AAAAAA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000697958768/9416e5694e27f39f6ec6f26b69c0dd79_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000697958768/9416e5694e27f39f6ec6f26b69c0dd79_normal.jpeg",
+			"profile_link_color": "636363",
+			"profile_sidebar_border_color": "995858",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "Haha! https://t.co/HbdVfEYWhn"
+	},
+	{
 		"created_at": "Wed Sep 29 09:52:42 +0000 2021",
 		"id": 1443151744289149000,
 		"id_str": "1443151744289148929",
