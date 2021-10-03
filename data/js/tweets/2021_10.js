@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 03 09:46:52 +0000 2021",
+		"id": 1444208417296556000,
+		"id_str": "1444599826558095366",
+		"full_text": "https://t.co/fArlaVlWH7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444208413039284200,
+					"id_str": "1444208413039284225",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FArb5mDWUAErRuR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FArb5mDWUAErRuR.jpg",
+					"url": "https://t.co/fArlaVlWH7",
+					"display_url": "pic.twitter.com/fArlaVlWH7",
+					"expanded_url": "https://twitter.com/DavidAsphalt/status/1444208417296556035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444208413039284200,
+					"id_str": "1444208413039284225",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FArb5mDWUAErRuR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FArb5mDWUAErRuR.jpg",
+					"url": "https://t.co/fArlaVlWH7",
+					"display_url": "pic.twitter.com/fArlaVlWH7",
+					"expanded_url": "https://twitter.com/DavidAsphalt/status/1444208417296556035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197625067,
+			"id_str": "197625067",
+			"name": "David Asphalt",
+			"screen_name": "DavidAsphalt",
+			"location": "New York/Rio/Tokyo",
+			"description": "Just a city boy, born and raised in south Detroit",
+			"url": "https://t.co/Agkf9OOyNG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Agkf9OOyNG",
+							"expanded_url": "http://www.gmfh.de",
+							"display_url": "gmfh.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 573,
+			"listed_count": 18,
+			"created_at": "Sat Oct 02 00:49:35 +0000 2010",
+			"favourites_count": 77282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345789686804078594/yO5CU8QS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345789686804078594/yO5CU8QS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197625067/1544688994",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 407,
+		"favorite_count": 6388,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/fArlaVlWH7"
+	},
+	{
 		"created_at": "Sat Oct 02 20:01:43 +0000 2021",
 		"id": 1444392169134039000,
 		"id_str": "1444392169134039057",
