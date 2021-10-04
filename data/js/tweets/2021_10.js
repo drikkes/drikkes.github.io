@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 04 12:09:37 +0000 2021",
+		"id": 1444998137932812300,
+		"id_str": "1444998137932812297",
+		"full_text": "Während Bento, Zett und so schon wieder Geschichte sind: https://t.co/y5wRaEne6h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y5wRaEne6h",
+					"expanded_url": "https://twitter.com/DWDL/status/1444935637531078659",
+					"display_url": "twitter.com/DWDL/status/14…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 154,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91707891,
+				6.96592514
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96592514,
+				50.91707891
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1444935637531078700,
+		"quoted_status_id_str": "1444935637531078659",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y5wRaEne6h",
+			"expanded": "https://twitter.com/DWDL/status/1444935637531078659",
+			"display": "twitter.com/DWDL/status/14…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 04 08:01:16 +0000 2021",
+			"id": 1444935637531078700,
+			"id_str": "1444935637531078659",
+			"full_text": "Ab sofort: WDR bringt junge Newsmarke tickr im Netz an den Start. https://t.co/sD93k1rnIS https://t.co/VD7LyMNciH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sD93k1rnIS",
+						"expanded_url": "https://www.dwdl.de/nachrichten/84748/wdr_startet_neue_newsmarke_tickr_im_netz/",
+						"display_url": "dwdl.de/nachrichten/84…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1444935624373514200,
+						"id_str": "1444935624373514241",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/FA1xS3YXMAEGtoa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FA1xS3YXMAEGtoa.jpg",
+						"url": "https://t.co/VD7LyMNciH",
+						"display_url": "pic.twitter.com/VD7LyMNciH",
+						"expanded_url": "https://twitter.com/DWDL/status/1444935637531078659/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1444935624373514200,
+						"id_str": "1444935624373514241",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/FA1xS3YXMAEGtoa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FA1xS3YXMAEGtoa.jpg",
+						"url": "https://t.co/VD7LyMNciH",
+						"display_url": "pic.twitter.com/VD7LyMNciH",
+						"expanded_url": "https://twitter.com/DWDL/status/1444935637531078659/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14332395,
+				"id_str": "14332395",
+				"name": "Medienmagazin DWDL",
+				"screen_name": "DWDL",
+				"location": "Cologne",
+				"description": "Hier twittert das Team von DWDL.de über den Redaktionsalltag, die Medien und besondere Events",
+				"url": "https://t.co/2GjpHo72Ge",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2GjpHo72Ge",
+								"expanded_url": "http://www.dwdl.de",
+								"display_url": "dwdl.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 98117,
+				"friends_count": 132,
+				"listed_count": 1820,
+				"created_at": "Tue Apr 08 13:58:28 +0000 2008",
+				"favourites_count": 2453,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 73346,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "339933",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1408294275121659904/eBoZd8VK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408294275121659904/eBoZd8VK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14332395/1597212527",
+				"profile_link_color": "267F26",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C2D7C0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Während Bento, Zett und so schon wieder Geschichte sind: https://t.co/y5wRaEne6h"
+	},
+	{
 		"created_at": "Sun Oct 03 21:39:27 +0000 2021",
 		"id": 1444735509763444700,
 		"id_str": "1444779152117272576",
