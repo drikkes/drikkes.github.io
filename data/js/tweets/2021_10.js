@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 11:47:08 +0000 2021",
+		"id": 1445354866226909200,
+		"id_str": "1445354866226909189",
+		"full_text": "Culture is healing. https://t.co/TYVenU60dQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TYVenU60dQ",
+					"expanded_url": "https://twitter.com/LiuzhuLiu/status/1444993761138728965",
+					"display_url": "twitter.com/LiuzhuLiu/stat…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 154,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91706235,
+				6.96589452
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96589452,
+				50.91706235
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1444993761138729000,
+		"quoted_status_id_str": "1444993761138728965",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TYVenU60dQ",
+			"expanded": "https://twitter.com/LiuzhuLiu/status/1444993761138728965",
+			"display": "twitter.com/LiuzhuLiu/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 04 11:52:13 +0000 2021",
+			"id": 1444993761138729000,
+			"id_str": "1444993761138728965",
+			"full_text": "Global CO2 emissions rebound to pre-COVID level, CO2 in Aug. 2021 is already 1% higher than Aug.2019 and is 6% higher than Aug. 2020. https://t.co/ZnD66sMaFh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1444993549611585500,
+						"id_str": "1444993549611585536",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/FA2l-jtUUAAzJCZ.png",
+						"media_url_https": "https://pbs.twimg.com/media/FA2l-jtUUAAzJCZ.png",
+						"url": "https://t.co/ZnD66sMaFh",
+						"display_url": "pic.twitter.com/ZnD66sMaFh",
+						"expanded_url": "https://twitter.com/LiuzhuLiu/status/1444993761138728965/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 886,
+								"h": 818,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 886,
+								"h": 818,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1444993549611585500,
+						"id_str": "1444993549611585536",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/FA2l-jtUUAAzJCZ.png",
+						"media_url_https": "https://pbs.twimg.com/media/FA2l-jtUUAAzJCZ.png",
+						"url": "https://t.co/ZnD66sMaFh",
+						"display_url": "pic.twitter.com/ZnD66sMaFh",
+						"expanded_url": "https://twitter.com/LiuzhuLiu/status/1444993761138728965/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 886,
+								"h": 818,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 886,
+								"h": 818,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 717755749271674900,
+				"id_str": "717755749271674880",
+				"name": "Zhu Liu",
+				"screen_name": "LiuzhuLiu",
+				"location": "Pasadena, CA",
+				"description": "Associate Professor @Tsinghua_Uni. Associate @Caltech @Harvard. Climate Change, Sustainability, Carbon data. PI and Founder: https://t.co/RCsuLdX6iI & https://t.co/jZQepvdOxO",
+				"url": "https://t.co/mhhBhYuk0d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mhhBhYuk0d",
+								"expanded_url": "http://scholar.harvard.edu/zhu/",
+								"display_url": "scholar.harvard.edu/zhu/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RCsuLdX6iI",
+								"expanded_url": "http://carbonmonitor.org",
+								"display_url": "carbonmonitor.org",
+								"indices": [
+									125,
+									148
+								]
+							},
+							{
+								"url": "https://t.co/jZQepvdOxO",
+								"expanded_url": "http://ceads.net",
+								"display_url": "ceads.net",
+								"indices": [
+									151,
+									174
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1929,
+				"friends_count": 2684,
+				"listed_count": 48,
+				"created_at": "Wed Apr 06 16:48:00 +0000 2016",
+				"favourites_count": 1091,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 516,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801115253119414272/sofm3Q9c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801115253119414272/sofm3Q9c_normal.jpg",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1101,
+			"favorite_count": 2036,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Culture is healing. https://t.co/TYVenU60dQ"
+	},
+	{
 		"created_at": "Tue Oct 05 10:00:56 +0000 2021",
 		"id": 1445328142130991000,
 		"id_str": "1445328142130991106",
