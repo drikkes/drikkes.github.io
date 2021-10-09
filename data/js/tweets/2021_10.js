@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 09 08:11:45 +0000 2021",
+		"id": 1446750216829427700,
+		"id_str": "1446750216829427714",
+		"full_text": "Was? https://t.co/WpT6IZ33UU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WpT6IZ33UU",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1446489312527327257",
+					"display_url": "twitter.com/Die_Reklame/st…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 154,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.55517578,
+				6.24018973
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.24018973,
+				50.55517578
+			]
+		},
+		"place": {
+			"id": "837aa280be84d4ba",
+			"url": "https://api.twitter.com/1.1/geo/id/837aa280be84d4ba.json",
+			"place_type": "city",
+			"name": "Monschau",
+			"full_name": "Monschau, Deutschland",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.174068,
+							50.494326
+						],
+						[
+							6.380219,
+							50.494326
+						],
+						[
+							6.380219,
+							50.6116235
+						],
+						[
+							6.174068,
+							50.6116235
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1446489312527327200,
+		"quoted_status_id_str": "1446489312527327257",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WpT6IZ33UU",
+			"expanded": "https://twitter.com/Die_Reklame/status/1446489312527327257",
+			"display": "twitter.com/Die_Reklame/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 08 14:55:01 +0000 2021",
+			"id": 1446489312527327200,
+			"id_str": "1446489312527327257",
+			"full_text": "Das Plakat, März 1915 https://t.co/oJAEnwapGY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				21
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1446489310828634000,
+						"id_str": "1446489310828634125",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/FBL2XUdXIA0zi2Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBL2XUdXIA0zi2Y.jpg",
+						"url": "https://t.co/oJAEnwapGY",
+						"display_url": "pic.twitter.com/oJAEnwapGY",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1446489312527327257/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 495,
+								"h": 689,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 495,
+								"h": 689,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 489,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1446489310828634000,
+						"id_str": "1446489310828634125",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/FBL2XUdXIA0zi2Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBL2XUdXIA0zi2Y.jpg",
+						"url": "https://t.co/oJAEnwapGY",
+						"display_url": "pic.twitter.com/oJAEnwapGY",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1446489312527327257/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 495,
+								"h": 689,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 495,
+								"h": 689,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 489,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://github.com/spinfo/autoChirp\" rel=\"nofollow\">autoChirper</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 966765831140139000,
+				"id_str": "966765831140139009",
+				"name": "Die Reklame",
+				"screen_name": "Die_Reklame",
+				"location": "",
+				"description": "Historische Werbung. Von @mschfr, @moritz_hoffmann und @CJahnz. Technik von @auto_chirp. Keine Verbindung zu den Firmen, keine Nostalgie für Rassist:innen.",
+				"url": "https://t.co/gelTKNZuqP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gelTKNZuqP",
+								"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+								"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10971,
+				"friends_count": 71,
+				"listed_count": 59,
+				"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+				"favourites_count": 671,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5944,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1326924675369357312/5VZkKrmB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326924675369357312/5VZkKrmB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+				"profile_link_color": "1A1A1A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Was? https://t.co/WpT6IZ33UU"
+	},
+	{
 		"created_at": "Fri Oct 08 10:39:33 +0000 2021",
 		"id": 1446425021698777000,
 		"id_str": "1446425021698777088",
