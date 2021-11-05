@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 11:00:21 +0000 2021",
+		"id": 1456533127543808000,
+		"id_str": "1456577119367188489",
+		"full_text": "merke gerade, dass beim hörbuch zu \"nachrichten von männern\" ein bisschen violine fehlt. https://t.co/2XAt9Ktl4y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2XAt9Ktl4y",
+					"expanded_url": "https://twitter.com/ClaraJeffery/status/1456490047327277056",
+					"display_url": "twitter.com/ClaraJeffery/s…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15788546,
+			"id_str": "15788546",
+			"name": "katja berlin",
+			"screen_name": "katjaberlin",
+			"location": "",
+			"description": "chefin und bestsellerautorin. torten der wahrheit in @DIEZEIT. neuestes buch: https://t.co/lh7A5tHzz2",
+			"url": "https://t.co/G0URqJ6bd9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G0URqJ6bd9",
+							"expanded_url": "http://www.katjaberlin.com",
+							"display_url": "katjaberlin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lh7A5tHzz2",
+							"expanded_url": "https://www.ullstein-buchverlage.de/nc/buch/details/titel-folgt-9783548063782.html",
+							"display_url": "ullstein-buchverlage.de/nc/buch/detail…",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 97474,
+			"friends_count": 634,
+			"listed_count": 955,
+			"created_at": "Sat Aug 09 12:25:52 +0000 2008",
+			"favourites_count": 46937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CFD1D0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363525891985444866/OYVYBc3l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363525891985444866/OYVYBc3l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15788546/1621351122",
+			"profile_link_color": "DC143C",
+			"profile_sidebar_border_color": "629C8C",
+			"profile_sidebar_fill_color": "E1E1E1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1456490047327277000,
+		"quoted_status_id_str": "1456490047327277056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2XAt9Ktl4y",
+			"expanded": "https://twitter.com/ClaraJeffery/status/1456490047327277056",
+			"display": "twitter.com/ClaraJeffery/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 05 05:14:22 +0000 2021",
+			"id": 1456490047327277000,
+			"id_str": "1456490047327277056",
+			"full_text": "🔥💀 https://t.co/2XDRO2dPKq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				2
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1456489919904288800,
+						"id_str": "1456489919904288776",
+						"indices": [
+							3,
+							26
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1456489919904288776/pu/img/2OwgRxlXfq4ZWNBt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1456489919904288776/pu/img/2OwgRxlXfq4ZWNBt.jpg",
+						"url": "https://t.co/2XDRO2dPKq",
+						"display_url": "pic.twitter.com/2XDRO2dPKq",
+						"expanded_url": "https://twitter.com/ClaraJeffery/status/1456490047327277056/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1456489919904288800,
+						"id_str": "1456489919904288776",
+						"indices": [
+							3,
+							26
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1456489919904288776/pu/img/2OwgRxlXfq4ZWNBt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1456489919904288776/pu/img/2OwgRxlXfq4ZWNBt.jpg",
+						"url": "https://t.co/2XDRO2dPKq",
+						"display_url": "pic.twitter.com/2XDRO2dPKq",
+						"expanded_url": "https://twitter.com/ClaraJeffery/status/1456490047327277056/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 67266,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1456489919904288776/pu/vid/320x568/1vXEUEScGctduJYQ.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1456489919904288776/pu/vid/480x852/j5C7e1tCeb0gs71u.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1456489919904288776/pu/pl/3SE_9z5QrYA86H3D.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1456489919904288776/pu/vid/576x1024/GvFndZjLgPi1E882.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43412697,
+				"id_str": "43412697",
+				"name": "Clara Jeffery",
+				"screen_name": "ClaraJeffery",
+				"location": "ÜT: 37.770364,-122.410351",
+				"description": "Editor-in-Chief of Mother Jones. Mom. Upzoning, street tree, and rescue dog enthusiast.",
+				"url": "https://t.co/Qc0aAQ7IMx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Qc0aAQ7IMx",
+								"expanded_url": "http://motherjones.com",
+								"display_url": "motherjones.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 139120,
+				"friends_count": 2333,
+				"listed_count": 2963,
+				"created_at": "Fri May 29 21:22:46 +0000 2009",
+				"favourites_count": 39402,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 232788,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793482716947677188/cgeFNqv__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793482716947677188/cgeFNqv__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43412697/1398196808",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1016,
+			"favorite_count": 3464,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 16,
+		"favorite_count": 349,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "merke gerade, dass beim hörbuch zu \"nachrichten von männern\" ein bisschen violine fehlt. https://t.co/2XAt9Ktl4y"
+	},
+	{
 		"created_at": "Fri Nov 05 08:36:46 +0000 2021",
 		"id": 1456540985601757200,
 		"id_str": "1456540985601757185",
