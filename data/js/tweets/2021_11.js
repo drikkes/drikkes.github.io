@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 20:57:54 +0000 2021",
+		"id": 1460554514596049000,
+		"id_str": "1461076149249925128",
+		"full_text": "Anne-Kathrin Heidrich aus Brandenburg ist die beste Fliesenlegerin Deutschlands 2021! Bei der 70.Deutschen Meisterschaft der Bauberufe, holte die 23-jährige aus Rüthnick (Brandenburg) die Goldmedaille und ist damit die beste Fliesen-, Platten- und Mosaiklegerin Deutschlands 2021. https://t.co/h92vLMc9QU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460554506798833700,
+					"id_str": "1460554506798833670",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FETulejXIAYaFeb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FETulejXIAYaFeb.jpg",
+					"url": "https://t.co/h92vLMc9QU",
+					"display_url": "pic.twitter.com/h92vLMc9QU",
+					"expanded_url": "https://twitter.com/ralfmschumann/status/1460554514596048898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460554506798833700,
+					"id_str": "1460554506798833670",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FETulejXIAYaFeb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FETulejXIAYaFeb.jpg",
+					"url": "https://t.co/h92vLMc9QU",
+					"display_url": "pic.twitter.com/h92vLMc9QU",
+					"expanded_url": "https://twitter.com/ralfmschumann/status/1460554514596048898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 869524620,
+			"id_str": "869524620",
+			"name": "Ralf Schumann",
+			"screen_name": "ralfmschumann",
+			"location": "Berlin, Deutschland",
+			"description": "Vors. LV Berlin-Brandenburg im Zentralverband des Deutschen Baugewerbes (ZDB), Schumann Construction GmbH, Holzbau Deutschland",
+			"url": "https://t.co/jv8yPhCxcQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jv8yPhCxcQ",
+							"expanded_url": "http://zimmerei-berlin.info",
+							"display_url": "zimmerei-berlin.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 407,
+			"listed_count": 3,
+			"created_at": "Tue Oct 09 09:11:26 +0000 2012",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347841077949161475/sq7YT8Vg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347841077949161475/sq7YT8Vg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/869524620/1605342435",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 478,
+		"favorite_count": 6300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Anne-Kathrin Heidrich aus Brandenburg ist die beste Fliesenlegerin Deutschlands 2021! Bei der 70.Deutschen Meisterschaft der Bauberufe, holte die 23-jährige aus Rüthnick (Brandenburg) die Goldmedaille und ist damit die beste Fliesen-, Platten- und Mosaiklegerin Deutschlands 2021. https://t.co/h92vLMc9QU"
+	},
+	{
 		"created_at": "Wed Nov 17 19:03:27 +0000 2021",
 		"id": 1461047350210793500,
 		"id_str": "1461047350210793475",
