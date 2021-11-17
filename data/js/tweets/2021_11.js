@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 15:13:01 +0000 2021",
+		"id": 1460891118887964700,
+		"id_str": "1460989356378923022",
+		"full_text": "CEO Sultan Ahmed Al Jaber is also... Wait for it... The United Arab Emirate's special envoy for climate change! https://t.co/0mRY6bXTB2 https://t.co/fGYT5clDr7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0mRY6bXTB2",
+					"expanded_url": "https://twitter.com/AdnocGroup/status/1460490679730114562",
+					"display_url": "twitter.com/AdnocGroup/sta…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1460891116820181000,
+					"id_str": "1460891116820180996",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYguwmXMAQtqsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYguwmXMAQtqsV.jpg",
+					"url": "https://t.co/fGYT5clDr7",
+					"display_url": "pic.twitter.com/fGYT5clDr7",
+					"expanded_url": "https://twitter.com/skeapspeaks/status/1460891118887964672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460891116820181000,
+					"id_str": "1460891116820180996",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FEYguwmXMAQtqsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEYguwmXMAQtqsV.jpg",
+					"url": "https://t.co/fGYT5clDr7",
+					"display_url": "pic.twitter.com/fGYT5clDr7",
+					"expanded_url": "https://twitter.com/skeapspeaks/status/1460891118887964672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873592616,
+			"id_str": "873592616",
+			"name": "William Skeaping",
+			"screen_name": "skeapspeaks",
+			"location": "London, England",
+			"description": "Climate & ecological activism,\nBoard @ProjectPressure,\nSoundtrack @W_R_K_S,\nPhotos https://t.co/Cu3QP5SQNV,\nCo-editor @ExtinctionR handbook.",
+			"url": "https://t.co/3RYhxJwcj1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3RYhxJwcj1",
+							"expanded_url": "https://www.penguin.co.uk/books/314/314671/this-is-not-a-drill/9780141991443.html",
+							"display_url": "penguin.co.uk/books/314/3146…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Cu3QP5SQNV",
+							"expanded_url": "http://instagram.com/skeapsnaps",
+							"display_url": "instagram.com/skeapsnaps",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1759,
+			"friends_count": 3257,
+			"listed_count": 27,
+			"created_at": "Thu Oct 11 13:07:45 +0000 2012",
+			"favourites_count": 50150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CF4747",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/815735769826492416/zQShPYHu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/815735769826492416/zQShPYHu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873592616/1628359882",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1460490679730114600,
+		"quoted_status_id_str": "1460490679730114562",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0mRY6bXTB2",
+			"expanded": "https://twitter.com/AdnocGroup/status/1460490679730114562",
+			"display": "twitter.com/AdnocGroup/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 16 06:11:27 +0000 2021",
+			"id": 1460490679730114600,
+			"id_str": "1460490679730114562",
+			"full_text": "We’re announcing record-breaking investments of up to $6 billion to support our plans to drill thousands of new wells, as we boost crude production capacity to 5 million barrels per day by 2030 and drive gas self-sufficiency for the UAE. \n\n#EnergyForLife #ADIPEC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EnergyForLife",
+						"indices": [
+							240,
+							254
+						]
+					},
+					{
+						"text": "ADIPEC",
+						"indices": [
+							255,
+							262
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 716903323564118000,
+				"id_str": "716903323564118016",
+				"name": "ADNOC Group",
+				"screen_name": "AdnocGroup",
+				"location": "Abu Dhabi United Arab Emirates",
+				"description": "أحد أكبر منتجي الطاقة، والمحرك الرئيسي للنمو الاقتصادي في دولة الإمارات |⁣ ⁣⁣ Leading energy producer & primary catalyst for the growth of the UAE",
+				"url": "https://t.co/CSywxE5oA9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CSywxE5oA9",
+								"expanded_url": "http://www.adnoc.ae",
+								"display_url": "adnoc.ae",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69154,
+				"friends_count": 174,
+				"listed_count": 175,
+				"created_at": "Mon Apr 04 08:20:46 +0000 2016",
+				"favourites_count": 410,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6371,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/919446129644883968/Bpuq-qBI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/919446129644883968/Bpuq-qBI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/716903323564118016/1573671910",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CEO Sultan Ahmed Al Jaber is also... Wait for it... The United Arab Emirate's special envoy for climate change! https://t.co/0mRY6bXTB2 https://t.co/fGYT5clDr7"
+	},
+	{
 		"created_at": "Wed Nov 17 11:49:40 +0000 2021",
 		"id": 1460938185026932700,
 		"id_str": "1460938185026932737",
