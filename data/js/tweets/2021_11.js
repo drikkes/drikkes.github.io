@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 08:05:58 +0000 2021",
+		"id": 1463056212715573200,
+		"id_str": "1463056212715573248",
+		"full_text": "Bock auf Retro-Synthie-Coverband mit Namen ‚Earth, Wind &amp; Data‘. https://t.co/qz85c9tZZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qz85c9tZZ6",
+					"expanded_url": "https://twitter.com/why0hy/status/1462864258203586561",
+					"display_url": "twitter.com/why0hy/status/…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 816,
+			"friends_count": 154,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91705322,
+				6.96562018
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96562018,
+				50.91705322
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462864258203586600,
+		"quoted_status_id_str": "1462864258203586561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qz85c9tZZ6",
+			"expanded": "https://twitter.com/why0hy/status/1462864258203586561",
+			"display": "twitter.com/why0hy/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 22 19:23:12 +0000 2021",
+			"id": 1462864258203586600,
+			"id_str": "1462864258203586561",
+			"full_text": "From the @europarl_en draft report on #AI in the digital age. This is not (meant to be) a joke.\n#aiact #alchemy https://t.co/lfZU31aQ7K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AI",
+						"indices": [
+							38,
+							41
+						]
+					},
+					{
+						"text": "aiact",
+						"indices": [
+							96,
+							102
+						]
+					},
+					{
+						"text": "alchemy",
+						"indices": [
+							103,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Europarl_EN",
+						"name": "European Parliament",
+						"id": 36329597,
+						"id_str": "36329597",
+						"indices": [
+							9,
+							21
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1462863771513331700,
+						"id_str": "1462863771513331713",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/FE0i2X_XIAErDKE.png",
+						"media_url_https": "https://pbs.twimg.com/media/FE0i2X_XIAErDKE.png",
+						"url": "https://t.co/lfZU31aQ7K",
+						"display_url": "pic.twitter.com/lfZU31aQ7K",
+						"expanded_url": "https://twitter.com/why0hy/status/1462864258203586561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 785,
+								"h": 132,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 114,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 785,
+								"h": 132,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 132,
+								"h": 132,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1462863771513331700,
+						"id_str": "1462863771513331713",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/FE0i2X_XIAErDKE.png",
+						"media_url_https": "https://pbs.twimg.com/media/FE0i2X_XIAErDKE.png",
+						"url": "https://t.co/lfZU31aQ7K",
+						"display_url": "pic.twitter.com/lfZU31aQ7K",
+						"expanded_url": "https://twitter.com/why0hy/status/1462864258203586561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 785,
+								"h": 132,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 114,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 785,
+								"h": 132,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 132,
+								"h": 132,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3152617751,
+				"id_str": "3152617751",
+				"name": "Joe",
+				"screen_name": "why0hy",
+				"location": "",
+				"description": "Runner, digital policy nerd, Patrice Leconte fan. Finished 35th in 2013 Brussels marathon.\nProud to be blocked by #bigtech astroturfing org @datainnovation.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1543,
+				"friends_count": 440,
+				"listed_count": 85,
+				"created_at": "Thu Apr 09 19:54:55 +0000 2015",
+				"favourites_count": 3033,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8378,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1418565094989045768/iQq_B9VU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418565094989045768/iQq_B9VU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3152617751/1562947407",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 107,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Bock auf Retro-Synthie-Coverband mit Namen ‚Earth, Wind &amp; Data‘. https://t.co/qz85c9tZZ6"
+	},
+	{
 		"created_at": "Mon Nov 22 14:04:02 +0000 2021",
 		"id": 1462783937135222800,
 		"id_str": "1462783937135222786",
