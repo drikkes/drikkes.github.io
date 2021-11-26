@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 25 23:46:05 +0000 2021",
+		"id": 1463890845401243600,
+		"id_str": "1464017580147019776",
+		"full_text": "Es gibt offensichtlich auch eine rechte Version der Ästhetik von Mindstate Malibu, Miami-Komplex etc.:\n\nhttps://t.co/1oGYU9O03U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1oGYU9O03U",
+					"expanded_url": "https://www.sueddeutsche.de/medien/memes-fashwave-rechte-ideologie-1.5472372",
+					"display_url": "sueddeutsche.de/medien/memes-f…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214561927151550500,
+			"id_str": "1214561927151550471",
+			"name": "Schreibweisen der Gegenwart (Greifswald)",
+			"screen_name": "ggw_hgw",
+			"location": "Greifswald, Germany",
+			"description": "DFG-Projekt „Schreibweisen der Gegenwart. Zeitreflexion und literarische Verfahren nach der Digitalisierung“. Twittert über Twitter, Literatur und so weiter.",
+			"url": "https://t.co/Q8ogzMmuWp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q8ogzMmuWp",
+							"expanded_url": "https://linktr.ee/ggw_hgw",
+							"display_url": "linktr.ee/ggw_hgw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1340,
+			"friends_count": 396,
+			"listed_count": 6,
+			"created_at": "Tue Jan 07 14:59:15 +0000 2020",
+			"favourites_count": 5788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217388474925506561/KqTs8HVM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217388474925506561/KqTs8HVM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1214561927151550471/1609854916",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Es gibt offensichtlich auch eine rechte Version der Ästhetik von Mindstate Malibu, Miami-Komplex etc.:\n\nhttps://t.co/1oGYU9O03U"
+	},
+	{
 		"created_at": "Thu Nov 25 13:57:39 +0000 2021",
 		"id": 1463869493340524500,
 		"id_str": "1463869493340524548",
