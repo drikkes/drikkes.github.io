@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 26 12:16:14 +0000 2021",
+		"id": 1464206361500262400,
+		"id_str": "1464206361500262402",
+		"full_text": "https://t.co/r68BbxBhst https://t.co/Bch76Q6V1l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r68BbxBhst",
+					"expanded_url": "https://pop-zeitschrift.de/2021/11/22/dabautorvon-fernand-hoerner-autordatum16-11-2021/",
+					"display_url": "pop-zeitschrift.de/2021/11/22/dab…",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/Bch76Q6V1l",
+					"expanded_url": "https://twitter.com/DistortedAd/status/1464161807644475394",
+					"display_url": "twitter.com/DistortedAd/st…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 816,
+			"friends_count": 154,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.72950553,
+				7.10381889
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				7.10381889,
+				50.72950553
+			]
+		},
+		"place": {
+			"id": "e99b714fe65be4fb",
+			"url": "https://api.twitter.com/1.1/geo/id/e99b714fe65be4fb.json",
+			"place_type": "city",
+			"name": "Bonn",
+			"full_name": "Bonn, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							7.022472,
+							50.632531
+						],
+						[
+							7.2107005,
+							50.632531
+						],
+						[
+							7.2107005,
+							50.774412
+						],
+						[
+							7.022472,
+							50.774412
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1464161807644475400,
+		"quoted_status_id_str": "1464161807644475394",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Bch76Q6V1l",
+			"expanded": "https://twitter.com/DistortedAd/status/1464161807644475394",
+			"display": "twitter.com/DistortedAd/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 26 09:19:12 +0000 2021",
+			"id": 1464161807644475400,
+			"id_str": "1464161807644475394",
+			"full_text": "It's Black Friday, everyone.\n\nSubvert by Sasha Kurmaz. https://t.co/aaE6oT4h2W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1464161795090927600,
+						"id_str": "1464161795090927634",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/FFG_ZSoX0BIV2rv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFG_ZSoX0BIV2rv.jpg",
+						"url": "https://t.co/aaE6oT4h2W",
+						"display_url": "pic.twitter.com/aaE6oT4h2W",
+						"expanded_url": "https://twitter.com/DistortedAd/status/1464161807644475394/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1464161795090927600,
+						"id_str": "1464161795090927634",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/FFG_ZSoX0BIV2rv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFG_ZSoX0BIV2rv.jpg",
+						"url": "https://t.co/aaE6oT4h2W",
+						"display_url": "pic.twitter.com/aaE6oT4h2W",
+						"expanded_url": "https://twitter.com/DistortedAd/status/1464161807644475394/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3188490303,
+				"id_str": "3188490303",
+				"name": "AdDistortion",
+				"screen_name": "DistortedAd",
+				"location": "",
+				"description": "All news related to the subverting, hijacking & hacking of advertising spaces. Curated by @thomasdekeyser.\n\nFor a history of #Subvertising: https://t.co/gqE9Yg17xk",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gqE9Yg17xk",
+								"expanded_url": "http://bit.ly/3x3paTC",
+								"display_url": "bit.ly/3x3paTC",
+								"indices": [
+									140,
+									163
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2650,
+				"friends_count": 76,
+				"listed_count": 26,
+				"created_at": "Mon Apr 20 22:09:42 +0000 2015",
+				"favourites_count": 327,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1100,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/590613492576739329/qPx_zez2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/590613492576739329/qPx_zez2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188490303/1595004830",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/r68BbxBhst https://t.co/Bch76Q6V1l"
+	},
+	{
 		"created_at": "Fri Nov 26 07:19:57 +0000 2021",
 		"id": 1464131798133358600,
 		"id_str": "1464131798133358594",
