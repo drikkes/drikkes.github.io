@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 14:17:26 +0000 2021",
+		"id": 1467780221801832400,
+		"id_str": "1467860741105532936",
+		"full_text": "Einschließlich einer hervorragenden Bildbeschreibung und -Analyse des CD-Polohemds aus der Aircraft-Kollektion👇👇👇 https://t.co/4QycR86zGY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4QycR86zGY",
+					"expanded_url": "https://twitter.com/sfb1472/status/1467779339634757636",
+					"display_url": "twitter.com/sfb1472/status…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2869245755,
+			"id_str": "2869245755",
+			"name": "Annekathrin Kohout",
+			"screen_name": "kohout_a",
+			"location": "Leipzig",
+			"description": "Autorin von NETZFEMINISMUS / Bloggt auf https://t.co/8xS2OSle0j / Redakteurin von https://t.co/l9MejbNs9J / Hrsg. von Digitale Bildkulturen @Wagenbach_News",
+			"url": "https://t.co/AAAqChm9GG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AAAqChm9GG",
+							"expanded_url": "https://linktr.ee/annekathrinkohout",
+							"display_url": "linktr.ee/annekathrinkoh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8xS2OSle0j",
+							"expanded_url": "http://sofrischsogut.com",
+							"display_url": "sofrischsogut.com",
+							"indices": [
+								40,
+								63
+							]
+						},
+						{
+							"url": "https://t.co/l9MejbNs9J",
+							"expanded_url": "http://pop-zeitschrift.de",
+							"display_url": "pop-zeitschrift.de",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 604,
+			"listed_count": 25,
+			"created_at": "Sun Nov 09 17:16:23 +0000 2014",
+			"favourites_count": 4871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057225208082427904/UzIadFb0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057225208082427904/UzIadFb0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2869245755/1547820730",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1467779339634757600,
+		"quoted_status_id_str": "1467779339634757636",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4QycR86zGY",
+			"expanded": "https://twitter.com/sfb1472/status/1467779339634757636",
+			"display": "twitter.com/sfb1472/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 06 08:53:59 +0000 2021",
+			"id": 1467779339634757600,
+			"id_str": "1467779339634757636",
+			"full_text": "Das Label CAMP DAVID gilt als Inbegriff des schlechten Geschmacks und wird nicht selten auch als Ausdruck sozialer Verhältnisse aufgefasst. Johannes Wilke zeigt, inwiefern diese paternalistische Perspektive zu einseitig ist: https://t.co/t6Wv34h3d2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/t6Wv34h3d2",
+						"expanded_url": "https://pop-zeitschrift.de/2021/12/06/natuerlich-in-camp-davidautorvon-johannes-wilke-autordatum6-12-2021/",
+						"display_url": "pop-zeitschrift.de/2021/12/06/nat…",
+						"indices": [
+							225,
+							248
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3502399401,
+				"id_str": "3502399401",
+				"name": "● TDP – Transformationen des Populären",
+				"screen_name": "sfb1472",
+				"location": "Siegen, Deutschland",
+				"description": "DFG-SFB 1472 \"Transformationen des Populären\".\nFrüher: Forschungsstelle Populäre Kulturen an der Uni Siegen.\n\nhttps://t.co/oUq4x2rkOT",
+				"url": "https://t.co/vPSjcrDzlw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vPSjcrDzlw",
+								"expanded_url": "http://popkultur.uni-siegen.de",
+								"display_url": "popkultur.uni-siegen.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oUq4x2rkOT",
+								"expanded_url": "http://sfb1472.uni-siegen.de/jahrestagung",
+								"display_url": "sfb1472.uni-siegen.de/jahrestagung",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2036,
+				"friends_count": 245,
+				"listed_count": 16,
+				"created_at": "Mon Aug 31 14:07:18 +0000 2015",
+				"favourites_count": 3540,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1757,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1453991976550944768/22yzO5wW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453991976550944768/22yzO5wW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3502399401/1635493678",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Einschließlich einer hervorragenden Bildbeschreibung und -Analyse des CD-Polohemds aus der Aircraft-Kollektion👇👇👇 https://t.co/4QycR86zGY"
+	},
+	{
 		"created_at": "Mon Dec 06 12:19:56 +0000 2021",
 		"id": 1467831168842322000,
 		"id_str": "1467831168842321922",
