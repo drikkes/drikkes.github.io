@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 08:11:45 +0000 2021",
+		"id": 1468381094189973500,
+		"id_str": "1468855876496900098",
+		"full_text": "how is this tiktok from Capitol rioter Jenna Ryan real\n\nhow https://t.co/S9QK1yHTu7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468381022605783000,
+					"id_str": "1468381022605783040",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468381022605783040/pu/img/P4p42DsbDX1BNYqb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468381022605783040/pu/img/P4p42DsbDX1BNYqb.jpg",
+					"url": "https://t.co/S9QK1yHTu7",
+					"display_url": "pic.twitter.com/S9QK1yHTu7",
+					"expanded_url": "https://twitter.com/jd_durkin/status/1468381094189973506/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468381022605783000,
+					"id_str": "1468381022605783040",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468381022605783040/pu/img/P4p42DsbDX1BNYqb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468381022605783040/pu/img/P4p42DsbDX1BNYqb.jpg",
+					"url": "https://t.co/S9QK1yHTu7",
+					"display_url": "pic.twitter.com/S9QK1yHTu7",
+					"expanded_url": "https://twitter.com/jd_durkin/status/1468381094189973506/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 93933,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468381022605783040/pu/vid/576x1024/HYufoBQQJ47EcpFD.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468381022605783040/pu/vid/480x852/8BoBjkwhdIfYMeLz.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468381022605783040/pu/vid/320x568/Buty9OO0LR-gVQSY.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468381022605783040/pu/pl/rUPn29Wbs2Qwj8Uh.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45511031,
+			"id_str": "45511031",
+			"name": "j.d. durkin 🌱",
+			"screen_name": "jd_durkin",
+			"location": " 🌍",
+			"description": "politics and news and yadda yadda, just be nice to people",
+			"url": "https://t.co/mNh89jPGPI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mNh89jPGPI",
+							"expanded_url": "http://instagram.com/jd_durkin",
+							"display_url": "instagram.com/jd_durkin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28506,
+			"friends_count": 4404,
+			"listed_count": 419,
+			"created_at": "Mon Jun 08 05:59:10 +0000 2009",
+			"favourites_count": 15751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468740131360280587/hQRlY8jS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468740131360280587/hQRlY8jS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45511031/1622238426",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 386,
+		"favorite_count": 3326,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "how is this tiktok from Capitol rioter Jenna Ryan real\n\nhow https://t.co/S9QK1yHTu7"
+	},
+	{
 		"created_at": "Thu Dec 09 07:51:15 +0000 2021",
 		"id": 1468850714936070100,
 		"id_str": "1468850714936070149",
