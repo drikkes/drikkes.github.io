@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 20:58:24 +0000 2021",
+		"id": 1468915355720556500,
+		"id_str": "1469048808218759174",
+		"full_text": "Ein erster Zwischenstand zur „Literatur nach der Digitalisierung“ aus dem Forschungsprojekt @ggw_hgw, herausgegeben von Eckhard Schumacher und mir – hier frei verfügbar: \n\nhttps://t.co/9hGUytUAXL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ggw_hgw",
+					"name": "Schreibweisen der Gegenwart (Greifswald)",
+					"id": 1214561927151550500,
+					"id_str": "1214561927151550471",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9hGUytUAXL",
+					"expanded_url": "https://www.degruyter.com/document/doi/10.1515/9783110758603/html",
+					"display_url": "degruyter.com/document/doi/1…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1642665811,
+			"id_str": "1642665811",
+			"name": "elias kreuzmair",
+			"screen_name": "KRZMR",
+			"location": "Berlin / Greifswald",
+			"description": "Postdoc @ggw_hgw 🫐 Pop | Literatur | Theorie | Lesen 🥥 @BCHanbot2",
+			"url": "https://t.co/ZMmevR5UUD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZMmevR5UUD",
+							"expanded_url": "http://eliaskreuzmair.de",
+							"display_url": "eliaskreuzmair.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 751,
+			"friends_count": 698,
+			"listed_count": 9,
+			"created_at": "Sat Aug 03 11:24:47 +0000 2013",
+			"favourites_count": 23006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388562462337871880/E_fir_N8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388562462337871880/E_fir_N8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1642665811/1403267458",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Ein erster Zwischenstand zur „Literatur nach der Digitalisierung“ aus dem Forschungsprojekt @ggw_hgw, herausgegeben von Eckhard Schumacher und mir – hier frei verfügbar: \n\nhttps://t.co/9hGUytUAXL"
+	},
+	{
 		"created_at": "Thu Dec 09 19:47:59 +0000 2021",
 		"id": 1469031087062102000,
 		"id_str": "1469031087062102016",
