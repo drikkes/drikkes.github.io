@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 15:54:50 +0000 2021",
+		"id": 1470421967996178400,
+		"id_str": "1470421967996178435",
+		"full_text": "John C. Reilly ohne Löckchen und Adrien Brody als Pat Riley. Muß ich sehen. https://t.co/aGCfebBNBt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aGCfebBNBt",
+					"expanded_url": "https://twitter.com/HBO/status/1468988820754509834",
+					"display_url": "twitter.com/HBO/status/146…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 817,
+			"friends_count": 154,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468988820754509800,
+		"quoted_status_id_str": "1468988820754509834",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aGCfebBNBt",
+			"expanded": "https://twitter.com/HBO/status/1468988820754509834",
+			"display": "twitter.com/HBO/status/146…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 09 17:00:02 +0000 2021",
+			"id": 1468988820754509800,
+			"id_str": "1468988820754509834",
+			"full_text": "Style. Pizzazz. Basketball.\n\n#WinningTime, a new @HBO original series from Adam McKay, comes to @HBOMax in March. https://t.co/1Rc3A362Nb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WinningTime",
+						"indices": [
+							29,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HBO",
+						"name": "HBO",
+						"id": 15635604,
+						"id_str": "15635604",
+						"indices": [
+							49,
+							53
+						]
+					},
+					{
+						"screen_name": "hbomax",
+						"name": "HBO Max",
+						"id": 89090040,
+						"id_str": "89090040",
+						"indices": [
+							96,
+							103
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1468978673738993700,
+						"id_str": "1468978673738993669",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/FGLdhiwXIAQgZAk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGLdhiwXIAQgZAk.jpg",
+						"url": "https://t.co/1Rc3A362Nb",
+						"display_url": "pic.twitter.com/1Rc3A362Nb",
+						"expanded_url": "https://twitter.com/HBO/status/1468988820754509834/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 89090040,
+						"source_user_id_str": "89090040"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1468978673738993700,
+						"id_str": "1468978673738993669",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/FGLdhiwXIAQgZAk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGLdhiwXIAQgZAk.jpg",
+						"url": "https://t.co/1Rc3A362Nb",
+						"display_url": "pic.twitter.com/1Rc3A362Nb",
+						"expanded_url": "https://twitter.com/HBO/status/1468988820754509834/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"source_user_id": 89090040,
+						"source_user_id_str": "89090040",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 96930,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1468978673738993669/pl/mDxQbpY5wtFpodkK.m3u8?tag=14&container=fmp4&v=cbb"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1468978673738993669/vid/640x360/PHPyJAo-v7Cr5Y-h.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1468978673738993669/vid/480x270/ktM_gLgWpF1fU_Dh.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1468978673738993669/vid/1280x720/mS9v4zKknF_FnmNs.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Winning Time | Teaser",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 89090040,
+								"id_str": "89090040",
+								"name": "HBO Max",
+								"screen_name": "hbomax",
+								"location": "The Matrix ",
+								"description": "Now streaming all your faves and so much more. Need support? We're here for you: @HBOMaxHelp. Learn if you have access 👇",
+								"url": "https://t.co/jAS0hR5r8C",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/jAS0hR5r8C",
+												"expanded_url": "http://hbom.ax/do-i-have-access",
+												"display_url": "hbom.ax/do-i-have-acce…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 630926,
+								"friends_count": 769,
+								"listed_count": 2103,
+								"created_at": "Wed Nov 11 02:51:54 +0000 2009",
+								"favourites_count": 4859,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 15350,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "343D42",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1465786982047662088/SdrI632H_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465786982047662088/SdrI632H_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/89090040/1638810005",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "7A7A7A",
+								"profile_sidebar_fill_color": "E4EDF2",
+								"profile_text_color": "4D4D4D",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15635604,
+				"id_str": "15635604",
+				"name": "HBO",
+				"screen_name": "HBO",
+				"location": "",
+				"description": "Stream all of HBO on @HBOMax.",
+				"url": "https://t.co/RYtCE9RJNv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RYtCE9RJNv",
+								"expanded_url": "https://linktr.ee/hbo",
+								"display_url": "linktr.ee/hbo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2884059,
+				"friends_count": 806,
+				"listed_count": 12613,
+				"created_at": "Mon Jul 28 18:30:12 +0000 2008",
+				"favourites_count": 20276,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 54007,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1F1F1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1443927056304250887/eQGXDQcL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443927056304250887/eQGXDQcL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15635604/1633094012",
+				"profile_link_color": "2160A3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252525",
+				"profile_text_color": "757075",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6658,
+			"favorite_count": 29417,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "John C. Reilly ohne Löckchen und Adrien Brody als Pat Riley. Muß ich sehen. https://t.co/aGCfebBNBt"
+	},
+	{
 		"created_at": "Mon Dec 13 12:34:19 +0000 2021",
 		"id": 1470371505645183000,
 		"id_str": "1470371505645182981",
