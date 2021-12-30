@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 30 09:53:08 +0000 2021",
+		"id": 1476491534249906200,
+		"id_str": "1476491534249906177",
+		"full_text": "Meinten Sie: Ausatmen in Bayern https://t.co/OWh5lf9U8g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OWh5lf9U8g",
+					"expanded_url": "https://twitter.com/wuv/status/1476232875326509059",
+					"display_url": "twitter.com/wuv/status/147…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 815,
+			"friends_count": 154,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1476232875326509000,
+		"quoted_status_id_str": "1476232875326509059",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OWh5lf9U8g",
+			"expanded": "https://twitter.com/wuv/status/1476232875326509059",
+			"display": "twitter.com/wuv/status/147…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 29 16:45:19 +0000 2021",
+			"id": 1476232875326509000,
+			"id_str": "1476232875326509059",
+			"full_text": "Das aufwändige Kontrollieren der Impfpässe hat für @hmdeutschland , @ZARA , @benetton ein Ende. Zumindest in Bayern. https://t.co/MLD5soJqvd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hmdeutschland",
+						"name": "H&M Deutschland",
+						"id": 98631176,
+						"id_str": "98631176",
+						"indices": [
+							51,
+							65
+						]
+					},
+					{
+						"screen_name": "ZARA",
+						"name": "ZARA",
+						"id": 346742249,
+						"id_str": "346742249",
+						"indices": [
+							68,
+							73
+						]
+					},
+					{
+						"screen_name": "benetton",
+						"name": "Benetton",
+						"id": 23959878,
+						"id_str": "23959878",
+						"indices": [
+							76,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MLD5soJqvd",
+						"expanded_url": "https://www.wuv.de/marketing/aufatmen_in_bayern_2g_gilt_nicht_fuer_kleiderlaeden",
+						"display_url": "wuv.de/marketing/aufa…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34911230,
+				"id_str": "34911230",
+				"name": "W&V",
+				"screen_name": "wuv",
+				"location": "Munich, Germany",
+				"description": "W&V ist die Informationsplattform der Kommunikationsbranche für Interessierte in Marketing, Agenturen und Medien. Impressum: https://t.co/JcrxTYPreG",
+				"url": "https://t.co/QIJYRdNf8i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QIJYRdNf8i",
+								"expanded_url": "https://www.wuv.de/",
+								"display_url": "wuv.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JcrxTYPreG",
+								"expanded_url": "http://wuv.de/info/impressum",
+								"display_url": "wuv.de/info/impressum",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 107796,
+				"friends_count": 15130,
+				"listed_count": 2446,
+				"created_at": "Fri Apr 24 12:24:00 +0000 2009",
+				"favourites_count": 937,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 49022,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8AC203",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1468601579448242180/0ZzrF7y6_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468601579448242180/0ZzrF7y6_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34911230/1639743282",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "D2DADA",
+				"profile_sidebar_fill_color": "E6E6E6",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Meinten Sie: Ausatmen in Bayern https://t.co/OWh5lf9U8g"
+	},
+	{
 		"created_at": "Thu Dec 30 07:25:38 +0000 2021",
 		"id": 1476454415825580000,
 		"id_str": "1476454415825580034",
