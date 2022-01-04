@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 14:02:06 +0000 2022",
+		"id": 1478291124510986200,
+		"id_str": "1478366128145584131",
+		"full_text": "Die Todesumstände des Rappers Biggie Smalls sind nie geklärt worden. Die leitenden Kriminalbeamten der Strafverfolgung in LA wissen möglicherweise mehr, als sie bislang zugegeben haben. \n\nhttps://t.co/BoSLT1Qnjh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BoSLT1Qnjh",
+					"expanded_url": "https://jacobin.de/artikel/notorious-big-biggie-smalls-polizei-mord-hiphop-rap-diddy-tupac-shakur-fbi/",
+					"display_url": "jacobin.de/artikel/notori…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 915971477819854800,
+			"id_str": "915971477819854849",
+			"name": "Jacobin Magazin",
+			"screen_name": "jacobinmag_de",
+			"location": "Berlin, Germany",
+			"description": "Jacobin ist eine führende Publikation der sozialistischen Linken. Jetzt abonnieren: ✨ https://t.co/Y2kzi89cz5 ✨",
+			"url": "https://t.co/JIYCr6zObx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JIYCr6zObx",
+							"expanded_url": "http://www.jacobin.de",
+							"display_url": "jacobin.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Y2kzi89cz5",
+							"expanded_url": "http://jacobin.de/abo",
+							"display_url": "jacobin.de/abo",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16545,
+			"friends_count": 340,
+			"listed_count": 124,
+			"created_at": "Thu Oct 05 16:06:33 +0000 2017",
+			"favourites_count": 1052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187336697035526144/-XOWPWTQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187336697035526144/-XOWPWTQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/915971477819854849/1641040493",
+			"profile_link_color": "E30613",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Die Todesumstände des Rappers Biggie Smalls sind nie geklärt worden. Die leitenden Kriminalbeamten der Strafverfolgung in LA wissen möglicherweise mehr, als sie bislang zugegeben haben. \n\nhttps://t.co/BoSLT1Qnjh"
+	},
+	{
 		"created_at": "Tue Jan 04 11:18:06 +0000 2022",
 		"id": 1478324854982074400,
 		"id_str": "1478324854982074370",
