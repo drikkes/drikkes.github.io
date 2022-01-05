@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 05 22:17:51 +0000 2022",
+		"id": 1478807603719262200,
+		"id_str": "1478853274715533321",
+		"full_text": "Here is the FULL trailer for PAM AND TOMMY! https://t.co/NnY89r711b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478807560010420200,
+					"id_str": "1478807560010420229",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478807560010420229/pu/img/zs1-JW0Pzilm-4Va.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478807560010420229/pu/img/zs1-JW0Pzilm-4Va.jpg",
+					"url": "https://t.co/NnY89r711b",
+					"display_url": "pic.twitter.com/NnY89r711b",
+					"expanded_url": "https://twitter.com/Sethrogen/status/1478807603719262208/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478807560010420200,
+					"id_str": "1478807560010420229",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478807560010420229/pu/img/zs1-JW0Pzilm-4Va.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478807560010420229/pu/img/zs1-JW0Pzilm-4Va.jpg",
+					"url": "https://t.co/NnY89r711b",
+					"display_url": "pic.twitter.com/NnY89r711b",
+					"expanded_url": "https://twitter.com/Sethrogen/status/1478807603719262208/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"duration_millis": 105960,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1478807560010420229/pu/pl/a4gxrcaMLFhCRCAs.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478807560010420229/pu/vid/960x480/Gzs2AgTQby82wMBj.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478807560010420229/pu/vid/540x270/AkATCIcHPy6AxzSI.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478807560010420229/pu/vid/720x360/CRYySk1JPaCU1CG2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 443215941,
+			"id_str": "443215941",
+			"name": "Seth Rogen",
+			"screen_name": "Sethrogen",
+			"location": "",
+			"description": "I... Tweet!!!!!!",
+			"url": "https://t.co/bpmWY6O91Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bpmWY6O91Y",
+							"expanded_url": "https://bit.ly/2Jw8QpP",
+							"display_url": "bit.ly/2Jw8QpP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9271466,
+			"friends_count": 1834,
+			"listed_count": 10968,
+			"created_at": "Wed Dec 21 23:17:52 +0000 2011",
+			"favourites_count": 53813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/500459292781449216/yhdYeWHt_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/500459292781449216/yhdYeWHt_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/443215941/1411512391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 686,
+		"favorite_count": 7457,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is the FULL trailer for PAM AND TOMMY! https://t.co/NnY89r711b"
+	},
+	{
 		"created_at": "Wed Jan 05 18:27:43 +0000 2022",
 		"id": 1478795363310084000,
 		"id_str": "1478795363310084105",
