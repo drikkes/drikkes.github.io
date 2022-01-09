@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 09 19:29:41 +0000 2022",
+		"id": 1480253786786603000,
+		"id_str": "1480260507944816646",
+		"full_text": "Verstärkung ab Montag: Lisa Loch wird Moderatorin bei „Bild Live“ https://t.co/XC4NUDUg9K https://t.co/FHI7vgZWKI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XC4NUDUg9K",
+					"expanded_url": "https://www.dwdl.de/nachrichten/86058/verstaerkung_ab_montag_neue_moderatorin_fuer_bild_live/",
+					"display_url": "dwdl.de/nachrichten/86…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480253775310999600,
+					"id_str": "1480253775310999552",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FIrq90bX0AAXpiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIrq90bX0AAXpiD.jpg",
+					"url": "https://t.co/FHI7vgZWKI",
+					"display_url": "pic.twitter.com/FHI7vgZWKI",
+					"expanded_url": "https://twitter.com/DWDL/status/1480253786786603011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480253775310999600,
+					"id_str": "1480253775310999552",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FIrq90bX0AAXpiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIrq90bX0AAXpiD.jpg",
+					"url": "https://t.co/FHI7vgZWKI",
+					"display_url": "pic.twitter.com/FHI7vgZWKI",
+					"expanded_url": "https://twitter.com/DWDL/status/1480253786786603011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 289,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14332395,
+			"id_str": "14332395",
+			"name": "Medienmagazin DWDL",
+			"screen_name": "DWDL",
+			"location": "Cologne",
+			"description": "Hier twittert das Team von DWDL.de über den Redaktionsalltag, die Medien und besondere Events",
+			"url": "https://t.co/2GjpHo72Ge",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2GjpHo72Ge",
+							"expanded_url": "http://www.dwdl.de",
+							"display_url": "dwdl.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99457,
+			"friends_count": 135,
+			"listed_count": 1822,
+			"created_at": "Tue Apr 08 13:58:28 +0000 2008",
+			"favourites_count": 2560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 74650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "339933",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408294275121659904/eBoZd8VK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408294275121659904/eBoZd8VK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14332395/1597212527",
+			"profile_link_color": "267F26",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C2D7C0",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Verstärkung ab Montag: Lisa Loch wird Moderatorin bei „Bild Live“ https://t.co/XC4NUDUg9K https://t.co/FHI7vgZWKI"
+	},
+	{
 		"created_at": "Sun Jan 09 18:29:35 +0000 2022",
 		"id": 1480245380956762000,
 		"id_str": "1480245380956762133",
