@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 11 15:15:27 +0000 2022",
+		"id": 1468381143179440000,
+		"id_str": "1480921304144433159",
+		"full_text": "bad news for philosophy departments returning to in-person classes 😔 https://t.co/AFSEtJcwYh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AFSEtJcwYh",
+					"expanded_url": "https://twitter.com/nypost/status/1468330804430479379",
+					"display_url": "twitter.com/nypost/status/…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1015613909900910600,
+			"id_str": "1015613909900910592",
+			"name": "Tender Lettuce 🥬",
+			"screen_name": "tenderlettuce",
+			"location": "she/her",
+			"description": "PhD student in philosophy: currently thinking about political philosophy, discrimination theory, lucrezia marinella, and mary astell 📚🪴✨",
+			"url": "https://t.co/WXmV3i16Jr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WXmV3i16Jr",
+							"expanded_url": "https://m.soundcloud.com/tyralennie",
+							"display_url": "m.soundcloud.com/tyralennie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1145,
+			"friends_count": 516,
+			"listed_count": 5,
+			"created_at": "Sat Jul 07 15:10:00 +0000 2018",
+			"favourites_count": 13565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476679752681414667/JG8h1dkI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476679752681414667/JG8h1dkI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1015613909900910592/1617848078",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468330804430479400,
+		"quoted_status_id_str": "1468330804430479379",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AFSEtJcwYh",
+			"expanded": "https://twitter.com/nypost/status/1468330804430479379",
+			"display": "twitter.com/nypost/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 07 21:25:18 +0000 2021",
+			"id": 1468330804430479400,
+			"id_str": "1468330804430479379",
+			"full_text": "COVID-19 spread more by men, loud talkers: study https://t.co/mNRCEVHirr https://t.co/os1CSuZmss",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mNRCEVHirr",
+						"expanded_url": "https://trib.al/WoVsGdV",
+						"display_url": "trib.al/WoVsGdV",
+						"indices": [
+							49,
+							72
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1468330802488520700,
+						"id_str": "1468330802488520712",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/FGCPFdcXsAgDjlJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGCPFdcXsAgDjlJ.jpg",
+						"url": "https://t.co/os1CSuZmss",
+						"display_url": "pic.twitter.com/os1CSuZmss",
+						"expanded_url": "https://twitter.com/nypost/status/1468330804430479379/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1468330802488520700,
+						"id_str": "1468330802488520712",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/FGCPFdcXsAgDjlJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGCPFdcXsAgDjlJ.jpg",
+						"url": "https://t.co/os1CSuZmss",
+						"display_url": "pic.twitter.com/os1CSuZmss",
+						"expanded_url": "https://twitter.com/nypost/status/1468330804430479379/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17469289,
+				"id_str": "17469289",
+				"name": "New York Post",
+				"screen_name": "nypost",
+				"location": "New York, NY",
+				"description": "Breaking news & features from The New York Post. Follow your favorite sections: @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion",
+				"url": "https://t.co/MwyanWdKnl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MwyanWdKnl",
+								"expanded_url": "http://www.nypost.com",
+								"display_url": "nypost.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2378938,
+				"friends_count": 11046,
+				"listed_count": 20188,
+				"created_at": "Tue Nov 18 19:46:36 +0000 2008",
+				"favourites_count": 1944,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 443471,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17469289/1444326181",
+				"profile_link_color": "CC3333",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 195,
+			"favorite_count": 763,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 279,
+		"favorite_count": 3178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "bad news for philosophy departments returning to in-person classes 😔 https://t.co/AFSEtJcwYh"
+	},
+	{
 		"created_at": "Tue Jan 11 13:38:16 +0000 2022",
 		"id": 1480896844049825800,
 		"id_str": "1480896844049825799",
