@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 17 11:20:25 +0000 2022",
+		"id": 1483001708355723300,
+		"id_str": "1483036480671031301",
+		"full_text": "This madman actually went ahead and wrote a Wordle-to-Townscaper converter (like 2 seconds after I jokingly floated the idea). To mark the occasion I'll reluctantly share my embarrassing attempt at today's Wordle.\n\nhttps://t.co/cUReZUaG3H https://t.co/CHGLWrsXmN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cUReZUaG3H",
+					"expanded_url": "https://twitter.com/tarmo888/status/1482953809336885248",
+					"display_url": "twitter.com/tarmo888/statu…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483000798128783400,
+					"id_str": "1483000798128783363",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FJStXl4WQAM4rnk.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJStXl4WQAM4rnk.png",
+					"url": "https://t.co/CHGLWrsXmN",
+					"display_url": "pic.twitter.com/CHGLWrsXmN",
+					"expanded_url": "https://twitter.com/OskSta/status/1483001708355723265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 536,
+							"h": 694,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 536,
+							"h": 694,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483000798128783400,
+					"id_str": "1483000798128783363",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/FJStXl4WQAM4rnk.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJStXl4WQAM4rnk.png",
+					"url": "https://t.co/CHGLWrsXmN",
+					"display_url": "pic.twitter.com/CHGLWrsXmN",
+					"expanded_url": "https://twitter.com/OskSta/status/1483001708355723265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 536,
+							"h": 694,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 536,
+							"h": 694,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 767755917890842600,
+			"id_str": "767755917890842624",
+			"name": "Oskar Stålberg",
+			"screen_name": "OskSta",
+			"location": "Malmo, Sweden",
+			"description": "Gamedev. Made @BadNorthGame. Now making #Townscaper, a procedural town building toy - available on PC, Mac, Switch and Mobile. Go get it!",
+			"url": "https://t.co/qakKgmxfai",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qakKgmxfai",
+							"expanded_url": "http://oskarstalberg.com",
+							"display_url": "oskarstalberg.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106103,
+			"friends_count": 1165,
+			"listed_count": 1036,
+			"created_at": "Mon Aug 22 16:10:49 +0000 2016",
+			"favourites_count": 69566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/767772432891510784/hDb4djkU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/767772432891510784/hDb4djkU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/767755917890842624/1532114530",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1482953809336885200,
+		"quoted_status_id_str": "1482953809336885248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cUReZUaG3H",
+			"expanded": "https://twitter.com/tarmo888/status/1482953809336885248",
+			"display": "twitter.com/tarmo888/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 17 05:51:54 +0000 2022",
+			"id": 1482953809336885200,
+			"id_str": "1482953809336885248",
+			"full_text": "@DanDanikov @BernhardWerner @OskSta I made a tool for that https://t.co/xJLzHHB88m",
+			"truncated": false,
+			"display_text_range": [
+				36,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DanDanikov",
+						"name": "Danikov",
+						"id": 410263056,
+						"id_str": "410263056",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "BernhardWerner",
+						"name": "Bernhard, but also Hanna",
+						"id": 512421184,
+						"id_str": "512421184",
+						"indices": [
+							12,
+							27
+						]
+					},
+					{
+						"screen_name": "OskSta",
+						"name": "Oskar Stålberg",
+						"id": 767755917890842600,
+						"id_str": "767755917890842624",
+						"indices": [
+							28,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xJLzHHB88m",
+						"expanded_url": "https://tarmo888.github.io/Wordle2Townscaper/",
+						"display_url": "tarmo888.github.io/Wordle2Townsca…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1482904212866580500,
+			"in_reply_to_status_id_str": "1482904212866580484",
+			"in_reply_to_user_id": 410263056,
+			"in_reply_to_user_id_str": "410263056",
+			"in_reply_to_screen_name": "DanDanikov",
+			"user": {
+				"id": 6033702,
+				"id_str": "6033702",
+				"name": "Tarm⚪byte",
+				"screen_name": "tarmo888",
+				"location": "Estonia 🇪🇪",
+				"description": "Passionate about (#aerialview #foodporn #landscape #nudeart #sunsetporn #travel) photography, software development and crypto-assets.",
+				"url": "https://t.co/CK3BR3Oe5J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CK3BR3Oe5J",
+								"expanded_url": "https://tarmo888.com",
+								"display_url": "tarmo888.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 810,
+				"friends_count": 747,
+				"listed_count": 9,
+				"created_at": "Mon May 14 14:02:47 +0000 2007",
+				"favourites_count": 76429,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10784,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1466787205146370057/ZaB1DTGB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466787205146370057/ZaB1DTGB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6033702/1597933628",
+				"profile_link_color": "007700",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 135,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 141,
+		"favorite_count": 610,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This madman actually went ahead and wrote a Wordle-to-Townscaper converter (like 2 seconds after I jokingly floated the idea). To mark the occasion I'll reluctantly share my embarrassing attempt at today's Wordle.\n\nhttps://t.co/cUReZUaG3H https://t.co/CHGLWrsXmN"
+	},
+	{
 		"created_at": "Mon Jan 17 07:01:42 +0000 2022",
 		"id": 1482971374314569700,
 		"id_str": "1482971374314569731",
