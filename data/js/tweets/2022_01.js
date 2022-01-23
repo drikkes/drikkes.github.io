@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 23 22:35:43 +0000 2022",
+		"id": 1485380754184016000,
+		"id_str": "1485380754184015872",
+		"full_text": "@larsweisbrod Gesehen? https://t.co/yzhWMS4em1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "larsweisbrod",
+					"name": "Lars Weisbrod",
+					"id": 16189050,
+					"id_str": "16189050",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yzhWMS4em1",
+					"expanded_url": "https://twitter.com/serieslyAWESOME/status/1485200875530469379",
+					"display_url": "twitter.com/serieslyAWESOM…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 16189050,
+		"in_reply_to_user_id_str": "16189050",
+		"in_reply_to_screen_name": "larsweisbrod",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 815,
+			"friends_count": 153,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91705322,
+				6.96566075
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96566075,
+				50.91705322
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1485200875530469400,
+		"quoted_status_id_str": "1485200875530469379",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yzhWMS4em1",
+			"expanded": "https://twitter.com/serieslyAWESOME/status/1485200875530469379",
+			"display": "twitter.com/serieslyAWESOM…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 23 10:40:57 +0000 2022",
+			"id": 1485200875530469400,
+			"id_str": "1485200875530469379",
+			"full_text": "Kleiner Bonus für #TheExpanse Fans: Amazon @PrimeVideoDE hat in der X-Ray Funktion 5 Bonusfolgen mit 25 Minuten Material zu Staffel 6 versteckt https://t.co/56NS3yGZsJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheExpanse",
+						"indices": [
+							18,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PrimeVideoDE",
+						"name": "Prime Video DE",
+						"id": 22926019,
+						"id_str": "22926019",
+						"indices": [
+							43,
+							56
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/56NS3yGZsJ",
+						"expanded_url": "https://www.serieslyawesome.tv/the-expanse-staffel-6-bonusfolgen-amazon-prime-video-finale/",
+						"display_url": "serieslyawesome.tv/the-expanse-st…",
+						"indices": [
+							144,
+							167
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://neliosoftware.com/content\" rel=\"nofollow\">Nelio Content</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1275461910,
+				"id_str": "1275461910",
+				"name": "serieslyAWESOME.tv",
+				"screen_name": "serieslyAWESOME",
+				"location": "",
+				"description": "http://t.co/E90cYnK3a0 - Das Zuhause Deiner Lieblingsserien!",
+				"url": "http://t.co/0P5sQdvadT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0P5sQdvadT",
+								"expanded_url": "http://serieslyAWESOME.tv",
+								"display_url": "serieslyAWESOME.tv",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/E90cYnK3a0",
+								"expanded_url": "http://sAWE.tv",
+								"display_url": "sAWE.tv",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1479,
+				"friends_count": 167,
+				"listed_count": 35,
+				"created_at": "Sun Mar 17 17:02:16 +0000 2013",
+				"favourites_count": 2804,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18038,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3468340576/e1953800369162243ae532c534440b15_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3468340576/e1953800369162243ae532c534440b15_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1275461910/1412271434",
+				"profile_link_color": "380057",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "@larsweisbrod Gesehen? https://t.co/yzhWMS4em1"
+	},
+	{
 		"created_at": "Sun Jan 23 19:50:21 +0000 2022",
 		"id": 1485339139058847700,
 		"id_str": "1485339139058847747",
