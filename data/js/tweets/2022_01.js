@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 26 13:08:57 +0000 2022",
+		"id": 1486297874581397500,
+		"id_str": "1486325287780507657",
+		"full_text": "Straßenbau 1 1973 https://t.co/t9U312TmCg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486297871536337000,
+					"id_str": "1486297871536336900",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FKBkChdXsAQo_Ha.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKBkChdXsAQo_Ha.png",
+					"url": "https://t.co/t9U312TmCg",
+					"display_url": "pic.twitter.com/t9U312TmCg",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1486297874581397506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 646,
+							"h": 910,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 646,
+							"h": 910,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486297871536337000,
+					"id_str": "1486297871536336900",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FKBkChdXsAQo_Ha.png",
+					"media_url_https": "https://pbs.twimg.com/media/FKBkChdXsAQo_Ha.png",
+					"url": "https://t.co/t9U312TmCg",
+					"display_url": "pic.twitter.com/t9U312TmCg",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1486297874581397506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 646,
+							"h": 910,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 646,
+							"h": 910,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/spinfo/autoChirp\" rel=\"nofollow\">autoChirper</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966765831140139000,
+			"id_str": "966765831140139009",
+			"name": "Die Reklame",
+			"screen_name": "Die_Reklame",
+			"location": "",
+			"description": "Historische Werbung. Von @mschfr, @moritz_hoffmann und @CJahnz. Technik von @auto_chirp. Keine Verbindung zu den Firmen, keine Nostalgie für Rassist:innen.",
+			"url": "https://t.co/gelTKNZuqP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gelTKNZuqP",
+							"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+							"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11671,
+			"friends_count": 75,
+			"listed_count": 62,
+			"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+			"favourites_count": 692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326924675369357312/5VZkKrmB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326924675369357312/5VZkKrmB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+			"profile_link_color": "1A1A1A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Straßenbau 1 1973 https://t.co/t9U312TmCg"
+	},
+	{
 		"created_at": "Tue Jan 25 22:33:45 +0000 2022",
 		"id": 1486105036958666800,
 		"id_str": "1486105036958666758",
