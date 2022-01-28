@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 06:01:14 +0000 2022",
+		"id": 1486879275089379300,
+		"id_str": "1486942424824008710",
+		"full_text": "https://t.co/B1quPzavfp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B1quPzavfp",
+					"expanded_url": "https://www.youtube.com/watch?v=ZXGG_IlWkq8",
+					"display_url": "youtube.com/watch?v=ZXGG_I…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32183857,
+			"id_str": "32183857",
+			"name": "René Pollesch",
+			"screen_name": "renepollesch",
+			"location": "Berlin",
+			"description": "Echt & Bezahlt",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10719,
+			"friends_count": 1083,
+			"listed_count": 71,
+			"created_at": "Thu Apr 16 22:35:00 +0000 2009",
+			"favourites_count": 5642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434923766610636802/jM81nYla_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434923766610636802/jM81nYla_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32183857/1633677163",
+			"profile_link_color": "CF2D2D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/B1quPzavfp"
+	},
+	{
 		"created_at": "Thu Jan 27 23:49:18 +0000 2022",
 		"id": 1486848824941461500,
 		"id_str": "1486848824941461507",
