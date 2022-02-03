@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 09:59:16 +0000 2022",
+		"id": 1488407266407723000,
+		"id_str": "1489176654866006018",
+		"full_text": "DJ Khaled gives a peek of his $3 million watch 💎 https://t.co/M3Lw4FoYiR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488394793382252500,
+					"id_str": "1488394793382252552",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1488394793382252552/pu/img/rTOrk580ev8jspUt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1488394793382252552/pu/img/rTOrk580ev8jspUt.jpg",
+					"url": "https://t.co/M3Lw4FoYiR",
+					"display_url": "pic.twitter.com/M3Lw4FoYiR",
+					"expanded_url": "https://twitter.com/stillsmallz/status/1488394832502530048/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 516,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 516,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 516,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1488394832502530000,
+					"source_status_id_str": "1488394832502530048",
+					"source_user_id": 1435752093042741200,
+					"source_user_id_str": "1435752093042741248"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488394793382252500,
+					"id_str": "1488394793382252552",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1488394793382252552/pu/img/rTOrk580ev8jspUt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1488394793382252552/pu/img/rTOrk580ev8jspUt.jpg",
+					"url": "https://t.co/M3Lw4FoYiR",
+					"display_url": "pic.twitter.com/M3Lw4FoYiR",
+					"expanded_url": "https://twitter.com/stillsmallz/status/1488394832502530048/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 516,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 516,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 516,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1488394832502530000,
+					"source_status_id_str": "1488394832502530048",
+					"source_user_id": 1435752093042741200,
+					"source_user_id_str": "1435752093042741248",
+					"video_info": {
+						"aspect_ratio": [
+							129,
+							160
+						],
+						"duration_millis": 11236,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1488394793382252552/pu/vid/320x396/mYY-zVu3_1UaHEAm.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1488394793382252552/pu/vid/516x640/yJuNoG6iY0PTPwyn.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1488394793382252552/pu/pl/OdJmwSVc1IQiWNwP.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1435752093042741200,
+							"id_str": "1435752093042741248",
+							"name": ".",
+							"screen_name": "stillsmallz",
+							"location": "",
+							"description": "",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 606,
+							"friends_count": 0,
+							"listed_count": 5,
+							"created_at": "Wed Sep 08 23:49:17 +0000 2021",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 222,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+							"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": true,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14629315,
+			"id_str": "14629315",
+			"name": "XXL Magazine",
+			"screen_name": "XXL",
+			"location": "",
+			"description": "Hip-Hop on a Higher Level",
+			"url": "https://t.co/GMnXL2yaVw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GMnXL2yaVw",
+							"expanded_url": "https://www.xxlmag.com/linkinbio/",
+							"display_url": "xxlmag.com/linkinbio/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4266590,
+			"friends_count": 701,
+			"listed_count": 6503,
+			"created_at": "Fri May 02 18:29:28 +0000 2008",
+			"favourites_count": 3607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 237399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234615959899561990/iebxHftE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234615959899561990/iebxHftE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14629315/1641855519",
+			"profile_link_color": "D40C16",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8F0D4",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 296,
+		"favorite_count": 3149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DJ Khaled gives a peek of his $3 million watch 💎 https://t.co/M3Lw4FoYiR"
+	},
+	{
 		"created_at": "Thu Feb 03 08:15:01 +0000 2022",
 		"id": 1489150419112759300,
 		"id_str": "1489150419112759298",
