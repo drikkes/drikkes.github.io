@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 06 13:20:18 +0000 2022",
+		"id": 1490025950599331800,
+		"id_str": "1490314411013193733",
+		"full_text": "I mentioned the whole way that the Jimmy Fallon/Paris Hilton strangely-stilted conversation regarding NFTs was likely part of a larger promotion plan and part of being a celebrity is being told to say weird stuff due to contracts.\n\nSomeone did the digging\n\nhttps://t.co/TeZnOxy11M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TeZnOxy11M",
+					"expanded_url": "https://maxread.substack.com/p/mapping-the-celebrity-nft-complex",
+					"display_url": "maxread.substack.com/p/mapping-the-…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465481,
+			"id_str": "1465481",
+			"name": "Jason Scott",
+			"screen_name": "textfiles",
+			"location": "The 1980s",
+			"description": "Proprietor of https://t.co/sdyjXHCZF7, historian, filmmaker, archivist, storyteller. Works on/for the Internet Archive. Rank Amateur.",
+			"url": "https://t.co/3H0xQZataA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3H0xQZataA",
+							"expanded_url": "https://linktr.ee/textfiles",
+							"display_url": "linktr.ee/textfiles",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sdyjXHCZF7",
+							"expanded_url": "http://TEXTFILES.COM",
+							"display_url": "TEXTFILES.COM",
+							"indices": [
+								14,
+								37
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 45427,
+			"friends_count": 751,
+			"listed_count": 1228,
+			"created_at": "Mon Mar 19 02:55:22 +0000 2007",
+			"favourites_count": 2180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 117137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1447055691198472192/M6ubNVyL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1447055691198472192/M6ubNVyL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465481/1398239070",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2428,
+		"favorite_count": 7346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mentioned the whole way that the Jimmy Fallon/Paris Hilton strangely-stilted conversation regarding NFTs was likely part of a larger promotion plan and part of being a celebrity is being told to say weird stuff due to contracts.\n\nSomeone did the digging\n\nhttps://t.co/TeZnOxy11M"
+	},
+	{
 		"created_at": "Sun Feb 06 01:44:11 +0000 2022",
 		"id": 1490139223776764000,
 		"id_str": "1490139223776763904",
