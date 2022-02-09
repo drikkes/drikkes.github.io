@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 09 17:46:19 +0000 2022",
+		"id": 1490323167985995800,
+		"id_str": "1491468516452704259",
+		"full_text": "WORDLE is now running on the Game Boy! https://t.co/Zk8aDr7MST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490319970550624300,
+					"id_str": "1490319970550624260",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FK6uHf5XMAQZIaZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK6uHf5XMAQZIaZ.jpg",
+					"url": "https://t.co/Zk8aDr7MST",
+					"display_url": "pic.twitter.com/Zk8aDr7MST",
+					"expanded_url": "https://twitter.com/ghidraninja/status/1490323167985995777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1369,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490319970550624300,
+					"id_str": "1490319970550624260",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FK6uHf5XMAQZIaZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK6uHf5XMAQZIaZ.jpg",
+					"url": "https://t.co/Zk8aDr7MST",
+					"display_url": "pic.twitter.com/Zk8aDr7MST",
+					"expanded_url": "https://twitter.com/ghidraninja/status/1490323167985995777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1369,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1103634374103367700,
+			"id_str": "1103634374103367680",
+			"name": "stacksmashing",
+			"screen_name": "ghidraninja",
+			"location": "",
+			"description": "I'm an IT security researcher creating videos about reverse engineering, hardware hacking and more!\n\nContact: contact@stacksmashing.net",
+			"url": "https://t.co/elSMCw4oH1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/elSMCw4oH1",
+							"expanded_url": "https://www.youtube.com/stacksmashing",
+							"display_url": "youtube.com/stacksmashing",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32363,
+			"friends_count": 243,
+			"listed_count": 189,
+			"created_at": "Thu Mar 07 12:31:54 +0000 2019",
+			"favourites_count": 2121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1363083251091406852/eVa9IMdD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1363083251091406852/eVa9IMdD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1103634374103367680/1608209291",
+			"profile_link_color": "DF2A2E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1212,
+		"favorite_count": 7206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WORDLE is now running on the Game Boy! https://t.co/Zk8aDr7MST"
+	},
+	{
 		"created_at": "Wed Feb 09 12:45:20 +0000 2022",
 		"id": 1491392773857190000,
 		"id_str": "1491392773857189890",
