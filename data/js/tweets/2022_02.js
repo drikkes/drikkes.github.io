@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 19 15:44:46 +0000 2022",
+		"id": 1495043196786774000,
+		"id_str": "1495061808931119107",
+		"full_text": "Voll relatable, wenn die Promis auch Beziehungsprobleme haben 😌 https://t.co/ZhVjcFvzQJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495043144311844900,
+					"id_str": "1495043144311844864",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FL910ZSXMAAHXzj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL910ZSXMAAHXzj.jpg",
+					"url": "https://t.co/ZhVjcFvzQJ",
+					"display_url": "pic.twitter.com/ZhVjcFvzQJ",
+					"expanded_url": "https://twitter.com/Duerrholz/status/1495043196786774023/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 880,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 880,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495043144311844900,
+					"id_str": "1495043144311844864",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FL910ZSXMAAHXzj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL910ZSXMAAHXzj.jpg",
+					"url": "https://t.co/ZhVjcFvzQJ",
+					"display_url": "pic.twitter.com/ZhVjcFvzQJ",
+					"expanded_url": "https://twitter.com/Duerrholz/status/1495043196786774023/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 880,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 880,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 557966088,
+			"id_str": "557966088",
+			"name": "Johanna Dürrholz",
+			"screen_name": "Duerrholz",
+			"location": "Köln",
+			"description": "Gesellschaftsredakteurin @faznet & @fazmagazin\nHier Spinat.\nhttps://t.co/ffEHvIjJUW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ffEHvIjJUW",
+							"expanded_url": "https://www.faz.net/redaktion/johanna-duerrholz-15351728.html",
+							"display_url": "faz.net/redaktion/joha…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1775,
+			"friends_count": 738,
+			"listed_count": 32,
+			"created_at": "Thu Apr 19 17:12:56 +0000 2012",
+			"favourites_count": 22365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1436307851052453894/fk_cIni__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1436307851052453894/fk_cIni__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/557966088/1510143774",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Voll relatable, wenn die Promis auch Beziehungsprobleme haben 😌 https://t.co/ZhVjcFvzQJ"
+	},
+	{
 		"created_at": "Sat Feb 19 10:04:46 +0000 2022",
 		"id": 1494976242608660500,
 		"id_str": "1494976242608660482",
