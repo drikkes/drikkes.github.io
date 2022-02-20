@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 20 14:27:46 +0000 2022",
+		"id": 1495404818415997000,
+		"id_str": "1495404818415996933",
+		"full_text": "GOLD ZACK Kinderband! https://t.co/HQJk2Rku4v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HQJk2Rku4v",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1495402871503966214",
+					"display_url": "twitter.com/Die_Reklame/st…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 815,
+			"friends_count": 153,
+			"listed_count": 0,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1495402871503966200,
+		"quoted_status_id_str": "1495402871503966214",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HQJk2Rku4v",
+			"expanded": "https://twitter.com/Die_Reklame/status/1495402871503966214",
+			"display": "twitter.com/Die_Reklame/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 20 14:20:02 +0000 2022",
+			"id": 1495402871503966200,
+			"id_str": "1495402871503966214",
+			"full_text": "Praline 05 1960 https://t.co/9PV23Q2pla",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				15
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1495402869331214300,
+						"id_str": "1495402869331214337",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/FMC8_JaWQAEYH9W.png",
+						"media_url_https": "https://pbs.twimg.com/media/FMC8_JaWQAEYH9W.png",
+						"url": "https://t.co/9PV23Q2pla",
+						"display_url": "pic.twitter.com/9PV23Q2pla",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1495402871503966214/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 491,
+								"h": 650,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 491,
+								"h": 650,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 491,
+								"h": 650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1495402869331214300,
+						"id_str": "1495402869331214337",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/FMC8_JaWQAEYH9W.png",
+						"media_url_https": "https://pbs.twimg.com/media/FMC8_JaWQAEYH9W.png",
+						"url": "https://t.co/9PV23Q2pla",
+						"display_url": "pic.twitter.com/9PV23Q2pla",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1495402871503966214/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 491,
+								"h": 650,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 491,
+								"h": 650,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 491,
+								"h": 650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://github.com/spinfo/autoChirp\" rel=\"nofollow\">autoChirper</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 966765831140139000,
+				"id_str": "966765831140139009",
+				"name": "Die Reklame",
+				"screen_name": "Die_Reklame",
+				"location": "",
+				"description": "Historische Werbung. Von @mschfr, @moritz_hoffmann und @CJahnz. Technik von @auto_chirp. Keine Verbindung zu den Firmen, keine Nostalgie für Rassist:innen.",
+				"url": "https://t.co/gelTKNZuqP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gelTKNZuqP",
+								"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+								"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11741,
+				"friends_count": 75,
+				"listed_count": 67,
+				"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+				"favourites_count": 693,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6691,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1326924675369357312/5VZkKrmB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326924675369357312/5VZkKrmB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+				"profile_link_color": "1A1A1A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GOLD ZACK Kinderband! https://t.co/HQJk2Rku4v"
+	},
+	{
 		"created_at": "Sun Feb 20 12:36:03 +0000 2022",
 		"id": 1495376701559349200,
 		"id_str": "1495376701559349249",
