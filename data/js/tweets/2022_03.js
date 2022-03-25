@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 25 19:23:08 +0000 2022",
+		"id": 1507265754231718000,
+		"id_str": "1507437948861652994",
+		"full_text": "Das ist wirklich der Trailer mit Kim Jong-un in Sonnenbrille, und Lederjacke und mit neuer ballistischer Hwaseong-17-Rakete. https://t.co/iLBpezU7W5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1507265380787667000,
+					"id_str": "1507265380787666944",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1507265380787666944/pu/img/C9aYiVTuZGfjjhVg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1507265380787666944/pu/img/C9aYiVTuZGfjjhVg.jpg",
+					"url": "https://t.co/iLBpezU7W5",
+					"display_url": "pic.twitter.com/iLBpezU7W5",
+					"expanded_url": "https://twitter.com/nomnomcookieez/status/1507265754231717897/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1507265380787667000,
+					"id_str": "1507265380787666944",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1507265380787666944/pu/img/C9aYiVTuZGfjjhVg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1507265380787666944/pu/img/C9aYiVTuZGfjjhVg.jpg",
+					"url": "https://t.co/iLBpezU7W5",
+					"display_url": "pic.twitter.com/iLBpezU7W5",
+					"expanded_url": "https://twitter.com/nomnomcookieez/status/1507265754231717897/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 45166,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1507265380787666944/pu/pl/2bz5r1nOx_X8l1C3.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1507265380787666944/pu/vid/636x360/r9b1L0_R5SCDv2zD.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1507265380787666944/pu/vid/476x270/xa0HN4QWbTrRXdA2.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1507265380787666944/pu/vid/848x480/3P9NU-u-GTdjNJeH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1249256019206824000,
+			"id_str": "1249256019206823936",
+			"name": "Polly Girl",
+			"screen_name": "nomnomcookieez",
+			"location": "",
+			"description": "🖤 Polly (🍪) \n🖤 Trapped in a cotton ball\n🖤 I am шоке\n🖤 RIOTBiGrlMigrANTIFAPoCДобраяСука++",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3864,
+			"friends_count": 1005,
+			"listed_count": 15,
+			"created_at": "Sun Apr 12 08:40:27 +0000 2020",
+			"favourites_count": 20541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367758011968655360/dLBwncm8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367758011968655360/dLBwncm8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1249256019206823936/1596972038",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 561,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Das ist wirklich der Trailer mit Kim Jong-un in Sonnenbrille, und Lederjacke und mit neuer ballistischer Hwaseong-17-Rakete. https://t.co/iLBpezU7W5"
+	},
+	{
 		"created_at": "Fri Mar 25 15:44:43 +0000 2022",
 		"id": 1507382984420348000,
 		"id_str": "1507382984420347904",
