@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 28 12:39:56 +0000 2022",
+		"id": 1507323266352001000,
+		"id_str": "1508423642086096896",
+		"full_text": "Bundesnetzagentur: Starke Zunahme von SMS-Nutzung in Deutschland #Facebook https://t.co/Li0hecrHFP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Facebook",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Li0hecrHFP",
+					"expanded_url": "https://glm.io/164159?s",
+					"display_url": "glm.io/164159?s",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.golem.de\" rel=\"nofollow\">Golem.de</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 8724992,
+			"id_str": "8724992",
+			"name": "Golem.de",
+			"screen_name": "golem",
+			"location": "Berlin, Germany",
+			"description": "Aktuelle IT-News von https://t.co/EGhL59O4cI. Die Redaktion twittert unter @GolemRedaktion.",
+			"url": "https://t.co/2KyrsrF9zu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2KyrsrF9zu",
+							"expanded_url": "https://www.golem.de",
+							"display_url": "golem.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/EGhL59O4cI",
+							"expanded_url": "http://Golem.de",
+							"display_url": "Golem.de",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 87598,
+			"friends_count": 2,
+			"listed_count": 2081,
+			"created_at": "Fri Sep 07 14:27:36 +0000 2007",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 108197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8F8F8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345097225/golem-twitter-q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345097225/golem-twitter-q_normal.png",
+			"profile_link_color": "0B0199",
+			"profile_sidebar_border_color": "4A5A74",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Bundesnetzagentur: Starke Zunahme von SMS-Nutzung in Deutschland #Facebook https://t.co/Li0hecrHFP"
+	},
+	{
 		"created_at": "Mon Mar 28 11:33:58 +0000 2022",
 		"id": 1508407042108792800,
 		"id_str": "1508407042108792836",
