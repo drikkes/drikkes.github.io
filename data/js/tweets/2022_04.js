@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 03 09:08:29 +0000 2022",
+		"id": 1510544758170693600,
+		"id_str": "1510544758170693634",
+		"full_text": "https://t.co/99I8VQzbVn https://t.co/X09yYVuhRV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/99I8VQzbVn",
+					"expanded_url": "https://twitter.com/bbinkowska_/status/1510515972238725120",
+					"display_url": "twitter.com/bbinkowska_/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1510544751002628000,
+					"id_str": "1510544751002628096",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FPaIcqTXsAAgNcO.png",
+					"media_url_https": "https://pbs.twimg.com/media/FPaIcqTXsAAgNcO.png",
+					"url": "https://t.co/X09yYVuhRV",
+					"display_url": "pic.twitter.com/X09yYVuhRV",
+					"expanded_url": "https://twitter.com/drikkes/status/1510544758170693634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1254,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510544751002628000,
+					"id_str": "1510544751002628096",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FPaIcqTXsAAgNcO.png",
+					"media_url_https": "https://pbs.twimg.com/media/FPaIcqTXsAAgNcO.png",
+					"url": "https://t.co/X09yYVuhRV",
+					"display_url": "pic.twitter.com/X09yYVuhRV",
+					"expanded_url": "https://twitter.com/drikkes/status/1510544758170693634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1254,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 814,
+			"friends_count": 154,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1510515972238725000,
+		"quoted_status_id_str": "1510515972238725120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/99I8VQzbVn",
+			"expanded": "https://twitter.com/bbinkowska_/status/1510515972238725120",
+			"display": "twitter.com/bbinkowska_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 03 07:14:06 +0000 2022",
+			"id": 1510515972238725000,
+			"id_str": "1510515972238725120",
+			"full_text": "#WandelDurchHandel hat funktioniert - nur andersherum. Wir schauen mittlerweile bei MR-Verletzungen &amp; Kriegsverbrechen zu und finanzieren diese auch noch u.a. mit Öl- &amp; Gas-Devisen.\nEin 🧵, wie wir unsere Idee verraten haben &amp; sie längst gegen uns verwendet wird. 1/11",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WandelDurchHandel",
+						"indices": [
+							0,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4064060206,
+				"id_str": "4064060206",
+				"name": "Boris Binkowska",
+				"screen_name": "bbinkowska_",
+				"location": "Berlin, Germany",
+				"description": "Zoon politikon • macht seit der F-Jugend etwas mit Verteidigung • Christdemokrat • Reserveoffizier @cirbw #ZOpKomBw • 🇪🇺 🇩🇪 🇫🇷 • privat hier",
+				"url": "https://t.co/8QV0VEwjQF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8QV0VEwjQF",
+								"expanded_url": "http://www.binkowska.de",
+								"display_url": "binkowska.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4235,
+				"friends_count": 539,
+				"listed_count": 49,
+				"created_at": "Wed Oct 28 23:44:11 +0000 2015",
+				"favourites_count": 31173,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7746,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1360931035974930433/RbcNGG0m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1360931035974930433/RbcNGG0m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4064060206/1639611916",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 142,
+			"favorite_count": 602,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/99I8VQzbVn https://t.co/X09yYVuhRV"
+	},
+	{
 		"created_at": "Sat Apr 02 17:44:04 +0000 2022",
 		"id": 1510312121371922400,
 		"id_str": "1510312121371922436",
