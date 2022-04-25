@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 25 06:39:13 +0000 2022",
+		"id": 1518474896854159400,
+		"id_str": "1518479725211095041",
+		"full_text": "Neue Revue 44 1968 https://t.co/xfNgZullnk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1518474891317719000,
+					"id_str": "1518474891317719040",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FRK03lFXsAAClJ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRK03lFXsAAClJ7.jpg",
+					"url": "https://t.co/xfNgZullnk",
+					"display_url": "pic.twitter.com/xfNgZullnk",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1518474896854159361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 518,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 914,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1560,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1518474891317719000,
+					"id_str": "1518474891317719040",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/FRK03lFXsAAClJ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRK03lFXsAAClJ7.jpg",
+					"url": "https://t.co/xfNgZullnk",
+					"display_url": "pic.twitter.com/xfNgZullnk",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1518474896854159361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 518,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 914,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1560,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/spinfo/autoChirp\" rel=\"nofollow\">autoChirper</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966765831140139000,
+			"id_str": "966765831140139009",
+			"name": "Die Reklame",
+			"screen_name": "Die_Reklame",
+			"location": "",
+			"description": "Historische Werbung. Von @mschfr, @moritz_hoffmann und @CJahnz. Technik von @auto_chirp. Keine Verbindung zu den Firmen, keine Nostalgie für Rassist:innen.",
+			"url": "https://t.co/gelTKNZuqP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gelTKNZuqP",
+							"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+							"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11971,
+			"friends_count": 74,
+			"listed_count": 69,
+			"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+			"favourites_count": 704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326924675369357312/5VZkKrmB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326924675369357312/5VZkKrmB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+			"profile_link_color": "1A1A1A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Neue Revue 44 1968 https://t.co/xfNgZullnk"
+	},
+	{
 		"created_at": "Sun Apr 24 12:55:42 +0000 2022",
 		"id": 1518212085032927200,
 		"id_str": "1518212085032927233",
