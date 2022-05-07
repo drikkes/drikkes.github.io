@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 07 09:20:56 +0000 2022",
+		"id": 1522869076498038800,
+		"id_str": "1522869076498038784",
+		"full_text": "Ich hab ja in einer Schulaufführung der Theater-AG mal Wang, den Wasserverkäufer, gespielt. https://t.co/bTzckvRYbw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bTzckvRYbw",
+					"expanded_url": "https://twitter.com/SchmittJunior/status/1522833712626515968",
+					"display_url": "twitter.com/SchmittJunior/…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 812,
+			"friends_count": 155,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1522833712626516000,
+		"quoted_status_id_str": "1522833712626515968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bTzckvRYbw",
+			"expanded": "https://twitter.com/SchmittJunior/status/1522833712626515968",
+			"display": "twitter.com/SchmittJunior/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 07 07:00:24 +0000 2022",
+			"id": 1522833712626516000,
+			"id_str": "1522833712626515968",
+			"full_text": "#fynnkliemann #Maskenbetrug #Masken  \nIm Kapitel \"Der gute Mensch von Instagram\" aus unserem Buch \"Influencer. Die Ideologie der Werbekörper\" schreiben @nymoen_ole und ich: https://t.co/zA6c19WAj9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "fynnkliemann",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"text": "Maskenbetrug",
+						"indices": [
+							14,
+							27
+						]
+					},
+					{
+						"text": "Masken",
+						"indices": [
+							28,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nymoen_ole",
+						"name": "Ole Nymoen",
+						"id": 996090006128164900,
+						"id_str": "996090006128164865",
+						"indices": [
+							152,
+							163
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1522833634197180400,
+						"id_str": "1522833634197180417",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/FSIxHzpXEAEHFQo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSIxHzpXEAEHFQo.jpg",
+						"url": "https://t.co/zA6c19WAj9",
+						"display_url": "pic.twitter.com/zA6c19WAj9",
+						"expanded_url": "https://twitter.com/SchmittJunior/status/1522833712626515968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1522833634197180400,
+						"id_str": "1522833634197180417",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/FSIxHzpXEAEHFQo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSIxHzpXEAEHFQo.jpg",
+						"url": "https://t.co/zA6c19WAj9",
+						"display_url": "pic.twitter.com/zA6c19WAj9",
+						"expanded_url": "https://twitter.com/SchmittJunior/status/1522833712626515968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 989296207,
+				"id_str": "989296207",
+				"name": "Wolfgang M. Schmitt",
+				"screen_name": "SchmittJunior",
+				"location": "",
+				"description": "Über Die Filmanalyse, den Wirtschaftspodcast \"Wohlstand für Alle\", Zehn-Jahres-Podcast \"Die neuen Zwanziger\", Kino, Literatur, Kunst, Zeitloses & Zeitgeistiges",
+				"url": "https://t.co/oOzDVpqQH4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oOzDVpqQH4",
+								"expanded_url": "https://wolfgangmschmitt.de/",
+								"display_url": "wolfgangmschmitt.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47143,
+				"friends_count": 561,
+				"listed_count": 158,
+				"created_at": "Tue Dec 04 18:14:15 +0000 2012",
+				"favourites_count": 3215,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7080,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/627092475568652288/uNFPbPoX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/627092475568652288/uNFPbPoX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/989296207/1622820041",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 698,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Ich hab ja in einer Schulaufführung der Theater-AG mal Wang, den Wasserverkäufer, gespielt. https://t.co/bTzckvRYbw"
+	},
+	{
 		"created_at": "Fri May 06 21:34:52 +0000 2022",
 		"id": 1522691389934375000,
 		"id_str": "1522691389934374912",
