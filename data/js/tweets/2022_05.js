@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 08 15:15:09 +0000 2022",
+		"id": 1523229617007788000,
+		"id_str": "1523320606757986306",
+		"full_text": "8. Mai 1945. \n\nTel Aviv feiert die bedingungslose Kapitulation von Nazi-Deutschland.\n\n#8mai1945 #TagderBefreiung https://t.co/2eqRWPPboT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "8mai1945",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "TagderBefreiung",
+					"indices": [
+						96,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523229612473471000,
+					"id_str": "1523229612473470976",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FSOZQxrWUAAGA2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSOZQxrWUAAGA2p.jpg",
+					"url": "https://t.co/2eqRWPPboT",
+					"display_url": "pic.twitter.com/2eqRWPPboT",
+					"expanded_url": "https://twitter.com/IsraelinGermany/status/1523229617007788033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523229612473471000,
+					"id_str": "1523229612473470976",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FSOZQxrWUAAGA2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSOZQxrWUAAGA2p.jpg",
+					"url": "https://t.co/2eqRWPPboT",
+					"display_url": "pic.twitter.com/2eqRWPPboT",
+					"expanded_url": "https://twitter.com/IsraelinGermany/status/1523229617007788033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104519327,
+			"id_str": "104519327",
+			"name": "Botschaft Israel",
+			"screen_name": "IsraelinGermany",
+			"location": "Berlin, Germany",
+			"description": "Shalom und willkommen beim offiziellen Twitter der Botschaft des Staates Israel in Berlin! - Welcome to the official Twitter of the Israeli embassy in Berlin!",
+			"url": "https://t.co/krJp9ceKQn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/krJp9ceKQn",
+							"expanded_url": "http://www.israel.de",
+							"display_url": "israel.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30506,
+			"friends_count": 629,
+			"listed_count": 348,
+			"created_at": "Wed Jan 13 15:41:58 +0000 2010",
+			"favourites_count": 2945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "075582",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455096385322246148/CD4hFkZp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455096385322246148/CD4hFkZp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104519327/1593605909",
+			"profile_link_color": "10417D",
+			"profile_sidebar_border_color": "B0E0ED",
+			"profile_sidebar_fill_color": "C1E0F7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 1112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "8. Mai 1945. \n\nTel Aviv feiert die bedingungslose Kapitulation von Nazi-Deutschland.\n\n#8mai1945 #TagderBefreiung https://t.co/2eqRWPPboT"
+	},
+	{
 		"created_at": "Sun May 08 14:45:59 +0000 2022",
 		"id": 1523313267153961000,
 		"id_str": "1523313267153960960",
