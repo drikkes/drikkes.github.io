@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 11 19:56:32 +0000 2022",
+		"id": 1524465664609722400,
+		"id_str": "1524478584903110656",
+		"full_text": "TIL Ahnenschwund. Das Bild. Das Bild!\nhttps://t.co/fnPHakopRr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fnPHakopRr",
+					"expanded_url": "https://de.wikipedia.org/wiki/Ahnenverlust",
+					"display_url": "de.wikipedia.org/wiki/Ahnenverl…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36346578,
+			"id_str": "36346578",
+			"name": "ласточка61, A.B.M.",
+			"screen_name": "axaneco",
+			"location": "Hamburg",
+			"description": "Mathematiker.",
+			"url": "https://t.co/rB1jPHiVtl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB1jPHiVtl",
+							"expanded_url": "https://zxb.onl/klos",
+							"display_url": "zxb.onl/klos",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 526,
+			"friends_count": 351,
+			"listed_count": 24,
+			"created_at": "Wed Apr 29 12:36:08 +0000 2009",
+			"favourites_count": 62791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/915847293345177600/7NfLO1Lb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/915847293345177600/7NfLO1Lb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36346578/1393235544",
+			"profile_link_color": "00C5CD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "95ECA5",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "TIL Ahnenschwund. Das Bild. Das Bild!\nhttps://t.co/fnPHakopRr"
+	},
+	{
 		"created_at": "Wed May 11 16:05:46 +0000 2022",
 		"id": 1524420509198426000,
 		"id_str": "1524420509198426112",
