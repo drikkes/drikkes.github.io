@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 11:05:42 +0000 2022",
+		"id": 1517555638456389600,
+		"id_str": "1526519322599907328",
+		"full_text": "Scan it. Scan it scan it scan it scan it https://t.co/11qGgb3onB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517555607464677400,
+					"id_str": "1517555607464677376",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FQ9wyN3VkAAWm2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQ9wyN3VkAAWm2B.jpg",
+					"url": "https://t.co/11qGgb3onB",
+					"display_url": "pic.twitter.com/11qGgb3onB",
+					"expanded_url": "https://twitter.com/zackfreedman/status/1517555638456389632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 296,
+							"h": 296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 296,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 296,
+							"h": 296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517555607464677400,
+					"id_str": "1517555607464677376",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FQ9wyN3VkAAWm2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQ9wyN3VkAAWm2B.jpg",
+					"url": "https://t.co/11qGgb3onB",
+					"display_url": "pic.twitter.com/11qGgb3onB",
+					"expanded_url": "https://twitter.com/zackfreedman/status/1517555638456389632/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 296,
+							"h": 296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 296,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 296,
+							"h": 296,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FQ9wyN3VkAAWm2B.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16842712,
+			"id_str": "16842712",
+			"name": "Zack Freedman",
+			"screen_name": "zackfreedman",
+			"location": "Westminster, CO",
+			"description": "I make DIY videos for nerds with bad taste. My face computer is my teleprompter. My favorite emoji is 🗿.",
+			"url": "https://t.co/1jKPbTxT2c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1jKPbTxT2c",
+							"expanded_url": "https://youtube.com/zackfreedman",
+							"display_url": "youtube.com/zackfreedman",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7526,
+			"friends_count": 1122,
+			"listed_count": 75,
+			"created_at": "Sat Oct 18 20:04:09 +0000 2008",
+			"favourites_count": 295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329252128775417862/QkOG9h-K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329252128775417862/QkOG9h-K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16842712/1605753418",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2059,
+		"favorite_count": 6146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scan it. Scan it scan it scan it scan it https://t.co/11qGgb3onB"
+	},
+	{
 		"created_at": "Tue May 17 08:14:23 +0000 2022",
 		"id": 1526476210401845200,
 		"id_str": "1526476210401845248",
