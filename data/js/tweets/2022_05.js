@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 21 06:39:57 +0000 2022",
+		"id": 1527745976508813300,
+		"id_str": "1527901995314601984",
+		"full_text": "Well, she has a point I’m afraid: „Sorry. Inclusive Objectification Will Not Liberate You.“ https://t.co/V8P8ZNLMnL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V8P8ZNLMnL",
+					"expanded_url": "https://4w.pub/sorry-inclusive-objectification-will-not-liberate-you/",
+					"display_url": "4w.pub/sorry-inclusiv…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171851402,
+			"id_str": "171851402",
+			"name": "Angela Richter 🔥",
+			"screen_name": "AngelaRichter_",
+			"location": "Berlin Dubrovnik",
+			"description": "German-croatian theatre director & author & Freedom of Information aficionado Rts are not necessarily endorsements! Truth doesn’t care who speaks it.",
+			"url": "https://t.co/xMHF9JgGXs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xMHF9JgGXs",
+							"expanded_url": "https://www.youtube.com/watch?v=8sdR4VShK4o",
+							"display_url": "youtube.com/watch?v=8sdR4V…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5591,
+			"friends_count": 2299,
+			"listed_count": 105,
+			"created_at": "Wed Jul 28 09:35:59 +0000 2010",
+			"favourites_count": 31818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF77FF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184723215404457984/DSiHmBEH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184723215404457984/DSiHmBEH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/171851402/1568394587",
+			"profile_link_color": "663399",
+			"profile_sidebar_border_color": "005BC5",
+			"profile_sidebar_fill_color": "001449",
+			"profile_text_color": "FF3507",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, she has a point I’m afraid: „Sorry. Inclusive Objectification Will Not Liberate You.“ https://t.co/V8P8ZNLMnL"
+	},
+	{
 		"created_at": "Fri May 20 10:33:26 +0000 2022",
 		"id": 1527598364984057900,
 		"id_str": "1527598364984057861",
