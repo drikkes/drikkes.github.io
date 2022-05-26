@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 26 09:37:38 +0000 2022",
+		"id": 1529758649165435000,
+		"id_str": "1529758649165434881",
+		"full_text": "Wo anfangen? https://t.co/F3i5R3D5F9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F3i5R3D5F9",
+					"expanded_url": "https://twitter.com/Bulgariofficial/status/1529009586878894080",
+					"display_url": "twitter.com/Bulgariofficia…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 154,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1529009586878894000,
+		"quoted_status_id_str": "1529009586878894080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F3i5R3D5F9",
+			"expanded": "https://twitter.com/Bulgariofficial/status/1529009586878894080",
+			"display": "twitter.com/Bulgariofficia…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 24 08:01:07 +0000 2022",
+			"id": 1529009586878894000,
+			"id_str": "1529009586878894080",
+			"full_text": "Accept Rome’s heartwarming invitation and search for joy and wonder in every moment, gleaming beauty in the most surprising places — knowing that staying curious opens us up to an infinity of blissful opportunities. Discover #UnexpectedWonders, #Bulgari’s new Brand movie. #Rome https://t.co/2pWdgMf6An",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UnexpectedWonders",
+						"indices": [
+							225,
+							243
+						]
+					},
+					{
+						"text": "Bulgari",
+						"indices": [
+							245,
+							253
+						]
+					},
+					{
+						"text": "Rome",
+						"indices": [
+							273,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1529009328245465000,
+						"id_str": "1529009328245465088",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FTgh4ezVUAAZ92I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTgh4ezVUAAZ92I.jpg",
+						"url": "https://t.co/2pWdgMf6An",
+						"display_url": "pic.twitter.com/2pWdgMf6An",
+						"expanded_url": "https://twitter.com/Bulgariofficial/status/1529009586878894080/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1529009328245465000,
+						"id_str": "1529009328245465088",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FTgh4ezVUAAZ92I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTgh4ezVUAAZ92I.jpg",
+						"url": "https://t.co/2pWdgMf6An",
+						"display_url": "pic.twitter.com/2pWdgMf6An",
+						"expanded_url": "https://twitter.com/Bulgariofficial/status/1529009586878894080/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 144360,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1529009328245465088/pl/87HWkMsBljDeB9OX.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1529009328245465088/vid/640x360/fbVtDpobtKHrQr-q.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1529009328245465088/vid/1280x720/zLeWbcBOXtP8lF7_.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1529009328245465088/vid/480x270/8WLYqwKf1MMENaOH.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialbakers.com/\" rel=\"nofollow\">Emplifi</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60649803,
+				"id_str": "60649803",
+				"name": "Bulgari",
+				"screen_name": "Bulgariofficial",
+				"location": "Rome, Italy",
+				"description": "Bulgari, the magnificent Italian Jeweler since 1884",
+				"url": "https://t.co/8eYF586rYt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8eYF586rYt",
+								"expanded_url": "http://www.bulgari.com/",
+								"display_url": "bulgari.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 725053,
+				"friends_count": 22,
+				"listed_count": 2701,
+				"created_at": "Mon Jul 27 17:06:19 +0000 2009",
+				"favourites_count": 444,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4117,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/569828110397227008/U_Zt6Pxp_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/569828110397227008/U_Zt6Pxp_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60649803/1481113323",
+				"profile_link_color": "0755B5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5967,
+			"favorite_count": 18126,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Wo anfangen? https://t.co/F3i5R3D5F9"
+	},
+	{
 		"created_at": "Wed May 25 17:27:56 +0000 2022",
 		"id": 1529514618535698400,
 		"id_str": "1529514618535698434",
