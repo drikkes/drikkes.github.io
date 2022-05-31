@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 31 17:58:52 +0000 2022",
+		"id": 1531615574782001200,
+		"id_str": "1531696727538995201",
+		"full_text": "German police raid DWS and Deutsche Bank over greenwashing allegations https://t.co/UkhkfP5DrR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UkhkfP5DrR",
+					"expanded_url": "https://www.ft.com/content/ff27167d-5339-47b8-a261-6f25e1534942",
+					"display_url": "ft.com/content/ff2716…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 437380093,
+			"id_str": "437380093",
+			"name": "Clare Farrell",
+			"screen_name": "ClareTotty",
+			"location": "",
+			"description": "Textiles, clothing, environment, active citizen. @XRebellionUK",
+			"url": "https://t.co/bWeI78zW29",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bWeI78zW29",
+							"expanded_url": "http://bodypolitic.space",
+							"display_url": "bodypolitic.space",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4099,
+			"friends_count": 2028,
+			"listed_count": 55,
+			"created_at": "Thu Dec 15 10:12:01 +0000 2011",
+			"favourites_count": 3313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217569081299210242/ZwEskGqY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217569081299210242/ZwEskGqY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/437380093/1544565357",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "German police raid DWS and Deutsche Bank over greenwashing allegations https://t.co/UkhkfP5DrR"
+	},
+	{
 		"created_at": "Tue May 31 16:38:50 +0000 2022",
 		"id": 1531676586726006800,
 		"id_str": "1531676586726006786",
