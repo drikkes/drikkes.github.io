@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 05 08:31:53 +0000 2022",
+		"id": 117719070807293950,
+		"id_str": "1533365981057372160",
+		"full_text": "Wohin ist satellit abgestuerzt ???",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144884794,
+			"id_str": "144884794",
+			"name": "Boris Becker",
+			"screen_name": "TheBorisBecker",
+			"location": "",
+			"description": "Entrepreneur, Tennispro, Wimbledonchampion https://t.co/bHrjBkeg0C.",
+			"url": "https://t.co/R4SVFvRgdn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R4SVFvRgdn",
+							"expanded_url": "http://www.borisbecker.com",
+							"display_url": "borisbecker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bHrjBkeg0C",
+							"expanded_url": "http://www.facebook.com/BorisBeckerOfficial",
+							"display_url": "facebook.com/BorisBeckerOff…",
+							"indices": [
+								43,
+								66
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 657806,
+			"friends_count": 1120,
+			"listed_count": 3017,
+			"created_at": "Mon May 17 15:20:54 +0000 2010",
+			"favourites_count": 21644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/550272767665655810/1g8vVnIR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/550272767665655810/1g8vVnIR_normal.jpeg",
+			"profile_link_color": "CC3300",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1990,
+		"favorite_count": 5270,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de",
+		"text": "Wohin ist satellit abgestuerzt ???"
+	},
+	{
 		"created_at": "Sat Jun 04 07:04:15 +0000 2022",
 		"id": 1532981543039545300,
 		"id_str": "1532981543039545350",
