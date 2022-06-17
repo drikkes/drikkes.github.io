@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 14:06:57 +0000 2022",
+		"id": 1537798958101168000,
+		"id_str": "1537798958101168128",
+		"full_text": "Klopapier, Speiseöl – alles zu ertragen. Aber jetzt bin ich zum Hamster geworden. https://t.co/0vA7YUad5F https://t.co/KjJXzCk0BH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0vA7YUad5F",
+					"expanded_url": "https://twitter.com/GabrielBerlin/status/1537432313327284224",
+					"display_url": "twitter.com/GabrielBerlin/…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537798947061878800,
+					"id_str": "1537798947061878784",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdb_qeX0AABURX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdb_qeX0AABURX.jpg",
+					"url": "https://t.co/KjJXzCk0BH",
+					"display_url": "pic.twitter.com/KjJXzCk0BH",
+					"expanded_url": "https://twitter.com/drikkes/status/1537798958101168128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 662,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1168,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1752,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537798947061878800,
+					"id_str": "1537798947061878784",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdb_qeX0AABURX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdb_qeX0AABURX.jpg",
+					"url": "https://t.co/KjJXzCk0BH",
+					"display_url": "pic.twitter.com/KjJXzCk0BH",
+					"expanded_url": "https://twitter.com/drikkes/status/1537798958101168128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 662,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1168,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1752,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 153,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91700773,
+				6.96582962
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96582962,
+				50.91700773
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537432313327284200,
+		"quoted_status_id_str": "1537432313327284224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0vA7YUad5F",
+			"expanded": "https://twitter.com/GabrielBerlin/status/1537432313327284224",
+			"display": "twitter.com/GabrielBerlin/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 16 13:50:02 +0000 2022",
+			"id": 1537432313327284200,
+			"id_str": "1537432313327284224",
+			"full_text": "Jetzt ist auch not Srirachakrise 😭",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14233899,
+				"id_str": "14233899",
+				"name": "Gabriel Yoran",
+				"screen_name": "GabrielBerlin",
+				"location": "Berlin, Deutschland",
+				"description": "Unternehmer @joinsteady, @steganos. Autor ”The Interfact” @openhumanities, „Warum heißt es“ @frohmannberlin, „Klassik verstehen“ @krautreporter, er/ihm 🏳️‍🌈",
+				"url": "https://t.co/F46eTUvEk0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F46eTUvEk0",
+								"expanded_url": "http://yoran.com",
+								"display_url": "yoran.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8524,
+				"friends_count": 1648,
+				"listed_count": 257,
+				"created_at": "Thu Mar 27 09:18:55 +0000 2008",
+				"favourites_count": 204556,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 143755,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "875022",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1521409100982235136/1iXEfGQw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1521409100982235136/1iXEfGQw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14233899/1634544931",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EAD4CD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3078869807f9dd36",
+				"url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+				"place_type": "city",
+				"name": "Berlin",
+				"full_name": "Berlin, Germany",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								13.088304,
+								52.338079
+							],
+							[
+								13.760909,
+								52.338079
+							],
+							[
+								13.760909,
+								52.675323
+							],
+							[
+								13.088304,
+								52.675323
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Klopapier, Speiseöl – alles zu ertragen. Aber jetzt bin ich zum Hamster geworden. https://t.co/0vA7YUad5F https://t.co/KjJXzCk0BH"
+	},
+	{
 		"created_at": "Fri Jun 17 10:42:01 +0000 2022",
 		"id": 1537747384792383500,
 		"id_str": "1537747384792383488",
