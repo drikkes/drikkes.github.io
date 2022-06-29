@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 29 11:22:34 +0000 2022",
+		"id": 1541860871734841300,
+		"id_str": "1542106245590618112",
+		"full_text": "Fashion brands pause use of sustainability index tool over greenwashing claims https://t.co/JLc6LcZ5A5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JLc6LcZ5A5",
+					"expanded_url": "https://www.theguardian.com/fashion/2022/jun/28/fashion-brands-pause-use-of-sustainability-index-tool-over-greenwashing-claims?utm_source=dlvr.it&utm_medium=twitter",
+					"display_url": "theguardian.com/fashion/2022/j…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308442339,
+			"id_str": "308442339",
+			"name": "Guardian Fashion",
+			"screen_name": "GuardianFashion",
+			"location": "",
+			"description": "The Twitter home of the @Guardian's Fashion team. Instagram: @guardianfashion",
+			"url": "http://t.co/RnMJXd5ISR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/RnMJXd5ISR",
+							"expanded_url": "http://theguardian.com/fashion",
+							"display_url": "theguardian.com/fashion",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40609,
+			"friends_count": 856,
+			"listed_count": 540,
+			"created_at": "Tue May 31 12:29:35 +0000 2011",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061928551711195136/5OSAuMU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061928551711195136/5OSAuMU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/308442339/1542018479",
+			"profile_link_color": "005689",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fashion brands pause use of sustainability index tool over greenwashing claims https://t.co/JLc6LcZ5A5"
+	},
+	{
 		"created_at": "Tue Jun 28 11:10:41 +0000 2022",
 		"id": 1541740865001078800,
 		"id_str": "1541740865001078786",
