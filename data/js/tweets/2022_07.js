@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 21:41:29 +0000 2022",
+		"id": 1542986778545737700,
+		"id_str": "1542986778545737729",
+		"full_text": "https://t.co/4Qfh608UdX https://t.co/9IJmu0jPAh https://t.co/zUs0m1iPFq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Qfh608UdX",
+					"expanded_url": "https://www.nytimes.com/2022/06/30/nyregion/rudy-giuliani.html?smid=nytcore-ios-share",
+					"display_url": "nytimes.com/2022/06/30/nyr…",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/9IJmu0jPAh",
+					"expanded_url": "https://www.nytimes.com/2022/06/30/nyregion/rudy-giuliani.html",
+					"display_url": "nytimes.com/2022/06/30/nyr…",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/zUs0m1iPFq",
+					"expanded_url": "https://twitter.com/RudyGiuliani/status/1542690814458994689",
+					"display_url": "twitter.com/RudyGiuliani/s…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 153,
+			"listed_count": 78,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1542690814458994700,
+		"quoted_status_id_str": "1542690814458994689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zUs0m1iPFq",
+			"expanded": "https://twitter.com/RudyGiuliani/status/1542690814458994689",
+			"display": "twitter.com/RudyGiuliani/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 01 02:05:26 +0000 2022",
+			"id": 1542690814458994700,
+			"id_str": "1542690814458994689",
+			"full_text": "Great products at reasonable prices. Use code Rudy for additional savings https://t.co/O6EvkxHRt8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1542690810000457700,
+						"id_str": "1542690810000457728",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/FWi9HkBWQAAEeOI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWi9HkBWQAAEeOI.jpg",
+						"url": "https://t.co/O6EvkxHRt8",
+						"display_url": "pic.twitter.com/O6EvkxHRt8",
+						"expanded_url": "https://twitter.com/RudyGiuliani/status/1542690814458994689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 632,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 952,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 952,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1542690810000457700,
+						"id_str": "1542690810000457728",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/FWi9HkBWQAAEeOI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWi9HkBWQAAEeOI.jpg",
+						"url": "https://t.co/O6EvkxHRt8",
+						"display_url": "pic.twitter.com/O6EvkxHRt8",
+						"expanded_url": "https://twitter.com/RudyGiuliani/status/1542690814458994689/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 632,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 952,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 952,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 770781940341289000,
+				"id_str": "770781940341288960",
+				"name": "Rudy W. Giuliani",
+				"screen_name": "RudyGiuliani",
+				"location": "New York, NY",
+				"description": "Subscribe to the Common Sense podcast through the link below or on your audio podcast apps. 🇺🇸",
+				"url": "https://t.co/rP5RAVNbyM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rP5RAVNbyM",
+								"expanded_url": "http://RudyGiulianiCS.com",
+								"display_url": "RudyGiulianiCS.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1281215,
+				"friends_count": 472,
+				"listed_count": 4210,
+				"created_at": "Wed Aug 31 00:35:10 +0000 2016",
+				"favourites_count": 8465,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5316,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1225153508963487744/vJ3PwX5y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225153508963487744/vJ3PwX5y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/770781940341288960/1580934833",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4730,
+			"favorite_count": 20279,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/4Qfh608UdX https://t.co/9IJmu0jPAh https://t.co/zUs0m1iPFq"
+	},
+	{
 		"created_at": "Fri Jul 01 16:03:34 +0000 2022",
 		"id": 1542888896786079700,
 		"id_str": "1542901738314899456",
