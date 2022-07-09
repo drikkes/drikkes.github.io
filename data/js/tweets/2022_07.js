@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 09 17:58:39 +0000 2022",
+		"id": 1545829801369510000,
+		"id_str": "1545829801369509888",
+		"full_text": "Anfänger:in, wer kein „Ja, Komfort-Checkin“-Tattoo auf dem Rücken der Nicht-Smartphonehand hat. https://t.co/HRJTCMTogc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HRJTCMTogc",
+					"expanded_url": "https://twitter.com/axaneco/status/1545774691478290433",
+					"display_url": "twitter.com/axaneco/status…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 153,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1545774691478290400,
+		"quoted_status_id_str": "1545774691478290433",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HRJTCMTogc",
+			"expanded": "https://twitter.com/axaneco/status/1545774691478290433",
+			"display": "twitter.com/axaneco/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 09 14:19:40 +0000 2022",
+			"id": 1545774691478290400,
+			"id_str": "1545774691478290433",
+			"full_text": "Tatsächlich ist es so, dass man den Komfort Check-in insbesondere auch nicht in der irrigen Annahme nutzen sollte, man könne danach ein ungestörtes Schläfchen halten. Man wird von der Kontrollinstanz geweckt, um dann [weiter wie unten]\n(Mal die Prozesse schulen, @DB_Bahn?) https://t.co/Cj0TsNK0qv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DB_Bahn",
+						"name": "Deutsche Bahn Personenverkehr",
+						"id": 39999078,
+						"id_str": "39999078",
+						"indices": [
+							263,
+							271
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Cj0TsNK0qv",
+						"expanded_url": "https://twitter.com/hanbekks/status/1545747152642707457",
+						"display_url": "twitter.com/hanbekks/statu…",
+						"indices": [
+							274,
+							297
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36346578,
+				"id_str": "36346578",
+				"name": "ласточка61, A.B.M.B.",
+				"screen_name": "axaneco",
+				"location": "Hamburg",
+				"description": "Mathematiker.",
+				"url": "https://t.co/rB1jPHiVtl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rB1jPHiVtl",
+								"expanded_url": "https://zxb.onl/klos",
+								"display_url": "zxb.onl/klos",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 530,
+				"friends_count": 354,
+				"listed_count": 24,
+				"created_at": "Wed Apr 29 12:36:08 +0000 2009",
+				"favourites_count": 64387,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32051,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/915847293345177600/7NfLO1Lb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/915847293345177600/7NfLO1Lb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36346578/1393235544",
+				"profile_link_color": "00C5CD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "95ECA5",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1545747152642707500,
+			"quoted_status_id_str": "1545747152642707457",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Cj0TsNK0qv",
+				"expanded": "https://twitter.com/hanbekks/status/1545747152642707457",
+				"display": "twitter.com/hanbekks/statu…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Anfänger:in, wer kein „Ja, Komfort-Checkin“-Tattoo auf dem Rücken der Nicht-Smartphonehand hat. https://t.co/HRJTCMTogc"
+	},
+	{
 		"created_at": "Fri Jul 08 23:05:09 +0000 2022",
 		"id": 1545544545680691200,
 		"id_str": "1545544545680691201",
