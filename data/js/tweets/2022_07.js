@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 07:54:51 +0000 2022",
+		"id": 1547264335822585900,
+		"id_str": "1547489788965670912",
+		"full_text": "They should punish kids who do well in school with more homework to prepare them for what will happen to them when they grow up and are good at their jobs.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149249831,
+			"id_str": "149249831",
+			"name": "The Volatile Mermaid",
+			"screen_name": "OhNoSheTwitnt",
+			"location": "I’m from N-E-W Jerz ",
+			"description": "~*Jewish American Disney Princess*~ @HarlanCoben once compared me to a whiskey sour without the whiskey.",
+			"url": "https://t.co/MWi2ZboEWV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MWi2ZboEWV",
+							"expanded_url": "https://www.someecards.com/entertainment/web/ohnoshetwitnt-funniest-twitter/amp",
+							"display_url": "someecards.com/entertainment/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408035,
+			"friends_count": 1356,
+			"listed_count": 3242,
+			"created_at": "Fri May 28 20:24:09 +0000 2010",
+			"favourites_count": 387801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 130939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A4DBAA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1513593473869438979/JVI1ijxY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513593473869438979/JVI1ijxY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149249831/1649703812",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A89B9B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 638,
+		"favorite_count": 8012,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "They should punish kids who do well in school with more homework to prepare them for what will happen to them when they grow up and are good at their jobs."
+	},
+	{
 		"created_at": "Wed Jul 13 21:28:43 +0000 2022",
 		"id": 1547332218644795400,
 		"id_str": "1547332218644795392",
