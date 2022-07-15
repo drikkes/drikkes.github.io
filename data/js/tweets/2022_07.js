@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 08:24:34 +0000 2022",
+		"id": 1547854810442911700,
+		"id_str": "1547859658043314183",
+		"full_text": "Dass es so viele Aphoristiker*innen gibt, die alle von sich sagen, sie hätten gesagt, was du über andere sagtest, sage mehr über dich als über die anderen, sagt mehr über sie als über die anderen.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 358428263,
+			"id_str": "358428263",
+			"name": "Peter Breuer",
+			"screen_name": "peterbreuer",
+			"location": "Hamburg, Deutschland",
+			"description": "",
+			"url": "https://t.co/zBYUlvNRj4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zBYUlvNRj4",
+							"expanded_url": "https://www.peterbreuer.de",
+							"display_url": "peterbreuer.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41846,
+			"friends_count": 1263,
+			"listed_count": 729,
+			"created_at": "Fri Aug 19 22:29:33 +0000 2011",
+			"favourites_count": 91192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476945685593444355/Y-zlSRx0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476945685593444355/Y-zlSRx0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/358428263/1433864332",
+			"profile_link_color": "FC0536",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de",
+		"text": "Dass es so viele Aphoristiker*innen gibt, die alle von sich sagen, sie hätten gesagt, was du über andere sagtest, sage mehr über dich als über die anderen, sagt mehr über sie als über die anderen."
+	},
+	{
 		"created_at": "Thu Jul 14 08:26:03 +0000 2022",
 		"id": 1547497642133004300,
 		"id_str": "1547497642133004288",
