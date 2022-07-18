@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 12:32:48 +0000 2022",
+		"id": 1549009289360146400,
+		"id_str": "1549009289360146440",
+		"full_text": "Endlich eine Fortsetzung von https://t.co/43ohaEtl0E https://t.co/lMrlXeujI3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/43ohaEtl0E",
+					"expanded_url": "https://shop.neubauten.org/de/headcleaner-blixa-bargeld",
+					"display_url": "shop.neubauten.org/de/headcleaner…",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/lMrlXeujI3",
+					"expanded_url": "https://twitter.com/GabrielBerlin/status/1549007762595758083",
+					"display_url": "twitter.com/GabrielBerlin/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 806,
+			"friends_count": 153,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91708279,
+				6.96597859
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96597859,
+				50.91708279
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1549007762595758000,
+		"quoted_status_id_str": "1549007762595758083",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lMrlXeujI3",
+			"expanded": "https://twitter.com/GabrielBerlin/status/1549007762595758083",
+			"display": "twitter.com/GabrielBerlin/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 18 12:26:44 +0000 2022",
+			"id": 1549007762595758000,
+			"id_str": "1549007762595758083",
+			"full_text": "nein ich habe nichts mit der Betextung dieses Produkts zu tun https://t.co/kbadWptpno",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1549007757998686200,
+						"id_str": "1549007757998686210",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/FX8uWVHWAAIiils.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FX8uWVHWAAIiils.jpg",
+						"url": "https://t.co/kbadWptpno",
+						"display_url": "pic.twitter.com/kbadWptpno",
+						"expanded_url": "https://twitter.com/GabrielBerlin/status/1549007762595758083/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1549007757998686200,
+						"id_str": "1549007757998686210",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/FX8uWVHWAAIiils.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FX8uWVHWAAIiils.jpg",
+						"url": "https://t.co/kbadWptpno",
+						"display_url": "pic.twitter.com/kbadWptpno",
+						"expanded_url": "https://twitter.com/GabrielBerlin/status/1549007762595758083/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14233899,
+				"id_str": "14233899",
+				"name": "Gabriel Yoran",
+				"screen_name": "GabrielBerlin",
+				"location": "Berlin, Deutschland",
+				"description": "Unternehmer @joinsteady, @steganos. Autor ”The Interfact” @openhumanities, „Warum heißt es“ @frohmannberlin, „Klassik verstehen“ @krautreporter, er/ihm 🏳️‍🌈",
+				"url": "https://t.co/F46eTUvEk0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F46eTUvEk0",
+								"expanded_url": "http://yoran.com",
+								"display_url": "yoran.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8553,
+				"friends_count": 1658,
+				"listed_count": 256,
+				"created_at": "Thu Mar 27 09:18:55 +0000 2008",
+				"favourites_count": 205390,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 144433,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "875022",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1543133086740844544/rmG7Qwfi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1543133086740844544/rmG7Qwfi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14233899/1634544931",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EAD4CD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3078869807f9dd36",
+				"url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+				"place_type": "city",
+				"name": "Berlin",
+				"full_name": "Berlin, Germany",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								13.088304,
+								52.338079
+							],
+							[
+								13.760909,
+								52.338079
+							],
+							[
+								13.760909,
+								52.675323
+							],
+							[
+								13.088304,
+								52.675323
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Endlich eine Fortsetzung von https://t.co/43ohaEtl0E https://t.co/lMrlXeujI3"
+	},
+	{
 		"created_at": "Mon Jul 18 10:08:14 +0000 2022",
 		"id": 1548972907208102000,
 		"id_str": "1548972907208101889",
