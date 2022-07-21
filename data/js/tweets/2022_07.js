@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 09:07:23 +0000 2022",
+		"id": 1550044758055288800,
+		"id_str": "1550044758055288832",
+		"full_text": "Top, kann ich als Millennnial mein Dreinuller-Abi noch ironisch larmoyanter gegenüber Gen Zs erwähnen. In so einer gespielten Beiläufigkeit, Ihr wisst schon. https://t.co/Gll7ALBCtH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gll7ALBCtH",
+					"expanded_url": "https://twitter.com/Niels_Werber/status/1550027879697743872",
+					"display_url": "twitter.com/Niels_Werber/s…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 806,
+			"friends_count": 153,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91705237,
+				6.96590191
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96590191,
+				50.91705237
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1550027879697744000,
+		"quoted_status_id_str": "1550027879697743872",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Gll7ALBCtH",
+			"expanded": "https://twitter.com/Niels_Werber/status/1550027879697743872",
+			"display": "twitter.com/Niels_Werber/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 21 08:00:19 +0000 2022",
+			"id": 1550027879697744000,
+			"id_str": "1550027879697743872",
+			"full_text": "Jetzt auch noch Noteninflation? https://t.co/Au0hYB1Sbi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1550027378138701800,
+						"id_str": "1550027378138701826",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/FYLNsCIWYAIQlYF.png",
+						"media_url_https": "https://pbs.twimg.com/media/FYLNsCIWYAIQlYF.png",
+						"url": "https://t.co/Au0hYB1Sbi",
+						"display_url": "pic.twitter.com/Au0hYB1Sbi",
+						"expanded_url": "https://twitter.com/Niels_Werber/status/1550027879697743872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 306,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 836,
+								"h": 376,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 836,
+								"h": 376,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1550027378138701800,
+						"id_str": "1550027378138701826",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/FYLNsCIWYAIQlYF.png",
+						"media_url_https": "https://pbs.twimg.com/media/FYLNsCIWYAIQlYF.png",
+						"url": "https://t.co/Au0hYB1Sbi",
+						"display_url": "pic.twitter.com/Au0hYB1Sbi",
+						"expanded_url": "https://twitter.com/Niels_Werber/status/1550027879697743872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 306,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 836,
+								"h": 376,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 836,
+								"h": 376,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3502716441,
+				"id_str": "3502716441",
+				"name": "Niels Werber",
+				"screen_name": "Niels_Werber",
+				"location": "Köln",
+				"description": "Irgendwo zwischen Amt und Person. Retweets aren‘t likes. https://t.co/WGr8eutQ6B",
+				"url": "https://t.co/nY9aaSdjbH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nY9aaSdjbH",
+								"expanded_url": "https://nielswerber.de/",
+								"display_url": "nielswerber.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WGr8eutQ6B",
+								"expanded_url": "https://sfb1472.uni-siegen.de",
+								"display_url": "sfb1472.uni-siegen.de",
+								"indices": [
+									57,
+									80
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 787,
+				"friends_count": 322,
+				"listed_count": 7,
+				"created_at": "Mon Aug 31 14:49:45 +0000 2015",
+				"favourites_count": 8900,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3985,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1305509383963631621/ns1yc-Xh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305509383963631621/ns1yc-Xh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3502716441/1614275077",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Top, kann ich als Millennnial mein Dreinuller-Abi noch ironisch larmoyanter gegenüber Gen Zs erwähnen. In so einer gespielten Beiläufigkeit, Ihr wisst schon. https://t.co/Gll7ALBCtH"
+	},
+	{
 		"created_at": "Wed Jul 20 15:09:17 +0000 2022",
 		"id": 1549773443742195700,
 		"id_str": "1549773443742195720",
