@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 31 13:32:18 +0000 2022",
+		"id": 1553706501377867800,
+		"id_str": "1553735305886404608",
+		"full_text": "Die Wahrheit über deutsches Brot\nhttps://t.co/BgEqiwiJLE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BgEqiwiJLE",
+					"expanded_url": "https://taz.de/Die-Wahrheit/!5867292/",
+					"display_url": "taz.de/Die-Wahrheit/!…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14385857,
+			"id_str": "14385857",
+			"name": "hrcz",
+			"screen_name": "malomalo",
+			"location": "Köln, Paris, nowhere",
+			"description": "Lost and found, reinvented, paniert and deep fried.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 778,
+			"friends_count": 653,
+			"listed_count": 34,
+			"created_at": "Mon Apr 14 14:48:30 +0000 2008",
+			"favourites_count": 13823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322837177047437312/mxlSC9CE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322837177047437312/mxlSC9CE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14385857/1604223935",
+			"profile_link_color": "5D667D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Die Wahrheit über deutsches Brot\nhttps://t.co/BgEqiwiJLE"
+	},
+	{
 		"created_at": "Sun Jul 31 12:17:12 +0000 2022",
 		"id": 1553716405501141000,
 		"id_str": "1553716405501140992",
