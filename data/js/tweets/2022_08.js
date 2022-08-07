@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 08:21:26 +0000 2022",
+		"id": 1555967376348381200,
+		"id_str": "1556193790490300424",
+		"full_text": "Dieses Irgendwann ist jetzt! Und die Unendlich-viele-Motive-Anguckseite mit Votingfunktion ist hier: https://t.co/lioqeZjsmz https://t.co/rcSZbXZDt2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lioqeZjsmz",
+					"expanded_url": "https://zufallsshirt.de/vote.html",
+					"display_url": "zufallsshirt.de/vote.html",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/rcSZbXZDt2",
+					"expanded_url": "https://twitter.com/kathrinpassig/status/1553323877283123204",
+					"display_url": "twitter.com/kathrinpassig/…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14547663,
+			"id_str": "14547663",
+			"name": "Kathrin Passig",
+			"screen_name": "kathrinpassig",
+			"location": "Berlin",
+			"description": "\"Handbuch für Zeitreisende\" (2020, zusammen mit @dalcashdvinsky), kauft das mal, es ist nützlich. Außerdem: @zufallsshirt & @techniktagebuch. (sie/ihr, she/her)",
+			"url": "https://t.co/33NZOHqJK1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/33NZOHqJK1",
+							"expanded_url": "http://kathrin.passig.de",
+							"display_url": "kathrin.passig.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35154,
+			"friends_count": 2056,
+			"listed_count": 830,
+			"created_at": "Sat Apr 26 16:24:12 +0000 2008",
+			"favourites_count": 77527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/827234871798034432/SuZsu3_t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/827234871798034432/SuZsu3_t_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1553323877283123200,
+		"quoted_status_id_str": "1553323877283123204",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rcSZbXZDt2",
+			"expanded": "https://twitter.com/kathrinpassig/status/1553323877283123204",
+			"display": "twitter.com/kathrinpassig/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 30 10:17:26 +0000 2022",
+			"id": 1553323877283123200,
+			"id_str": "1553323877283123204",
+			"full_text": "Irgendwann wird es unter https://t.co/pxPAsZYBaM wenigstens wieder eine \"unendlich viele Motive angucken\"-Version geben, vielleicht auch mit Voting-Funktion, was in den Shop soll.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				179
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pxPAsZYBaM",
+						"expanded_url": "http://zufallsshirt.de",
+						"display_url": "zufallsshirt.de",
+						"indices": [
+							25,
+							48
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1553323658382397400,
+			"in_reply_to_status_id_str": "1553323658382397440",
+			"in_reply_to_user_id": 14547663,
+			"in_reply_to_user_id_str": "14547663",
+			"in_reply_to_screen_name": "kathrinpassig",
+			"user": {
+				"id": 14547663,
+				"id_str": "14547663",
+				"name": "Kathrin Passig",
+				"screen_name": "kathrinpassig",
+				"location": "Berlin",
+				"description": "\"Handbuch für Zeitreisende\" (2020, zusammen mit @dalcashdvinsky), kauft das mal, es ist nützlich. Außerdem: @zufallsshirt & @techniktagebuch. (sie/ihr, she/her)",
+				"url": "https://t.co/33NZOHqJK1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/33NZOHqJK1",
+								"expanded_url": "http://kathrin.passig.de",
+								"display_url": "kathrin.passig.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35154,
+				"friends_count": 2056,
+				"listed_count": 830,
+				"created_at": "Sat Apr 26 16:24:12 +0000 2008",
+				"favourites_count": 77527,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15349,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827234871798034432/SuZsu3_t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827234871798034432/SuZsu3_t_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 10,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Dieses Irgendwann ist jetzt! Und die Unendlich-viele-Motive-Anguckseite mit Votingfunktion ist hier: https://t.co/lioqeZjsmz https://t.co/rcSZbXZDt2"
+	},
+	{
 		"created_at": "Sun Aug 07 08:04:49 +0000 2022",
 		"id": 1556189608286867500,
 		"id_str": "1556189608286867458",
