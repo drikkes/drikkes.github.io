@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 15 18:44:56 +0000 2022",
+		"id": 1559249800293490700,
+		"id_str": "1559249800293490689",
+		"full_text": "Existentialism https://t.co/B4qxDU9C2W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B4qxDU9C2W",
+					"expanded_url": "https://twitter.com/palmreport/status/1559238623484153857",
+					"display_url": "twitter.com/palmreport/sta…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 806,
+			"friends_count": 154,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1559238623484153900,
+		"quoted_status_id_str": "1559238623484153857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B4qxDU9C2W",
+			"expanded": "https://twitter.com/palmreport/status/1559238623484153857",
+			"display": "twitter.com/palmreport/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 15 18:00:31 +0000 2022",
+			"id": 1559238623484153900,
+			"id_str": "1559238623484153857",
+			"full_text": "https://t.co/8jMKpA3EKz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1559238574029037600,
+						"id_str": "1559238574029037575",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FaOHOM0WYAcCEnQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaOHOM0WYAcCEnQ.jpg",
+						"url": "https://t.co/8jMKpA3EKz",
+						"display_url": "pic.twitter.com/8jMKpA3EKz",
+						"expanded_url": "https://twitter.com/palmreport/status/1559238623484153857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 620,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 620,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 620,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1559238574029037600,
+						"id_str": "1559238574029037575",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FaOHOM0WYAcCEnQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaOHOM0WYAcCEnQ.jpg",
+						"url": "https://t.co/8jMKpA3EKz",
+						"display_url": "pic.twitter.com/8jMKpA3EKz",
+						"expanded_url": "https://twitter.com/palmreport/status/1559238623484153857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 620,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 620,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 620,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://palm.report\" rel=\"nofollow\">PalmBotV2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1495655290125295600,
+				"id_str": "1495655290125295616",
+				"name": "PALM REPORT ☼ (Beta)",
+				"screen_name": "palmreport",
+				"location": "",
+				"description": "Newsletter & lifestyle research facility by @Poolsuite ☼ Subscribe below",
+				"url": "https://t.co/Qe157EnuLh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Qe157EnuLh",
+								"expanded_url": "https://palm.report",
+								"display_url": "palm.report",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3095,
+				"friends_count": 2,
+				"listed_count": 15,
+				"created_at": "Mon Feb 21 07:03:20 +0000 2022",
+				"favourites_count": 36,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 288,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1510705880433840128/2g5M_2g__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510705880433840128/2g5M_2g__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1495655290125295616/1646118883",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "zxx"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Existentialism https://t.co/B4qxDU9C2W"
+	},
+	{
 		"created_at": "Mon Aug 15 10:30:24 +0000 2022",
 		"id": 1559125345407729700,
 		"id_str": "1559125345407729665",
