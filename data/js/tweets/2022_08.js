@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 10:31:30 +0000 2022",
+		"id": 1559714628783034400,
+		"id_str": "1559850397803724802",
+		"full_text": "This is The Daily Showography of Elon Musk: Visionary FutureMan, narrated by @WilliamShatner https://t.co/8Qo3KKGpJY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WilliamShatner",
+					"name": "William Shatner",
+					"id": 15227791,
+					"id_str": "15227791",
+					"indices": [
+						77,
+						92
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559701432483340300,
+					"id_str": "1559701432483340288",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FaUtksOWAAEkBOw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaUtksOWAAEkBOw.jpg",
+					"url": "https://t.co/8Qo3KKGpJY",
+					"display_url": "pic.twitter.com/8Qo3KKGpJY",
+					"expanded_url": "https://twitter.com/TheDailyShow/status/1559714628783034370/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559701432483340300,
+					"id_str": "1559701432483340288",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FaUtksOWAAEkBOw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaUtksOWAAEkBOw.jpg",
+					"url": "https://t.co/8Qo3KKGpJY",
+					"display_url": "pic.twitter.com/8Qo3KKGpJY",
+					"expanded_url": "https://twitter.com/TheDailyShow/status/1559714628783034370/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 498464,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1559701432483340288/pl/jI7Q64m1kkWPGLR3.m3u8?tag=14&container=fmp4&v=ab8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559701432483340288/vid/1280x720/tOJ_Kwve4ZmGigsp.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559701432483340288/vid/480x270/cH9EERp3-1djKmhI.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559701432483340288/vid/640x360/nqR0ynu3qkcK9OEs.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "The Daily Showography of Elon Musk: Visionary FutureMan",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158414847,
+			"id_str": "158414847",
+			"name": "The Daily Show",
+			"screen_name": "TheDailyShow",
+			"location": "",
+			"description": "Trevor Noah and The Daily Show News Team. Weeknights 11/10c on @ComedyCentral and @paramountplus. Visit https://t.co/xzoeWdoFjD to take action",
+			"url": "https://t.co/SparsYZXFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SparsYZXFO",
+							"expanded_url": "https://linktr.ee/thedailyshow",
+							"display_url": "linktr.ee/thedailyshow",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xzoeWdoFjD",
+							"expanded_url": "http://dailyshow.com/act",
+							"display_url": "dailyshow.com/act",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9630779,
+			"friends_count": 1131,
+			"listed_count": 35829,
+			"created_at": "Tue Jun 22 16:41:05 +0000 2010",
+			"favourites_count": 3370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1508550745561337856/VwnhDt5J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1508550745561337856/VwnhDt5J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158414847/1631545646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 576,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is The Daily Showography of Elon Musk: Visionary FutureMan, narrated by @WilliamShatner https://t.co/8Qo3KKGpJY"
+	},
+	{
 		"created_at": "Wed Aug 17 09:00:16 +0000 2022",
 		"id": 1559827439299215400,
 		"id_str": "1559827439299215362",
