@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 11:37:27 +0000 2022",
+		"id": 1560591772253929500,
+		"id_str": "1560591772253929472",
+		"full_text": "Woran ich denke, wenn ich in einer PR-Meldung lesen muß, daß \"Valensina spanisches Lebensgefühl auf das Smartphone bringt\": https://t.co/Jxb131iJCF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jxb131iJCF",
+					"expanded_url": "https://twitter.com/FJ_Murau/status/1559885882366349316",
+					"display_url": "twitter.com/FJ_Murau/statu…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 806,
+			"friends_count": 154,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1559885882366349300,
+		"quoted_status_id_str": "1559885882366349316",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Jxb131iJCF",
+			"expanded": "https://twitter.com/FJ_Murau/status/1559885882366349316",
+			"display": "twitter.com/FJ_Murau/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 17 12:52:30 +0000 2022",
+			"id": 1559885882366349300,
+			"id_str": "1559885882366349316",
+			"full_text": "»Der ÖPNV wird kostenlos sein. Außerdem werden Haushalte entlastet. Es wird eine Obergrenze für Mietsteigerungen geben, die Mwst für Strom sinkt von zehn auf fünf Prozent, Niedrigrenten werden um 15 Prozent angehoben. Auch der Mindestlohn steigt.« https://t.co/C9NGRzVehM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/C9NGRzVehM",
+						"expanded_url": "https://www.fr.de/panorama/spanien-uebergewinnsteuer-kostenloser-oepnv-energiekonzerne-banken-91693535.html?fbclid=IwAR2SSl8nOGKcaQNVh5o3Ah7rU6IjuVWqOhHRJRtobvHp3Ka_Q2OClqz6fkQ&fs=e&s=cl",
+						"display_url": "fr.de/panorama/spani…",
+						"indices": [
+							248,
+							271
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1662224046,
+				"id_str": "1662224046",
+				"name": "Nils Markwardt",
+				"screen_name": "FJ_Murau",
+				"location": "Berlin",
+				"description": "Kulturredakteur bei @zeitonline.",
+				"url": "https://t.co/lsx8wMTwyS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lsx8wMTwyS",
+								"expanded_url": "https://www.zeit.de/autoren/M/Nils_Markwardt/index",
+								"display_url": "zeit.de/autoren/M/Nils…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23106,
+				"friends_count": 716,
+				"listed_count": 245,
+				"created_at": "Sun Aug 11 10:46:55 +0000 2013",
+				"favourites_count": 77894,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28776,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998335945584689153/4Su00DTw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998335945584689153/4Su00DTw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1662224046/1405693197",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2514,
+			"favorite_count": 13041,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Woran ich denke, wenn ich in einer PR-Meldung lesen muß, daß \"Valensina spanisches Lebensgefühl auf das Smartphone bringt\": https://t.co/Jxb131iJCF"
+	},
+	{
 		"created_at": "Fri Aug 19 09:51:23 +0000 2022",
 		"id": 1560565078767853600,
 		"id_str": "1560565078767853568",
