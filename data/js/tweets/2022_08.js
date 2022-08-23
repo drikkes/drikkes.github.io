@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 23 14:41:45 +0000 2022",
+		"id": 1562087706179641300,
+		"id_str": "1562087706179641345",
+		"full_text": "So they should (of course hypothetically) also work in Cologne, right? Stöer, WallDecaux, … https://t.co/6g3OFm18OV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6g3OFm18OV",
+					"expanded_url": "https://twitter.com/DistortedAd/status/1562052199781486593",
+					"display_url": "twitter.com/DistortedAd/st…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 806,
+			"friends_count": 154,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91702974,
+				6.9658525
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.9658525,
+				50.91702974
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1562052199781486600,
+		"quoted_status_id_str": "1562052199781486593",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6g3OFm18OV",
+			"expanded": "https://twitter.com/DistortedAd/status/1562052199781486593",
+			"display": "twitter.com/DistortedAd/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 23 12:20:40 +0000 2022",
+			"id": 1562052199781486600,
+			"id_str": "1562052199781486593",
+			"full_text": "These keys - which (hypothetically) give you access to Berlin's ad spaces - are now available for purchase here: https://t.co/9NAGBSumB7 https://t.co/GUBbUMFmEe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9NAGBSumB7",
+						"expanded_url": "http://black-mosquito.org/de/werbepause-toolkit.html",
+						"display_url": "black-mosquito.org/de/werbepause-…",
+						"indices": [
+							113,
+							136
+						]
+					},
+					{
+						"url": "https://t.co/GUBbUMFmEe",
+						"expanded_url": "https://twitter.com/DistortedAd/status/1554029115006717952",
+						"display_url": "twitter.com/DistortedAd/st…",
+						"indices": [
+							137,
+							160
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3188490303,
+				"id_str": "3188490303",
+				"name": "AdDistortion",
+				"screen_name": "DistortedAd",
+				"location": "",
+				"description": "All news related to the subverting, hijacking & hacking of advertising spaces. Curated by @thomasdekeyser.\n\nFor a history of #Subvertising: https://t.co/gqE9Yg17xk",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gqE9Yg17xk",
+								"expanded_url": "http://bit.ly/3x3paTC",
+								"display_url": "bit.ly/3x3paTC",
+								"indices": [
+									140,
+									163
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4083,
+				"friends_count": 78,
+				"listed_count": 34,
+				"created_at": "Mon Apr 20 22:09:42 +0000 2015",
+				"favourites_count": 361,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1265,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/590613492576739329/qPx_zez2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/590613492576739329/qPx_zez2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188490303/1595004830",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1554029115006718000,
+			"quoted_status_id_str": "1554029115006717952",
+			"quoted_status_permalink": {
+				"url": "https://t.co/GUBbUMFmEe",
+				"expanded": "https://twitter.com/DistortedAd/status/1554029115006717952",
+				"display": "twitter.com/DistortedAd/st…"
+			},
+			"retweet_count": 5,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So they should (of course hypothetically) also work in Cologne, right? Stöer, WallDecaux, … https://t.co/6g3OFm18OV"
+	},
+	{
 		"created_at": "Tue Aug 23 13:42:39 +0000 2022",
 		"id": 1562072831965405200,
 		"id_str": "1562072831965405184",
