@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 24 13:31:11 +0000 2022",
+		"id": 1562432333419991000,
+		"id_str": "1562432333419991040",
+		"full_text": "@RemindMe_OfThis in twenty years. https://t.co/iTCBRSPE6u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RemindMe_OfThis",
+					"name": "Remind me of this tweet",
+					"id": 1067540921451987000,
+					"id_str": "1067540921451986945",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iTCBRSPE6u",
+					"expanded_url": "https://twitter.com/DonDahlmann/status/1562348250019274752",
+					"display_url": "twitter.com/DonDahlmann/st…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1067540921451987000,
+		"in_reply_to_user_id_str": "1067540921451986945",
+		"in_reply_to_screen_name": "RemindMe_OfThis",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 806,
+			"friends_count": 154,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.91709017,
+				6.96596554
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96596554,
+				50.91709017
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1562348250019274800,
+		"quoted_status_id_str": "1562348250019274752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iTCBRSPE6u",
+			"expanded": "https://twitter.com/DonDahlmann/status/1562348250019274752",
+			"display": "twitter.com/DonDahlmann/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 24 07:57:04 +0000 2022",
+			"id": 1562348250019274800,
+			"id_str": "1562348250019274752",
+			"full_text": "Man muss kein Prophet sein um festzustellen, dass in 20 Jahren Musiker und Schauspieler zum größten Teil digitale Produkte sein werden. \n https://t.co/km1WRlvUCv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/km1WRlvUCv",
+						"expanded_url": "https://www.theguardian.com/music/2022/aug/24/major-record-label-drops-offensive-ai-rapper-after-outcry-over-racial-stereotyping",
+						"display_url": "theguardian.com/music/2022/aug…",
+						"indices": [
+							138,
+							161
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1151281,
+				"id_str": "1151281",
+				"name": "DonDahlmann",
+				"screen_name": "DonDahlmann",
+				"location": "Berlin, Germany",
+				"description": "Autor zum Thema Zukunft der Mobilität, Smart Cities, Energie. Autor & Kolumnist @gruenderszene, Autor @mobilegeeksde. Living. Breathing. In Berlin.",
+				"url": "https://t.co/Yf0RPLMUHf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Yf0RPLMUHf",
+								"expanded_url": "https://www.dondahlmann.de/",
+								"display_url": "dondahlmann.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10677,
+				"friends_count": 1500,
+				"listed_count": 455,
+				"created_at": "Wed Mar 14 11:33:23 +0000 2007",
+				"favourites_count": 6292,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22709,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "878484",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819303506234527744/uX9y4TyL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819303506234527744/uX9y4TyL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1151281/1398199306",
+				"profile_link_color": "0000CB",
+				"profile_sidebar_border_color": "963939",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RemindMe_OfThis in twenty years. https://t.co/iTCBRSPE6u"
+	},
+	{
 		"created_at": "Wed Aug 24 10:03:06 +0000 2022",
 		"id": 1562379965794058200,
 		"id_str": "1562379965794058240",
