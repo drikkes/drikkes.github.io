@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 26 23:29:29 +0000 2022",
+		"id": 1561684918199001000,
+		"id_str": "1563307676871770115",
+		"full_text": "Today in IP law: someone registered a trademark for CUGGL as a clothing brand in Japan, and sells shirts with the logo partially obscured. GUCCI sued, JP trademark office states that CUGGL is not similar enough to GUCCI to warrant enforcement. https://t.co/FKIyaQBtlE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1561684746349994000,
+					"id_str": "1561684746349993988",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Faw4AK1WYAQYqDo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Faw4AK1WYAQYqDo.jpg",
+					"url": "https://t.co/FKIyaQBtlE",
+					"display_url": "pic.twitter.com/FKIyaQBtlE",
+					"expanded_url": "https://twitter.com/halvarflake/status/1561684918199001091/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 855,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1561684746349994000,
+					"id_str": "1561684746349993988",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Faw4AK1WYAQYqDo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Faw4AK1WYAQYqDo.jpg",
+					"url": "https://t.co/FKIyaQBtlE",
+					"display_url": "pic.twitter.com/FKIyaQBtlE",
+					"expanded_url": "https://twitter.com/halvarflake/status/1561684918199001091/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 855,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15276283,
+			"id_str": "15276283",
+			"name": "Halvar Flake",
+			"screen_name": "halvarflake",
+			"location": "",
+			"description": "I do math. And was once asked by R. Morris Sr. : &quot;For whom?&quot;\n\nAt the moment, for https://t.co/zr0Qzl2a13",
+			"url": "https://t.co/CdvwYNFcFv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CdvwYNFcFv",
+							"expanded_url": "https://thomasdullien.github.io/about/",
+							"display_url": "thomasdullien.github.io/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zr0Qzl2a13",
+							"expanded_url": "https://optimyze.cloud",
+							"display_url": "optimyze.cloud",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40248,
+			"friends_count": 2297,
+			"listed_count": 911,
+			"created_at": "Mon Jun 30 04:46:12 +0000 2008",
+			"favourites_count": 35624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836960279187578880/IwUNXm5v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836960279187578880/IwUNXm5v_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3578,
+		"favorite_count": 28593,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today in IP law: someone registered a trademark for CUGGL as a clothing brand in Japan, and sells shirts with the logo partially obscured. GUCCI sued, JP trademark office states that CUGGL is not similar enough to GUCCI to warrant enforcement. https://t.co/FKIyaQBtlE"
+	},
+	{
 		"created_at": "Fri Aug 26 22:48:47 +0000 2022",
 		"id": 1563297435304177700,
 		"id_str": "1563297435304177666",
