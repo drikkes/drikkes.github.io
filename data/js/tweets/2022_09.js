@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 15:20:54 +0000 2022",
+		"id": 1566767722444333000,
+		"id_str": "1566808597228843008",
+		"full_text": "The Queen’s Prime Ministers from the first born in 1874 to the last (?) born in 1975 🇬🇧🇬🇧 https://t.co/XedcN2e6wb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566767718300356600,
+					"id_str": "1566767718300356613",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5G8E7XkAUMYoN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5G8E7XkAUMYoN.jpg",
+					"url": "https://t.co/XedcN2e6wb",
+					"display_url": "pic.twitter.com/XedcN2e6wb",
+					"expanded_url": "https://twitter.com/migrhodes/status/1566767722444333057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 704,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 704,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566767718300356600,
+					"id_str": "1566767718300356613",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb5G8E7XkAUMYoN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb5G8E7XkAUMYoN.jpg",
+					"url": "https://t.co/XedcN2e6wb",
+					"display_url": "pic.twitter.com/XedcN2e6wb",
+					"expanded_url": "https://twitter.com/migrhodes/status/1566767722444333057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 704,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 704,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21738597,
+			"id_str": "21738597",
+			"name": "Michael Rhodes",
+			"screen_name": "migrhodes",
+			"location": "Harrogate, North Yorkshire.",
+			"description": "",
+			"url": "https://t.co/OoKwpPPkuU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OoKwpPPkuU",
+							"expanded_url": "http://www.peeragenews.blogspot.co.uk",
+							"display_url": "peeragenews.blogspot.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1221,
+			"friends_count": 742,
+			"listed_count": 94,
+			"created_at": "Tue Feb 24 08:16:41 +0000 2009",
+			"favourites_count": 7970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000077062760/5003ec9b5792f70554c88ce823ec4e19_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000077062760/5003ec9b5792f70554c88ce823ec4e19_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21738597/1604613841",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "797b837ec73b4f4d",
+			"url": "https://api.twitter.com/1.1/geo/id/797b837ec73b4f4d.json",
+			"place_type": "city",
+			"name": "Harrogate",
+			"full_name": "Harrogate, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.5979582,
+							53.966206
+						],
+						[
+							-1.485794,
+							53.966206
+						],
+						[
+							-1.485794,
+							54.0162557
+						],
+						[
+							-1.5979582,
+							54.0162557
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Queen’s Prime Ministers from the first born in 1874 to the last (?) born in 1975 🇬🇧🇬🇧 https://t.co/XedcN2e6wb"
+	},
+	{
 		"created_at": "Mon Sep 05 13:50:25 +0000 2022",
 		"id": 1566785827266510800,
 		"id_str": "1566785827266510848",
