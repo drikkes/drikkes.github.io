@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 11 05:57:08 +0000 2022",
+		"id": 1447983675786899500,
+		"id_str": "1568841048864002049",
+		"full_text": "Give a man a fish, you feed him for a day. Teach a man to fish, you can target him with fishing-equipment ads for a lifetime.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17023762,
+			"id_str": "17023762",
+			"name": "R/GA",
+			"screen_name": "RGA",
+			"location": "New York, NY",
+			"description": "We design businesses and brands for a more human future. Tweets by @chapinc.",
+			"url": "https://t.co/mRDyTGs7MF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mRDyTGs7MF",
+							"expanded_url": "http://www.rga.com",
+							"display_url": "rga.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185118,
+			"friends_count": 3048,
+			"listed_count": 5817,
+			"created_at": "Tue Oct 28 16:19:33 +0000 2008",
+			"favourites_count": 38674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556992632533942273/1FlmuYGf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556992632533942273/1FlmuYGf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17023762/1605980583",
+			"profile_link_color": "E51937",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "E5E5E5",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 275,
+		"favorite_count": 1422,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Give a man a fish, you feed him for a day. Teach a man to fish, you can target him with fishing-equipment ads for a lifetime."
+	},
+	{
 		"created_at": "Fri Sep 09 13:35:08 +0000 2022",
 		"id": 1568231531117699000,
 		"id_str": "1568231531117699073",
