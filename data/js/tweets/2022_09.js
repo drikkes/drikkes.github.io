@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 09:11:26 +0000 2022",
+		"id": 1569407965693632500,
+		"id_str": "1569977111082897411",
+		"full_text": "From a genealogical point of view, the UK has a new dynasty now.\n\nUpon the death of Queen Elizabeth II, the reign of the House of Saxe-Coburg and Gotha (which started with King Edward VII) has ended and the reign of the House of Schleswig-Holstein-Sonderburg-Glücksburg has begun. https://t.co/GPAg4yRhUT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569407960173912000,
+					"id_str": "1569407960173912072",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FceoOYXWIAgC0E2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FceoOYXWIAgC0E2.jpg",
+					"url": "https://t.co/GPAg4yRhUT",
+					"display_url": "pic.twitter.com/GPAg4yRhUT",
+					"expanded_url": "https://twitter.com/RoyalArjan/status/1569407965693632513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569407960173912000,
+					"id_str": "1569407960173912072",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FceoOYXWIAgC0E2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FceoOYXWIAgC0E2.jpg",
+					"url": "https://t.co/GPAg4yRhUT",
+					"display_url": "pic.twitter.com/GPAg4yRhUT",
+					"expanded_url": "https://twitter.com/RoyalArjan/status/1569407965693632513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569407960161435600,
+					"id_str": "1569407960161435650",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FceoOYUXwAIs8N0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FceoOYUXwAIs8N0.jpg",
+					"url": "https://t.co/GPAg4yRhUT",
+					"display_url": "pic.twitter.com/GPAg4yRhUT",
+					"expanded_url": "https://twitter.com/RoyalArjan/status/1569407965693632513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121663011,
+			"id_str": "121663011",
+			"name": "RoyalArjan",
+			"screen_name": "RoyalArjan",
+			"location": "",
+			"description": "This account is about European royalty from the 19th century onwards, especially the descendants of both King Christian IX of Denmark and Queen Victoria.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11879,
+			"friends_count": 545,
+			"listed_count": 100,
+			"created_at": "Wed Mar 10 05:50:17 +0000 2010",
+			"favourites_count": 28017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1416813916429209601/NSPOsw-v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1416813916429209601/NSPOsw-v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121663011/1613199730",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 1027,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From a genealogical point of view, the UK has a new dynasty now.\n\nUpon the death of Queen Elizabeth II, the reign of the House of Saxe-Coburg and Gotha (which started with King Edward VII) has ended and the reign of the House of Schleswig-Holstein-Sonderburg-Glücksburg has begun. https://t.co/GPAg4yRhUT"
+	},
+	{
 		"created_at": "Tue Sep 13 17:07:38 +0000 2022",
 		"id": 1569734561310834700,
 		"id_str": "1569734561310834696",
