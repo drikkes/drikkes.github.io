@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 22:36:26 +0000 2022",
+		"id": 1570904471311360000,
+		"id_str": "1570904471311360000",
+		"full_text": "@Sillium @scriptableapp Werde ich definitiv austesten. Aber die Telekom würde es bestimmt lieber sehen, wenn Du ihr aktuelles Logo verwendest. Das mit den nur noch zwei Digits passt auch besser in den Kreis. https://t.co/skWMzDtGR9",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sillium",
+					"name": "Sillium",
+					"id": 5525692,
+					"id_str": "5525692",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "scriptableapp",
+					"name": "Scriptable",
+					"id": 1044488213853864000,
+					"id_str": "1044488213853863936",
+					"indices": [
+						9,
+						23
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570904467062530000,
+					"id_str": "1570904467062530050",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcz5Si9WIAIP6vB.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fcz5Si9WIAIP6vB.png",
+					"url": "https://t.co/skWMzDtGR9",
+					"display_url": "pic.twitter.com/skWMzDtGR9",
+					"expanded_url": "https://twitter.com/drikkes/status/1570904471311360000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570904467062530000,
+					"id_str": "1570904467062530050",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcz5Si9WIAIP6vB.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fcz5Si9WIAIP6vB.png",
+					"url": "https://t.co/skWMzDtGR9",
+					"display_url": "pic.twitter.com/skWMzDtGR9",
+					"expanded_url": "https://twitter.com/drikkes/status/1570904471311360000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1570894489677615000,
+		"in_reply_to_status_id_str": "1570894489677615105",
+		"in_reply_to_user_id": 5525692,
+		"in_reply_to_user_id_str": "5525692",
+		"in_reply_to_screen_name": "Sillium",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 805,
+			"friends_count": 154,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "@Sillium @scriptableapp Werde ich definitiv austesten. Aber die Telekom würde es bestimmt lieber sehen, wenn Du ihr aktuelles Logo verwendest. Das mit den nur noch zwei Digits passt auch besser in den Kreis. https://t.co/skWMzDtGR9"
+	},
+	{
 		"created_at": "Fri Sep 16 18:15:18 +0000 2022",
 		"id": 1570838752813088800,
 		"id_str": "1570838752813088772",
