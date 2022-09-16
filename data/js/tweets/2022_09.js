@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 15:25:24 +0000 2022",
+		"id": 1570699583763906600,
+		"id_str": "1570795996778582016",
+		"full_text": "Mit diesen Penis Gummibären hat sich die AfD endgültig entlarvt oder?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815634950372397000,
+			"id_str": "815634950372397056",
+			"name": "Dax Werner",
+			"screen_name": "DaxWerner",
+			"location": "",
+			"description": "Kolumnen @titanic @seenotrettung | Host 'Man lernt nie aus' @spotify | Rockband @diescreenshots | dax.werner@gmx.de",
+			"url": "https://t.co/TspqsQDQoR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TspqsQDQoR",
+							"expanded_url": "http://instagram.com/daxwerner",
+							"display_url": "instagram.com/daxwerner",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58831,
+			"friends_count": 2041,
+			"listed_count": 182,
+			"created_at": "Sun Jan 01 19:05:00 +0000 2017",
+			"favourites_count": 212519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1548626846920613890/-A5C6Wh0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1548626846920613890/-A5C6Wh0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815634950372397056/1639139266",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 448,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "de",
+		"text": "Mit diesen Penis Gummibären hat sich die AfD endgültig entlarvt oder?"
+	},
+	{
 		"created_at": "Fri Sep 16 11:07:33 +0000 2022",
 		"id": 1570731109729636400,
 		"id_str": "1570731109729636360",
