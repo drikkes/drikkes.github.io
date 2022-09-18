@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 15:01:34 +0000 2022",
+		"id": 1571514777167339500,
+		"id_str": "1571514777167339520",
+		"full_text": "@Sussuvio Mmmh, Bacon. https://t.co/E5TGqKwVfM",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sussuvio",
+					"name": "VVIO",
+					"id": 839239325657272300,
+					"id_str": "839239325657272320",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571514748319027200,
+					"id_str": "1571514748319027200",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fc8kVlzX0AAG8XR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fc8kVlzX0AAG8XR.jpg",
+					"url": "https://t.co/E5TGqKwVfM",
+					"display_url": "pic.twitter.com/E5TGqKwVfM",
+					"expanded_url": "https://twitter.com/drikkes/status/1571514777167339520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 228,
+							"h": 228,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 228,
+							"h": 228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 228,
+							"h": 228,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571514748319027200,
+					"id_str": "1571514748319027200",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fc8kVlzX0AAG8XR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fc8kVlzX0AAG8XR.jpg",
+					"url": "https://t.co/E5TGqKwVfM",
+					"display_url": "pic.twitter.com/E5TGqKwVfM",
+					"expanded_url": "https://twitter.com/drikkes/status/1571514777167339520/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 228,
+							"h": 228,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 228,
+							"h": 228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 228,
+							"h": 228,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fc8kVlzX0AAG8XR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1571513049931989000,
+		"in_reply_to_status_id_str": "1571513049931988994",
+		"in_reply_to_user_id": 839239325657272300,
+		"in_reply_to_user_id_str": "839239325657272320",
+		"in_reply_to_screen_name": "Sussuvio",
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 805,
+			"friends_count": 154,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Sussuvio Mmmh, Bacon. https://t.co/E5TGqKwVfM"
+	},
+	{
 		"created_at": "Sun Sep 18 13:42:03 +0000 2022",
 		"id": 1571494764263968800,
 		"id_str": "1571494764263968770",
