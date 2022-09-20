@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 16:53:31 +0000 2022",
+		"id": 1572267724515967000,
+		"id_str": "1572267724515966976",
+		"full_text": "Nyn. https://t.co/tyucyDQQoj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tyucyDQQoj",
+					"expanded_url": "https://twitter.com/DWDL/status/1572208441300774912",
+					"display_url": "twitter.com/DWDL/status/15…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 805,
+			"friends_count": 154,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1572208441300775000,
+		"quoted_status_id_str": "1572208441300774912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tyucyDQQoj",
+			"expanded": "https://twitter.com/DWDL/status/1572208441300774912",
+			"display": "twitter.com/DWDL/status/15…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 20 12:57:57 +0000 2022",
+			"id": 1572208441300775000,
+			"id_str": "1572208441300774912",
+			"full_text": "Der neue Sport-Streamingdienst von Christian Seifert und Axel Springer, an dem seit Monaten gearbeitet wird, hat einen Namen: Mitte 2023 soll er als \"Dyn\" an den Start gehen https://t.co/WGhtFnsnY7 https://t.co/3oV8WMKGt9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WGhtFnsnY7",
+						"expanded_url": "https://www.dwdl.de/nachrichten/89796/neuer_sportstreamingdienst_aus_s_nation_wird_dyn/",
+						"display_url": "dwdl.de/nachrichten/89…",
+						"indices": [
+							174,
+							197
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1572208381749825500,
+						"id_str": "1572208381749825536",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/FdGbMXsXEAAv-kz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdGbMXsXEAAv-kz.jpg",
+						"url": "https://t.co/3oV8WMKGt9",
+						"display_url": "pic.twitter.com/3oV8WMKGt9",
+						"expanded_url": "https://twitter.com/DWDL/status/1572208441300774912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1572208381749825500,
+						"id_str": "1572208381749825536",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/FdGbMXsXEAAv-kz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdGbMXsXEAAv-kz.jpg",
+						"url": "https://t.co/3oV8WMKGt9",
+						"display_url": "pic.twitter.com/3oV8WMKGt9",
+						"expanded_url": "https://twitter.com/DWDL/status/1572208441300774912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14332395,
+				"id_str": "14332395",
+				"name": "Medienmagazin DWDL",
+				"screen_name": "DWDL",
+				"location": "Cologne",
+				"description": "Hier twittert das Team von DWDL.de über den Redaktionsalltag, die Medien und besondere Events",
+				"url": "https://t.co/2GjpHo72Ge",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2GjpHo72Ge",
+								"expanded_url": "http://www.dwdl.de",
+								"display_url": "dwdl.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 101237,
+				"friends_count": 137,
+				"listed_count": 1810,
+				"created_at": "Tue Apr 08 13:58:28 +0000 2008",
+				"favourites_count": 2709,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 78527,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "339933",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1408294275121659904/eBoZd8VK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408294275121659904/eBoZd8VK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14332395/1597212527",
+				"profile_link_color": "267F26",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C2D7C0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qst",
+		"text": "Nyn. https://t.co/tyucyDQQoj"
+	},
+	{
 		"created_at": "Tue Sep 20 08:13:13 +0000 2022",
 		"id": 1572136786704617500,
 		"id_str": "1572136786704617472",
