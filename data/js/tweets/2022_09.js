@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 07:45:03 +0000 2022",
+		"id": 1575391188546355200,
+		"id_str": "1575391188546355202",
+		"full_text": "„Wer für amerikanische Nähmaschinen sein Geld zum Lande hinauswirft, der untergräbt den deutschen Volkswohlstand und schädigt sich selbst.“ https://t.co/iowFXODsX9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iowFXODsX9",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1575369784950128640",
+					"display_url": "twitter.com/Die_Reklame/st…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 804,
+			"friends_count": 154,
+			"listed_count": 77,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1575369784950128600,
+		"quoted_status_id_str": "1575369784950128640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iowFXODsX9",
+			"expanded": "https://twitter.com/Die_Reklame/status/1575369784950128640",
+			"display": "twitter.com/Die_Reklame/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 29 06:20:00 +0000 2022",
+			"id": 1575369784950128600,
+			"id_str": "1575369784950128640",
+			"full_text": "Hagener Zeitung 14. Dezember 1901 https://t.co/T6ipiUcYXn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1575369783058595800,
+						"id_str": "1575369783058595840",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/FdzWeJUXgAAmqzz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdzWeJUXgAAmqzz.jpg",
+						"url": "https://t.co/T6ipiUcYXn",
+						"display_url": "pic.twitter.com/T6ipiUcYXn",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1575369784950128640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 364,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 760,
+								"h": 1419,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 643,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1575369783058595800,
+						"id_str": "1575369783058595840",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/FdzWeJUXgAAmqzz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdzWeJUXgAAmqzz.jpg",
+						"url": "https://t.co/T6ipiUcYXn",
+						"display_url": "pic.twitter.com/T6ipiUcYXn",
+						"expanded_url": "https://twitter.com/Die_Reklame/status/1575369784950128640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 364,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 760,
+								"h": 1419,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 643,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://github.com/spinfo/autoChirp\" rel=\"nofollow\">autoChirper</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 966765831140139000,
+				"id_str": "966765831140139009",
+				"name": "Die Reklame",
+				"screen_name": "Die_Reklame",
+				"location": "",
+				"description": "Historische Werbung. Von \n@moritz_hoffmann, @CJahnz & @mschfr. Technik: @auto_chirp. Keine Verbindung zu Firmen, keine Nostalgie für Rassist:innen.",
+				"url": "https://t.co/gelTKNZuqP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gelTKNZuqP",
+								"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+								"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13123,
+				"friends_count": 75,
+				"listed_count": 72,
+				"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+				"favourites_count": 737,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7784,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1326924675369357312/5VZkKrmB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326924675369357312/5VZkKrmB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+				"profile_link_color": "1A1A1A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "„Wer für amerikanische Nähmaschinen sein Geld zum Lande hinauswirft, der untergräbt den deutschen Volkswohlstand und schädigt sich selbst.“ https://t.co/iowFXODsX9"
+	},
+	{
 		"created_at": "Thu Sep 29 06:06:14 +0000 2022",
 		"id": 1575366319834382300,
 		"id_str": "1575366319834382336",
