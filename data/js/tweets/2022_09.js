@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 18:31:26 +0000 2022",
+		"id": 1573451452328001500,
+		"id_str": "1575916246784262152",
+		"full_text": "https://t.co/5IwGnd0Pqm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573451428588241000,
+					"id_str": "1573451428588240896",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1573451428588240896/pu/img/MruarH5_vmmyE63K.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1573451428588240896/pu/img/MruarH5_vmmyE63K.jpg",
+					"url": "https://t.co/5IwGnd0Pqm",
+					"display_url": "pic.twitter.com/5IwGnd0Pqm",
+					"expanded_url": "https://twitter.com/CraigWeekend/status/1573451452328001536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573451428588241000,
+					"id_str": "1573451428588240896",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1573451428588240896/pu/img/MruarH5_vmmyE63K.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1573451428588240896/pu/img/MruarH5_vmmyE63K.jpg",
+					"url": "https://t.co/5IwGnd0Pqm",
+					"display_url": "pic.twitter.com/5IwGnd0Pqm",
+					"expanded_url": "https://twitter.com/CraigWeekend/status/1573451452328001536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 4040,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1573451428588240896/pu/vid/480x270/2aeiXCf436QQdhZZ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1573451428588240896/pu/pl/uWs8IlgbFBcRKUZI.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1573451428588240896/pu/vid/640x360/kg2-m5kW7_0gUeqf.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1573451428588240896/pu/vid/1280x720/lAq07DZ-Z-0l0Sqc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288226864457085000,
+			"id_str": "1288226864457084928",
+			"name": "ladies and gentlemen, the weekend 😌",
+			"screen_name": "CraigWeekend",
+			"location": "",
+			"description": "daniel craig reminds you that the weekend is here, every friday evening",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 593025,
+			"friends_count": 1,
+			"listed_count": 542,
+			"created_at": "Tue Jul 28 21:37:31 +0000 2020",
+			"favourites_count": 1914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288228561359237121/f2V_Q8-U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288228561359237121/f2V_Q8-U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288226864457084928/1605911703",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13064,
+		"favorite_count": 56340,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/5IwGnd0Pqm"
+	},
+	{
 		"created_at": "Fri Sep 30 15:04:28 +0000 2022",
 		"id": 1575864159597650000,
 		"id_str": "1575864159597649921",
