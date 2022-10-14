@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 23:32:49 +0000 2022",
+		"id": 1580508708802506800,
+		"id_str": "1580703132392345600",
+		"full_text": "Dame Vanessa Redgrave is made a Dame Commander of the British Empire by William, the Prince of Wales, at Buckingham Palace 📸@aaronchown https://t.co/eerskdO6Lg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aaronchown",
+					"name": "Aaron Chown",
+					"id": 2510917242,
+					"id_str": "2510917242",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580508459937792000,
+					"id_str": "1580508459937792001",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8YEgcXgAEbItw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8YEgcXgAEbItw.jpg",
+					"url": "https://t.co/eerskdO6Lg",
+					"display_url": "pic.twitter.com/eerskdO6Lg",
+					"expanded_url": "https://twitter.com/DelMody/status/1580508708802506753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 638,
+							"h": 957,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 957,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580508459937792000,
+					"id_str": "1580508459937792001",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8YEgcXgAEbItw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8YEgcXgAEbItw.jpg",
+					"url": "https://t.co/eerskdO6Lg",
+					"display_url": "pic.twitter.com/eerskdO6Lg",
+					"expanded_url": "https://twitter.com/DelMody/status/1580508708802506753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 638,
+							"h": 957,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 638,
+							"h": 957,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580508492502286300,
+					"id_str": "1580508492502286339",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8YGZwWQAMdzFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8YGZwWQAMdzFp.jpg",
+					"url": "https://t.co/eerskdO6Lg",
+					"display_url": "pic.twitter.com/eerskdO6Lg",
+					"expanded_url": "https://twitter.com/DelMody/status/1580508708802506753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1163,
+							"h": 943,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1163,
+							"h": 943,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580508492615622700,
+					"id_str": "1580508492615622658",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe8YGaLXoAIzce8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe8YGaLXoAIzce8.jpg",
+					"url": "https://t.co/eerskdO6Lg",
+					"display_url": "pic.twitter.com/eerskdO6Lg",
+					"expanded_url": "https://twitter.com/DelMody/status/1580508708802506753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1248,
+							"h": 954,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 917,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1482826123,
+			"id_str": "1482826123",
+			"name": "Derek Momodu",
+			"screen_name": "DelMody",
+			"location": "Kent",
+			"description": "Associate Picture Editor @DailyMirror #Politics #Arsenal #RoyalFamily",
+			"url": "https://t.co/EuzIvlInzo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EuzIvlInzo",
+							"expanded_url": "https://www.linkedin.com/nhome/?trk=",
+							"display_url": "linkedin.com/nhome/?trk=",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14360,
+			"friends_count": 2983,
+			"listed_count": 159,
+			"created_at": "Tue Jun 04 17:25:36 +0000 2013",
+			"favourites_count": 9144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "468A83",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1508182275816570885/Z4GGX3rx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1508182275816570885/Z4GGX3rx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482826123/1664874395",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 302,
+		"favorite_count": 3057,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dame Vanessa Redgrave is made a Dame Commander of the British Empire by William, the Prince of Wales, at Buckingham Palace 📸@aaronchown https://t.co/eerskdO6Lg"
+	},
+	{
 		"created_at": "Thu Oct 13 14:55:57 +0000 2022",
 		"id": 1580573057328222200,
 		"id_str": "1580573057328222208",
