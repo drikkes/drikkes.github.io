@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 11:37:24 +0000 2022",
+		"id": 1583784583900061700,
+		"id_str": "1583784583900061696",
+		"full_text": "Caged. https://t.co/Tq8z1KfuLe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tq8z1KfuLe",
+					"expanded_url": "https://twitter.com/KaeLaniSays/status/1583516553470844929",
+					"display_url": "twitter.com/KaeLaniSays/st…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 805,
+			"friends_count": 156,
+			"listed_count": 76,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "520ece35d705f92b",
+			"url": "https://api.twitter.com/1.1/geo/id/520ece35d705f92b.json",
+			"place_type": "neighborhood",
+			"name": "Lindenthal",
+			"full_name": "Lindenthal, Köln",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.875477,
+							50.910135
+						],
+						[
+							6.934014,
+							50.910135
+						],
+						[
+							6.934014,
+							50.9428362
+						],
+						[
+							6.875477,
+							50.9428362
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1583516553470845000,
+		"quoted_status_id_str": "1583516553470844929",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Tq8z1KfuLe",
+			"expanded": "https://twitter.com/KaeLaniSays/status/1583516553470844929",
+			"display": "twitter.com/KaeLaniSays/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 21 17:52:21 +0000 2022",
+			"id": 1583516553470845000,
+			"id_str": "1583516553470844929",
+			"full_text": "I have never been more inspired by anything than this work of art https://t.co/kxaKzA0Fbw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1583516515835515000,
+						"id_str": "1583516515835514902",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1583516515835514902/pu/img/uuSeY6bg3-f2cjSy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1583516515835514902/pu/img/uuSeY6bg3-f2cjSy.jpg",
+						"url": "https://t.co/kxaKzA0Fbw",
+						"display_url": "pic.twitter.com/kxaKzA0Fbw",
+						"expanded_url": "https://twitter.com/KaeLaniSays/status/1583516553470844929/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1583516515835515000,
+						"id_str": "1583516515835514902",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1583516515835514902/pu/img/uuSeY6bg3-f2cjSy.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1583516515835514902/pu/img/uuSeY6bg3-f2cjSy.jpg",
+						"url": "https://t.co/kxaKzA0Fbw",
+						"display_url": "pic.twitter.com/kxaKzA0Fbw",
+						"expanded_url": "https://twitter.com/KaeLaniSays/status/1583516553470844929/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 33266,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1583516515835514902/pu/pl/uTVvpo_0qwhyS8l5.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1583516515835514902/pu/vid/480x852/FoVHFVMjUqMOuHmr.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1583516515835514902/pu/vid/576x1024/6IU4qbEWE1x3DrVZ.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1583516515835514902/pu/vid/320x568/fKvrtJmdBiSAMKIS.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 368567679,
+				"id_str": "368567679",
+				"name": "Kae \"Pumpkin Pie\" Lani Palmisano",
+				"screen_name": "KaeLaniSays",
+				"location": "Jersey Fresh",
+				"description": "✨ The Miss Frizzle of Food ✨ 📺 Emmy-Winning TV Host of @WHYY’s Check, Please! Philly✏️ Food & Travel Writer creating city guides for @mcclatchy",
+				"url": "https://t.co/fZLL4jMBW3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fZLL4jMBW3",
+								"expanded_url": "https://www.kaelanisays.com/links",
+								"display_url": "kaelanisays.com/links",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8716,
+				"friends_count": 1434,
+				"listed_count": 221,
+				"created_at": "Mon Sep 05 21:11:52 +0000 2011",
+				"favourites_count": 11574,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 715,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1508909328287342600/926Kv--J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1508909328287342600/926Kv--J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/368567679/1665107900",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2551,
+			"favorite_count": 18137,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Caged. https://t.co/Tq8z1KfuLe"
+	},
+	{
 		"created_at": "Sat Oct 22 06:24:12 +0000 2022",
 		"id": 1583705763201298400,
 		"id_str": "1583705763201298432",
