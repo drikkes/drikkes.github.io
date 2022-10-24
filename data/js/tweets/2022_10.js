@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 09:46:34 +0000 2022",
+		"id": 1584481467995852800,
+		"id_str": "1584481467995852800",
+		"full_text": "Wenn selbst ein n00b wie ich dieses sehr gute Widget von @Sillium installieren kann, dann kannst Du das auch. https://t.co/GC8xseqJig https://t.co/rrVHZdMwaV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sillium",
+					"name": "Sillium",
+					"id": 5525692,
+					"id_str": "5525692",
+					"indices": [
+						57,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GC8xseqJig",
+					"expanded_url": "https://twitter.com/Sillium/status/1570894489677615105",
+					"display_url": "twitter.com/Sillium/status…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584481462904148000,
+					"id_str": "1584481462904147970",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff01ft2X0AI0-lQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff01ft2X0AI0-lQ.jpg",
+					"url": "https://t.co/rrVHZdMwaV",
+					"display_url": "pic.twitter.com/rrVHZdMwaV",
+					"expanded_url": "https://twitter.com/drikkes/status/1584481467995852800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584481462904148000,
+					"id_str": "1584481462904147970",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff01ft2X0AI0-lQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff01ft2X0AI0-lQ.jpg",
+					"url": "https://t.co/rrVHZdMwaV",
+					"display_url": "pic.twitter.com/rrVHZdMwaV",
+					"expanded_url": "https://twitter.com/drikkes/status/1584481467995852800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 805,
+			"friends_count": 156,
+			"listed_count": 76,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570894489677615000,
+		"quoted_status_id_str": "1570894489677615105",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GC8xseqJig",
+			"expanded": "https://twitter.com/Sillium/status/1570894489677615105",
+			"display": "twitter.com/Sillium/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 16 21:56:46 +0000 2022",
+			"id": 1570894489677615000,
+			"id_str": "1570894489677615105",
+			"full_text": "Mein Lock Screen Widget für iOS 16, das verbrauchtes oder noch verbleibendes Datenvolumen für Telekom/Congstar/fraenk anzeigt.\n\nMomentan wird noch die Testflight-Beta von @scriptableapp benötigt.\n\nhttps://t.co/uDfmW0Lwao\n\n#ios16 #widget #lockscreen https://t.co/uwAwXtS73G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ios16",
+						"indices": [
+							222,
+							228
+						]
+					},
+					{
+						"text": "widget",
+						"indices": [
+							229,
+							236
+						]
+					},
+					{
+						"text": "lockscreen",
+						"indices": [
+							237,
+							248
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "scriptableapp",
+						"name": "Scriptable",
+						"id": 1044488213853864000,
+						"id_str": "1044488213853863936",
+						"indices": [
+							171,
+							185
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uDfmW0Lwao",
+						"expanded_url": "https://github.com/Sillium/telekom-lock-screen-widget",
+						"display_url": "github.com/Sillium/teleko…",
+						"indices": [
+							197,
+							220
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1570891902156669000,
+						"id_str": "1570891902156668928",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/Fczt3LCWAAAidaj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fczt3LCWAAAidaj.jpg",
+						"url": "https://t.co/uwAwXtS73G",
+						"display_url": "pic.twitter.com/uwAwXtS73G",
+						"expanded_url": "https://twitter.com/Sillium/status/1570894489677615105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1529,
+								"h": 1529,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1570891902156669000,
+						"id_str": "1570891902156668928",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/Fczt3LCWAAAidaj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fczt3LCWAAAidaj.jpg",
+						"url": "https://t.co/uwAwXtS73G",
+						"display_url": "pic.twitter.com/uwAwXtS73G",
+						"expanded_url": "https://twitter.com/Sillium/status/1570894489677615105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1529,
+								"h": 1529,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1570892210249293800,
+						"id_str": "1570892210249293824",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/FczuJGxWYAAxM8v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FczuJGxWYAAxM8v.jpg",
+						"url": "https://t.co/uwAwXtS73G",
+						"display_url": "pic.twitter.com/uwAwXtS73G",
+						"expanded_url": "https://twitter.com/Sillium/status/1570894489677615105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1529,
+								"h": 1529,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1570894413622034400,
+						"id_str": "1570894413622034435",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/FczwJW-WQAMNVIS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FczwJW-WQAMNVIS.jpg",
+						"url": "https://t.co/uwAwXtS73G",
+						"display_url": "pic.twitter.com/uwAwXtS73G",
+						"expanded_url": "https://twitter.com/Sillium/status/1570894489677615105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1529,
+								"h": 1529,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5525692,
+				"id_str": "5525692",
+				"name": "Sillium",
+				"screen_name": "Sillium",
+				"location": "",
+				"description": "Weather is here, wish you were nice.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3062,
+				"friends_count": 656,
+				"listed_count": 124,
+				"created_at": "Thu Apr 26 12:04:49 +0000 2007",
+				"favourites_count": 42609,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16380,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1385615213593047044/DQX58utu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385615213593047044/DQX58utu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5525692/1619191387",
+				"profile_link_color": "C12F2F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "404040",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Wenn selbst ein n00b wie ich dieses sehr gute Widget von @Sillium installieren kann, dann kannst Du das auch. https://t.co/GC8xseqJig https://t.co/rrVHZdMwaV"
+	},
+	{
 		"created_at": "Mon Oct 24 05:04:53 +0000 2022",
 		"id": 1584410577174003700,
 		"id_str": "1584410577174003712",
