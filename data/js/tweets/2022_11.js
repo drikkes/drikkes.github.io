@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 02 23:01:10 +0000 2022",
+		"id": 1585278167047995400,
+		"id_str": "1587942925018750978",
+		"full_text": "My latest project, where I steal #WernerHerzog and #Zizek's voices and have them converse endlessly.\nFunny? Creepy? Inspiring? Unethical? You decide. I certainly enjoyed working on it.\nhttps://t.co/nCbvbZvaoo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WernerHerzog",
+					"indices": [
+						33,
+						46
+					]
+				},
+				{
+					"text": "Zizek",
+					"indices": [
+						51,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nCbvbZvaoo",
+					"expanded_url": "https://infiniteconversation.com/",
+					"display_url": "infiniteconversation.com",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 437390914,
+			"id_str": "437390914",
+			"name": "Giacomo Miceli",
+			"screen_name": "liviopacifico",
+			"location": "Santa Monica, CA",
+			"description": "Xennial, exogamous xenophile. Humanist nerd, recidivist startupper. Maker of things, enjoys coding for expressive purposes. Dreams in tongues, hears in colors.",
+			"url": "https://t.co/s2SskQd65e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s2SskQd65e",
+							"expanded_url": "https://jamez.it",
+							"display_url": "jamez.it",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 218,
+			"friends_count": 181,
+			"listed_count": 13,
+			"created_at": "Thu Dec 15 10:32:43 +0000 2011",
+			"favourites_count": 2010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040736564454682624/qPgySO_3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040736564454682624/qPgySO_3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/437390914/1660850233",
+			"profile_link_color": "74B2E4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My latest project, where I steal #WernerHerzog and #Zizek's voices and have them converse endlessly.\nFunny? Creepy? Inspiring? Unethical? You decide. I certainly enjoyed working on it.\nhttps://t.co/nCbvbZvaoo"
+	},
+	{
 		"created_at": "Tue Nov 01 09:41:36 +0000 2022",
 		"id": 1587379319143276500,
 		"id_str": "1587379319143276547",
