@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 05 09:36:56 +0000 2022",
+		"id": 1588827696813031400,
+		"id_str": "1588827696813031426",
+		"full_text": "Befürchte das Schlimmste. https://t.co/BMbwpruGET",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BMbwpruGET",
+					"expanded_url": "https://twitter.com/DWDL/status/1588790816595709952",
+					"display_url": "twitter.com/DWDL/status/15…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 800,
+			"friends_count": 157,
+			"listed_count": 76,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1588790816595710000,
+		"quoted_status_id_str": "1588790816595709952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BMbwpruGET",
+			"expanded": "https://twitter.com/DWDL/status/1588790816595709952",
+			"display": "twitter.com/DWDL/status/15…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 05 07:10:23 +0000 2022",
+			"id": 1588790816595710000,
+			"id_str": "1588790816595709952",
+			"full_text": "Ariana Baborie moderiert eine neue WDR-Show, die sich an einer Mischung aus Comedy und Kultur probiert. \"Stand up for Art\" feiert bereits Ende November Premiere in der ARD-Mediathek. https://t.co/6Yq7RUigOT https://t.co/KwIkvaiwba",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6Yq7RUigOT",
+						"expanded_url": "https://www.dwdl.de/nachrichten/90402/wdr_geht_mit_neuer_comedyshow_ins_museum/",
+						"display_url": "dwdl.de/nachrichten/90…",
+						"indices": [
+							183,
+							206
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1588790810581008400,
+						"id_str": "1588790810581008385",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/FgyE0w8WAAEz6UH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FgyE0w8WAAEz6UH.jpg",
+						"url": "https://t.co/KwIkvaiwba",
+						"display_url": "pic.twitter.com/KwIkvaiwba",
+						"expanded_url": "https://twitter.com/DWDL/status/1588790816595709952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1588790810581008400,
+						"id_str": "1588790810581008385",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/FgyE0w8WAAEz6UH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FgyE0w8WAAEz6UH.jpg",
+						"url": "https://t.co/KwIkvaiwba",
+						"display_url": "pic.twitter.com/KwIkvaiwba",
+						"expanded_url": "https://twitter.com/DWDL/status/1588790816595709952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 289,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14332395,
+				"id_str": "14332395",
+				"name": "Medienmagazin DWDL",
+				"screen_name": "DWDL",
+				"location": "Cologne",
+				"description": "Hier twittert das Team von DWDL.de über den Redaktionsalltag, die Medien und besondere Events",
+				"url": "https://t.co/2GjpHo72Ge",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2GjpHo72Ge",
+								"expanded_url": "http://www.dwdl.de",
+								"display_url": "dwdl.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 101035,
+				"friends_count": 137,
+				"listed_count": 1798,
+				"created_at": "Tue Apr 08 13:58:28 +0000 2008",
+				"favourites_count": 2728,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 79145,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "339933",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1408294275121659904/eBoZd8VK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408294275121659904/eBoZd8VK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14332395/1597212527",
+				"profile_link_color": "267F26",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C2D7C0",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Befürchte das Schlimmste. https://t.co/BMbwpruGET"
+	},
+	{
 		"created_at": "Fri Nov 04 11:01:38 +0000 2022",
 		"id": 1588486624081502200,
 		"id_str": "1588486624081502208",
