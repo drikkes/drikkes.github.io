@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 22:56:28 +0000 2022",
+		"id": 1592669884034740200,
+		"id_str": "1593377559210754053",
+		"full_text": "I want to meet the person who came up with this fucking cover https://t.co/g6i81krXv3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1592669873515159600,
+					"id_str": "1592669873515159553",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FhpMz8dWYAEsq_k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhpMz8dWYAEsq_k.jpg",
+					"url": "https://t.co/g6i81krXv3",
+					"display_url": "pic.twitter.com/g6i81krXv3",
+					"expanded_url": "https://twitter.com/LinManuelBiao/status/1592669884034740229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1592669873515159600,
+					"id_str": "1592669873515159553",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FhpMz8dWYAEsq_k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhpMz8dWYAEsq_k.jpg",
+					"url": "https://t.co/g6i81krXv3",
+					"display_url": "pic.twitter.com/g6i81krXv3",
+					"expanded_url": "https://twitter.com/LinManuelBiao/status/1592669884034740229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1312799713272438800,
+			"id_str": "1312799713272438784",
+			"name": "Sam 𓃋 🔴",
+			"screen_name": "nukedtoronto",
+			"location": "he/she",
+			"description": "anti-developmentalist @desertedshore",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 883,
+			"friends_count": 476,
+			"listed_count": 9,
+			"created_at": "Sun Oct 04 17:00:25 +0000 2020",
+			"favourites_count": 33731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572461426236596224/7bmOvpeV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572461426236596224/7bmOvpeV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1312799713272438784/1668569660",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7566,
+		"favorite_count": 111657,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I want to meet the person who came up with this fucking cover https://t.co/g6i81krXv3"
+	},
+	{
 		"created_at": "Thu Nov 17 09:06:47 +0000 2022",
 		"id": 1593168764744487000,
 		"id_str": "1593168764744486912",
