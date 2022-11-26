@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 26 10:21:16 +0000 2022",
+		"id": 1596424878672208000,
+		"id_str": "1596448999673847808",
+		"full_text": "The “all eyes on Tumblr” energy of the past few weeks https://t.co/IlupaqYHSw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IlupaqYHSw",
+					"expanded_url": "https://www.garbageday.email/p/all-eyes-on-tumblr?utm_source=post-email-title&publication_id=9317&post_id=86790609&isFreemail=true&utm_medium=email",
+					"display_url": "garbageday.email/p/all-eyes-on-…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14287222,
+			"id_str": "14287222",
+			"name": "Marcus Bösch",
+			"screen_name": "m_boesch",
+			"location": "Berlin, Deutschland",
+			"description": "TikTok newsletter https://t.co/Wb1RdHwB57 Research fellow @HAW_Hamburg (he/him) Okay. https://t.co/Bq2S8NcGZn",
+			"url": "https://t.co/E8owR1Iuzy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E8owR1Iuzy",
+							"expanded_url": "https://www.marcus-boesch.de",
+							"display_url": "marcus-boesch.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Wb1RdHwB57",
+							"expanded_url": "http://understanding-tiktok.com",
+							"display_url": "understanding-tiktok.com",
+							"indices": [
+								18,
+								41
+							]
+						},
+						{
+							"url": "https://t.co/Bq2S8NcGZn",
+							"expanded_url": "https://mas.to/@m_boesch",
+							"display_url": "mas.to/@m_boesch",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4938,
+			"friends_count": 1958,
+			"listed_count": 339,
+			"created_at": "Wed Apr 02 20:31:01 +0000 2008",
+			"favourites_count": 12566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021892786050744320/oZaDCcud_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021892786050744320/oZaDCcud_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14287222/1665048689",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "0E120A",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "504141",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The “all eyes on Tumblr” energy of the past few weeks https://t.co/IlupaqYHSw"
+	},
+	{
 		"created_at": "Sat Nov 26 00:15:43 +0000 2022",
 		"id": 1596296606667534300,
 		"id_str": "1596296606667534336",
