@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 09 20:33:45 +0000 2022",
+		"id": 1601277381947555800,
+		"id_str": "1601314178534457345",
+		"full_text": "‘Hate landlords’: slogan baseball caps turn heads on social media https://t.co/fVdsaj08uj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fVdsaj08uj",
+					"expanded_url": "https://www.theguardian.com/fashion/2022/dec/09/hate-landlords-slogan-baseball-caps-turn-heads-social-media?utm_source=dlvr.it&utm_medium=twitter",
+					"display_url": "theguardian.com/fashion/2022/d…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308442339,
+			"id_str": "308442339",
+			"name": "Guardian Fashion",
+			"screen_name": "GuardianFashion",
+			"location": "",
+			"description": "The Twitter home of the @Guardian's Fashion team. Instagram: @guardianfashion",
+			"url": "http://t.co/RnMJXd5ISR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/RnMJXd5ISR",
+							"expanded_url": "http://theguardian.com/fashion",
+							"display_url": "theguardian.com/fashion",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40233,
+			"friends_count": 848,
+			"listed_count": 538,
+			"created_at": "Tue May 31 12:29:35 +0000 2011",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061928551711195136/5OSAuMU0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061928551711195136/5OSAuMU0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/308442339/1542018479",
+			"profile_link_color": "005689",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Hate landlords’: slogan baseball caps turn heads on social media https://t.co/fVdsaj08uj"
+	},
+	{
 		"created_at": "Fri Dec 09 17:01:24 +0000 2022",
 		"id": 1601260736587735000,
 		"id_str": "1601260736587735042",
