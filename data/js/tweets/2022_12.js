@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 13:46:41 +0000 2022",
+		"id": 1601925355161411600,
+		"id_str": "1601936510063894528",
+		"full_text": "Der Sonntagscartoon von BECK https://t.co/KjDVpxJ2gE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1601925278946795500,
+					"id_str": "1601925278946795520",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/FjsujchXoAAp1zG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjsujchXoAAp1zG.jpg",
+					"url": "https://t.co/KjDVpxJ2gE",
+					"display_url": "pic.twitter.com/KjDVpxJ2gE",
+					"expanded_url": "https://twitter.com/titanic/status/1601925355161411593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1601925278946795500,
+					"id_str": "1601925278946795520",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/FjsujchXoAAp1zG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjsujchXoAAp1zG.jpg",
+					"url": "https://t.co/KjDVpxJ2gE",
+					"display_url": "pic.twitter.com/KjDVpxJ2gE",
+					"expanded_url": "https://twitter.com/titanic/status/1601925355161411593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12509262,
+			"id_str": "12509262",
+			"name": "TITANIC",
+			"screen_name": "titanic",
+			"location": "Germany",
+			"description": "Das endgültige Satiremagazin\n\nhttps://t.co/IEQBygayWN",
+			"url": "https://t.co/79deTAR2cJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/79deTAR2cJ",
+							"expanded_url": "http://www.titanic-magazin.de",
+							"display_url": "titanic-magazin.de",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IEQBygayWN",
+							"expanded_url": "http://titanic-magazin.de/abo",
+							"display_url": "titanic-magazin.de/abo",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 583443,
+			"friends_count": 26,
+			"listed_count": 2827,
+			"created_at": "Mon Jan 21 21:00:57 +0000 2008",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D50000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347479854116184067/W0jaBGXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347479854116184067/W0jaBGXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12509262/1669364463",
+			"profile_link_color": "D60000",
+			"profile_sidebar_border_color": "EBEBEB",
+			"profile_sidebar_fill_color": "EBEBEB",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Der Sonntagscartoon von BECK https://t.co/KjDVpxJ2gE"
+	},
+	{
 		"created_at": "Sat Dec 10 20:08:07 +0000 2022",
 		"id": 1601670112636985300,
 		"id_str": "1601670112636985346",
