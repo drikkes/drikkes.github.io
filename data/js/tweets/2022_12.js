@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 19 11:31:30 +0000 2022",
+		"id": 1604801592217198600,
+		"id_str": "1604801592217198592",
+		"full_text": "Oh Gott, ich habe in einer Mischung aus Neugier und Verzweiflung bei Amazon auf „Geschenke für Männer“ geklickt. https://t.co/EKgbVYhtlI https://t.co/rrP6X7nG3u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EKgbVYhtlI",
+					"expanded_url": "https://www.amazon.de/gcx/Geschenke-f%C3%BCr-M%C3%A4nner/gfhz/category?categoryId=adult-male&pldnSite=1&scrollState=eyJpdGVtSW5kZXgiOjAsInNjcm9sbE9mZnNldCI6Mzk1Ljk1MzEyNX0%3D&sectionManagerState=eyJzZWN0aW9uVHlwZUVuZEluZGV4Ijp7ImFtYWJvdCI6MH19",
+					"display_url": "amazon.de/gcx/Geschenke-…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1604801576497021000,
+					"id_str": "1604801576497020929",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FkVmh_4XgAEGpuC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkVmh_4XgAEGpuC.jpg",
+					"url": "https://t.co/rrP6X7nG3u",
+					"display_url": "pic.twitter.com/rrP6X7nG3u",
+					"expanded_url": "https://twitter.com/drikkes/status/1604801592217198592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 632,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1604801576497021000,
+					"id_str": "1604801576497020929",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FkVmh_4XgAEGpuC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkVmh_4XgAEGpuC.jpg",
+					"url": "https://t.co/rrP6X7nG3u",
+					"display_url": "pic.twitter.com/rrP6X7nG3u",
+					"expanded_url": "https://twitter.com/drikkes/status/1604801592217198592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 632,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1604801577818243000,
+					"id_str": "1604801577818243080",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FkVmiEzXwAg-d63.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkVmiEzXwAg-d63.jpg",
+					"url": "https://t.co/rrP6X7nG3u",
+					"display_url": "pic.twitter.com/rrP6X7nG3u",
+					"expanded_url": "https://twitter.com/drikkes/status/1604801592217198592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 385,
+							"h": 246,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 385,
+							"h": 246,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 385,
+							"h": 246,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1604801578522890200,
+					"id_str": "1604801578522890240",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FkVmiHbX0AA3Q6q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkVmiHbX0AA3Q6q.jpg",
+					"url": "https://t.co/rrP6X7nG3u",
+					"display_url": "pic.twitter.com/rrP6X7nG3u",
+					"expanded_url": "https://twitter.com/drikkes/status/1604801592217198592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 569,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 569,
+							"h": 655,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 569,
+							"h": 655,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1604801577138753500,
+					"id_str": "1604801577138753539",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FkVmiCRXkAMAo5-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkVmiCRXkAMAo5-.jpg",
+					"url": "https://t.co/rrP6X7nG3u",
+					"display_url": "pic.twitter.com/rrP6X7nG3u",
+					"expanded_url": "https://twitter.com/drikkes/status/1604801592217198592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 290,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 290,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 290,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 788,
+			"friends_count": 154,
+			"listed_count": 74,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Oh Gott, ich habe in einer Mischung aus Neugier und Verzweiflung bei Amazon auf „Geschenke für Männer“ geklickt. https://t.co/EKgbVYhtlI https://t.co/rrP6X7nG3u"
+	},
+	{
 		"created_at": "Mon Dec 19 10:52:58 +0000 2022",
 		"id": 1604791894994731000,
 		"id_str": "1604791894994731009",
