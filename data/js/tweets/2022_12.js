@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 19 05:22:45 +0000 2022",
+		"id": 1604623830189838300,
+		"id_str": "1604708794067570689",
+		"full_text": "As a company from eastern Germany, we know that building a wall to try and keep people from leaving isn't a good idea. https://t.co/jxlbO9s0Pk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jxlbO9s0Pk",
+					"expanded_url": "https://twitter.com/TwitterSupport/status/1604531261791522817",
+					"display_url": "twitter.com/TwitterSupport…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 875882643614814200,
+			"id_str": "875882643614814208",
+			"name": "Mastodon (@Mastodon@mastodon.social)",
+			"screen_name": "joinmastodon",
+			"location": "Germany",
+			"description": "Mastodon is the largest decentralized social network on the internet. Built on open web standards by a non-profit. Learn more on our website!",
+			"url": "https://t.co/iqM0MTBsuq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iqM0MTBsuq",
+							"expanded_url": "https://joinmastodon.org",
+							"display_url": "joinmastodon.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183336,
+			"friends_count": 1,
+			"listed_count": 989,
+			"created_at": "Sat Jun 17 01:07:50 +0000 2017",
+			"favourites_count": 753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542256027348918278/7FXNAQK4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542256027348918278/7FXNAQK4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/875882643614814208/1654120404",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1604531261791522800,
+		"quoted_status_id_str": "1604531261791522817",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jxlbO9s0Pk",
+			"expanded": "https://twitter.com/TwitterSupport/status/1604531261791522817",
+			"display": "twitter.com/TwitterSupport…"
+		},
+		"retweet_count": 10251,
+		"favorite_count": 39841,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As a company from eastern Germany, we know that building a wall to try and keep people from leaving isn't a good idea. https://t.co/jxlbO9s0Pk"
+	},
+	{
 		"created_at": "Sun Dec 18 19:41:41 +0000 2022",
 		"id": 1604562566516285400,
 		"id_str": "1604562566516285441",
