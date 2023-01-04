@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 04 17:34:44 +0000 2023",
+		"id": 1610691209969766400,
+		"id_str": "1610691209969766419",
+		"full_text": "L U F T W A F F E L ! https://t.co/HjrBglnhHW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HjrBglnhHW",
+					"expanded_url": "https://twitter.com/simonharley/status/1610552947833708547",
+					"display_url": "twitter.com/simonharley/st…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 789,
+			"friends_count": 153,
+			"listed_count": 74,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1610552947833708500,
+		"quoted_status_id_str": "1610552947833708547",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HjrBglnhHW",
+			"expanded": "https://twitter.com/simonharley/status/1610552947833708547",
+			"display": "twitter.com/simonharley/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 04 08:25:20 +0000 2023",
+			"id": 1610552947833708500,
+			"id_str": "1610552947833708547",
+			"full_text": "‘08:21: The police went out to Oslo Plaza after reports of an 18-year-old man from Jæren who hit an 86 year old German tourist in the head with a waffle in the breakfast room and screamed “LUFTWAFFLE”. The youth was taken into custody.’ https://t.co/NrdL5JLj4N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NrdL5JLj4N",
+						"expanded_url": "https://twitter.com/HALLONSA/status/1610465106470776832",
+						"display_url": "twitter.com/HALLONSA/statu…",
+						"indices": [
+							237,
+							260
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28206940,
+				"id_str": "28206940",
+				"name": "Simon Harley",
+				"screen_name": "simonharley",
+				"location": "England/Sweden",
+				"description": "Naval historian. Motorbikes sales. Retired hygiene operative and parliamentary intern. The Royal Navy 1854-1919 is my area of expertise. Also at @navyhistorian.",
+				"url": "https://t.co/nQlh1eVSTx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nQlh1eVSTx",
+								"expanded_url": "https://ko-fi.com/simonharley",
+								"display_url": "ko-fi.com/simonharley",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9415,
+				"friends_count": 1639,
+				"listed_count": 0,
+				"created_at": "Wed Apr 01 21:56:53 +0000 2009",
+				"favourites_count": 161963,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 79628,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1605594020914282503/AxMdsY7G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1605594020914282503/AxMdsY7G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28206940/1425424223",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1610465106470776800,
+			"quoted_status_id_str": "1610465106470776832",
+			"quoted_status_permalink": {
+				"url": "https://t.co/NrdL5JLj4N",
+				"expanded": "https://twitter.com/HALLONSA/status/1610465106470776832",
+				"display": "twitter.com/HALLONSA/statu…"
+			},
+			"retweet_count": 13,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "L U F T W A F F E L ! https://t.co/HjrBglnhHW"
+	},
+	{
 		"created_at": "Wed Jan 04 15:56:03 +0000 2023",
 		"id": 1610666378280697900,
 		"id_str": "1610666378280697858",
