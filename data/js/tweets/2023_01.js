@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 05 22:52:53 +0000 2023",
+		"id": 1611111650349703200,
+		"id_str": "1611133663726505984",
+		"full_text": "Moderne Bauformen 7 1914 https://t.co/J2TsQf7u65",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1611111633618706400,
+					"id_str": "1611111633618706434",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FlvRfqdXoAIRnza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlvRfqdXoAIRnza.jpg",
+					"url": "https://t.co/J2TsQf7u65",
+					"display_url": "pic.twitter.com/J2TsQf7u65",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1611111650349703170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 556,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1913,
+							"h": 887,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1611111633618706400,
+					"id_str": "1611111633618706434",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FlvRfqdXoAIRnza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FlvRfqdXoAIRnza.jpg",
+					"url": "https://t.co/J2TsQf7u65",
+					"display_url": "pic.twitter.com/J2TsQf7u65",
+					"expanded_url": "https://twitter.com/Die_Reklame/status/1611111650349703170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 556,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1913,
+							"h": 887,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 966765831140139000,
+			"id_str": "966765831140139009",
+			"name": "Die Reklame @die_reklame@mastodon.social",
+			"screen_name": "Die_Reklame",
+			"location": "",
+			"description": "Historische Werbung. Von \n@moritz_hoffmann, @CJahnz & @mschfr. Technik: @auto_chirp. Keine Verbindung zu Firmen, keine Nostalgie für Rassist:innen.",
+			"url": "https://t.co/gelTKNZuqP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gelTKNZuqP",
+							"expanded_url": "https://www.moritz-hoffmann.de/2018/04/13/von-funden-und-schwellen-die-reklame/",
+							"display_url": "moritz-hoffmann.de/2018/04/13/von…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13042,
+			"friends_count": 73,
+			"listed_count": 69,
+			"created_at": "Thu Feb 22 20:05:10 +0000 2018",
+			"favourites_count": 728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326924675369357312/5VZkKrmB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326924675369357312/5VZkKrmB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/966765831140139009/1519811738",
+			"profile_link_color": "1A1A1A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Moderne Bauformen 7 1914 https://t.co/J2TsQf7u65"
+	},
+	{
 		"created_at": "Thu Jan 05 16:51:41 +0000 2023",
 		"id": 1611042764673945600,
 		"id_str": "1611042764673945602",
