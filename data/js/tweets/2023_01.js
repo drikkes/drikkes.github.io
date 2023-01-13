@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 13 08:14:34 +0000 2023",
+		"id": 1613811732077478000,
+		"id_str": "1613811732077477890",
+		"full_text": "Space Karen wants us to leave, right? I don't think I can handle @Twitter with its own native apps. You find me over on Mastodon until @Tweetbot is working again. https://t.co/uJWPIDIiyg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"screen_name": "tweetbot",
+					"name": "Tweetbot by Tapbots",
+					"id": 274626857,
+					"id_str": "274626857",
+					"indices": [
+						135,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uJWPIDIiyg",
+					"expanded_url": "https://twitter.com/9to5mac/status/1613756597796233216",
+					"display_url": "twitter.com/9to5mac/status…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg.",
+			"url": "https://t.co/s9sYhNoDsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s9sYhNoDsA",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 788,
+			"friends_count": 153,
+			"listed_count": 74,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1613756597796233200,
+		"quoted_status_id_str": "1613756597796233216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uJWPIDIiyg",
+			"expanded": "https://twitter.com/9to5mac/status/1613756597796233216",
+			"display": "twitter.com/9to5mac/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 13 04:35:29 +0000 2023",
+			"id": 1613756597796233200,
+			"id_str": "1613756597796233216",
+			"full_text": "Twitter API appears to be down, breaking Tweetbot and third-party clients https://t.co/58AkPz5O0Z by @nexusben",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NexusBen",
+						"name": "Ben Schoon",
+						"id": 1466256330,
+						"id_str": "1466256330",
+						"indices": [
+							101,
+							110
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/58AkPz5O0Z",
+						"expanded_url": "https://9to5mac.com/2023/01/12/twitter-api-appears-to-be-down-breaking-tweetbot-and-third-party-clients/",
+						"display_url": "9to5mac.com/2023/01/12/twi…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.9to5Mac.com\" rel=\"nofollow\">9to5Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15944436,
+				"id_str": "15944436",
+				"name": "9to5Mac",
+				"screen_name": "9to5mac",
+				"location": "Cupertino, CA",
+				"description": "We break Apple news. Follow for the latest. Have tips? Send them to tips@9to5mac.com",
+				"url": "https://t.co/RxTCEZuYps",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RxTCEZuYps",
+								"expanded_url": "http://9to5mac.com",
+								"display_url": "9to5mac.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 828821,
+				"friends_count": 40,
+				"listed_count": 13916,
+				"created_at": "Fri Aug 22 13:06:35 +0000 2008",
+				"favourites_count": 1343,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 83450,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1567894061490601991/BM82O1ON_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567894061490601991/BM82O1ON_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15944436/1658431349",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 255,
+			"favorite_count": 218,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Space Karen wants us to leave, right? I don't think I can handle @Twitter with its own native apps. You find me over on Mastodon until @Tweetbot is working again. https://t.co/uJWPIDIiyg"
+	},
+	{
 		"created_at": "Thu Jan 12 13:21:29 +0000 2023",
 		"id": 1613526583008006100,
 		"id_str": "1613526583008006144",
