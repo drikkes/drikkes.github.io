@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 20 15:18:09 +0000 2023",
+		"id": 1616455042633982000,
+		"id_str": "1616455042633981952",
+		"full_text": "Okee. 🚽🚻 https://t.co/vZnS7Nmxsl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1616455036514566100,
+					"id_str": "1616455036514566144",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/Fm7NSpbXgAA_3cg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fm7NSpbXgAA_3cg.jpg",
+					"url": "https://t.co/vZnS7Nmxsl",
+					"display_url": "pic.twitter.com/vZnS7Nmxsl",
+					"expanded_url": "https://twitter.com/drikkes/status/1616455042633981952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 369,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 122,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1616455036514566100,
+					"id_str": "1616455036514566144",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/Fm7NSpbXgAA_3cg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fm7NSpbXgAA_3cg.jpg",
+					"url": "https://t.co/vZnS7Nmxsl",
+					"display_url": "pic.twitter.com/vZnS7Nmxsl",
+					"expanded_url": "https://twitter.com/drikkes/status/1616455042633981952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 369,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 122,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://crossposter.masto.donte.com.br\" rel=\"nofollow\">Mastodon-Twitter Crossposter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. \n@drikkes@mastodon.social",
+			"url": "https://t.co/u8Hh81YeCw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u8Hh81YeCw",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 788,
+			"friends_count": 147,
+			"listed_count": 74,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Okee. 🚽🚻 https://t.co/vZnS7Nmxsl"
+	},
+	{
 		"created_at": "Fri Jan 20 14:35:54 +0000 2023",
 		"id": 1616444410148921300,
 		"id_str": "1616444410148921346",
