@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sun Feb 19 15:16:17 +0000 2023",
+		"id": 1627326210492465200,
+		"id_str": "1627326210492465152",
+		"full_text": "Beim #effzeh immerhin die Fans stabil. https://t.co/wzBmdpW24e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "effzeh",
+					"indices": [
+						5,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wzBmdpW24e",
+					"expanded_url": "https://www.ksta.de/sport/1-fc-koeln/zugchef-gratuliert-fans-des-1-fc-koeln-trinken-ice-bordbistro-leer-465836",
+					"display_url": "ksta.de/sport/1-fc-koe…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. \n@drikkes@mastodon.social",
+			"url": "https://t.co/u8Hh81YeCw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u8Hh81YeCw",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 789,
+			"friends_count": 147,
+			"listed_count": 74,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5672,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Beim #effzeh immerhin die Fans stabil. https://t.co/wzBmdpW24e"
+	},
+	{
 		"created_at": "Sat Feb 18 17:10:55 +0000 2023",
 		"id": 1626992669036535800,
 		"id_str": "1626992669036535809",
