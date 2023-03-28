@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 28 09:01:49 +0000 2023",
+		"id": 1640640324979634200,
+		"id_str": "1640640324979634178",
+		"full_text": "Was @haekelschwein sagt. Muß man nur mal die https://t.co/BTJ1usLRGd zu lesen:\n\n&gt; “Während die Ärmsten in Deutschland 2019 etwas über 3 Tonnen CO2 pro Jahr emittierten, waren es beim reichsten 1 Prozent etwa 105 Tonnen – also fast das 35-fache. Schaut… https://t.co/VQHu16vDuj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haekelschwein",
+					"name": "Herr haekelschwein",
+					"id": 21523802,
+					"id_str": "21523802",
+					"indices": [
+						4,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BTJ1usLRGd",
+					"expanded_url": "http://taz.de",
+					"display_url": "taz.de",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/VQHu16vDuj",
+					"expanded_url": "https://drikkes.com/?p=17856",
+					"display_url": "drikkes.com/?p=17856",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. \n@drikkes@mastodon.social",
+			"url": "https://t.co/u8Hh81YeCw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u8Hh81YeCw",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 790,
+			"friends_count": 147,
+			"listed_count": 73,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Was @haekelschwein sagt. Muß man nur mal die https://t.co/BTJ1usLRGd zu lesen:\n\n&gt; “Während die Ärmsten in Deutschland 2019 etwas über 3 Tonnen CO2 pro Jahr emittierten, waren es beim reichsten 1 Prozent etwa 105 Tonnen – also fast das 35-fache. Schaut… https://t.co/VQHu16vDuj"
+	},
+	{
 		"created_at": "Tue Mar 28 07:04:48 +0000 2023",
 		"id": 1640610876792135700,
 		"id_str": "1640610876792135680",
