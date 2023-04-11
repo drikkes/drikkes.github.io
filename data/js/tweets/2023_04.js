@@ -1,6 +1,158 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 11 14:01:33 +0000 2023",
+		"id": 1645789185620729900,
+		"id_str": "1645789185620729859",
+		"full_text": "I'm at Gostionica Purger in Zagreb, Grad Zagreb https://t.co/O3HvJZtXAs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O3HvJZtXAs",
+					"expanded_url": "https://www.swarmapp.com/c/dYij225j0mD",
+					"display_url": "swarmapp.com/c/dYij225j0mD",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. \n@drikkes@mastodon.social",
+			"url": "https://t.co/u8Hh81YeCw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u8Hh81YeCw",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 788,
+			"friends_count": 145,
+			"listed_count": 73,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				45.8099561,
+				15.9801424
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				15.9801424,
+				45.8099561
+			]
+		},
+		"place": {
+			"id": "8d65596349ee2e01",
+			"url": "https://api.twitter.com/1.1/geo/id/8d65596349ee2e01.json",
+			"place_type": "country",
+			"name": "Republic of Croatia",
+			"full_name": "Republic of Croatia",
+			"country_code": "HR",
+			"country": "Republic of Croatia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							13.4897243,
+							42.3776665
+						],
+						[
+							19.4480171,
+							42.3776665
+						],
+						[
+							19.4480171,
+							46.5549896
+						],
+						[
+							13.4897243,
+							46.5549896
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "I'm at Gostionica Purger in Zagreb, Grad Zagreb https://t.co/O3HvJZtXAs"
+	},
+	{
 		"created_at": "Tue Apr 11 11:33:26 +0000 2023",
 		"id": 1645751911004491800,
 		"id_str": "1645751911004491778",
