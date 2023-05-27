@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sat May 27 14:26:56 +0000 2023",
+		"id": 1662465416046817300,
+		"id_str": "1662465416046817281",
+		"full_text": "Bißchen was los vor der Fussikneipe. #effzeh (@ Terrarium in Cologne, Germany) https://t.co/GQGYu2vMQd https://t.co/xVg7cStULA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "effzeh",
+					"indices": [
+						37,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GQGYu2vMQd",
+					"expanded_url": "https://www.swarmapp.com/c/3fxwiq2dScv",
+					"display_url": "swarmapp.com/c/3fxwiq2dScv",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1662465414339739600,
+					"id_str": "1662465414339739648",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FxJDfHkXwAAdHCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxJDfHkXwAAdHCP.jpg",
+					"url": "https://t.co/xVg7cStULA",
+					"display_url": "pic.twitter.com/xVg7cStULA",
+					"expanded_url": "https://twitter.com/drikkes/status/1662465416046817281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1662465414339739600,
+					"id_str": "1662465414339739648",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FxJDfHkXwAAdHCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxJDfHkXwAAdHCP.jpg",
+					"url": "https://t.co/xVg7cStULA",
+					"display_url": "pic.twitter.com/xVg7cStULA",
+					"expanded_url": "https://twitter.com/drikkes/status/1662465416046817281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15378060,
+			"id_str": "15378060",
+			"name": "𝙷𝚎𝚗𝚍𝚛𝚒𝚔 𝚂𝚙𝚛𝚎𝚎",
+			"screen_name": "drikkes",
+			"location": "Cologne, Germany",
+			"description": "Seit ich laufen konnte, stand ich nur im Weg. \n@drikkes@mastodon.social",
+			"url": "https://t.co/u8Hh81YeCw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u8Hh81YeCw",
+							"expanded_url": "https://drikkes.com",
+							"display_url": "drikkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 786,
+			"friends_count": 148,
+			"listed_count": 73,
+			"created_at": "Thu Jul 10 14:34:41 +0000 2008",
+			"favourites_count": 5662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17DB42",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398588348588081158/ASX5ThKx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15378060/1579772068",
+			"profile_link_color": "17B1DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				50.9208897,
+				6.96383626
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				6.96383626,
+				50.9208897
+			]
+		},
+		"place": {
+			"id": "8abc99434d4f5d28",
+			"url": "https://api.twitter.com/1.1/geo/id/8abc99434d4f5d28.json",
+			"place_type": "city",
+			"name": "Cologne",
+			"full_name": "Cologne, Germany",
+			"country_code": "DE",
+			"country": "Germany",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							6.772567,
+							50.830287
+						],
+						[
+							7.162373,
+							50.830287
+						],
+						[
+							7.162373,
+							51.0849471
+						],
+						[
+							6.772567,
+							51.0849471
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Bißchen was los vor der Fussikneipe. #effzeh (@ Terrarium in Cologne, Germany) https://t.co/GQGYu2vMQd https://t.co/xVg7cStULA"
+	},
+	{
 		"created_at": "Sat May 27 07:35:27 +0000 2023",
 		"id": 1662361859679297500,
 		"id_str": "1662361859679297537",
